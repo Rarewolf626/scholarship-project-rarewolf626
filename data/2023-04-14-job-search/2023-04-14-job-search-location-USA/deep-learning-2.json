@@ -1,0 +1,1273 @@
+{
+    "search_metadata": {
+        "id": "643db9d4eb690f1f5d932dcc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2be14da15f97c2a0/643db9d4eb690f1f5d932dcc.json",
+        "created_at": "2023-04-17 21:27:48 UTC",
+        "processed_at": "2023-04-17 21:27:48 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=deep+learning&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20",
+        "raw_html_file": "https://serpapi.com/searches/2be14da15f97c2a0/643db9d4eb690f1f5d932dcc.html",
+        "total_time_taken": 5.49
+    },
+    "search_parameters": {
+        "q": "deep learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 20
+    },
+    "jobs_results": [
+        {
+            "title": "Machine Learning Engineer/Scientist",
+            "company_name": "Unlearn.AI",
+            "location": "  Boston, MA  (+1 other)    ",
+            "via": "via Wellfound",
+            "description": "We are advancing AI to power the future of medicine.\n\nAt Unlearn, our purpose is to advance artificial intelligence (AI) to eliminate trial and error in medicine. We use AI to simulate potential health outcomes for individual patients. Today, we are reimagining the randomized control trial (RCT) for the 21st century through AI-powered clinical trials or TwinRCT. A TwinRCT allows more trial... patients to receive the experimental treatment, reaches full enrollment faster and put patients first. Unlearn\u2019s innovative work in AI today will reinvent how AI is applied in medicine tomorrow\u2014and we have a top secret plan for how to get there. We won\u2019t be able to achieve this mission just by applying technologies created by others; the future must be invented.\n\nUnlearn is a technology company, not a biotech company. We use computers, not pipettes. We make and use software, we don\u2019t discover or make drugs. We believe that AI will define the future of medicine, and we aren\u2019t deterred by naysayers or skeptics.\n\nWe come from a variety of backgrounds ranging from machine learning to marketing\u2014but regardless of where we come from, Unlearners share some common traits:\n\nUnlearners are ambitious; we aren\u2019t intimidated by big, challenging goals.\n\nUnlearners are disciplined experimenters; we break down our big goals into smaller chunks and meet as often as necessary to track our velocity and iterate quickly.\n\nUnlearners are gritty; we never give up, setbacks just make us try harder.\n\nUnlearners are receptive to new ideas; in fact, we hate being stuck with the status quo.\n\nUnlearners are storytellers; sharing information with each other and with the world is super important, too important to be boring. And, last but not least,\n\nUnlearners are team-oriented; we put the mission first, the company second, the team third, and individuals last.\n\nFounded in 2017 by a team of world-class machine learning scientists, we have raised venture capital from top tier investors such as Insight Partners, Radical Ventures, 8VC, DCVC, and DCVC Bio. We completed our $50 million Series B in April 2022. We are headquartered in San Francisco, CA and have an additional office in Boston, MA.\n\nIf our purpose and culture resonate with you, we invite you to apply.\n\nMachine Learning Engineers on our modeling teams are responsible for advancing the state of the art in machine learning and applying those learnings to our products. We create digital twins of participants in clinical trials and strive to make these twins indistinguishable from real humans. In order to do this, we find that models from the literature are not enough and we need to continually invent new models for our applications. We then dive deep into our models in order to productionize them for clinical trials. You will be part of a fast-paced, multidisciplinary team that loves tackling tough problem\n\nResponsibilities\n\u2022 Inventing new machine learning techniques that are applicable for clinical trials.\n\u2022 Productionize our research and ensure we can predict disease progression that is as reliable as having a human participant in a trial.\n\u2022 Collaborate with a multidisciplinary team of scientists, engineers, and statisticians to ensure we are delivering the right product at the right time.\n\nRequirements\n\u2022 Track record of using machine learning to solve challenging problems.\n\u2022 3+ years in a related role\n\u2022 Fluency in Python and essential machine learning libraries (numpy, pandas, PyTorch, etc.) Demonstrated experience in collaborative software development.\n\u2022 Experience or interest in solving machine learning problems for healthcare.\n\u2022 Experience or interest in working with multidisciplinary teams that include scientists, engineers, and statisticians. B.S. (advanced preferred) or related degree in a quantitative discipline. Able to come into either our San Francisco or Boston office two to three days a week.\n\nBenefits & Perks\n\nWe offer a suite of benefits and perks for our team members, including:\n\n\u2022 Company-subsidized medical, dental, & vision insurance plans\n\n\u2022 401k plan with generous company matching\n\n\u2022 Flexible PTO plus company holidays\n\n\u2022 Annual company-wide winter break (December 24 - January 1)\n\n\u2022 Professional development budget to attend conferences or other events\n\n\u2022 One-time home-office set up stipend\n\n\u2022 Commuter benefits plan\n\n\u2022 Paid Parental Leave\n\n\u2022 Equity education and tax advisory service\n\nUnlearn is an equal opportunity employer.\n\nAt Unlearn, we are committed to building a diverse and inclusive workplace, because inclusion and diversity are essential to achieving our mission. If you\u2019re excited about this role, and your past experience doesn\u2019t align perfectly with every qualification in the job description, we encourage you to apply nevertheless.\n\nUnlearn.AI focuses on Biotechnology, Pharmaceuticals, Machine Learning, Artificial Intelligence, and Clinical Trials. Their company has offices in San Francisco. They have a small team that's between 11-50 employees. To date, Unlearn.AI has raised $4.85M of funding; their latest round was closed on March 2019.\n\nYou can view their website at http://www.unlearn.health or find them on Twitter and LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Track record of using machine learning to solve challenging problems",
+                        "3+ years in a related role",
+                        "Fluency in Python and essential machine learning libraries (numpy, pandas, PyTorch, etc.)",
+                        "Demonstrated experience in collaborative software development",
+                        "Experience or interest in solving machine learning problems for healthcare",
+                        "Able to come into either our San Francisco or Boston office two to three days a week"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will be part of a fast-paced, multidisciplinary team that loves tackling tough problem",
+                        "Inventing new machine learning techniques that are applicable for clinical trials",
+                        "Productionize our research and ensure we can predict disease progression that is as reliable as having a human participant in a trial",
+                        "Collaborate with a multidisciplinary team of scientists, engineers, and statisticians to ensure we are delivering the right product at the right time"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We offer a suite of benefits and perks for our team members, including:",
+                        "Company-subsidized medical, dental, & vision insurance plans",
+                        "401k plan with generous company matching",
+                        "Flexible PTO plus company holidays",
+                        "Annual company-wide winter break (December 24 - January 1)",
+                        "Professional development budget to attend conferences or other events",
+                        "One-time home-office set up stipend",
+                        "Commuter benefits plan",
+                        "Paid Parental Leave",
+                        "Equity education and tax advisory service"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Unlearn.AI&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIzgk",
+                    "text": "See web results for Unlearn.AI"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyL1NjaWVudGlzdCIsImh0aWRvY2lkIjoiR1hvd3JrdThtNlFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1VqWm9ZV3B2WkdOaUxUbFBUbFJsVDBadFNEQlFOMVV0UmpOQlV6VnlVVFJhYkd3MGNtNTBYMkl0Ym05S2JWUnFZbEZ5YkRGd05rUXhUa3RwZGxOQ1RVNW9UbVpVWjNsbmNUbEVYMUJMUjNoWlgyeEZPQzFrWlRsUVdEZ3liRmxxVFRKWWIwcFZNVkJrWTJkd1RtODVjM0ZIVFMxb1FXWjJkRGRrZG1oZmRYWnhUSGhrYlVSNlNVWmxjMmxqT1ZWVFh6UkxhV3BZZUdFd1gzWllRVlF4Wm5aRmRVaEVVbkl0YW1GSU9VWXdSR1Z6RWhjeVltczVXa3Q1TlVWeGFXYzFUbTlRTlU1TE5EQkJjeG9pUVU4dE1ISnNOVGxsTkdZMVNYVnROMjlGYkRCRFJtNTBha04yZVU1dVlVNW5adyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgZGlyZWN0bHkgb24gV2VsbGZvdW5kIiwibGluayI6Imh0dHBzOi8vd2VsbGZvdW5kLmNvbS9jb21wYW55L3VubGVhcm5haS9qb2JzLzI2MTI3OTUtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1zY2llbnRpc3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior machine learning engineer needed for technical interview",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "I am looking for a Senior machine learning engineer to help with the technical interview stage, preparation and verification of test tasks. Hourly payment.",
+            "job_highlights": [
+                {
+                    "items": [
+                        "I am looking for a Senior machine learning engineer to help with the technical interview stage, preparation and verification of test tasks. Hourly payment."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAII_wk",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "35\u201370 an hour",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Contractor",
+                "salary": "35\u201370 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciBuZWVkZWQgZm9yIHRlY2huaWNhbCBpbnRlcnZpZXciLCJodGlkb2NpZCI6IjVvaGN6YmFyMlNBQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VVXBsY1hOelNHbGlUWEZ4VUVwcFJscDRiV1J4UXpGZlpGZElja3cxTFV0ek1HcFNiR2hEWTBKeVIxOU9ZM0oyTlZKc2FIUllMVTFQWWtaa1ZqTmxiMjFWUVRWNGFWOWFaRmxyU1hoSk5HVkZjRjh0UTB0QlJIWktZVVF4VVZkaE5FaHpjVXhhU3pRME4zUnJPVk5UYkhSaGJHWjBZbUV4WVhOelQwbHpabmN5U0RKRFpHUm1SekJOVUVKdFJXNUdiSG94WDNWc1RFeDFkMUJzWWtNNFYyOUVOVXRmWDNBNE4ybEJMVGMzVVhFMlprNUlVRzgyTFc5aGFURTFjVEZDV21NMllTMXVhR3hQZVY5SE5USnBTMEZxTmxaeFVsRjNaamcyWnhJWE1tSnJPVnBMZVRWRmNXbG5OVTV2VURWT1N6UXdRWE1hSWtGUExUQnliRFJDTlhKdlVuaFhSR05wVlRKWlpYQXpkMnQxV1hGcVgyUjVTV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L1Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLW5lZWRlZC1mb3ItdGVjaG5pY2FsLWludGVydmlld19+MDE4NzQ3ZTVjZTViMzUyM2NhLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Post-Doctoral Associate in Statistical Genetics/Omics/Imaging and...",
+            "company_name": "University of Minnesota",
+            "location": "  St Paul, MN   ",
+            "via": "via JobLeads",
+            "description": "Post-Doctoral Associate in Statistical Genetics/Omics/Imaging and Deep Learning\n\nPost-doctoral Associat in Statistical Genetics/Omics/Imaging and Deep Learning in the Divsion of Biostatistics...\n\nMultiple post-doc positions (up to 3) are available now (until filled) in the Division of Biostatistics at the University of Minnesota, Minneapolis, MN, USA. For more info, visit\n\nThe post-doc will work with Dr. Wei Pan ( or ), Dr. Xiaotong Shen (http://users.stat.umn.edu/~xshen/) and other collaborators in the University of Minnesota. The research will focus on applying, developing and implementing novel statistical methods for causal and integrative deep learning with GWAS/sequencing data and multiple types of omic/neuroimaging data, as in TWAS and IWAS. In addition to new methods development and evaluations, the job responsibilities include software development (mostly in R, or in Python/TensorFlow/Keras/PyTorch for deep learning), possibly theory development, simulation studies, real data analysis, and writing manuscripts.\n\nEach of the annually renewable appointments is for 1-2 years, possibly extendable to year 3, conditional on satisfactory performance and funding availability.\n\nDeadline: Each position is immediately open until filled.\n\nQuestions?\n\nInquiries are welcome and should be directed (preferably along with CV) to Dr. Wei Pan by email at\n\nQualifications\n\nA PhD degree in Biostatistics, Statistics, Computer Science or a related field, strong computing/programming and communication skills, and previous research experience in at least one of 1) statistical genetics/genomics/omics, 2) neuroimaging or medical imaging, and 3) machine learning/deep learning, and 4) a related topic (e.g. Big Data) are required.\n\nHow To Apply\n\nApplications must be submitted online. To be considered for this position, please click the Apply button and follow the instructions. You will have the opportunity to complete an online application for the position and attach a cover letter and resume.\n\nAdditional documents may be attached after application by accessing your \"My Job Applications\" page and uploading documents in the \"My Cover Letters and Attachments\" section.\n\nThis position will remain open until filled.\n\nTo request an accommodation during the application process, please e-mail employ@umn.edu or call (612) 624-UOHR (8647).\n\nDiversity\n\nThe University recognizes and values the importance of diversity and inclusion in enriching the employment experience of its employees and in supporting the academic mission. The University is committed to attracting and retaining employees with varying identities and backgrounds.\n\nThe University of Minnesota provides equal access to and opportunity in its programs, facilities, and employment without regard to race, color, creed, religion, national origin, gender, age, marital status, disability, public assistance status, veteran status, sexual orientation, gender identity, or gender expression. To learn more about diversity at the U: http://diversity.umn.edu.\n\nEmployment Requirements\n\nAny offer of employment is contingent upon the successful completion of a background check. Our presumption is that prospective employees are eligible to work here. Criminal convictions do not automatically disqualify finalists from employment.\n\nPlease note: All employees at the University of Minnesota are required to report complete vaccination against COVID-19 or submit documentation requesting a medical or religious exemption on their first day of employment. To learn more, please visit the .\n\nAbout the U of M\n\nThe University of Minnesota, Twin Cities (UMTC)\n\nThe University of Minnesota, Twin Cities (UMTC), is among the largest public research universities in the country, offering undergraduate, graduate, and professional students a multitude of opportunities for study and research. Located at the heart of one of the nation's most vibrant, diverse metropolitan communities, students on the campuses in Minneapolis and St. Paul benefit from extensive partnerships with world-renowned health centers, international corporations, government agencies, and arts, nonprofit, and public service organizations",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A PhD degree in Biostatistics, Statistics, Computer Science or a related field, strong computing/programming and communication skills, and previous research experience in at least one of 1) statistical genetics/genomics/omics, 2) neuroimaging or medical imaging, and 3) machine learning/deep learning, and 4) a related topic (e.g. Big Data) are required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The post-doc will work with Dr. Wei Pan ( or ), Dr. Xiaotong Shen (http://users.stat.umn.edu/~xshen/) and other collaborators in the University of Minnesota",
+                        "The research will focus on applying, developing and implementing novel statistical methods for causal and integrative deep learning with GWAS/sequencing data and multiple types of omic/neuroimaging data, as in TWAS and IWAS",
+                        "In addition to new methods development and evaluations, the job responsibilities include software development (mostly in R, or in Python/TensorFlow/Keras/PyTorch for deep learning), possibly theory development, simulation studies, real data analysis, and writing manuscripts",
+                        "Each of the annually renewable appointments is for 1-2 years, possibly extendable to year 3, conditional on satisfactory performance and funding availability"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://twin-cities.umn.edu/",
+                    "text": "twin-cities.umn.edu"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=University+of+Minnesota&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIvQo",
+                    "text": "See web results for University of Minnesota"
+                }
+            ],
+            "extensions": [
+                "21 hours ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 hours ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQb3N0LURvY3RvcmFsIEFzc29jaWF0ZSBpbiBTdGF0aXN0aWNhbCBHZW5ldGljcy9PbWljcy9JbWFnaW5nIGFuZCBEZWVwIExlYXJuaW5nIiwiaHRpZG9jaWQiOiJWRlphdGdXaWtFUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlDQ3FJQ1FVVnpOMnBPVkhWMldUbE9aemRRYW05MVJqRTNlWG80TFhwSU9WcGtTR3h4ZDBkbU1YWkJTMmRJZEZOamJucHVkVE54ZGxvMVozZFRjREF4U1haUWFUSkhiSGhpTW1SVGRrRXpiMlpTVjAxeWNVZFBUbUZSV0RZeFRISTRibkYyYlRSTFR6TkJabXBhWjFOYWEyOUhUMUJyTUVSWFR6aElVR05QWDBNNFJWVmpZbXRKUWs5UVJubFlSREJQU0Zrd00xSkZSSGhMTlZWd2IzSmFRM0o1VmxWUmEzaFBUMVp0VTBFM01IWllTR2RGYkdKaGRYWjJkRmhYVmxBM2NWTkdVV3gzZUdWQ1ZqUTJhVmh4ZEVGVlpUUmlUVzV4ZUdOclZXdGFaVmx0ZDFkUmMyaElSMU5TUkhSd1JsSTRhVzV5T0RKS2VqWlhWVTk2TUVKWGNERTNRekE1TUU1d1MzcFNZVEZOV1dReVpIVm9aSFIyTFhoS1RubDBVRkJmU0hRdGFWRVNGekppYXpsYVMzazFSWEZwWnpWT2IxQTFUa3MwTUVGekdpSkJUeTB3Y213MlQyaEpXR1p0TWtSUGEwbERhM04wWkZWT1V6WlBiMVZoY1dKMyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9iTGVhZHMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuam9ibGVhZHMuY29tL2VuLXVzL2pvYi9lZjIzYmJjMzUwNWVjOGY4YThjMTE1NWE4ZGQ0MTg2MWI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Engineer at PathAI in Remote",
+            "company_name": "PathAI",
+            "location": "  Cary, NC   ",
+            "via": "via Cary, NC - Geebo",
+            "description": "We have access to a wide variety of data sources, and work closely with an unparalleled network of partners in biotech, pharma and academia. Our efforts are already yielding biological insights accelerating translational research and products that are being used to drive and improve a variety of clinical trials. We're shaping the future and direction of digital pathology and drug development... through our AI-centric approach. Joining PathAI is an opportunity to make a massive impact by improving outcomes for patients around the world. What you will do:\nDesigning, developing and optimizing machine learning models with large-scale datasets to transform pathology-based disease diagnosis, drug development and drug discovery. Formulating innovative analytical solutions to support new disease areas and novel pathology domains. Improving and optimizing machine learning techniques to achieve better model performance and to expand PathAI's scientific and product capabilities. Developing libraries and maturing our platform for accelerating our ability to develop, evaluate and monitor machine learning models. Collaborating effectively with all project stakeholders to clarify objectives and expectations, identifying obstacles to success, generating documentations to reflect technical decisions and project plans. You will have the opportunity to work in a company culture that puts employees first, is relaxed but focused and hard-working. Every PathAI employee is a contributor to our mission to pioneer better patient care by providing the best, most innovative deep learning tools to biotech, pathologists, clinicians and healthcare organizations. You will work alongside leading innovators in the field of deep learning and medicine, and play a critical role in algorithm development. What you'll need:\nUndergraduate degree in Computer Science, Engineering, Computational Science, Bioinformatics, Mathematics or related fields, with focus on Machine Learning and Artificial Intelligence. One to two years of experience in developing machine learning techniques in computer vision, natural language processing, and similar applications. One to two years of software engineering experience in building and maintaining machine learning engineering systems using industry-standard tools and frameworks. Experience in Python programming and AI libraries including tensorflow or pytorch. Preferred\nQualifications:\nMasters or PhD in Engineering, Computer Science, Computational Biology, Bioinformatics, Mathematics or related fields, with focus on Machine Learning and Artificial Intelligence. Two to four years of relevant work experience in the AI and machine learning industry Working knowledge of advanced ML techniques with application to biomedical, healthcare, and bioinformatics problems. Background in designing, developing, and deploying robust, scalable, cloud-based AI solutions\nBenefits:\nFor the right candidate, we'll offer a competitive salary plus equity. Your compensation is rounded out by a strong benefits package:\nFlexible work hours Three weeks of paid leave per year, an additional two weeks of sick time, plus extended holidays and team-approved leave Ten days of 100% subsidized childcare per year Healthcare, vision, and dental insurance plans (HMO or PPO), with voluntary add-ons available for dependent care, life, and accident coverage Commuter benefit available for public transit or parking Convertible sit-stand desks Weekly in-office yoga classes\nSalary Range:\n$80K -- $100K\nMinimum Qualification\nData Science & Machine Learning, Systems Architecture & EngineeringEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Undergraduate degree in Computer Science, Engineering, Computational Science, Bioinformatics, Mathematics or related fields, with focus on Machine Learning and Artificial Intelligence",
+                        "One to two years of experience in developing machine learning techniques in computer vision, natural language processing, and similar applications",
+                        "One to two years of software engineering experience in building and maintaining machine learning engineering systems using industry-standard tools and frameworks",
+                        "Experience in Python programming and AI libraries including tensorflow or pytorch",
+                        "Two to four years of relevant work experience in the AI and machine learning industry Working knowledge of advanced ML techniques with application to biomedical, healthcare, and bioinformatics problems",
+                        "Background in designing, developing, and deploying robust, scalable, cloud-based AI solutions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Designing, developing and optimizing machine learning models with large-scale datasets to transform pathology-based disease diagnosis, drug development and drug discovery",
+                        "Formulating innovative analytical solutions to support new disease areas and novel pathology domains",
+                        "Improving and optimizing machine learning techniques to achieve better model performance and to expand PathAI's scientific and product capabilities",
+                        "Developing libraries and maturing our platform for accelerating our ability to develop, evaluate and monitor machine learning models",
+                        "Collaborating effectively with all project stakeholders to clarify objectives and expectations, identifying obstacles to success, generating documentations to reflect technical decisions and project plans",
+                        "You will work alongside leading innovators in the field of deep learning and medicine, and play a critical role in algorithm development"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "For the right candidate, we'll offer a competitive salary plus equity",
+                        "Your compensation is rounded out by a strong benefits package:",
+                        "Flexible work hours Three weeks of paid leave per year, an additional two weeks of sick time, plus extended holidays and team-approved leave Ten days of 100% subsidized childcare per year Healthcare, vision, and dental insurance plans (HMO or PPO), with voluntary add-ons available for dependent care, life, and accident coverage Commuter benefit available for public transit or parking Convertible sit-stand desks Weekly in-office yoga classes",
+                        "$80K -- $100K"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=PathAI&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIgQs",
+                    "text": "See web results for PathAI"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "20\u201328 an hour",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIGF0IFBhdGhBSSBpbiBSZW1vdGUiLCJodGlkb2NpZCI6IlhyVU50eDJBeWRvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VV05GUjFab1dUUktYMGxHZEZsdVpUQlNTRzFqZFRsSGJUUlJiV05KZEZkRVYwRkdRa1ZUUVd0d1puTlhXRVo2VGxoYU5GRk9aMlZUYmxabVZIVm1PR2hSTUhwVmIxb3hhbmR6Y1ZjeWFFVkpibTVXUWpOcldVcHhWVWx3V2xnMmFtcFFValp2TjFsU2RXTm5Za1ZDV1daME5YZFdUVVppY0MxV1R6azFlRmcwVkVoM1ZYZDRiVFZTV0VoamNtNWhjelZIV21aTFQxZHdhWE5VVkhkdllUQmhlWE5ZU213Mk5FdHBjME16VGpCVWNGaHljWE4yUjFGT04wVkJOVlp6WkRndGRUWnNFaGN5WW1zNVdrdDVOVVZ4YVdjMVRtOVFOVTVMTkRCQmN4b2lRVTh0TUhKc05WVTNRekEzYjNGcmNFdzJNbTB6VVVsa1psZG5YMFpNY1hKamR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBDYXJ5LCBOQyAtIEdlZWJvIiwibGluayI6Imh0dHBzOi8vY2FyeS1uYy5nZWViby5jb20vam9icy1vbmxpbmUvdmlldy9pZC8xMDYxMTg2OTMxLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItYXQtLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer (Remote)",
+            "company_name": "Curai",
+            "location": "  California   ",
+            "via": "via Lever",
+            "description": "Our mission at Curai is to make high-quality healthcare accessible to all. We are fulfilling this audacious mission by building a scalable virtual-first primary care service that provides patients with high-quality care anytime, anywhere, from any device, at a very affordable price, by blending high-touch clinical care and artificial intelligence.\n\nOur company is remote-first and we consider... candidates across the United States.\n\nMachine Learning at Curai\n\nWe are looking for a Senior ML Engineer to join the machine learning team at Curai. Our team is responsible for Curai\u2019s ML/automation technology and drives the strategy: ML as part of the physician care team will drastically reduce the cost and increase the efficiency of providers. Your work will have a tremendous direct impact on both provider and patient-facing ML-augmented applications, thereby providing low-friction, high-quality care to patients of Curai Health.\n\nWe are primarily a text-based service and NLP is at the core of our ML work. With recent advances in large language models, we are seeing a tremendous acceleration in capabilities. A non-trivial part of our work involves appropriately leveraging and building on top of these models thoughtfully (and with scaffolding) to our use cases and backing them up with a sound automated evaluation. In addition, we use the in-house deidentified data as robust feedback data for continuously improving the ML models.\n\nWe are excellent collaborators, within our team and across teams with product owners, engineers, and clinicians to deliver automated products for doctors and patients. A successful candidate will own and help engineer end-to-end, AI/ML-powered automated systems in service of better health outcomes at lower costs.\n\nWho You Are\n\nNone of these individually are hard requirements, but they do describe the type of folks that we think would be most effective and happy at Curai. You\u2026\n\n\u2022Are a self-starter and have a growth mindset.\n\n\u2022Have an ownership mentality.\n\n\u2022Enjoy tackling complex problems in a scientific and data-driven way.\n\n\u2022Thrive in ambiguity and love tackling complex problems that span multiple systems.\n\n\u2022Enjoy thinking through trade-offs with mindfulness of near-term needs and Curai\u2019s long-term strategy.\n\n\u2022Are collaborative and appreciate working with people with diverse expertise.\n\nWhat You\u2019ll Do\n\n\u2022Design, build, deploy, and improve machine learning models, including those that are based on large language models. These models are used in our patient and physician-facing product features and developed in collaboration with our clinical innovation, research, engineering, and design teams.\n\n\u2022Design offline and online evaluations to test ML product features, and perform data-driven analysis of the results to find actionable insights.\n\nEnable rapid and rigorous scientific innovation by a multidisciplinary team of Curai clinicians, engineers, and researchers, through platform, tools, and documentation.\n\n\u2022Participate in interviewing diverse talent to build and grow a strong ML engineering team.\n\nWhat You\u2019ll Need\n\n\u2022\u201cEnd-to-end\u201d experience building ML production systems: Along with strong ML fundamentals, you will need exposure to the entire lifecycle of machine learning production systems, such as data processing, modeling, deployment, monitoring, maintenance, and improving the models over time using feedback loops.\n\n\u2022Experience in natural language processing applications\n\n\u2022\"Product sense\" or intuition on what to build: With guidance, you will need to be able to translate product intuition into data-driven hypotheses that result in impactful machine learning/engineering solutions.\n\n\u2022Strong communication skills: This role involves collaboration with product, engineering, clinical, and research teams. Understanding the mental models of the audience and communicating ideas crisply to this diverse set of stakeholders will be a vital part of the role. You should be comfortable leading cross-functional machine learning product initiatives, from conception to successful product outcomes.\n\n\u20222+ years of industry experience in ML/NLP including building production systems.\n\nThe annual base salary range for this position is between $150,000 - $200,000. Stock grants also play a key part in any offer, they increase your overall compensation package significantly based on company success. Please note that the base salary range is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location.\n\nWhat We Offer\n\nCulture: Mission driven talent with great colleagues committed to embodying our values, collaborating closely, and driving performance\n\nWellness: Unlimited PTO, flexible working hours, and remote working options\n\nBenefits: Excellent medical, dental, vision, flex spending plans, and paid parental leave\n\nFinancial: 401k plan with employer matching\n\nCurai Health is a startup with a small, but world-class team from high tech companies, AI researchers, practicing physicians, to team members from non-traditional career paths and backgrounds. We also have research partnerships with leading universities across the country and access to medical data that facilitates research in this space. We are a highly collaborative, data-driven team, focused on delivering our mission with funding from top-tier Silicon Valley investors including Morningside, General Catalyst, and Khosla Ventures.\n\nAt Curai Health, we are highly committed to building a diverse and inclusive environment. In keeping with our beliefs and values, no employee or applicant will face discrimination or harassment based on race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status. To promote an equitable and bias-free workplace, we set competitive compensation packages for each position and do not negotiate on our offers. We are looking for teammates that are mission-driven, embody our core values, and appreciate our transparent approach",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "None of these individually are hard requirements, but they do describe the type of folks that we think would be most effective and happy at Curai",
+                        "Are a self-starter and have a growth mindset",
+                        "Have an ownership mentality",
+                        "Enjoy tackling complex problems in a scientific and data-driven way",
+                        "Thrive in ambiguity and love tackling complex problems that span multiple systems",
+                        "Enjoy thinking through trade-offs with mindfulness of near-term needs and Curai\u2019s long-term strategy",
+                        "Are collaborative and appreciate working with people with diverse expertise",
+                        "\u201cEnd-to-end\u201d experience building ML production systems: Along with strong ML fundamentals, you will need exposure to the entire lifecycle of machine learning production systems, such as data processing, modeling, deployment, monitoring, maintenance, and improving the models over time using feedback loops",
+                        "Experience in natural language processing applications",
+                        "\"Product sense\" or intuition on what to build: With guidance, you will need to be able to translate product intuition into data-driven hypotheses that result in impactful machine learning/engineering solutions",
+                        "Strong communication skills: This role involves collaboration with product, engineering, clinical, and research teams",
+                        "You should be comfortable leading cross-functional machine learning product initiatives, from conception to successful product outcomes",
+                        "2+ years of industry experience in ML/NLP including building production systems"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design, build, deploy, and improve machine learning models, including those that are based on large language models",
+                        "These models are used in our patient and physician-facing product features and developed in collaboration with our clinical innovation, research, engineering, and design teams",
+                        "Design offline and online evaluations to test ML product features, and perform data-driven analysis of the results to find actionable insights",
+                        "Enable rapid and rigorous scientific innovation by a multidisciplinary team of Curai clinicians, engineers, and researchers, through platform, tools, and documentation",
+                        "Participate in interviewing diverse talent to build and grow a strong ML engineering team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The annual base salary range for this position is between $150,000 - $200,000",
+                        "Stock grants also play a key part in any offer, they increase your overall compensation package significantly based on company success",
+                        "Wellness: Unlimited PTO, flexible working hours, and remote working options",
+                        "Benefits: Excellent medical, dental, vision, flex spending plans, and paid parental leave",
+                        "Financial: 401k plan with employer matching"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://curaihealth.com/",
+                    "text": "curaihealth.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Curai&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIygs",
+                    "text": "See web results for Curai"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIChSZW1vdGUpIiwiaHRpZG9jaWQiOiJnaldUNU9sQVQ0MEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVW1zM1ZIZExRbTVaWDNSMVYyZFVTWE5YV0ZORlltRkpWRFYyYjJwV2FEbHhSbUU0ZFd3MWIxSnRVQzE0YlhSMVFuRXRZVmhvVlZOR1pIUnNPVzgyVHpWSU1GbHlMV1ZyTm5SS2FsRk9jakpzZUZsTWNHVlNTVGxqU0ZCdFR6QjVabmRWYTJWcVkyMDBVV3N0Y0RSQlRVaGtVR0pFT0doSllXOTJhbkZvYjBSd2FFdFNXbWs1ZW1aelUzUjBRMEp1Ukhwa2JYVkxRMFpIYVRCalpYWktWelp5UmtoaVRIaEhhbXBMTUdKU2RXNW5FaGN5WW1zNVdrdDVOVVZ4YVdjMVRtOVFOVTVMTkRCQmN4b2lRVTh0TUhKc05HNDNTM2N4Um01aVpYVktaRnBQYTNvNGJFVm9VazkxVGtFMlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMZXZlciIsImxpbmsiOiJodHRwczovL2pvYnMubGV2ZXIuY28vY3VyYWkvZDBhNmFhMGQtYWI1OS00YzFhLTkxNDAtOWI5ZDdkMjAzYTM3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Deep Learning Engineer",
+            "company_name": "The Phoenix Group",
+            "location": "  Teaneck, NJ   ",
+            "via": "via LinkedIn",
+            "description": "Our client in the AI space is looking for deep learning engineers to join their team! This is a hybrid role in Teaneck, NJ on-site 3 days a week. You will work on a team with a few other engineers and design and develop ML, CV, and DL algorithms, etc.\n\nRequirements...\n\u2022 3+ years of experience in machine learning/computer vision and deep learning algorithms\n\u2022 2+ years working on major vision problems in detection, classification and segmentation\n\u2022 Research and industry experience in deep learning\n\u2022 Heavy experience in Python, C, or C++\n\u2022 Deep learning experience with frameworks such as PyTorch, TensorFlow, etc.\n\u2022 Experience with cameras or video, image retrieval, anomaly detection, pose estimation",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3+ years of experience in machine learning/computer vision and deep learning algorithms",
+                        "2+ years working on major vision problems in detection, classification and segmentation",
+                        "Research and industry experience in deep learning",
+                        "Heavy experience in Python, C, or C++",
+                        "Deep learning experience with frameworks such as PyTorch, TensorFlow, etc",
+                        "Experience with cameras or video, image retrieval, anomaly detection, pose estimation"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will work on a team with a few other engineers and design and develop ML, CV, and DL algorithms, etc"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=The+Phoenix+Group&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIiAw",
+                    "text": "See web results for The Phoenix Group"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "130K\u2013200K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "salary": "130K\u2013200K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJnVUhRQmJNb1ZTVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVXpCd1ExbEhSSFpwZUVZMlRVbFpWemh1VGpoSlZWaFZOWGh5ZVZSYU5saFhTVXhmZWtSNGRFaHZZM0pwYVV3eVZHUlVlSFJQVUVzd1JXTk1kV1F5UTFoQ2JHeE5OV2hLTkZocU1FdHVkSFZuVWxWUmVWRk5ZbmcxWmtwck1GYzNXbFpzVVZWV1JFSnVTSHBCVTNwTWEyeDBSRjkxTW1aSGEyeDJkbkoxZUVWRU0yd3ROMnRDWjJONU1YRnFZeTAzTTBvMWFWODJhMHBUY2tsdWVHNUpUbmxwTWtnM1F6VkdZMFZoWVdsVVVscEpFaGN5WW1zNVdrdDVOVVZ4YVdjMVRtOVFOVTVMTkRCQmN4b2lRVTh0TUhKc05XZ3dabmhWVjBsTlIxUXdTM2RSTFRWa1RFVTVVbVJTVkROWlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L2RlZXAtbGVhcm5pbmctZW5naW5lZXItYXQtdGhlLXBob2VuaXgtZ3JvdXAtMzUzMzczNzA3Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Sales Engineer - Deep Learning",
+            "company_name": "Neural Magic",
+            "location": "  Somerville, MA   ",
+            "via": "via Startup Jobs",
+            "description": "Neural Magic is an early stage software company pioneering a new way for organizations to run deep learning applications without specialized hardware accelerators. Based on decades of parallel computing research at MIT, Neural Magic has developed deep learning model sparsification tools and an inference engine that runs on commodity hardware. Our solution helps data scientists and ML engineers... sparsify and quantize deep learning models to minimize footprint and run on CPUs at GPU speeds. Please look through our GitHub repos to get a feel of what we are about.\n\nAs a Deep Learning Sales Engineer at Neural Magic, you will be at the center of delivering technical value to our customers. Working as part of our sales team, you will be responsible for managing the technical aspects of the sales cycle, and collaborating with engineering to ensure customer success with our technology.\n\nQualified candidates will use their engineering and customer engagement skills to lead technical evaluations, create developer-focused content, build deployment tests, run benchmarks, and deliver dynamic demos that spark the imagination of potential customers. You\u2019ll engage with customers and partners in both pre- and post- sales capacities to scope solutions, assist with implementations, and address obstacles that might hinder success.\n\nThis role is hands-on and requires a combination of technical know-how, a solutions mindset, and the ability to adapt to changing customer conditions. We are seeking an individual excited to work with state-of-the-art deep learning models and help customers scale their deep learning applications in production. If you are someone who wants to contribute to solving challenging technical problems at the forefront of deep learning, this is the role for you.\n\nFounded by an award-winning team of computer scientists out of MIT, Neural Magic is a venture-backed company headquartered in Davis Square, Somerville, MA.\n\nResponsibilitiesCollaborate with sales and engineering to:\n\n\u2022 Assist sales in qualifying opportunities from a technical perspective\n\u2022 Prototype and deliver deep learning models and demos in a wide range of deployment environments\n\u2022 Work closely with our product and machine learning teams to provide input into customer requirements\n\u2022 Benchmark deep learning models with Neural Magic software and assist in evangelizing outcomes (e.g., blogs, social, events, etc.)\n\u2022 Work closely with customers to deploy their neural network models using industry leading frameworks and Neural Magic software\n\u2022 Support the design and implementation of solutions for our customers\n\u2022 Be a trusted advisor and partner, providing analysis of deep learning approaches, helping to define and conduct pilot tests\n\nRequirements\n\n\u2022 Deep understanding and experience in the field of deep learning, computer vision, natural language processing, and related technologies\n\u2022 Experience developing deep learning models in real-world environments, including the integration of DL into production applications\n\u2022 Proficient with TensorFlow, PyTorch, and other deep learning frameworks\n\u2022 Familiarity with common ML platform tooling (e.g., SageMaker, Vertex, MLFlow, Weights & Biases, etc.)\n\u2022 Ability to learn quickly, maintain a positive attitude, and to hold yourself accountable for customer success\n\u2022 Ability to approach solutions from a customer perspective, establish connections between requirements, solutions and success criteria\n\u2022 Excellent communication skills, especially written and presentation skills with the ability to tailor technical information for different audiences\n\u2022 3+ years of professional software experience in the areas of developing and deploying enterprise customer solutions\n\u2022 Technical degree required; Computer Science or Math background highly desired\n\nBenefits\n\n\u2022 Health Care Plan (Medical, Dental & Vision)\n\u2022 Retirement Plan\n\u2022 Paid Time Off (Vacation, Sick & Public Holidays)\n\u2022 Family Leave\n\u2022 Short Term & Long Term Disability\n\u2022 Training & Development\n\u2022 Work From Home\n\u2022 Free Food & Snacks\n\u2022 Wellness Resources\n\u2022 Stock Option Plan\n\nWe are an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Deep understanding and experience in the field of deep learning, computer vision, natural language processing, and related technologies",
+                        "Experience developing deep learning models in real-world environments, including the integration of DL into production applications",
+                        "Proficient with TensorFlow, PyTorch, and other deep learning frameworks",
+                        "Familiarity with common ML platform tooling (e.g., SageMaker, Vertex, MLFlow, Weights & Biases, etc.)",
+                        "Ability to learn quickly, maintain a positive attitude, and to hold yourself accountable for customer success",
+                        "Ability to approach solutions from a customer perspective, establish connections between requirements, solutions and success criteria",
+                        "Excellent communication skills, especially written and presentation skills with the ability to tailor technical information for different audiences",
+                        "3+ years of professional software experience in the areas of developing and deploying enterprise customer solutions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Working as part of our sales team, you will be responsible for managing the technical aspects of the sales cycle, and collaborating with engineering to ensure customer success with our technology",
+                        "Qualified candidates will use their engineering and customer engagement skills to lead technical evaluations, create developer-focused content, build deployment tests, run benchmarks, and deliver dynamic demos that spark the imagination of potential customers",
+                        "You\u2019ll engage with customers and partners in both pre- and post- sales capacities to scope solutions, assist with implementations, and address obstacles that might hinder success",
+                        "This role is hands-on and requires a combination of technical know-how, a solutions mindset, and the ability to adapt to changing customer conditions",
+                        "Assist sales in qualifying opportunities from a technical perspective",
+                        "Prototype and deliver deep learning models and demos in a wide range of deployment environments",
+                        "Work closely with our product and machine learning teams to provide input into customer requirements",
+                        "Benchmark deep learning models with Neural Magic software and assist in evangelizing outcomes (e.g., blogs, social, events, etc.)",
+                        "Work closely with customers to deploy their neural network models using industry leading frameworks and Neural Magic software",
+                        "Support the design and implementation of solutions for our customers",
+                        "Be a trusted advisor and partner, providing analysis of deep learning approaches, helping to define and conduct pilot tests"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Health Care Plan (Medical, Dental & Vision)",
+                        "Retirement Plan",
+                        "Paid Time Off (Vacation, Sick & Public Holidays)",
+                        "Family Leave",
+                        "Short Term & Long Term Disability",
+                        "Training & Development",
+                        "Work From Home",
+                        "Free Food & Snacks",
+                        "Wellness Resources",
+                        "Stock Option Plan"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Neural+Magic&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIzAw",
+                    "text": "See web results for Neural Magic"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTYWxlcyBFbmdpbmVlciAtIERlZXAgTGVhcm5pbmciLCJodGlkb2NpZCI6ImxrN0UxZmwzdG1BQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9WRXhUU0hnMWFuSmtVbk5SUTAweGVISjVaRU13VlRsbVJqVXlUR0pGUTJSbVZ6QlBTR1JTTmpOVk5GWTVNRVZFVW1STk9YbFVSSGRGWlRkS2FtZGFiRmhOZUVaZmIyVjJhVW8xWWtaWVUweHJaRlZDTTBWd2NEWm5NRFpoWVZwMFNXWm5Xa1pmV1VkYWFUSjBVbTR5TjFkR2FWQjNhV1ZwTVhkQk1tdG5jR0l4T1daS05teHZNVXh1YVZNMFZWWmZSbW81ZEV0VWRrbE1hbU5WZG1vdFltMXlZelpuUzIxRFdrVTRVR3hQWkVGM0VoY3lZbXM1V2t0NU5VVnhhV2MxVG05UU5VNUxOREJCY3hvaVFVOHRNSEpzTkhGc1Uxa3hYMGRhWDNVeFJYZDNURWhzWmpCWlZHdFJRa3RyVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTdGFydHVwIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9zdGFydHVwLmpvYnMvc2FsZXMtZW5naW5lZXItZGVlcC1sZWFybmluZy1uZXVyYWwtbWFnaWMtNDAwODA2MT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Deep Learning Research Engineer, 3D Computer Vision - SPG",
+            "company_name": "Apple",
+            "location": "  Cupertino, CA   ",
+            "via": "via Salary.com",
+            "description": "Deep Learning Research Engineer, 3D Computer Vision - SPG\nSanta Clara Valley (Cupertino),California,United States\nMachine Learning and AI...\n- Build high-performing deep learning models: Implement custom deep learning models in PyTorch or Tensorflow; define careful metrics; perform error analysis and data deep dives. Familiar with network architectures such as convolutional networks, recurrent architectures, Transformers, etc.\n- Deep learning domain expertise: Familiar with some tasks such as 3D object detection (camera, lidar, radar), tracking, panoptic segmentation, self-supervised learning, or behavior prediction. Expertise with other deep learning domains (generative modeling, audio recognition, etc) can also be considered.\n- Software engineering: Strong background in Python development with Linux. You write clean, correct code while iterating on experiments in Python. Ability to understand and contribute to C -based software is a plus.\n- Excellent verbal and written communication skills. You collaborate effectively with other teams and communicate clearly about your work.\nDescription\n\u2022 Improve the capabilities and performance of large-scale machine learned computer vision and perception systems for robotics applications. \u2022 Develop new deep learning models to solve novel tasks. Scale up and optimize the performance of existing models. \u2022 Understand the latest published research literature and propose ideas to improve performance of our systems.\nEducation & Experience\nBachelors, Masters, or PhD Degree in Computer Science/Machine Learning or equivalent professional experience.\nAdditional Requirements\nPay & Benefits\n- At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $130,000 and $242,000, and your base pay will depend on your skills, qualifications, experience, and location.Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation.Learn more (https://www.apple.com/careers/us/benefits.html) about Apple Benefits.Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.\nApple Footer\nApple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant (Opens in a new window) .\nApple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor. Learn more (Opens in a new window) .\nApple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you're applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance guidelines (opens in a new window) applicable in your area.\nApple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program (Opens in a new window) .\nApple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace. Reasonable Accommodation and Drug Free Workplace policy Learn more (Opens in a new window) ",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Deep learning domain expertise: Familiar with some tasks such as 3D object detection (camera, lidar, radar), tracking, panoptic segmentation, self-supervised learning, or behavior prediction",
+                        "Expertise with other deep learning domains (generative modeling, audio recognition, etc) can also be considered",
+                        "Software engineering: Strong background in Python development with Linux",
+                        "You write clean, correct code while iterating on experiments in Python",
+                        "Excellent verbal and written communication skills",
+                        "Bachelors, Masters, or PhD Degree in Computer Science/Machine Learning or equivalent professional experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Build high-performing deep learning models: Implement custom deep learning models in PyTorch or Tensorflow; define careful metrics; perform error analysis and data deep dives",
+                        "Improve the capabilities and performance of large-scale machine learned computer vision and perception systems for robotics applications",
+                        "Develop new deep learning models to solve novel tasks",
+                        "Scale up and optimize the performance of existing models",
+                        "Understand the latest published research literature and propose ideas to improve performance of our systems"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "The base pay range for this role is between $130,000 and $242,000, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs",
+                        "Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan",
+                        "You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation",
+                        "Learn more (https://www.apple.com/careers/us/benefits.html) about Apple Benefits.Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.apple.com/",
+                    "text": "apple.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Apple&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIkg0",
+                    "text": "See web results for Apple"
+                }
+            ],
+            "extensions": [
+                "9 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIFJlc2VhcmNoIEVuZ2luZWVyLCAzRCBDb21wdXRlciBWaXNpb24gLSBTUEciLCJodGlkb2NpZCI6InQ1U2tHWXNUam5vQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VWEk0TWtWcFdsVlhVbVUzV2xwaWVuVnZaamhqWWt0MlZuRkdjV3h1YWpaUGJWODRSbVJxT1ZRMGVtcFhUbFZIYTNVNE1teGZVVVZCVEdNd1NFNXdkRGxmYjBSQ2VtMVRhbXhDUTNRM1pHczNSMnhHYURKRFRsZFBWREpwV214eVFqWTJTblk1YUVRNGF6ZHdlWFJZYW5SMllUSTVlSHBDWDA1S1VGZHpRM0l6TkVSVVRGcG9iSHBTTWpCMFlraHJNbmN3WVZsNGNtUlNZVVZoZEZObmNtazVZa2xZVVRkRVduSlVkbEpCWlhZdFJHbDVlRWxMUW1kTWNrNWlTVlZEWWpSWFlVeG5RMk01TVcxb05FOXJORUZSYTBwV2FVVmhPRzh5WnhJWE1tSnJPVnBMZVRWRmNXbG5OVTV2VURWT1N6UXdRWE1hSWtGUExUQnliRFJ1UjE5WFdXNXdVazFSVTB0dVpIcHdlakl4ZVhKR1luSmxPV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTYWxhcnkuY29tIiwibGluayI6Imh0dHBzOi8vd3d3LnNhbGFyeS5jb20vam9iL2FwcGxlL2RlZXAtbGVhcm5pbmctcmVzZWFyY2gtZW5naW5lZXItM2QtY29tcHV0ZXItdmlzaW9uLXNwZy9qMjAyMzAzMTAxMTMyMzg3Mzk3MDE1P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Senior AI/ML Engineer - Sequence Learning",
+            "company_name": "GSK",
+            "location": "  San Francisco, CA   ",
+            "via": "via GSK Careers Job Search - Jobs",
+            "description": "\u0130\u015f Yeri: USA - California - San Francisco\nYay\u0131n tarihi: Mar 21 2023\n...\nAt GSK we see a world in which advanced applications of machine learning and AI will allow us to develop novel therapies to existing diseases and to quickly respond to emerging or changing diseases with personalized drugs, driving better outcomes at reduced cost with fewer side effects. It is an ambitious vision that will require the development of products and solutions at the cutting edge of machine learning and AI. If that excites you, we'd love to chat.\n\nThe AI/ML Sequence Learning Team applies machine learning and AI methods to biological sequence (DNA, RNA, protein) data from large-scale human genetic, functional genomic and single cell experiments. Models operating directly on sequence data that can infer how variants alter protein/RNA abundance, structure and function have the potential to be transformative in drug discovery, empowering us to find new life saving medicines.\n\nWe are looking for a Senior AI/ML Engineer to help us make this vision a reality. Competitive candidates will have a track record in developing SOTA deep learning models for solving challenging real world scientific problems. You should be an outstanding scientist with in-depth knowledge in modern machine learning. You can convert vaguely described biological/drug discovery challenges into well-defined machine learning problem. You can independently execute and deliver full AI/ML driven solution from sourcing training data, design and implementing SOTA machine learning models, testing, benchmark and product driven research for model performance improvement, to shipping stable, tested, performant code and services in an agile environment.\n\nThe AI/ML team is built on the principles of ownership, accountability, continuous development, and collaboration. We hire for the long term, and we're motivated to make this a great place to work. Our leaders will be committed to your career and development from day one.\n\nWhy you?\n\nBasic Qualifications:\n\nWe are looking for professionals with these required skills to achieve our goals:\n\u2022 Graduate studies in Computer Science or Applied Math.\n\u2022 Experienced in developing deep learning models.\n\u2022 Experience with deep learning algorithms and model architectures.\n\u2022 Experience with deep learning literature and math of machine learning.\n\u2022 Experience in machine learning best practices, scalable training and deployment, model introspection and evaluation.\n\u2022 Experience in PyTorch, Tensorflow, or other deep learning frameworks.\n\u2022 Experienced in software engineering with advanced skills in python and/or C++\n\u2022 Experience with devop stacks: version control, CI/CD, containerization, etc.\n\u2022 At least one peer reviewed publication.\n\nPreferred Qualifications:\n\nIf you have the following characteristics, it would be a plus:\n\u2022 PhD in Machine Learning.\n\u2022 Knowledge in disease biology, molecular biology and biochemistry.\n\u2022 Experience with biological data (e.g., genomics, transcriptomics, epigenomics, proteomics).\n\u2022 Peer reviewed publications in major AI conferences.\n\u2022 Experience in design, development and deployment of commercial AI/ML software.\n\u2022 Mentality of commit early and often, metrics before models, and shipping high quality production code.\n\nWhy GSK?\n\nGSK is a global biopharma company with a special purpose \u2013 to unite science, technology and talent to get ahead of disease together \u2013 so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns \u2013 as an organisation where people can thrive. Getting ahead means preventing disease as well as treating it, and we aim to impact the health of 2.5 billion people around the world in the next 10 years. \u200b\n\nOur success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it\u2019s also about making GSK a place where people can thrive. We want GSK to be a place where people feel inspired, encouraged and challenged to be the best they can be. A place where they can be themselves \u2013 feeling welcome, valued and included. Where they can keep growing and look after their wellbeing. So, if you share our ambition, join us at this exciting moment in our journey to get Ahead Together.\u200b\n\n\u200b\n\nFind out more: \u200b\n\nAnnual Report 2021\u200b\n\n# LI-GSK\n\nGSK offers a competitive compensation package inclusive of the following: Competitive base salary, annual bonus based on company performance, access to healthcare and wellbeing programs, retirement savings program, paid time off, and employee recognition programs which reward exceptional achievements. The salary range for this role is: $0 to $0\n\nGSK is a global biopharma company with a special purpose \u2013 to unite science, technology and talent to get ahead of disease together \u2013 so we can positively impact the health of billions of people and deliver stronger, more sustainable shareholder returns \u2013 as an organisation where people can thrive. Getting ahead means preventing disease as well as treating it, and we aim to impact the health of 2.5 billion people around the world in the next 10 years.\n\nOur success absolutely depends on our people. While getting ahead of disease together is about our ambition for patients and shareholders, it\u2019s also about making GSK a place where people can thrive. We want GSK to be a workplace where everyone can feel a sense of belonging and thrive as set out in our Equal and Inclusive Treatment of Employees policy. We\u2019re committed to being more proactive at all levels so that our workforce reflects the communities we work and hire in, and our GSK leadership reflects our GSK workforce.\n\nIf you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).\n\nGSK is an Equal Opportunity Employer and, in the US, we adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.\n\nAt GSK, the health and safety of our employees are of paramount importance. As a science-led healthcare company on a mission to get ahead of disease together, we believe that supporting vaccination against COVID-19 is the single best thing we can do in the US to ensure the health and safety of our employees, complementary workers, workplaces, customers, consumers, communities, and the patients we serve.\n\nGSK has made the decision to require all US employees to be fully vaccinated against COVID-19, where allowed by state or local law and where vaccine supply is readily available. The only exceptions to this requirement are employees who are approved for an accommodation for religious, medical or disability-related reasons.\n\nImportant notice to Employment businesses/ Agencies\n\nGSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n\nPlease note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK\u2019s compliance to all federal and state US Transparency requirements. For more information, please visit GSK\u2019s Transparency Reporting For the Record site",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You should be an outstanding scientist with in-depth knowledge in modern machine learning",
+                        "Graduate studies in Computer Science or Applied Math",
+                        "Experienced in developing deep learning models",
+                        "Experience with deep learning algorithms and model architectures",
+                        "Experience with deep learning literature and math of machine learning",
+                        "Experience in machine learning best practices, scalable training and deployment, model introspection and evaluation",
+                        "Experience in PyTorch, Tensorflow, or other deep learning frameworks",
+                        "Experienced in software engineering with advanced skills in python and/or C++",
+                        "Experience with devop stacks: version control, CI/CD, containerization, etc",
+                        "At least one peer reviewed publication",
+                        "PhD in Machine Learning",
+                        "Knowledge in disease biology, molecular biology and biochemistry",
+                        "Experience with biological data (e.g., genomics, transcriptomics, epigenomics, proteomics)",
+                        "Peer reviewed publications in major AI conferences",
+                        "Experience in design, development and deployment of commercial AI/ML software",
+                        "Mentality of commit early and often, metrics before models, and shipping high quality production code",
+                        "This capture of applicable transfers of value is necessary to ensure GSK\u2019s compliance to all federal and state US Transparency requirements"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You can independently execute and deliver full AI/ML driven solution from sourcing training data, design and implementing SOTA machine learning models, testing, benchmark and product driven research for model performance improvement, to shipping stable, tested, performant code and services in an agile environment"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "GSK offers a competitive compensation package inclusive of the following: Competitive base salary, annual bonus based on company performance, access to healthcare and wellbeing programs, retirement savings program, paid time off, and employee recognition programs which reward exceptional achievements",
+                        "The salary range for this role is: $0 to $0"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.gsk.com/",
+                    "text": "gsk.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=GSK&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAII1g0",
+                    "text": "See web results for GSK"
+                }
+            ],
+            "extensions": [
+                "28 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkvTUwgRW5naW5lZXIgLSBTZXF1ZW5jZSBMZWFybmluZyIsImh0aWRvY2lkIjoicmVHZ0RyZncxSlVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VVcEdVV0Z0UTNZNFpuTnFVRWhsYjIxeFNrUlNPVTl6T1c5Mk9GUkhUUzFxTm5RMFdGVnRaM2hvWVhvelpXWXdXV1JqYmxOdVFYUm1lVGxvV1ZOdk9VOU5VMGhTTUZGTGNqaHJSRGhJYzNreFJtSjFlRmhEZFZGNlNFOHdiMHMyVTB4MmR6ZHBia2R1ZUhGcll6QjFORTlSYlRKak4yOVVkVnBsUzNCTVdIaElkR0ZxWDNZNVpVZGZRMk54UVhSSWNFWk5jV1ZxTjBVMWRIVkZMVTFNZGw5dmIwZHlUbEIzUjJwbk9HYzBVMkpYTlU5TllVSTJVMVJhVm10UU4wWTRjV1IzWDJ0dkVoY3lZbXM1V2t0NU5VVnhhV2MxVG05UU5VNUxOREJCY3hvaVFVOHRNSEpzTkhOV1IxcG9abGx6VTJkWVVXeERZMk5HZGpCWVlXRXpXR2hFUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBHU0sgQ2FyZWVycyBKb2IgU2VhcmNoIC0gSm9icyIsImxpbmsiOiJodHRwczovL2pvYnMuZ3NrLmNvbS9lbi11cy9qb2JzLzM1MTgwNz9sYW5nPXRyLXRyXHUwMDI2cHJldmlvdXNMb2NhbGU9ZW4tVVNcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Director of Artificial Intelligence and Machine Learning (AI/ML...",
+            "company_name": "Armis Industries",
+            "location": " Anywhere ",
+            "via": "via AngelList",
+            "description": "Armis Industries is a St. Louis-based deep technology startup focused on developing the next generation of unmanned and fully autonomous vehicle systems for aerospace, defense and industrial applications. We develop full-stack autonomous systems, with in-house physical vehicle design, command and control development, and mission information analytics and decision making.\n\nMachine Learning is the... foundation of our command & control, autonomous decision making, as well as sensor data analytics capabilities. We are building machine learning systems that can operate reliably in complex, real-world environments and that can be easily adapted to new locations and missions.\n\nWe are seeking a Director of Artificial Intelligence and Machine Learning (AI/ML) Engineering who can take the reins on this problem set. We desire a technical leader who can think deeply and solve complex technical challenges in areas like sensor perception, decision-making and deep learning, while collaborating with our vehicle hardware and systems engineers.\n\nYour day will include designing, modeling and simulation, prototyping, integrating, and field-testing the AI/ML backbone of the firm\u2019s in-development autonomous air, land, and sea-borne autonomous vehicles and their subsystems. Additionally, you will develop and deploy novel AI/ML models and algorithms to provide key fundamental capabilities such as prediction, optimization, and classification. You will also apply machine learning algorithms to sets of structured and unstructured data for applications in pattern recognition, target detection and tracking, and reinforcement learning.\n\nMost importantly, you will be responsible for developing the underlying AI/ML-related design processes and methodologies employed by multiple team members, including our software and embedded systems engineers.\n\nMinimum Requirements\n\u2022 A Bachelor\u2019s degree in Engineering, Computer Science, or related fields with at least 7 years of relevant AI/ML experience in the development of autonomous air, land, or sea systems OR a Master\u2019s degree with 5 years of relevant experience OR a PhD with 3 years of relevant experience\n\u2022 Strong expertise in modern AI/ML techniques\n\u2022 Strong experience applying AI/ML to at least one of the following technical areas: autonomous robotics, computer vision, or human-computer interaction (HCI)\n\u2022 Experience with a major neural network learning framework such as Tensorflow or PyTorch\n\nPreferred Qualifications\n\u2022 Extensive experience with neural network design and training in a common framework\n\u2022 Familiarity with cloud computing\n\u2022 Experience with embedding edge computing\n\u2022 Strong experience with developing/applying multi-agent reinforcement learning and deep learning algorithms\n\u2022 Exposure to common autonomy software tools (e.g. ROS, AirSim, AFSIM, PX4/MAVLink, QGC, Docker)\n\u2022 Experience designing and developing embedded systems\n\u2022 Programming experience in Python, C/C++ or other similar language\n\nArmis Industries focuses on Defense, Artificial Intelligence, Aerospace, Unmanned Air Systems, and Artificial Intelligence / Machine Learning. Their company has offices in St. Louis. They have a small team that's between 11-50 employees.\n\nYou can view their website at https://www.armisind.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We desire a technical leader who can think deeply and solve complex technical challenges in areas like sensor perception, decision-making and deep learning, while collaborating with our vehicle hardware and systems engineers",
+                        "A Bachelor\u2019s degree in Engineering, Computer Science, or related fields with at least 7 years of relevant AI/ML experience in the development of autonomous air, land, or sea systems OR a Master\u2019s degree with 5 years of relevant experience OR a PhD with 3 years of relevant experience",
+                        "Strong expertise in modern AI/ML techniques",
+                        "Strong experience applying AI/ML to at least one of the following technical areas: autonomous robotics, computer vision, or human-computer interaction (HCI)",
+                        "Experience with a major neural network learning framework such as Tensorflow or PyTorch"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Your day will include designing, modeling and simulation, prototyping, integrating, and field-testing the AI/ML backbone of the firm\u2019s in-development autonomous air, land, and sea-borne autonomous vehicles and their subsystems",
+                        "Additionally, you will develop and deploy novel AI/ML models and algorithms to provide key fundamental capabilities such as prediction, optimization, and classification",
+                        "You will also apply machine learning algorithms to sets of structured and unstructured data for applications in pattern recognition, target detection and tracking, and reinforcement learning",
+                        "Most importantly, you will be responsible for developing the underlying AI/ML-related design processes and methodologies employed by multiple team members, including our software and embedded systems engineers"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Armis+Industries&sa=X&ved=0ahUKEwjsidDo7bH-AhUoEFkFHWQpDro4FBCYkAIIlg4",
+                    "text": "See web results for Armis Industries"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEaXJlY3RvciBvZiBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgTWFjaGluZSBMZWFybmluZyAoQUkvTUwpIEVuZ2luZWVyaW5nIiwiaHRpZG9jaWQiOiJZc2xjSGJKTmtsa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dDQ293Q1FVVnpOMnBPVkRWV1ZYZENWVzk0YzAxQ04yMVRiRTFpV0dSWU1FVk1lbTlLVmt0c04wOXpXV1ptVEVOdVZUaDNOakYwYkRoeVkya3plVkpET1VGRWMzTmpVa3RDWmt4NldXbzFMVkJ1UVU5T1FYQk1XWEI2VEd4S1RVVk1kRFk1ZERadWMwUndUSFJvWDAxbFUyb3pSVU5mTWpGNGNWSm5TVGhqWDE4MWVtUlhPVGRMYTNSR1QxRm9SSFYzV0ZSRk1rTlRjRjg1U25WMGVtVXRXa05oVUhscGRURkxSWGRyVjA1SWRHZFFUR3cyY0ZRMmJrRk5jSFJ3WWtkc2FYRkJWbnBaWkdjME4yaFVSbkZCTUhoRGRsSjVhRFE0YzJKNVduRTRXSGx3YnpGRE5GUlNXSFJUWDI1dk1HWTFaRGhNVm5CcGFGSlJkSHBUTFdWQ01uQjFYMDFOVDNwRVUxOUhZbWhOTkJJWE1tSnJPVnBMZVRWRmNXbG5OVTV2VURWT1N6UXdRWE1hSWtGUExUQnliRGRuWjJod2EyUm1jM0pEZGxsc1VHVXdNV3hSYWt0VFRFUjFkM2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBBbmdlbExpc3QiLCJsaW5rIjoiaHR0cHM6Ly93ZWxsZm91bmQuY29tL2NvbXBhbnkvYXJtaXMtaW5kdXN0cmllcy9qb2JzLzIwMzE2ODItZGlyZWN0b3Itb2YtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYW5kLW1hY2hpbmUtbGVhcm5pbmctYWktbWwtZW5naW5lZXJpbmc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Associate director",
+                    "value": "associate director"
+                },
+                {
+                    "text": "Data analyst",
+                    "value": "data analyst"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Development representative",
+                    "value": "development representative"
+                },
+                {
+                    "text": "Devops engineer",
+                    "value": "devops engineer"
+                },
+                {
+                    "text": "Engineer senior",
+                    "value": "engineer senior"
+                },
+                {
+                    "text": "Engineers",
+                    "value": "engineers"
+                },
+                {
+                    "text": "General",
+                    "value": "general"
+                },
+                {
+                    "text": "Infrastructure",
+                    "value": "infrastructure"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Lead architect",
+                    "value": "lead architect"
+                },
+                {
+                    "text": "Lead engineer",
+                    "value": "lead engineer"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Performance engineer",
+                    "value": "performance engineer"
+                },
+                {
+                    "text": "Platform engineer",
+                    "value": "platform engineer"
+                },
+                {
+                    "text": "Principal scientist",
+                    "value": "principal scientist"
+                },
+                {
+                    "text": "Product owner",
+                    "value": "product owner"
+                },
+                {
+                    "text": "Reliability engineer",
+                    "value": "reliability engineer"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Sales engineer",
+                    "value": "sales engineer"
+                },
+                {
+                    "text": "Senior scientist",
+                    "value": "senior scientist"
+                },
+                {
+                    "text": "Site manager",
+                    "value": "site manager"
+                },
+                {
+                    "text": "Technical writer",
+                    "value": "technical writer"
+                },
+                {
+                    "text": "Test engineer",
+                    "value": "test engineer"
+                },
+                {
+                    "text": "With experience",
+                    "value": "with experience"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Redmond, WA",
+                    "value": "I-4AIK0MkFTyBNjF6pADXg=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Atlantic City, NJ",
+                    "value": "IcdcblfdwIliUmfpQ8tvSg=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Burlingame, CA",
+                    "value": "WY6bVCV2j4BPjy9TPvq8Cw=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Madison, WI",
+                    "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "Natick, MA",
+                    "value": "dSAbXrOH44kno1zsiT-M3w=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Arabi, LA",
+                    "value": "gaN3G1kdnogAYxoYxcr7OQ=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Auburn Hills, MI",
+                    "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+                },
+                {
+                    "text": "Auburn, AL",
+                    "value": "g_ibsy_xjIhYk9M1kpElyw=="
+                },
+                {
+                    "text": "Bismarck, ND",
+                    "value": "Y-nYVxKD11KTyrv5Er2qzA=="
+                },
+                {
+                    "text": "Boerne, TX",
+                    "value": "dT7ey6F2XIYrJjlC9reRHA=="
+                },
+                {
+                    "text": "Boise, ID",
+                    "value": "nbRH6XLxrlSbnWc2m5hbmg=="
+                },
+                {
+                    "text": "Bolinas, CA",
+                    "value": "JT1aDFWVhYCFrdiPbqL8sg=="
+                },
+                {
+                    "text": "Bridgeport, WV",
+                    "value": "W-eWWTZmSoh7WJ88dTfN5w=="
+                },
+                {
+                    "text": "California City, CA",
+                    "value": "QwmmE9IpwoAyC_U7tN5YNA=="
+                },
+                {
+                    "text": "Carrboro, NC",
+                    "value": "dW4B92XZrIlFweaZta8IEw=="
+                },
+                {
+                    "text": "Cary, NC",
+                    "value": "Q4tK_1S9rInhS0Ra249WRA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Corte Madera, CA",
+                    "value": "K4ajZAmWhYAScMmUASVIBQ=="
+                },
+                {
+                    "text": "El Segundo, CA",
+                    "value": "rTzSGUexwoC22Yu8x2IFjA=="
+                },
+                {
+                    "text": "Emeryville, CA",
+                    "value": "s44f6hR-hYAHcbCoMRgdSA=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fremont, CA",
+                    "value": "98rot0a_j4DUiNiJOzHaig=="
+                },
+                {
+                    "text": "Fresno, CA",
+                    "value": "nU6eVOFdlIARuKNJZEASew=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Genentech",
+                    "value": "/m/01_lh1"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Rivian",
+                    "value": "/m/0gj8vdm"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Absci",
+                    "value": "/g/11f01flq2c"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "Approgence Inc.",
+                    "value": "/g/11c73njm7n"
+                },
+                {
+                    "text": "Battelle",
+                    "value": "/m/02m9dl"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Elevance Health",
+                    "value": "/m/04xtkp"
+                },
+                {
+                    "text": "Flagship Pioneering",
+                    "value": "/g/11fy29v0zb"
+                },
+                {
+                    "text": "GSK",
+                    "value": "/m/01bbm7"
+                },
+                {
+                    "text": "GoodRx",
+                    "value": "/g/11df0pkp5v"
+                },
+                {
+                    "text": "Lambda",
+                    "value": "/g/11fv60v44p"
+                },
+                {
+                    "text": "MathWorks",
+                    "value": "/m/02q9vb"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Square",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "Trilogy Innovations Inc",
+                    "value": "/g/11scx87bzx"
+                },
+                {
+                    "text": "WayUp",
+                    "value": "/g/11gfj67hvn"
+                },
+                {
+                    "text": "Adobe",
+                    "value": "/m/0vlf"
+                },
+                {
+                    "text": "Advanced Micro Devices, Inc",
+                    "value": "/m/0z64"
+                },
+                {
+                    "text": "Ansys",
+                    "value": "/m/06dplm"
+                },
+                {
+                    "text": "Aurora Flight Sciences",
+                    "value": "/m/076tx9t"
+                },
+                {
+                    "text": "Baker Hughes",
+                    "value": "/m/02yd0p"
+                },
+                {
+                    "text": "Barrington James",
+                    "value": "/g/11h15xyk33"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                }
+            ]
+        }
+    ]
+}

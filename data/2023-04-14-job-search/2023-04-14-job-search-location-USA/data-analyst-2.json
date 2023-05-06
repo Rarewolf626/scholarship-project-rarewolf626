@@ -1,0 +1,1302 @@
+{
+    "search_metadata": {
+        "id": "643db989aa6c95cb3c65b14c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/479d42ced8a2dcaf/643db989aa6c95cb3c65b14c.json",
+        "created_at": "2023-04-17 21:26:33 UTC",
+        "processed_at": "2023-04-17 21:26:33 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=data+analyst&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20",
+        "raw_html_file": "https://serpapi.com/searches/479d42ced8a2dcaf/643db989aa6c95cb3c65b14c.html",
+        "total_time_taken": 1.7
+    },
+    "search_parameters": {
+        "q": "data analyst",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 20
+    },
+    "jobs_results": [
+        {
+            "title": "Sr. Data Analyst, Electric Vehicles",
+            "company_name": "WEX",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "As a Sr. Data Analyst, you will be a thought leader within Product for how data and analytics can guide our product decisions. You will work with the assigned product team(s) to produce the analytics and insights needed to create and operate best in class digital products. You will help us build a deep understanding of our customers, how they use our products and how we can improve that... experience.\n\nKey Responsibilities\n\u2022 Thought Leadership: Work closely with assigned product teams to lead critical analyses such as customer journey mapping, in-product flow analysis, and cohort analysis to guide the product development process.\n\u2022 Improve Product: Use analytics to find patterns and trends to understand user behavior and identify improvement opportunities.\n\u2022 Implementation: Partner with product and technology to develop measurement plan and ensure we are collecting and integrating relevant data to drive product analytics.\n\u2022 Lead Business Intelligence & Reporting: Partner with key stakeholders to build, deploy and maintain dashboards and reporting to enable operations, insights and decisions.\n\u2022 Analytical Leadership: Mentor junior Data Analysts and help to grow the Product Analytics capability within WEX.\n\nBasic Qualifications\n\u2022 2+ years of hands-on product analytics experience with exposure to agile/scrum process, product backlog grooming, etc.\n\u2022 Experience analyzing in-product data including analyses such as customer journey mapping, audience profiling/segmentation, cohort/mix analysis.\n\u2022 5+ years hands-on data analytics experience with one or more of the following tools:\n\u2022 SQL (traditional or PL)\n\u2022 Tableau (or similar visualization tool)\n\u2022 Python, R, or another scripting language\n\u2022 Experience in going beyond reports/data: driving product management using insights and hypothesis testing.\n\nPreferred Qualifications\n\u2022 5+ years of hands-on product analytics experience with exposure to agile/scrum process, product backlog grooming, etc.\n\u2022 3+ years experience analyzing in-product data including analyses such as customer journey mapping, audience profiling/segmentation, cohort/mix analysis.\n\u2022 7+ years hands-on data analytics experience with one or more of the following tools:\n\u2022 SQL (traditional or PL)\n\u2022 Tableau (or similar visualization tool)\n\u2022 Python, R, or another scripting language\n\u2022 3+ years experience in going beyond reports/data: driving product management using insights and hypothesis testing.\n\u2022 Understanding of various concepts such as agile/scrum, A/B or multivariate testing, tag management, journey mapping, and segmentation.\n\u2022 Payments, financial products, or EV experience preferred.\n\nThe base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the \"About Us\" section.\n\nSalary Pay Range: $97,000.00 - $129,000.00",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "2+ years of hands-on product analytics experience with exposure to agile/scrum process, product backlog grooming, etc",
+                        "Experience analyzing in-product data including analyses such as customer journey mapping, audience profiling/segmentation, cohort/mix analysis",
+                        "5+ years hands-on data analytics experience with one or more of the following tools:",
+                        "SQL (traditional or PL)",
+                        "Tableau (or similar visualization tool)",
+                        "Python, R, or another scripting language",
+                        "Experience in going beyond reports/data: driving product management using insights and hypothesis testing"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Data Analyst, you will be a thought leader within Product for how data and analytics can guide our product decisions",
+                        "You will work with the assigned product team(s) to produce the analytics and insights needed to create and operate best in class digital products",
+                        "You will help us build a deep understanding of our customers, how they use our products and how we can improve that experience",
+                        "Thought Leadership: Work closely with assigned product teams to lead critical analyses such as customer journey mapping, in-product flow analysis, and cohort analysis to guide the product development process",
+                        "Improve Product: Use analytics to find patterns and trends to understand user behavior and identify improvement opportunities",
+                        "Implementation: Partner with product and technology to develop measurement plan and ensure we are collecting and integrating relevant data to drive product analytics",
+                        "Lead Business Intelligence & Reporting: Partner with key stakeholders to build, deploy and maintain dashboards and reporting to enable operations, insights and decisions",
+                        "Analytical Leadership: Mentor junior Data Analysts and help to grow the Product Analytics capability within WEX"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base pay range represents the anticipated low and high end of the pay range for this position",
+                        "Base pay is one component of WEX's total compensation package",
+                        "Most sales positions are eligible for commission under the terms of an applicable plan",
+                        "Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan",
+                        "WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being",
+                        "Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more",
+                        "Salary Pay Range: $97,000.00 - $129,000.00"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.wexinc.com/",
+                    "text": "wexinc.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=WEX&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAII1Ak",
+                    "text": "See web results for WEX"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBBbmFseXN0LCBFbGVjdHJpYyBWZWhpY2xlcyIsImh0aWRvY2lkIjoiLXBKTXJVcTNQVHdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1VrSTNTMUJuUkdOdlVDMUdRVzVZUVhGQk1GWlpXaTFaZGt4UGVEbFNZbWhzU1doSlRrbzVjRFpEVUdnNE5rUnlWa3BaWkdRMlFXZDNaMXB4WlZwS1ltcEtSRVpTZEY5emNqbG1lakZxYkhneWIyMDRXVEk0U3pGVGFFOUxRelJaZWw5MldFdDROelZPZEV4U2IyOVNUMlY0U0djM2IwcHJRMWcxYUc5UVRqQTNVbkJWVlZGek9VNXlWa1JGU0V0MFpIaFVXR3hmTUVKTGNYSXpPRWROVWxZdGRXaGtVVUl0TlRWNU9Hb3RXRFZuRWhkcGNtczVXa2x4VVU1Mk1uRTFUbTlRYTNFMmRpMUJOQm9pUVU4dE1ISnNORFJ3T0VsNGJHNTBUV3h6UjJaemNFSnVUblUzZEVOb00wOUZRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zci1kYXRhLWFuYWx5c3QtZWxlY3RyaWMtdmVoaWNsZXMtYXQtd2V4LTM1NzE5MDQ0NjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Supplier Diversity Data Analyst - Remote",
+            "company_name": "Corporate",
+            "location": "  Missouri  (+1 other)    ",
+            "via": "via Centene - Centene Corporation",
+            "description": "You could be the one who changes everything for our 26 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you\u2019ll have access to competitive benefits including a fresh perspective on workplace flexibility.\n\nPosition Purpose: This position will support Centene\u2019s supplier diversity (SD) program through the... preparation and analysis of reports and KPI\u2019s. This role will be responsible for developing SD specific reports and processes to track SD information. Monthly reporting to business units and supporting ad hoc SD requests from the team. This role will also support other Procurement reporting needs information systems.\n\nReporting of all Centene\u2019s diverse supplier spend (both direct and indirect) with Certified minority, women-owned and disadvantaged businesses\nAssists in the preparation and submission of timely and accurate monthly, quarterly, and annual reports\nProvide analysis of program results and report key metrics while advising the internal team on risks and opportunities\nDevelop Supplier Diversity scorecard metrics to support the business needs, measuring success and ensuring tools and data are available to track and report on program goals.\nReviews and provides recommendations regarding proper controls and procedures to ensure the integrity of the reports\nIdentifies opportunities for continuous system and process improvements and leads the development of supporting processes\nConducts data cleanse activities independently as needed\nValidate and consolidate complex data from multiple sources, both internal and external, while transforming them into simple, relevant, and actionable insights\nAssist development and utilization of innovative data visual presentation strategies to ensure data is conveyed in meaningful and interpretive formats for all audience levels\nLead project to build automated Supplier Diversity reports using Qlik dashboards\nSupport Procurement Analytics team with other data reporting needs and projects\nMinimum Requirements & Qualifications\n4+ years working with data (i.e., quantitative analysis experience, including handling, manipulating, and analyzing data and creating analytical reports.)\nBachelor's degree in Finance or Business or related field\nExperience working with large datasets with strong technical skills.\nStrong written and verbal communication skills with ability to communicate effectively across business levels and experience at leading meetings.\nExperience and knowledge of database principles and system architecture\nPreferred Requirements\nExperience with Sourcing and Procurement\nHigh motivation and results-oriented work ethic\nExperience and knowledge of database principles and system architecture\nExperience working with interactive data visualization products such as Qlik or PowerBI\n\nEducation/Experience:\nBachelor\u2019s degree in Finance or a related field. 4+ years of financial analysis, budgeting, or accounting experience. Healthcare industry experience. Experience with MS Office and PeopleSoft preferred.\n\nOur Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development.\n\nCentene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "4+ years working with data (i.e., quantitative analysis experience, including handling, manipulating, and analyzing data and creating analytical reports.)",
+                        "Bachelor's degree in Finance or Business or related field",
+                        "Experience working with large datasets with strong technical skills",
+                        "Strong written and verbal communication skills with ability to communicate effectively across business levels and experience at leading meetings",
+                        "Experience and knowledge of database principles and system architecture",
+                        "Experience with Sourcing and Procurement",
+                        "High motivation and results-oriented work ethic",
+                        "Experience working with interactive data visualization products such as Qlik or PowerBI",
+                        "4+ years of financial analysis, budgeting, or accounting experience",
+                        "Healthcare industry experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Position Purpose: This position will support Centene\u2019s supplier diversity (SD) program through the preparation and analysis of reports and KPI\u2019s",
+                        "This role will be responsible for developing SD specific reports and processes to track SD information",
+                        "Monthly reporting to business units and supporting ad hoc SD requests from the team",
+                        "This role will also support other Procurement reporting needs information systems",
+                        "Reporting of all Centene\u2019s diverse supplier spend (both direct and indirect) with Certified minority, women-owned and disadvantaged businesses",
+                        "Assists in the preparation and submission of timely and accurate monthly, quarterly, and annual reports",
+                        "Provide analysis of program results and report key metrics while advising the internal team on risks and opportunities",
+                        "Develop Supplier Diversity scorecard metrics to support the business needs, measuring success and ensuring tools and data are available to track and report on program goals",
+                        "Reviews and provides recommendations regarding proper controls and procedures to ensure the integrity of the reports",
+                        "Identifies opportunities for continuous system and process improvements and leads the development of supporting processes",
+                        "Conducts data cleanse activities independently as needed",
+                        "Validate and consolidate complex data from multiple sources, both internal and external, while transforming them into simple, relevant, and actionable insights",
+                        "Assist development and utilization of innovative data visual presentation strategies to ensure data is conveyed in meaningful and interpretive formats for all audience levels",
+                        "Lead project to build automated Supplier Diversity reports using Qlik dashboards",
+                        "Support Procurement Analytics team with other data reporting needs and projects"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Corporate&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAIImgo",
+                    "text": "See web results for Corporate"
+                }
+            ],
+            "extensions": [
+                "15 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdXBwbGllciBEaXZlcnNpdHkgRGF0YSBBbmFseXN0IC0gUmVtb3RlIiwiaHRpZG9jaWQiOiJvYUlJZWE3dU84UUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVVV0S1gzQmhRV1puTkc4NGRuTjVkM0ZNT1ZobUxUWmpRMWRqZDFObWNFWTVWVEEzV1hCVVNuTkhWVnB3Ym5sd2QyRXdSVEpsUW1KT1N6UndZWFowY3pNeVVsRnJhMVpMVUZSR2RHWXRNRXBHYVhFMVQydG1ZVTlPU0ZWWlJVbExRbXh2Wm0xUFptNTViVk50VFVWdE5WRjBSRlpZYkdsbmNsTm1Ra0oyVUhjd2JHbE1YMVYwYkRGUWFXdDBPRzVFV2xCNmVTMUNTakoyZDAxa1kxZEdjRWhsYjNVNU9HOXZUVWRpT0RCSmJqQmpFaGRwY21zNVdrbHhVVTUyTW5FMVRtOVFhM0UyZGkxQk5Cb2lRVTh0TUhKc05VTjNWekEwVUVKRFNGbFpXakZZVjAwNFRuVTVhbU55WjBwa1FRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBDZW50ZW5lIC0gQ2VudGVuZSBDb3Jwb3JhdGlvbiIsImxpbmsiOiJodHRwczovL2pvYnMuY2VudGVuZS5jb20vdXMvZW4vam9iLzE0MDc4NTQvU3VwcGxpZXItRGl2ZXJzaXR5LURhdGEtQW5hbHlzdC1SZW1vdGU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Reconciliation Data Analyst II",
+            "company_name": "InComm Payments",
+            "location": "  United States   ",
+            "via": "via InComm Payments Careers",
+            "description": "Overview\n\nWhen you think of InComm Payments, think of Innovative Payments Technology. We were founded over 30 years ago and continue to be a pioneer in the payment (FinTech) industry. Since our inception, we have grown to be a team of over 3,000 employees in 34+ countries around the world. We own over 400 global technical patents and a network that includes over 525,000 points of retail... distribution that points to our industry expertise.\n\nInComm Payments works with the most recognized and valued brands in the world, and we are partnered with most of the world\u2019s leading merchants. InComm Payments is highly focused on our people and their growth, and we work hard to make a career at InComm Payments meaningful and rewarding. We value innovation, quality, passion, integrity, and responsibility in all that we do, and we are looking for great people to join our team as we move forward towards a very bright future.\n\nYou can learn more about careers at InComm Payments here: www.incomm.com or connect with us on Twitter, Facebook, LinkedIn, or Our Blog.\n\nAbout This Opportunity\n\nAs a Data Reconciliation Analyst you will perform the timely and accurate reconciliation of transaction activity. By manipulating and analyzing internal and external data, this person will identify discrepancies, research the root cause of the discrepancies, and work to correct the cause of the issue, or collect/pay funds appropriately. You will own the financial relationship between InComm and their assigned merchants/partners.\n\nThis is a great opportunity for those with experience in accounts receivable, reconciliations, and invoice research. This role can sit remote anywhere in the US.\n\nResponsibilities\n\u2022 Manipulate and analyze internal and external data with varying formats, quality, and accuracy while maintaining the integrity of the data. Tie data to financial transactions. (Datasets often have over a million records)\n\u2022 Use a variety of tools to contrast and compare internal and external data\n\u2022 Work with internal resources to confirm correct status, pricing, etc. to ensure accuracy of internal invoicing and remittances\n\u2022 Work with Financial Accounting to ensure accurate recording of adjustments and proper representation of balances on financials\n\u2022 Communicate and conduct meetings with external parties to obtain accurate, workable data and other information. Work with their resources, providing them adequate data to identify issues with their setups and systems to minimize discrepancies on their end.\n\u2022 Build a case for the accuracy of internal data, present data to external parties, and collect sums due InComm.\n\u2022 Develop an end-to-end understanding of the transactional data flows between InComm and assigned merchant/partner; understanding how sales are recorded on both sides, how data flows between the two entities, and learning where break-points exist in the flow in order to monitor the accounts.\n\u2022 Preparation of settlement files with third party, communication of settlement amounts to third party and Accounts Receivable or Accounts Payable (Partner positions only)\n\u2022 Analyze and document current processes with the goal of streamlining and improving these processes. Work with tech teams to automate processes where beneficial.\n\u2022 Other tasks and responsibilities as assigned\n\nQualifications\n\u2022 Bachelor\u2019s Degree required with 1+ years of relevant work experience\n\u2022 Detail oriented and highly organized\n\u2022 Prior experience working with large sets of data (at minimum 250,000 rows at any given point)\n\u2022 Ability to self-direct activities, set priorities, and meet deadlines\n\u2022 \u2018Hands-on\u2019 approach, willingness to roll up sleeves and dig in\n\u2022 Natural curiosity about how things work\n\u2022 Ability to communicate at various levels throughout an organization both internal and external\n\u2022 Flexibility, including ability to adapt quickly to changing priorities\n\u2022 Ability to operate in an ambiguous, high pressure environment\n\u2022 Strong analytical and problem solving skills; ability to develop and use structured approaches to identify root causes of issues and recommend resolutions; ability to present results in a meaningful terms\n\u2022 Strong pattern recognition skills\n\u2022 Strong knowledge of database and spreadsheet software with intermediate Excel skills. Familiarity with Access is a plus. Experience with Microsoft Office applications required.\n\u2022 Oracle experience is a plus.\n\nInComm provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin, citizenship, veteran\u2019s status, age, disability status, genetics or any other category protected by federal, state, or local law.\n\u2022 This position is eligible for the Employee Referral Bonus Program - Tier II\n\n#LI-Remote",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s Degree required with 1+ years of relevant work experience",
+                        "Detail oriented and highly organized",
+                        "Prior experience working with large sets of data (at minimum 250,000 rows at any given point)",
+                        "Ability to self-direct activities, set priorities, and meet deadlines",
+                        "\u2018Hands-on\u2019 approach, willingness to roll up sleeves and dig in",
+                        "Natural curiosity about how things work",
+                        "Ability to communicate at various levels throughout an organization both internal and external",
+                        "Flexibility, including ability to adapt quickly to changing priorities",
+                        "Ability to operate in an ambiguous, high pressure environment",
+                        "Strong analytical and problem solving skills; ability to develop and use structured approaches to identify root causes of issues and recommend resolutions; ability to present results in a meaningful terms",
+                        "Strong pattern recognition skills",
+                        "Strong knowledge of database and spreadsheet software with intermediate Excel skills",
+                        "Experience with Microsoft Office applications required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Data Reconciliation Analyst you will perform the timely and accurate reconciliation of transaction activity",
+                        "By manipulating and analyzing internal and external data, this person will identify discrepancies, research the root cause of the discrepancies, and work to correct the cause of the issue, or collect/pay funds appropriately",
+                        "You will own the financial relationship between InComm and their assigned merchants/partners",
+                        "Manipulate and analyze internal and external data with varying formats, quality, and accuracy while maintaining the integrity of the data",
+                        "Tie data to financial transactions",
+                        "Use a variety of tools to contrast and compare internal and external data",
+                        "Work with internal resources to confirm correct status, pricing, etc",
+                        "to ensure accuracy of internal invoicing and remittances",
+                        "Work with Financial Accounting to ensure accurate recording of adjustments and proper representation of balances on financials",
+                        "Communicate and conduct meetings with external parties to obtain accurate, workable data and other information",
+                        "Work with their resources, providing them adequate data to identify issues with their setups and systems to minimize discrepancies on their end",
+                        "Build a case for the accuracy of internal data, present data to external parties, and collect sums due InComm",
+                        "Develop an end-to-end understanding of the transactional data flows between InComm and assigned merchant/partner; understanding how sales are recorded on both sides, how data flows between the two entities, and learning where break-points exist in the flow in order to monitor the accounts",
+                        "Preparation of settlement files with third party, communication of settlement amounts to third party and Accounts Receivable or Accounts Payable (Partner positions only)",
+                        "Analyze and document current processes with the goal of streamlining and improving these processes",
+                        "Work with tech teams to automate processes where beneficial",
+                        "Other tasks and responsibilities as assigned"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This position is eligible for the Employee Referral Bonus Program - Tier II"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.incomm.com/",
+                    "text": "incomm.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=InComm+Payments&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAII3Qo",
+                    "text": "See web results for InComm Payments"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWNvbmNpbGlhdGlvbiBEYXRhIEFuYWx5c3QgSUkiLCJodGlkb2NpZCI6InFNXzhwMkQ4a2ZvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VM2s1TVhGMGNHcGZSMDV0ZW10ZlRXaEpSalJqZEhWMk9Ga3RZVTltU2xGa2MwSjJhVlkxVVRZeE1qWkpVRXBVY0hKVlExTktVVFZIWVU5WE5VVkdPR3hoU2xCRk5YUTFXVUV4Tm1Gc0xWTmlSMVZVTjFOTVpVazVUbUZyZFVrM1kyWTFRelV4ZVZwVk1HaFpkbmR3WVhwaU5GcE9Wa05xY21sSloyeFhZVWR4UzI0eVltUllSR0ZST1hCT1NsUmtUbHBqV0V0R0xXcFBNalJ6UVVGTlV6bHBkbXBPYjBocVVVZFpaV3B0YUZWeU1scEhPWFY0TVZwVWVUSlVibkZtYW10YVFUaE9FaGRwY21zNVdrbHhVVTUyTW5FMVRtOVFhM0UyZGkxQk5Cb2lRVTh0TUhKc05tWkpOR2xNTmxCRFRHOXlSRU15VW1SamJWUkxRa2ROTVdsc1FRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBJbkNvbW0gUGF5bWVudHMgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2pvYnMuaW5jb21tcGF5bWVudHMuY29tL2VuZ2luZWVyaW5nL2pvYnMvMTQ3NDY/bGFuZz1lbi11c1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Sr. Data Analyst, Marketing Operations",
+            "company_name": "Cox Enterprises",
+            "location": "  United States   (+26 others)   ",
+            "via": "via Cox Careers - Cox Enterprises",
+            "description": "The Sr. Data Analyst, Marketing Operations will report to the Director of Marketing Operations and is responsible for designing and creating key operational reporting and dashboards for marketing execution and customer communication delivery processes. This role will be critical for defining and building metrics that enable the team to measure and improve capacity planning, backlog... prioritization, execution SLAs, deliverable quality, and budget tracking. This is a terrific opportunity to drive tangible changes that will improve our speed to market, maximize business value, and ensure quality implementations of the 550M+ customer communications we send annually.\n\nThere is an ongoing need to prioritize and assign the work as an integral part of the campaign planning function. The reporting provided by this role will ensure efficient use of vendor services and internal delivery capacity (Execution, Targeting, CommsTech, Technology, and Analytics). Additionally, there is a need to perform orchestration and targeting sizing that this role would be uniquely positioned to support, allowing the Targeting team to focus on campaign execution and quality assurance. This role will also optimize and update reports as business needs evolve.\n\nResponsibilities & Essential Functions \u202f \u202f\n\u2022 Data drives results: This role is critical to identify and bring forward workflow efficiencies and opportunities for improvements through operational data results and trends\n\u2022 Partners with leaders and key stakeholders to research and design metrics that will effectively measure delivery capacity, efficiency, SLAs, quality, budget, and other key operational areas\n\u2022 Identifies data sources required to produce operational metrics; develops database logic to extract required information for reporting\n\u2022 Designs, implements, and automates dashboards and reports to facilitate data review and analysis\n\u2022 Ongoing monitoring and reporting on team and vendor capacity, allowing prioritization and/or resource readiness\n\u2022 Ongoing monitoring and reporting on cross communication efforts and orchestration effectiveness (Identifies areas of improvement for optimal customers experiences as they relate to communications they receive \u2013 orchestration tracking, optimization should result in lower comms deployments, but higher engagement)\n\u2022 Maintains reporting on daily project execution, monitoring on time, delayed, and cancelled (with dispositioning reasons)\n\u2022 Creates internal operational reports for team, tracking productivity instrumental in goal defining and setting\n\u2022 Supports efforts to distill data and reporting data into meaningful and actionable insights\n\u2022 Ensures data availability and proactively communicates with clients on data delays and issues; triage upstream systems and databases for issues and partners with technology teams to facilitate resolution\n\nRequirements \u202f\n\nMinimum\n\u2022 BA/BS degree and 4 years of related experience, OR MS degree and 2 years of related experience, OR Ph.D and up to 1 years of related experience OR High school diploma/GED and 8 years of related experience\n\u2022 Experience in database languages and business intelligence tools (Oracle SQL, Tableau, MicroStrategy, etc.); exposure to collaborative work management tools preferred (Workfront, Jira, etc.)\n\u2022 Creative thinker offering innovative and out-of-the-box solutions to complex and ambiguous problems\n\u2022 Ability to independently execute analysis process and deliver actionable insights to the organization\n\u2022 Effective communication and presentation skills with the ability to successfully comprehend and communicate business insights and resulting implications to non-technical business partners and leaders\n\u2022 Demonstrated ability to work with a sense of urgency\n\u2022 Strong work ethic with the ability to adapt to situations, be flexible, resourceful, and nimble in terms of work planning, and the ability to think quickly on your feet\n\u2022 Ability to foster and work in an inclusive environment\n\nPreferred\n\u2022 Bachelor\u2019s degree in Business Analytics, Computer Science, Marketing, related discipline\n\u2022 Experience in the telecommunications industry",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BA/BS degree and 4 years of related experience, OR MS degree and 2 years of related experience, OR Ph.D and up to 1 years of related experience OR High school diploma/GED and 8 years of related experience",
+                        "Creative thinker offering innovative and out-of-the-box solutions to complex and ambiguous problems",
+                        "Ability to independently execute analysis process and deliver actionable insights to the organization",
+                        "Effective communication and presentation skills with the ability to successfully comprehend and communicate business insights and resulting implications to non-technical business partners and leaders",
+                        "Demonstrated ability to work with a sense of urgency",
+                        "Strong work ethic with the ability to adapt to situations, be flexible, resourceful, and nimble in terms of work planning, and the ability to think quickly on your feet",
+                        "Ability to foster and work in an inclusive environment"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Data Analyst, Marketing Operations will report to the Director of Marketing Operations and is responsible for designing and creating key operational reporting and dashboards for marketing execution and customer communication delivery processes",
+                        "This role will be critical for defining and building metrics that enable the team to measure and improve capacity planning, backlog prioritization, execution SLAs, deliverable quality, and budget tracking",
+                        "This is a terrific opportunity to drive tangible changes that will improve our speed to market, maximize business value, and ensure quality implementations of the 550M+ customer communications we send annually",
+                        "There is an ongoing need to prioritize and assign the work as an integral part of the campaign planning function",
+                        "The reporting provided by this role will ensure efficient use of vendor services and internal delivery capacity (Execution, Targeting, CommsTech, Technology, and Analytics)",
+                        "Additionally, there is a need to perform orchestration and targeting sizing that this role would be uniquely positioned to support, allowing the Targeting team to focus on campaign execution and quality assurance",
+                        "This role will also optimize and update reports as business needs evolve",
+                        "Responsibilities & Essential Functions",
+                        "Data drives results: This role is critical to identify and bring forward workflow efficiencies and opportunities for improvements through operational data results and trends",
+                        "Partners with leaders and key stakeholders to research and design metrics that will effectively measure delivery capacity, efficiency, SLAs, quality, budget, and other key operational areas",
+                        "Identifies data sources required to produce operational metrics; develops database logic to extract required information for reporting",
+                        "Designs, implements, and automates dashboards and reports to facilitate data review and analysis",
+                        "Ongoing monitoring and reporting on team and vendor capacity, allowing prioritization and/or resource readiness",
+                        "Ongoing monitoring and reporting on cross communication efforts and orchestration effectiveness (Identifies areas of improvement for optimal customers experiences as they relate to communications they receive \u2013 orchestration tracking, optimization should result in lower comms deployments, but higher engagement)",
+                        "Maintains reporting on daily project execution, monitoring on time, delayed, and cancelled (with dispositioning reasons)",
+                        "Creates internal operational reports for team, tracking productivity instrumental in goal defining and setting",
+                        "Supports efforts to distill data and reporting data into meaningful and actionable insights",
+                        "Ensures data availability and proactively communicates with clients on data delays and issues; triage upstream systems and databases for issues and partners with technology teams to facilitate resolution"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Cox+Enterprises&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAIIoAs",
+                    "text": "See web results for Cox Enterprises"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBBbmFseXN0LCBNYXJrZXRpbmcgT3BlcmF0aW9ucyIsImh0aWRvY2lkIjoiQ3AwZGZmcXMzQ1VBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VWbDBURUV6T1U5U1YwZFhSVE5tTWtGcWQwdGlWSEI0ZGxKTFNXRkNkMDVHY1UxVlIxVTJhVlZKY2pCS2QxZG5SVFpZWlhGSlRqbHdRM0JCU1VKV1ZrVlRUVmN6ZEdWRk5HbEVPR1I1VGxOdmVuVkthMXA0TW1SbFRVbEJNaTFXYzNock9HNUJiV1p1YW1oVU9ETkxjM1owVVdack5IQlJUMVJvUkhZeE9IRjJUVEJMWkVGaU5rMDFYemxvWTBneVlqSmFOWGhGWWpGS1RqWTBka0l3U1hWdlZVOU5WWGxxV21WcVFUQmtaVFJIU3pRNGFIWnhhazlwZWxka1pWWmtVelpaU1ZKd1VpMXhUM3BtVW5ab2FGOURhM2xCVEVGdGNtODVaeElYYVhKck9WcEpjVkZPZGpKeE5VNXZVR3R4Tm5ZdFFUUWFJa0ZQTFRCeWJEZHpNMUJyVWpOdGRVRXdZbTl0Y0MxNFRFWmxjRXh6YTJkWlNGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ294IENhcmVlcnMgLSBDb3ggRW50ZXJwcmlzZXMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmNveGVudGVycHJpc2VzLmNvbS9lbi9qb2JzL2pvYi9yMjAyMjEwNjYzLXNyLWRhdGEtYW5hbHlzdC1tYXJrZXRpbmctb3BlcmF0aW9ucy8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Analyst",
+            "company_name": "Atmosfy, Inc",
+            "location": " Anywhere ",
+            "via": "via Glassdoor",
+            "description": "A BIT ABOUT YOU:\n\nYou're passionate and extremely motivated. You've got an ambitious spirit at heart. You're resourceful, innovative, forward-thinking, and committed. And of course (because we're Atmosfy after all!) you absolutely love travel, discovering new restaurants, nightlife, and experiences. If this sounds like you then read on friend...\n\nAs a Data Analyst at Atmosfy, you are responsible for conducting analysis to support the Product Team. In this role, you will be responsible for developing insights for the product roadmap, leading research and KPI strategies, to generate tangible insights in support of the execution of the roadmap. You are a fierce ambitious thinker with a passion for inspiring quality, innovation, and continuous improvement. This is a 100% remote, flexible role.\n\nCompensation:\n\n$60,000 - $90,000 yearly\n\nResponsibilities:\n\nWHAT YOU'LL LEAD:\n\u2022 You will be responsible for owning end-to-end dashboard development including requirement gathering.\n\u2022 Monitor & maintain existing dashboards in production\n\u2022 Identify opportunities and influence partners to act: Provide insights to the leadership team on the impact of strategic initiatives on the key metrics\n\u2022 Drive self-serve and data literacy: democratize data by building and socializing decision tools (dashboards, reports); build key data sets/pipelines to empower operational and exploratory analysis\n\u2022 Define, implement and standardize metrics, reports, and dashboards\n\nQualifications:\n\nWHAT WE'RE LOOKING FOR?\n\u2022 Bachelor's degree in MIS, Business, Finance, or a related field, or equivalent experience\n\u2022 1+ years of working experience in data, analytics, or other relevant roles\n\u2022 Must be highly proficient in SQL and Excel\n\u2022 Amplitude experience is preferred\n\u2022 Experience in requirement gathering & process documentation\n\u2022 Ability to work cross-functionally in a fast-paced & rapidly changing environment\n\u2022 Ability to tell stories with data, educate effectively, and instill confidence, motivating stakeholders to act on recommendations\n\u2022 Ability to influence business decisions and utilize data at the leadership level\n\nPERKS & BENEFITS\n\u2022 Completely remote, flexible work schedule\n\u2022 Unlimited Vacation, Paid Sick Days & Holidays\n\u2022 Employee Covered Medical, Dental, Vision Plan Base Plan\n\u2022 Dining/Nightlife Stipend\n\u2022 Company Events\n\nAbout Company\n\nWe are Atmosfy.\n\nAnd we're the fastest growing platform globally for live video of dining and nightlife - that shows you what's happening in your city in real-time. More than that, though - we help support local businesses globally by sharing unique experiences through video. How cool is that? We help people in more than 150 countries and 10,000+ cities discover the world's best experiences.\n\nOur team draws on talented people who have worked at best-in-class companies such as Instagram, Google, and Netflix. We are funded by world-class investors.\n\nCheck us out on the App Store or Google Play to learn more about our mission to share experiences, inspire others, and support local businesses around the world",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You're passionate and extremely motivated",
+                        "You've got an ambitious spirit at heart",
+                        "You're resourceful, innovative, forward-thinking, and committed",
+                        "Bachelor's degree in MIS, Business, Finance, or a related field, or equivalent experience",
+                        "1+ years of working experience in data, analytics, or other relevant roles",
+                        "Must be highly proficient in SQL and Excel",
+                        "Experience in requirement gathering & process documentation",
+                        "Ability to work cross-functionally in a fast-paced & rapidly changing environment",
+                        "Ability to tell stories with data, educate effectively, and instill confidence, motivating stakeholders to act on recommendations",
+                        "Ability to influence business decisions and utilize data at the leadership level"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Data Analyst at Atmosfy, you are responsible for conducting analysis to support the Product Team",
+                        "In this role, you will be responsible for developing insights for the product roadmap, leading research and KPI strategies, to generate tangible insights in support of the execution of the roadmap",
+                        "You will be responsible for owning end-to-end dashboard development including requirement gathering",
+                        "Monitor & maintain existing dashboards in production",
+                        "Identify opportunities and influence partners to act: Provide insights to the leadership team on the impact of strategic initiatives on the key metrics",
+                        "Drive self-serve and data literacy: democratize data by building and socializing decision tools (dashboards, reports); build key data sets/pipelines to empower operational and exploratory analysis",
+                        "Define, implement and standardize metrics, reports, and dashboards"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$60,000 - $90,000 yearly",
+                        "Completely remote, flexible work schedule",
+                        "Unlimited Vacation, Paid Sick Days & Holidays",
+                        "Employee Covered Medical, Dental, Vision Plan Base Plan",
+                        "Dining/Nightlife Stipend",
+                        "Company Events"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://atmosfy.io/",
+                    "text": "atmosfy.io"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Atmosfy,+Inc&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAII6As",
+                    "text": "See web results for Atmosfy, Inc"
+                }
+            ],
+            "extensions": [
+                "18 days ago",
+                "60K\u201390K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "schedule_type": "Full-time",
+                "salary": "60K\u201390K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImstMTdVS3BZNGI0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VMWRNVldSbWQwb3lNRmRwTnpWRGJsaGlXVEJIWVVOSFFuTmhhbUpQUms1Q1dGTjBla3h2WTBNMFpHTnpUbmhwV21kTlFVVmxaWEZXWkdVelpWRnlYM1Z3ZFZFMGVVTlBUMmRSUzFkWFRUSmZjMmswUlVRM1RWQlBVM2g0Um0xaldGUnZWR2RSYzBsSU5FZElPVXBoV1Y5V1p6TkRia2hCZGs1VFlrc3hXRFpOYkVKYWVYZGhRV3RuTmpJMVgwd3RPSGxzV2pVd1QxQnljVWRwWTJkd2EyTTFkakpNVTBORk9FNXRhVkIxTTIwd0VoZHBjbXM1V2tseFVVNTJNbkUxVG05UWEzRTJkaTFCTkJvaVFVOHRNSEpzTjA1UGVFUm5jMXA1V1VaNlNVaERWblZrUTFRM1pHdFVlSGgxVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEdsYXNzZG9vciIsImxpbmsiOiJodHRwczovL3d3dy5nbGFzc2Rvb3IuY29tL2pvYi1saXN0aW5nL2RhdGEtYW5hbHlzdC1hdG1vc2Z5LUpWX0tPMCwxMl9LRTEzLDIwLmh0bT9qbD0xMDA4MjQ1NDgyMDA4XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Analyst",
+            "company_name": "Life.Church",
+            "location": "  Edmond, OK   ",
+            "via": "via Lever",
+            "description": "The Financial Data Analyst is primarily responsible for providing data analysis via data visualizations.\n\nAt Life.Church, we exist to lead people to become fully devoted followers of Christ. It\u2019s been our mission since 1996 and has guided us every day. Leading people isn\u2019t just an expectation; it\u2019s a necessity. It\u2019s a cornerstone of our culture. That's why we\u2019re always seeking leaders\u2014leaders... like you\u2014to bring your skills to life. We are one church meeting in multiple locations, and we want to help you become the person God made you to be.\n\nThe Finance Team partners with the organization to facilitate the financial reporting needs of Life.Church, including payroll, accounts payable, giving operations, accounting, forecasting, and data analytics. We equip the organization with the tools needed to plan for, understand, and steward the resources God has provided for our ministry.\n\nThe Financial Data Analyst will use SQL and other programming languages to query, summarize, and analyze key metrics and develop data visualizations for the Financial Operations Group (FOG) in support of Life.Church and YouVersion. This position ensures data integrity and provides technical support & maintenance across all FOG systems. The Financial Data Analyst acts as an advocate and vital technical resource for all FOG teams through implementing new processes and maintaining operational integrity in partnership with both internal departments and external service providers or vendors.\n\nWhat You'll Do\n\u2022 Manage and ensure the functionality of key systems used by the Finance team (Coupa, Sage Intacct, Tableau, etc.).\n\u2022 Develop reports and dashboards in Tableau that answer business operation questions submitted by leadership.\n\u2022 Regularly review and identify insights from financial data stored in various forms (SQL tables, analytics tools, spreadsheets, etc.).\n\u2022 Communicate insights and recommendations in a clear, succinct, and action-oriented format.\n\u2022 Develop new, reinvent existing, add features to, and optimize data structure for new and existing data analytics in Tableau.\n\u2022 Provide internal technical support and act as the main point of contact for external contact support.\n\u2022 Develop and train the team on process improvement initiatives to drive efficiency Properly document system processes and procedures to ensure successful knowledge transfer.\n\nSkills Needed to Succeed\n\u2022 SQL, Python, Tableau or other related programming language and data visualization skills and experience.\n\u2022 Insatiable curiosity.\n\u2022 Strong statistical, analytical, and reasoning skills.\n\u2022 Excellent verbal, written, and interpersonal communication skills to maintain relationships and partnerships.\n\u2022 Ability to self-motivate, take initiative, make independent decisions, and problem-solve.\n\u2022 Ability to collaborate in a team environment and work independently.\n\u2022 Bachelor\u2019s degree in related field.\n\u2022 1-3 years of related work experience.\n\nBenefits We Offer\n\u2022 Paid parental leave, including maternity, paternity, and adoption leave.\n\u2022 Generous employer-paid leave for the use of vacation, sick time, and other qualifying reasons.\n\u2022 Innovative and comprehensive Medical, Dental, and Vision insurance that provides team members with useful resources and savings to navigate their holistic health.\n\u2022 Life insurance policy provided for all staff members at 2x annual salary at no cost. Additional life insurance coverage is available to purchase.\n\u2022 Short-Term and Long-Term disability covered at 100% for full-time qualified staff members.\n\u2022 Comprehensive wellness and mental health benefits allow staff to proactively invest in their physical and emotional health.\n\u2022 Generous 401(k) retirement plan allowing a team member to have up to 12.5% (including employee contribution, employer match, and employer discretionary contribution) contributed into their account in their first year. It doesn\u2019t stop there\u2014the more years on staff, the greater the investment!\n\u2022 $160 annually in development dollars for team members to invest in their professional growth.\n\u2022 Casual dress and work environment.\n\u2022 Flexible work schedule.\n\u2022 And much more!\n\nOur Beliefs, Culture, and Commitment to Diversity\n\nAt Life.Church, every staff member, and intern is a minister and is expected to engage in the church's ministry fully. We consider ministry readiness and an individual\u2019s capacity to represent Life.Church\u2019s beliefs as a minister during the selection process for all staff and intern positions. An essential function within every position held by a staff member or intern at Life.Church is to uphold and represent the beliefs of Life.Church. Learn more about what we believe at Life.Church.\n\nWhile we unite around our mission, we know unity doesn\u2019t mean uniformity. Our calling is too great, and our mission is too important not to be intentional about strengthening our team through diversity. We know that diverse perspectives in race, ethnicity, background, age, and gender are essential to reaching the world for Christ. To learn more about how we strengthen our team through diversity, visit our careers page.\n\nAll data collected in our application process, from resume collection to application questions, is used for recruitment purposes only",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "SQL, Python, Tableau or other related programming language and data visualization skills and experience",
+                        "Insatiable curiosity",
+                        "Strong statistical, analytical, and reasoning skills",
+                        "Excellent verbal, written, and interpersonal communication skills to maintain relationships and partnerships",
+                        "Ability to self-motivate, take initiative, make independent decisions, and problem-solve",
+                        "Ability to collaborate in a team environment and work independently",
+                        "Bachelor\u2019s degree in related field",
+                        "1-3 years of related work experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Finance Team partners with the organization to facilitate the financial reporting needs of Life.Church, including payroll, accounts payable, giving operations, accounting, forecasting, and data analytics",
+                        "We equip the organization with the tools needed to plan for, understand, and steward the resources God has provided for our ministry",
+                        "The Financial Data Analyst will use SQL and other programming languages to query, summarize, and analyze key metrics and develop data visualizations for the Financial Operations Group (FOG) in support of Life",
+                        "This position ensures data integrity and provides technical support & maintenance across all FOG systems",
+                        "The Financial Data Analyst acts as an advocate and vital technical resource for all FOG teams through implementing new processes and maintaining operational integrity in partnership with both internal departments and external service providers or vendors",
+                        "Manage and ensure the functionality of key systems used by the Finance team (Coupa, Sage Intacct, Tableau, etc.)",
+                        "Develop reports and dashboards in Tableau that answer business operation questions submitted by leadership",
+                        "Regularly review and identify insights from financial data stored in various forms (SQL tables, analytics tools, spreadsheets, etc.)",
+                        "Communicate insights and recommendations in a clear, succinct, and action-oriented format",
+                        "Develop new, reinvent existing, add features to, and optimize data structure for new and existing data analytics in Tableau",
+                        "Provide internal technical support and act as the main point of contact for external contact support",
+                        "Develop and train the team on process improvement initiatives to drive efficiency Properly document system processes and procedures to ensure successful knowledge transfer"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Paid parental leave, including maternity, paternity, and adoption leave",
+                        "Generous employer-paid leave for the use of vacation, sick time, and other qualifying reasons",
+                        "Innovative and comprehensive Medical, Dental, and Vision insurance that provides team members with useful resources and savings to navigate their holistic health",
+                        "Life insurance policy provided for all staff members at 2x annual salary at no cost",
+                        "Additional life insurance coverage is available to purchase",
+                        "Short-Term and Long-Term disability covered at 100% for full-time qualified staff members",
+                        "Comprehensive wellness and mental health benefits allow staff to proactively invest in their physical and emotional health",
+                        "Generous 401(k) retirement plan allowing a team member to have up to 12.5% (including employee contribution, employer match, and employer discretionary contribution) contributed into their account in their first year",
+                        "$160 annually in development dollars for team members to invest in their professional growth",
+                        "Casual dress and work environment",
+                        "Flexible work schedule",
+                        "And much more!"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Life.Church&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAIIsQw",
+                    "text": "See web results for Life.Church"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InpmbU9rS3YyQnFRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VekJETXpjMVVuUmZNVFpzTW1Jd1puTkdka1F4ZGpnelVrVkJiM1Z5VnpWeWRFaHJVVE5DV1hwdFYxUTNPVjlwWXpoV1JHaFJjbG96U0cxWlEwczBjVWN3WDAxRVNFbE9aMUJuUzBZeGFEa3pTak5QUWtkQmNYbGtVVTlFZUVSNmNYSTBUR1JrUlhacVJteHFRV2x0YVUxdVZXTlpOa3RKZWt0WE5uQXdiRUY2YkZOTWMyeG1aR1I0WTJwNlVrVnlUM2h4U0VjeVRWQXlkRkpRVXpodFVEQXlXR1J3YmsxSWRtRndhbHBqVjBwQkVoZHBjbXM1V2tseFVVNTJNbkUxVG05UWEzRTJkaTFCTkJvaVFVOHRNSEpzTlY5cmIyOXpSRTlZVVMwNGRFVkZPR2RDY3kxRk5rcGxTMG8yUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMZXZlciIsImxpbmsiOiJodHRwczovL2pvYnMubGV2ZXIuY28vbGlmZS84OTU4YTBiNi1iZDM3LTQ3NmEtYjQzMi0xYzZhZWIwZWYxODE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior Data Analyst (eDiscovery Manager)",
+            "company_name": "Walmart",
+            "location": "  Bentonville, AR   ",
+            "via": "via Walmart Careers",
+            "description": "Position Summary...\n\nWhat you'll do...\n\nAre you ready to join a team that supports eDiscovery case work for the world\u2019s largest retailer? The eDiscovery manager role is a part of the Global Governance Strategy, Risk & Operations team supporting Global Investigations, Government Investigations, Workplace Investigations, Legal Investigations, and other investigative bodies within the Walmart organization. This role includes the execution of investigation case workflows, electronically stored information (ESI) policies, protocols, procedures, systems, and management of the eDiscovery investigative lifecycle. This position will also heavily focus on Relativity project management support for Walmart\u2019s diverse investigations portfolio, interaction with Walmart\u2019s outside counsel ecosystem, and collaboration with members of Walmart global cross-functional Information Technology teams who support the ESI collection process for investigative matters.\n\nYou\u2019ll make an impact by:\n\u2022 You have practical and real-world experience with Relativity.\n\u2022 You can support a team of investigators or attorneys with workflow design, case-level support, reporting, and portfolio management activities.\n\u2022 You have practical and real-world experience providing consultative services to support the entire EDRM, including advising on approaches for eDiscovery scoping and developing review strategies.\n\u2022 You have strong presentation, verbal and written communication skills and can confidently interact with senior leadership and stakeholders.\n\u2022 You leverage technology tools to identify trends, risks, business needs, and performance barriers.\n\u2022 You can conduct technical training and maintain technical workflow documentation.\n\u2022 You can balance a substantial workload with advanced soft skills such as time management, prioritization, organization, communication, adaptability, critical thinking, creativity, teamwork, leadership, work ethic, and self-awareness.\n\nYou\u2019ll sweep us off our feet if\u2026\n\u2022 You have experience with RelOne.\n\u2022 You hold Relativity-specific certifications.\n\u2022 You have experience with eDiscovery industry tools (for example, Relativity/RelOne, Nuix, iPro, Brainspace, EnCase) and can perform technical troubleshooting within these tools to resolve any questions or errors within the data set.\n\u2022 You have experience executing advanced unstructured data analytics (for example, conceptual searches, categorization, machine learning algorithms).\n\u2022 You can develop a review protocol and an efficient review workstream with or without the help of a managed document review team.\n\u2022 You are comfortable building relationships, working collaboratively, and leveraging internal partnerships.\n\u2022 You are process-minded and actively seek out opportunities for improved efficiency.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role.\u202f It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\u202f\n\n\u202f\n\nBenefits & Perks:\n\nBeyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer\n\nWalmart, Inc. is an Equal Opportunity Employer \u2013 By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions \u2013 while being inclusive of all people.\n\nWho We Are\n\nJoin Walmart and your work could help over 275 million global customers live better every week. Yes, we are the Fortune #1 company. But you\u2019ll quickly find we\u2019re a company who wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world\u2019s most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement. From day one, you\u2019ll be empowered and equipped to do the best work of your life.\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Arts, Finance or related field and 2 years' experience in data analysis, data science, statistics, or related field. Option 2: Master's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field. Option 3: 4 years' experience in data analysis, data science, statistics, or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, data analysis, statistics, or related field, Master\u2019s degree in Business, Computer Science, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field, Related industry experience (for example, retail, merchandising, healthcare, eCommerce), Successful completion of assessments in data analysis and Business Intelligence tools and scripting languages (for example, SQL, Python, Spark, Scala, R, Power BI, or Tableau)\n\nPrimary Location...\n702 SW 8TH ST, BENTONVILLE, AR 72716, United States of America",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You have practical and real-world experience with Relativity",
+                        "You have strong presentation, verbal and written communication skills and can confidently interact with senior leadership and stakeholders",
+                        "You leverage technology tools to identify trends, risks, business needs, and performance barriers",
+                        "You hold Relativity-specific certifications",
+                        "You have experience with eDiscovery industry tools (for example, Relativity/RelOne, Nuix, iPro, Brainspace, EnCase) and can perform technical troubleshooting within these tools to resolve any questions or errors within the data set",
+                        "You have experience executing advanced unstructured data analytics (for example, conceptual searches, categorization, machine learning algorithms)",
+                        "You can develop a review protocol and an efficient review workstream with or without the help of a managed document review team",
+                        "You are comfortable building relationships, working collaboratively, and leveraging internal partnerships",
+                        "Option 1: Bachelor's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Arts, Finance or related field and 2 years' experience in data analysis, data science, statistics, or related field",
+                        "Data science, data analysis, statistics, or related field, Master\u2019s degree in Business, Computer Science, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field, Related industry experience (for example, retail, merchandising, healthcare, eCommerce), Successful completion of assessments in data analysis and Business Intelligence tools and scripting languages (for example, SQL, Python, Spark, Scala, R, Power BI, or Tableau)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role includes the execution of investigation case workflows, electronically stored information (ESI) policies, protocols, procedures, systems, and management of the eDiscovery investigative lifecycle",
+                        "This position will also heavily focus on Relativity project management support for Walmart\u2019s diverse investigations portfolio, interaction with Walmart\u2019s outside counsel ecosystem, and collaboration with members of Walmart global cross-functional Information Technology teams who support the ESI collection process for investigative matters",
+                        "You can support a team of investigators or attorneys with workflow design, case-level support, reporting, and portfolio management activities",
+                        "You have practical and real-world experience providing consultative services to support the entire EDRM, including advising on approaches for eDiscovery scoping and developing review strategies",
+                        "You can conduct technical training and maintain technical workflow documentation"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Beyond competitive pay, you can receive incentive awards for your performance",
+                        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.walmart.com/",
+                    "text": "walmart.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Walmart&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAII9ww",
+                    "text": "See web results for Walmart"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IChlRGlzY292ZXJ5IE1hbmFnZXIpIiwiaHRpZG9jaWQiOiJjNER5ODljbTNxOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVTFkRVVEZFRhblU1YTNOcFdFaDViVWMzTlRWcFNVOUhkMmt0TTB3d2FqVjZVRWd3VDNSSFRFOHhTMHBOVFc1bE5VNDRTVnBrVW13NU5WQmpjbU5aYzAxWmJ6VnJObWwwT1hCck5XRkJjV3M1WDBwTFNFdDZkR3N4YzBGT1gxTk1aV2QyYTNCMmFURnpUR3g1Y1doWVQxQm9kekZTYTNoRVJXZHZVRFZYYW5oSUxVUjNRaTFSWWkxdVJVSkJUbG95U1dSQlZXcGZTbEJvVVhJM1UzTkdkbVJDVG5OdFFUWlhjMlp3YVhCUk1EUkJRbE5WUWt4WWJHbG1kRGxvV201TWRXZEVSbXA1RWhkcGNtczVXa2x4VVU1Mk1uRTFUbTlRYTNFMmRpMUJOQm9pUVU4dE1ISnNObkZHTUU5UWNYWmhWV05PYW5kUWQySnJUblpoWkZGTVlYcFhVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdhbG1hcnQgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2FsbWFydC5jb20vdXMvam9icy9XRDE0NzIzNjktc2VuaW9yLWRhdGEtYW5hbHlzdC1lZGlzY292ZXJ5LW1hbmFnZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Analyst II",
+            "company_name": "Lockton Companies",
+            "location": "  Kansas City, MO   ",
+            "via": "via ZipRecruiter",
+            "description": "Description:\n\nWe are looking for a data analyst who will adhere to our reporting initiatives to deliver timely, relevant information to stakeholders. The ideal candidate will be motivated, results-driven, flexible, detail-oriented, and collaborative. Our fast-paced environment has a supportive culture that values autonomy, initiative, and personal accountability...\n\nJob Duties:\n\nPrepare standard and ad hoc health management reports for presentation by client teams.\n\nWork collaboratively to ensure reporting that is accurate, timely, and of high quality.\n\nGenerate benchmark data on a requested basis.\n\nDevelop and support new analytical tools and reports, primarily using SQL and Tableau.\n\nResponsible for data consolidation, analysis, and business reporting.\n\nDevelops and maintains reports for stakeholders at all levels of the organization.\n\nProvides support to research teams or management by collecting and analyzing data and reporting results based on the needs of end users.\n\nMaintains data integrity and data processing efficiency by working to eliminate redundancy and applying best practice data stewardship techniques.\n\nStays informed of the ways the organization uses its data.\n\nRecognize data issues and work with data quality team to resolve problems.\n\nMust continuously be learning and staying abreast of technology advances.\n\nProvide exceptional customer service and adhere to the Lockton philosophies.\n\nRequirements:\n\nBachelor's degree required. Major in Mathematics, Statistics, Finance, Insurance, or Economics preferred.\n\nIntermediate knowledge and experience using SQL.\n\nKnowledge of Tableau and Power BI preferred.\n\nAdvanced knowledge and experience using MS Excel.\n\nUnderstand data sources, processes, formulas, and output.\n\nAbility to understand data integrity and correctness.\n\nPrevious experience working with claims data, CPT codes, and ICD-10 codes preferred.\n\nProven ability to manage multiple projects simultaneously.\n\nAptitude to develop unique, creative, and efficient work products.\n\nExcellent written and oral communication skills to effectively present information to associates at all levels of the Lockton organization.\n\nAssumes ownership for individual projects. Strong proactive style and self-motivated to actively seek solutions to problems without supervision.\n\nAbility to comply with all company policies and procedures, proactively protecting confidentiality of client and company information.\n\nQualifications:\n\u2022 Bachelor's degree required. Major in Actuarial Science, Mathematics, Statistics or Finance.\n\u2022 MS Excel experience required. In addition, experience using SQL and MS Access a plus.\n\u2022 Understands data sources, processes, formulas and output General knowledge of healthcare issues and their associated impacts on plan sponsors and plan members.\n\u2022 Ability to understand data integrity and correctness.\n\u2022 Excellent written and oral communication skills to effectively present information to Associates at all levels of the Lockton organization.\n\u2022 Strong proactive style.\n\u2022 Proven ability to manage multiple projects simultaneously.\n\u2022 Understands industry trends and governmental regulations\n\u2022 Ability to complete continuing education requirements as needed\n\u2022 Ability to attend company, department, and team meetings as required, including industry training sessions\n\u2022 Ability to comply with all company policies and procedures, proactively protecting confidentiality of Client and company information\n\u2022 Ability to efficiently organize work and manage time in order to meet deadlines\n\u2022 Ability to travel by automobile and aircraft\n\u2022 Ability to use office equipment such as a computer, keyboard, calculator, photocopier, and facsimile machine\n\u2022 Ability to work on a computer for a prolonged amount of time\n\u2022 Ability to work outside of normal business hours as needed\n\u2022 Legally able to work in the United States\n\nAdditional Information",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will be motivated, results-driven, flexible, detail-oriented, and collaborative",
+                        "Bachelor's degree required",
+                        "Intermediate knowledge and experience using SQL",
+                        "Advanced knowledge and experience using MS Excel",
+                        "Ability to understand data integrity and correctness",
+                        "Proven ability to manage multiple projects simultaneously",
+                        "Aptitude to develop unique, creative, and efficient work products",
+                        "Excellent written and oral communication skills to effectively present information to associates at all levels of the Lockton organization",
+                        "Major in Actuarial Science, Mathematics, Statistics or Finance",
+                        "MS Excel experience required",
+                        "Understands data sources, processes, formulas and output General knowledge of healthcare issues and their associated impacts on plan sponsors and plan members",
+                        "Strong proactive style",
+                        "Understands industry trends and governmental regulations",
+                        "Ability to complete continuing education requirements as needed",
+                        "Ability to attend company, department, and team meetings as required, including industry training sessions",
+                        "Ability to comply with all company policies and procedures, proactively protecting confidentiality of Client and company information",
+                        "Ability to efficiently organize work and manage time in order to meet deadlines",
+                        "Ability to travel by automobile and aircraft",
+                        "Ability to use office equipment such as a computer, keyboard, calculator, photocopier, and facsimile machine",
+                        "Ability to work on a computer for a prolonged amount of time",
+                        "Ability to work outside of normal business hours as needed",
+                        "Legally able to work in the United States"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Prepare standard and ad hoc health management reports for presentation by client teams",
+                        "Work collaboratively to ensure reporting that is accurate, timely, and of high quality",
+                        "Generate benchmark data on a requested basis",
+                        "Develop and support new analytical tools and reports, primarily using SQL and Tableau",
+                        "Responsible for data consolidation, analysis, and business reporting",
+                        "Develops and maintains reports for stakeholders at all levels of the organization",
+                        "Provides support to research teams or management by collecting and analyzing data and reporting results based on the needs of end users",
+                        "Maintains data integrity and data processing efficiency by working to eliminate redundancy and applying best practice data stewardship techniques",
+                        "Stays informed of the ways the organization uses its data",
+                        "Recognize data issues and work with data quality team to resolve problems",
+                        "Must continuously be learning and staying abreast of technology advances",
+                        "Provide exceptional customer service and adhere to the Lockton philosophies",
+                        "Ability to comply with all company policies and procedures, proactively protecting confidentiality of client and company information"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.lockton.com/",
+                    "text": "lockton.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Lockton+Companies&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAIIvQ0",
+                    "text": "See web results for Lockton Companies"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUkiLCJodGlkb2NpZCI6IjFBR29jN0tkSHRnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9WSHBWVTNOR2NYSmpPVGxpZG1kUU4ydHJVVXhSUVhSTFYxZEpiVWxpY0d4aU5IaEphWGx5VVcwMlVsbEZSbVo1YUZGZmMxcDRWWEJvWW5KR2FrWlRiVlZuT0hOWFZuZDNhV0pPVG5BdE4wMWxNV2haT0dOWVgyZEJWVkZ5WjB4eE4zVXpTV3hDYkU5NWFuZEZWREJEYTAxNFlWVnBjMjlRWWtrd1EzaElTekJ3VTFoc2EyaG5YekU0Y0hOcU0wWlFUMGhhY1ZWTVptUkdSbFZpT1dSQk4zVmlOSGR0ZW00MldVZGtSV2RGZUhaa1prTnBielJHZVRGcFVGQndNVUp4WDFoSlFUUnRFaGRwY21zNVdrbHhVVTUyTW5FMVRtOVFhM0UyZGkxQk5Cb2lRVTh0TUhKc05FTldTME10YVhCbFNraDBURVphUjNvNGFqaFBkM1EwVERsNlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9Mb2NrdG9uLUNvbXBhbmllcy9Kb2IvRGF0YS1BbmFseXN0LUlJLy1pbi1LYW5zYXMtQ2l0eSxNTz9qaWQ9MGYwZmU0NTQyYWRmMDYzY1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Analyst Advisor",
+            "company_name": "FedEx",
+            "location": "  United States   ",
+            "via": "via FedEx Careers",
+            "description": "Data Analyst Advisor \u2013 Job Description:\n\u2022 Designs and implements advanced processes and analytics associated with a wide variety of data sets used for data/text mining, analysis, and prediction to Enable informed business decisions.\n\u2022 Gains insight into key business problems and deliverables by applying highly technical analysis techniques to examine structured and unstructured data from multiple... disparate sources.\n\u2022 Provide insight from initial concept to fully tested production and communicates results to a broad range of audiences.\n\u2022 Effectively uses current and emerging technologies to evaluate trends and develop actionable insights and recommendations to management, via understanding of the business model and the information available for analysis.\n\u2022 Typically uses data, statistical and quantitative analysis, basic modeling, and fact-based management to drive decision making.\n\u2022 Mentors less senior staff.\n\u2022 Works in cross functional projects and programs.\n\u2022 Routinely presents to management.\n\nSkills considered a plus\n\u2022 Ability to analyze financial data and tell a results-driven story leveraging visualization tools\n\u2022 Strong data analytics experience\n\u2022 Able to consistently meet deadlines and self-manage through shifting priorities and demands\n\u2022 Enterprise data warehouse and subject oriented data marts, data lakes, etc., with full understanding of the fact/dimension design models\n\u2022 Alteryx, O365, and other automation tools\n\u2022 BI reporting tools including Tableau and Power BI\n\u2022 Oracle Cloud Financials knowledge\n\nMinimum Qualifications:\n\nBachelor's degree in information systems, computer science, or a quantitative discipline such as mathematics, engineering, operations research, economics or finance. Seven (7) years equivalent work experience in measurement and analysis, quantitative business problem solving, operations analysis, marketing analysis, simulation development and/or predictive analytics. Superior analytical skills with diverse analytics and statistical software and applications. Excellent interpersonal skills, written and oral communication Skills. Proven leadership skills.\n\nRelocation:\n\nRelocation assistance may be available based upon business needs.\n\nDomicile Location:\n\u2022 Preferred domicile location - Collierville, TN\n\nRemote Work:\n\nAbility to work remotely within the United States may be available based upon business needs\n\nAdditional InformationSalary Range Estimate: Monthly Salary: $6,151.93 - $12,187.25. This compensation range is provided as a reasonable estimate of the current starting salary range for this role. Factors that may be used to determine your actual salary may include your specific skills, your work location, how many years of experience you have, and comparison to other employees already in this role.\nUpload current copy of Resume (Microsoft Word or PDF format only) and answer job screening questionnaire by close of business (5:00pm CST) on the date below. If the date below is blank, there is no specified closing date for this requisition.\n\nEmployee Benefits: Medical, dental, and vision insurance; paid Life and AD&D insurance; tuition reimbursement; paid sick leave; paid parental leave, paid vacation, and additional paid time off; geographic pay ranges; 401K with Company match and incentive bonus potential; sales incentive compensation for selling roles.\n\nFedEx. Where now meets next.\n\nOur vision is to be the earth's most engaged advocates of connected commerce where open borders, new markets and fair, sustainable practices are the norm for the billions of personal supply chains being managed every day in our always on, mobile-first world. We stand for ease, access and opportunity. We lead purposeful innovation, champion entrepreneurs, advocate free trade and empower humans and their place in the era of autonomy and AI. We fight for our customers, a more sustainable planet and an ethical playing field.\n\nFedEx inspires its more than 570,000 team members to remain focused on safety, the highest ethical and professional standards and the needs of their customers and communities. FedEx is committed to connecting people and possibilities around the world responsibly and resourcefully, with a goal to achieve carbon-neutral operations by 2040.\n\nFedEx has been recognized on many different lists both for business success and for being a great employer:\n\u2022 Fortune \"World\u2019s Most Admired Companies\" \u2013 2021\n\u2022 Forbes \"Best Employers for Diversity\" - 2021\n\u2022 LinkedIn \"Top 100 Companies\" - 2021\n\u2022 TIME \"100 Most Influential Companies\" - 2021\n\u2022 World HRD Congress \"Best Gender Equality Workplace\" \u2013 2021\n\u2022 InsiderPro ComputerWorld \"Best Places to Work for IT\" \u2013 2021\n\nFedEx Services is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetics disability, or protected Veteran status.\n\nFedEx Services does not discriminate against qualified individuals with disabilities in regard to job application procedures, hiring, and other terms and conditions of employment. Further, FedEx Services is prepared to make reasonable accommodations for the known physical or mental limitations of an otherwise qualified applicant or employee to enable the applicant or employee to be considered for the desired position, to perform the essential functions of the position in question, or to enjoy equal benefits and privileges of employment as are enjoyed by other similarly situated employees without disabilities, unless the accommodation will impose an undue hardship. If a reasonable accommodation is needed, please contact recruitmentsupport@fedex.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ability to analyze financial data and tell a results-driven story leveraging visualization tools",
+                        "Strong data analytics experience",
+                        "Able to consistently meet deadlines and self-manage through shifting priorities and demands",
+                        "Enterprise data warehouse and subject oriented data marts, data lakes, etc., with full understanding of the fact/dimension design models",
+                        "Alteryx, O365, and other automation tools",
+                        "BI reporting tools including Tableau and Power BI",
+                        "Oracle Cloud Financials knowledge",
+                        "Bachelor's degree in information systems, computer science, or a quantitative discipline such as mathematics, engineering, operations research, economics or finance",
+                        "Seven (7) years equivalent work experience in measurement and analysis, quantitative business problem solving, operations analysis, marketing analysis, simulation development and/or predictive analytics",
+                        "Superior analytical skills with diverse analytics and statistical software and applications",
+                        "Excellent interpersonal skills, written and oral communication Skills",
+                        "Proven leadership skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Designs and implements advanced processes and analytics associated with a wide variety of data sets used for data/text mining, analysis, and prediction to Enable informed business decisions",
+                        "Gains insight into key business problems and deliverables by applying highly technical analysis techniques to examine structured and unstructured data from multiple disparate sources",
+                        "Provide insight from initial concept to fully tested production and communicates results to a broad range of audiences",
+                        "Effectively uses current and emerging technologies to evaluate trends and develop actionable insights and recommendations to management, via understanding of the business model and the information available for analysis",
+                        "Typically uses data, statistical and quantitative analysis, basic modeling, and fact-based management to drive decision making",
+                        "Mentors less senior staff",
+                        "Works in cross functional projects and programs",
+                        "Routinely presents to management"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Additional InformationSalary Range Estimate: Monthly Salary: $6,151.93 - $12,187.25",
+                        "This compensation range is provided as a reasonable estimate of the current starting salary range for this role",
+                        "Factors that may be used to determine your actual salary may include your specific skills, your work location, how many years of experience you have, and comparison to other employees already in this role",
+                        "Employee Benefits: Medical, dental, and vision insurance; paid Life and AD&D insurance; tuition reimbursement; paid sick leave; paid parental leave, paid vacation, and additional paid time off; geographic pay ranges; 401K with Company match and incentive bonus potential; sales incentive compensation for selling roles"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.fedex.com/",
+                    "text": "fedex.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=FedEx&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAIIhA4",
+                    "text": "See web results for FedEx"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "6,151.93\u201312,187.25 a month",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time",
+                "salary": "6,151.93\u201312,187.25 a month"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgQWR2aXNvciIsImh0aWRvY2lkIjoiWjBfZzJleHZUWThBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQkNxSUJRVVZ6TjJwT1VXVjZObXh2VUMwemJFRkphME5FYjFkVVdsOHRTa2xzVUZaa01qQlNSREJWVmxrdFlWUjZkVzB0UlVWbGN6VkhTWFp5YkhVMlowRkRVVmd3TWkxdmJuVm5XRWxhVjJVemRWSjJSa3hITldkTmJVUkdTbFZJVjBWcWFUVkhWemQ2TTFObldFTm9hVU5QZWpSNE4za3ROWFk0YUdadWEyaFdaWFpPT1dWd1V6QmpRV2RuVkhKeWFUUXRaa05KWW1oMlgyeGFWVk5ZUVhkUVEyRkJFaGRwY21zNVdrbHhVVTUyTW5FMVRtOVFhM0UyZGkxQk5Cb2lRVTh0TUhKc05YZHNVaTFtZUZkMU1VSTNYekIyZEY5aVJITnpZVEJDUkhOdWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gRmVkRXggQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuZmVkZXguY29tL2pvYnMvUkM2MTYxNDc/bGFuZz1lbi11c1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Analyst/Drilling Engineering Technician",
+            "company_name": "Airswift",
+            "location": "  Oklahoma City, OK   ",
+            "via": "via Airswift",
+            "description": "Our major client, in the Oil & Gas industry, is seeking a Drilling Administrator Technician to work within their facilities located in Oklahoma City, OK for a 1-year assignment (subject to extension). Engineering support Data Analysis Assist Drilling Team with data pulls as needed. QC data and make backend corrections as needed. Present data in visualizations or tables. Build & maintain Spotfire guides with input from Drilling Team (Manager and Engineers) SQL, excel, spotfire, Power BI, etc IDC Create new wells in IDC. Ensure that all wells on the drill schedule for next 3 months are created in IDC. Gather header information from drilling engineer as needed Enter location construction cost into IDC for all new wells Work with Drilling Team, Location Construction Foreman, and Accounting to determine cost allocation for IDC estimates per well Push new wells in IDC to field at least 2 weeks prior to spud Review IDC reports daily for all active wells and verify the following: Diesel... consumption does not contain erroneous values Other Daily Report Scrub as defined by Drilling Team Lock IDC field entry on wells after 7 days past rig release Send notification to rig & responsible engineer Drilling Cost Control Generate post-well drilling cost variance report (AFE vs. IDC vs. Primo) 30 days after RR and review with engineering team Monthly AFE Review. Generate list of wells to be reviewed 1 week prior to meeting. Work with responsible engineers to determine if IDC, Primo, & Division Estimate costs are accurate. Assist with corrections in IDC or DE as necessary Quarterly Division Review Assist Drilling Team with data pulls and visualizations Assist with building PowerPoint slides as needed General Morning Drilling Meeting \u2013 Maintain MS Teams meeting invite, update attendee list as needed. Call in OKC meeting room to Teams meeting and set up necessary iRig/iSteer visuals prior to start time Maintain drilling report distribution email Other meetings \u2013 Attend other drilling or G&G team meetings as needed Maintain Well Control Certification compliance list for all office and field drilling personnel (employee and contractor). Archive and ensure validity of Individual Well Control Certificates. Assist in transmitting drilling information to regulatory for required filings",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Our major client, in the Oil & Gas industry, is seeking a Drilling Administrator Technician to work within their facilities located in Oklahoma City, OK for a 1-year assignment (subject to extension). Engineering support Data Analysis Assist Drilling Team with data pulls as needed. QC data and make backend corrections as needed. Present data in visualizations or tables. Build & maintain Spotfire guides with input from Drilling Team (Manager and Engineers) SQL, excel, spotfire, Power BI, etc IDC Create new wells in IDC. Ensure that all wells on the drill schedule for next 3 months are created in IDC. Gather header information from drilling engineer as needed Enter location construction cost into IDC for all new wells Work with Drilling Team, Location Construction Foreman, and Accounting to determine cost allocation for IDC estimates per well Push new wells in IDC to field at least 2 weeks prior to spud Review IDC reports daily for all active wells and verify the following: Diesel... consumption does not contain erroneous values Other Daily Report Scrub as defined by Drilling Team Lock IDC field entry on wells after 7 days past rig release Send notification to rig & responsible engineer Drilling Cost Control Generate post-well drilling cost variance report (AFE vs. IDC vs. Primo) 30 days after RR and review with engineering team Monthly AFE Review. Generate list of wells to be reviewed 1 week prior to meeting. Work with responsible engineers to determine if IDC, Primo, & Division Estimate costs are accurate. Assist with corrections in IDC or DE as necessary Quarterly Division Review Assist Drilling Team with data pulls and visualizations Assist with building PowerPoint slides as needed General Morning Drilling Meeting \u2013 Maintain MS Teams meeting invite, update attendee list as needed. Call in OKC meeting room to Teams meeting and set up necessary iRig/iSteer visuals prior to start time Maintain drilling report distribution email Other meetings \u2013 Attend other drilling or G&G team meetings as needed Maintain Well Control Certification compliance list for all office and field drilling personnel (employee and contractor). Archive and ensure validity of Individual Well Control Certificates. Assist in transmitting drilling information to regulatory for required filings"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://air-swift.com/",
+                    "text": "air-swift.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Airswift&sa=X&ved=0ahUKEwiK_Z3D7bH-AhV9FVkFHRLXC-84FBCYkAIItw4",
+                    "text": "See web results for Airswift"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Contractor"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QvRHJpbGxpbmcgRW5naW5lZXJpbmcgVGVjaG5pY2lhbiIsImh0aWRvY2lkIjoiZjMzTFBNeG9xMlVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UydHhhakF4ZVZsM2FqQjZkM3BQVFhWSlQyVnpRMHhmTW5jMFlrSlNkbmxsY0ZSUE0wczVYMHhTUmxGb2VUWkJjSEpFVFZWWllrOUdXazV0T0ZCTFUzQllXRmxUYmxSeWNEZG9SVlpJVDBSbWJuUTVVRlIzWjNoc05FUXlMV1JOTm1ZelRFWnplRmg0TjBWQ2JYQnROVWh5T0d4VWNXMXlaWFpWVTA1eWQzUTBYMGhLVkZKYU9GZGFhRkpXV1hvMmVHWTFSV0ZFYmkxa1lXdFNTbmhXTkRaNVdrUkdUVTl5Y2t0WlZrNTFWaTFqVVdKVk9HRTJNVzB3U0ZOaU9URlNWSFpwYlZnek1WWTVZMHhYZVc1WVJ6WkViM2xEYjNCR1gzYzVVUklYYVhKck9WcEpjVkZPZGpKeE5VNXZVR3R4Tm5ZdFFUUWFJa0ZQTFRCeWJEWldVMkZIYVVaUUxXNTVRMDEzWTBoV2IzQkxSVVprYjJ0dUxYYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE4IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEFpcnN3aWZ0IiwibGluayI6Imh0dHBzOi8vd3d3LmFpcnN3aWZ0LmNvbS9qb2JzL2RhdGEtYW5hbHlzdC1kcmlsbGluZy1lbmdpbmVlcmluZy10ZWNobmljaWFuLTExODc3ODA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Data analyst",
+                    "value": "data analyst"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Business",
+                    "value": "business"
+                },
+                {
+                    "text": "Systems analyst",
+                    "value": "systems analyst"
+                },
+                {
+                    "text": "Writer",
+                    "value": "writer"
+                },
+                {
+                    "text": "Advisor",
+                    "value": "advisor"
+                },
+                {
+                    "text": "Analyst senior",
+                    "value": "analyst senior"
+                },
+                {
+                    "text": "Biostatistician",
+                    "value": "biostatistician"
+                },
+                {
+                    "text": "Business analyst",
+                    "value": "business analyst"
+                },
+                {
+                    "text": "Consultant",
+                    "value": "consultant"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Engineering technician",
+                    "value": "engineering technician"
+                },
+                {
+                    "text": "Intelligence analyst",
+                    "value": "intelligence analyst"
+                },
+                {
+                    "text": "Management analyst",
+                    "value": "management analyst"
+                },
+                {
+                    "text": "Planning analyst",
+                    "value": "planning analyst"
+                },
+                {
+                    "text": "Process analyst",
+                    "value": "process analyst"
+                },
+                {
+                    "text": "Senior associate",
+                    "value": "senior associate"
+                },
+                {
+                    "text": "Support analyst",
+                    "value": "support analyst"
+                },
+                {
+                    "text": "Technical consultant",
+                    "value": "technical consultant"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Oklahoma City, OK",
+                    "value": "gdL4flSKrYedOk_RdBKiMw=="
+                },
+                {
+                    "text": "Jefferson City, MO",
+                    "value": "8Qo7Tqtd24et2ai8S8nnsg=="
+                },
+                {
+                    "text": "Cassville, MO",
+                    "value": "OUvy21DQyIc6hF_OIVWVzg=="
+                },
+                {
+                    "text": "Kansas City, MO",
+                    "value": "l5npr173wIeiUapq5iWFVQ=="
+                },
+                {
+                    "text": "Pea Ridge, AR",
+                    "value": "6xf8mywZyYe6kgw_pTHC3w=="
+                },
+                {
+                    "text": "Rogers, AR",
+                    "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+                },
+                {
+                    "text": "Tulsa, OK",
+                    "value": "jy7R3biStof3atkbyBBp5w=="
+                },
+                {
+                    "text": "Anderson, MO",
+                    "value": "xZJyU_xWyIeLkG_wPNh9sw=="
+                },
+                {
+                    "text": "Elkins, AR",
+                    "value": "wTlAeqlDyYcwYhRAWUq6fw=="
+                },
+                {
+                    "text": "Gravette, AR",
+                    "value": "w8TGtmupyYfe37-QmZ2BFg=="
+                },
+                {
+                    "text": "Kansas City, KS",
+                    "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+                },
+                {
+                    "text": "Olathe, KS",
+                    "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+                },
+                {
+                    "text": "Overland Park, KS",
+                    "value": "0zgmp1GVwIfI-UQ460_OJA=="
+                },
+                {
+                    "text": "Springdale, AR",
+                    "value": "eYV1ArMUyYdavDvUreoxoQ=="
+                },
+                {
+                    "text": "Springfield, MO",
+                    "value": "P5jIRfdiz4egDWkes2z9aw=="
+                },
+                {
+                    "text": "Columbia, MO",
+                    "value": "yYKBu_Or3Icgb726LWkRoA=="
+                },
+                {
+                    "text": "Decatur, AR",
+                    "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+                },
+                {
+                    "text": "Elm Springs, AR",
+                    "value": "weUZtbASyYc-0yhD2qMB6A=="
+                },
+                {
+                    "text": "Farmington, AR",
+                    "value": "3TIDmiRwyYcjV7nAAjLNAA=="
+                },
+                {
+                    "text": "Fayetteville, AR",
+                    "value": "nT61L3tvyYfPyLT8afAZRQ=="
+                },
+                {
+                    "text": "Fort Smith, AR",
+                    "value": "j3azjrpMyoeK-isV0re17w=="
+                },
+                {
+                    "text": "Goshen, AR",
+                    "value": "eV-AEuJDyYfr38SF3HJZ-Q=="
+                },
+                {
+                    "text": "Johnson, AR",
+                    "value": "H2EBZEJsyYfs4-VLPIyX7Q=="
+                },
+                {
+                    "text": "Lenexa, KS",
+                    "value": "rZknHh-UwIcLSV98iPViMg=="
+                },
+                {
+                    "text": "Noel, MO",
+                    "value": "j1H-t1pTyIfdC4IScI3jLA=="
+                },
+                {
+                    "text": "Tontitown, AR",
+                    "value": "o_pMF5RyyYfEvqij54Opug=="
+                },
+                {
+                    "text": "Topeka, KS",
+                    "value": "KXrs2uQCv4fwp-Nq0Ocrvg=="
+                },
+                {
+                    "text": "Wichita, KS",
+                    "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+                },
+                {
+                    "text": "All, MO",
+                    "value": "Wey1pl2Bz4es-p5xlwWARw=="
+                },
+                {
+                    "text": "Atchison, KS",
+                    "value": "cTvuXj-Lv4cXOT3cLOqOGA=="
+                },
+                {
+                    "text": "Beatrice, NE",
+                    "value": "C0H7B6lCloc9jdFZsJrjkg=="
+                },
+                {
+                    "text": "Bella Vista, AR",
+                    "value": "Z0n6p3ADyYdTNdi6WXymSQ=="
+                },
+                {
+                    "text": "Broken Arrow, OK",
+                    "value": "EU6rbj1itodcJqZGOKslKA=="
+                },
+                {
+                    "text": "Centerton, AR",
+                    "value": "99IuBIgFyYehPLOyXut7XQ=="
+                },
+                {
+                    "text": "Edmond, OK",
+                    "value": "E8VDFbMfsofMhNEdNhAURg=="
+                },
+                {
+                    "text": "Evansville, AR",
+                    "value": "fVu-cpkpyof8-2Pa0npO_Q=="
+                },
+                {
+                    "text": "Greenland, AR",
+                    "value": "mYDB0JhlyYcwPNpDzC4CBw=="
+                },
+                {
+                    "text": "Lowell, AR",
+                    "value": "S99nqxEUyYcglsAlyy4CBw=="
+                },
+                {
+                    "text": "Manhattan, KS",
+                    "value": "LWPDRO-3vYfvxxJzSF0YqQ=="
+                },
+                {
+                    "text": "Mission, KS",
+                    "value": "4Q3sAs7twIegN_6kDLgDHA=="
+                },
+                {
+                    "text": "Nevada, MO",
+                    "value": "B8gvD09UxodE3WkOm4i7ww=="
+                },
+                {
+                    "text": "Norman, OK",
+                    "value": "5-6Tf7Zjsof4XKirPyNbRA=="
+                },
+                {
+                    "text": "Prague, OK",
+                    "value": "VQS7EhTps4eP5GkvXZOhug=="
+                },
+                {
+                    "text": "Roxton, TX",
+                    "value": "N4BxEjFTSoZAFL5vVZnkIg=="
+                },
+                {
+                    "text": "Stillwater, OK",
+                    "value": "I6-Z6_kJsYeZ0RAgFtqRjA=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Entertainment",
+                    "value": "/business/naics2007/71"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Accounting",
+                    "value": "/business/naics2007/5412"
+                },
+                {
+                    "text": "Construction",
+                    "value": "/business/naics2007/23"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Rental",
+                    "value": "/business/naics2007/532"
+                },
+                {
+                    "text": "Repair",
+                    "value": "/business/naics2007/811"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Restaurant",
+                    "value": "/business/naics2007/722"
+                },
+                {
+                    "text": "Textiles & Apparel",
+                    "value": "/business/naics2007/313"
+                },
+                {
+                    "text": "Utilities",
+                    "value": "/business/naics2007/22"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Insight Global",
+                    "value": "/m/0b773zq"
+                },
+                {
+                    "text": "Apex Systems",
+                    "value": "/g/11bycxrxk8"
+                },
+                {
+                    "text": "Avispa",
+                    "value": "/g/11h1y7_gl0"
+                },
+                {
+                    "text": "CTG",
+                    "value": "/m/02wbf6g"
+                },
+                {
+                    "text": "CareSource",
+                    "value": "/m/064q3dd"
+                },
+                {
+                    "text": "Cargill",
+                    "value": "/m/03sw9w"
+                },
+                {
+                    "text": "Centene Corporation",
+                    "value": "/m/028095t"
+                },
+                {
+                    "text": "Cox Enterprises",
+                    "value": "/g/11c52t1pn4"
+                },
+                {
+                    "text": "Dave",
+                    "value": "/g/11fpcywns0"
+                },
+                {
+                    "text": "Deel",
+                    "value": "/g/11p67fg1nx"
+                },
+                {
+                    "text": "Dice",
+                    "value": "/m/02_3ckm"
+                },
+                {
+                    "text": "Diverse Lynx",
+                    "value": "/g/11dxp_49r_"
+                },
+                {
+                    "text": "Docker, Inc",
+                    "value": "/g/11c58pb160"
+                },
+                {
+                    "text": "Modis",
+                    "value": "/g/11b7cdyb52"
+                },
+                {
+                    "text": "O'Reilly Auto Parts",
+                    "value": "/m/0h7_x_"
+                },
+                {
+                    "text": "Oklahoma Medical Research Foundation (OMRF)",
+                    "value": "/m/07hmc0"
+                },
+                {
+                    "text": "Robert Half",
+                    "value": "/m/07k98m"
+                },
+                {
+                    "text": "Seacoast Bank",
+                    "value": "/m/03p33yf"
+                },
+                {
+                    "text": "The Rector & Visitors of the University of Virginia",
+                    "value": "/g/11bc6qhhl6"
+                },
+                {
+                    "text": "ACTIVISION PUBLISHING, INC",
+                    "value": "/m/09j_g"
+                },
+                {
+                    "text": "Addison Group",
+                    "value": "/m/011qdhv9"
+                },
+                {
+                    "text": "Aditi Consulting",
+                    "value": "/m/02x0w19"
+                },
+                {
+                    "text": "Airswift",
+                    "value": "/g/11clw7gnbh"
+                },
+                {
+                    "text": "Alderson Loop",
+                    "value": "/g/11dxq2t780"
+                },
+                {
+                    "text": "AmeriHealth Caritas",
+                    "value": "/g/11bc6w3jt6"
+                },
+                {
+                    "text": "Analytic Recruiting Inc.",
+                    "value": "/g/1dtw3ptz"
+                },
+                {
+                    "text": "Aon",
+                    "value": "/m/0z7n"
+                },
+                {
+                    "text": "Appen",
+                    "value": "/g/11gv0v4sl5"
+                },
+                {
+                    "text": "Arrow Electronics India Private Limited",
+                    "value": "/m/09n1sqc"
+                },
+                {
+                    "text": "Ascendion",
+                    "value": "/g/11bc6n8838"
+                },
+                {
+                    "text": "Atmosfy, Inc",
+                    "value": "/g/11p0_hwfyk"
+                },
+                {
+                    "text": "Aurora Solar",
+                    "value": "/g/11f012n_zq"
+                },
+                {
+                    "text": "Axelon Services Corporation",
+                    "value": "/g/11fy25mwb0"
+                },
+                {
+                    "text": "CBRE Group, Inc",
+                    "value": "/m/090r7m"
+                },
+                {
+                    "text": "CCS globaltech",
+                    "value": "/g/11c74t84d9"
+                },
+                {
+                    "text": "CDC Foundation",
+                    "value": "/g/11f01c29pr"
+                }
+            ]
+        }
+    ]
+}

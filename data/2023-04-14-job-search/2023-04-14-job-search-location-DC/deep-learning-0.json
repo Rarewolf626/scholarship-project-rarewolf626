@@ -1,0 +1,1337 @@
+{
+    "search_metadata": {
+        "id": "643dbb3e2f542e6cdd2af557",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/44685169a583a015/643dbb3e2f542e6cdd2af557.json",
+        "created_at": "2023-04-17 21:33:50 UTC",
+        "processed_at": "2023-04-17 21:33:50 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=deep+learning&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=0",
+        "raw_html_file": "https://serpapi.com/searches/44685169a583a015/643dbb3e2f542e6cdd2af557.html",
+        "total_time_taken": 0.8
+    },
+    "search_parameters": {
+        "q": "deep learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 0
+    },
+    "jobs_results": [
+        {
+            "title": "Machine Learning Data Scientist",
+            "company_name": "Cyrad Solutions LLC",
+            "location": "  Bethesda, MD   ",
+            "via": "via Career Page",
+            "description": "We are looking for a passionate Machine Learning Data Science Research Engineer to design and implement deep learning solutions for NRL and graph construction/generation/completion. The ideal candidate will have experience in end-to-end design and conversion of customer needs into user interface requirements.\n\nResponsibilities...\n\u2022 Research current state-of-the-art ML solutions and assess their suitability to the problem at hand.\n\u2022 Develop deep learning solutions using PyTorch and Tensorflow frameworks.\n\u2022 Develop ETL pipelines to curate large-scale ML datasets.\n\u2022 Leverage graph neural networks to construct embedded/latent representations for downstream tasks.\n\u2022 Train ML models using automated hyper-parameter tuning frameworks.\n\u2022 Design data models using graph data structures to capture real-world phenomena efficiently.\n\nRequired Skills:\n\u2022 Experience training conventional models from scratch (e.g., OLM, SVM, boosting methods, etc.).\n\u2022 Personally trained a deep neural network from scratch or transfer learning techniques.\n\u2022 Developed data wrangling/ETL transforms using python Pandas package.\n\u2022 Experience with Git version control.\n\nDesired Skills:\n\u2022 Experience with Generative Modeling and Reinforcement Learning solutions.\n\u2022 Network engineering experience and development on GNU/Linux-based operating systems.\n\u2022 Experience with MLOps tooling/workflows, containers (e.g., Docker), and orchestration solutions (e.g., Kubernetes, Terraform).\n\nQualifications:\n\u2022 BS with 5-7 years, MS with 3-5 years, or Ph.D. with 0-2 years of experience.\n\u2022 United States Citizen (required) with active TS/SCI clearance (preferred",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will have experience in end-to-end design and conversion of customer needs into user interface requirements",
+                        "Experience training conventional models from scratch (e.g., OLM, SVM, boosting methods, etc.)",
+                        "Personally trained a deep neural network from scratch or transfer learning techniques",
+                        "Developed data wrangling/ETL transforms using python Pandas package",
+                        "Experience with Git version control",
+                        "BS with 5-7 years, MS with 3-5 years, or Ph.D. with 0-2 years of experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Research current state-of-the-art ML solutions and assess their suitability to the problem at hand",
+                        "Develop deep learning solutions using PyTorch and Tensorflow frameworks",
+                        "Develop ETL pipelines to curate large-scale ML datasets",
+                        "Leverage graph neural networks to construct embedded/latent representations for downstream tasks",
+                        "Train ML models using automated hyper-parameter tuning frameworks",
+                        "Design data models using graph data structures to capture real-world phenomena efficiently"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Cyrad+Solutions+LLC&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCMsJ",
+                    "text": "See web results for Cyrad Solutions LLC"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIERhdGEgU2NpZW50aXN0IiwiaHRpZG9jaWQiOiJ2ZDJsVUgxbV9fd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVVV0cVRVUk9aV1JUVmtRMGVHUnRUWE51TVZkSlUycFdRM1J0TjJkSGMya3dORTgyZUd0amRuRmhaVWhvY0dobWRqSkVTMDV4WVUxVE0xVTBRVXRqTW5sSFoyWmtSblZ3UkVKRmRreG5UM2RPVWxFeExYcG1jSEpxVFZGV2NTMDJRMkphYjJSbVJITldlRmx5V1dsUFdGQmhNMDFVU0ZSMlNFRjVlbUkxUjFvelNsVkRjblZpVTFwRFRGSkxUVkZRTnpCb1UxZDRZWFpqYVZGSVVERm1MWFZ1WTAxMmJWWldkMVZvWWs1WVIweDNVMDFpYTNwWlIwOXNWbDlzTWpBM1oyaEhNV1JZRWhkUWNuTTVXazB0VVUxMWFXdzFUbTlRYTI4dGFtdEJheG9pUVU4dE1ISnNORlpaYzJsaVNFczFkR2RoT1hCUGJqQjZXSFJhU0dFNVFYbFZadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gQ2FyZWVyIFBhZ2UiLCJsaW5rIjoiaHR0cHM6Ly93d3cuY2FyZWVycy1wYWdlLmNvbS9jeXJhZC9qb2IvUVYzWTc0NlI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Research Engineer - Federal",
+            "company_name": "Scale AI",
+            "location": "  Washington, DC   ",
+            "via": "via LinkedIn",
+            "description": "The goal of a Machine Learning Engineer at Scale is to bring techniques in the fields of computer vision, deep learning and deep reinforcement learning, or natural language processing into a production environment to improve Scale's products and customer experience. Our research engineers take advantage of our unique access to massive datasets to deliver improvements to our customers.\n\nWe are... building a large hybrid human-machine system in service of ML pipelines for Federal Government customers. We currently complete millions of tasks a month, and will grow to complete billions of tasks monthly.\n\nYou will:\n\u2022 Take state of the art models developed internally and from the community, use them in production to solve problems for our customers and taskers.\n\u2022 Take models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics\n\u2022 Work with product and research teams to identify opportunities for improvement in our current product line and for enabling upcoming product lines\n\u2022 Work with massive datasets to develop both generic models as well as fine tune models for specific products\n\u2022 Build the scalable ML platform to automate our ML services\n\u2022 Be a representative for how to apply machine learning and related techniques throughout the engineering and product organization\n\u2022 Be able, and willing, to multi-task and learn new technologies quickly\nIdeally you'd have:\n\u2022 Degree in computer science, or related field\n\u2022 US citizenship and US Government Security Clearance is a requirement\n\u2022 Extensive experience using computer vision, deep learning and deep reinforcement Learning, or natural language processing in a production environment\n\u2022 Solid background in algorithms, data structures, and object-oriented programming\n\u2022 Strong programing skills in Python or Javascript, experience in Tensorflow or PyTorch\nNice to haves:\n\u2022 Graduate degree in Computer Science, Machine Learning or Artificial Intelligence specialization\n\u2022 Experience working with cloud technology stack (eg. AWS or GCP) and developing machine learning models in a cloud environment\n\nThe base salary range for this full-time position in our hub locations of San Francisco, New York, Seattle or Washington, DC, is $200,800.00 - $251,000.00. Compensation packages at Scale include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.Scale employees are also granted Stock Options that are awarded upon board of director approval. You\u2019ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.\u201d\n\nAbout Us:\n\nAt Scale, we believe that the transition from traditional software to AI is one of the most important shifts of our time. Our mission is to make that happen faster across every industry, and our team is transforming how machine learning can build innovative products. Our products provide access to human-powered data for hundreds of use cases and are used by industry leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and many more. We\u2019ve recently raised $325 million in Series E funding at a valuation of $7B+ and are expanding our team to accelerate the development of AI applications.\n\nWe believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.\n\nWe are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.\n\nPLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants' needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Be able, and willing, to multi-task and learn new technologies quickly",
+                        "Degree in computer science, or related field",
+                        "US citizenship and US Government Security Clearance is a requirement",
+                        "Extensive experience using computer vision, deep learning and deep reinforcement Learning, or natural language processing in a production environment",
+                        "Solid background in algorithms, data structures, and object-oriented programming",
+                        "Strong programing skills in Python or Javascript, experience in Tensorflow or PyTorch",
+                        "Graduate degree in Computer Science, Machine Learning or Artificial Intelligence specialization",
+                        "Experience working with cloud technology stack (eg",
+                        "AWS or GCP) and developing machine learning models in a cloud environment"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Take state of the art models developed internally and from the community, use them in production to solve problems for our customers and taskers",
+                        "Take models currently in production, identify areas for improvement, improve them using retraining and hyperparameter searches, then deploy without regressing on core model characteristics",
+                        "Work with product and research teams to identify opportunities for improvement in our current product line and for enabling upcoming product lines",
+                        "Work with massive datasets to develop both generic models as well as fine tune models for specific products",
+                        "Build the scalable ML platform to automate our ML services",
+                        "Be a representative for how to apply machine learning and related techniques throughout the engineering and product organization"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary range for this full-time position in our hub locations of San Francisco, New York, Seattle or Washington, DC, is $200,800.00 - $251,000.00",
+                        "Compensation packages at Scale include base salary, equity, and benefits",
+                        "The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training",
+                        "Your recruiter can share more about the specific salary range for your preferred location during the hiring process",
+                        "Scale employees are also granted Stock Options that are awarded upon board of director approval",
+                        "You\u2019ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO",
+                        "Additionally, this role may be eligible for additional benefits such as a commuter stipend.\u201d"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://scale.com/",
+                    "text": "scale.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Scale+AI&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCJAK",
+                    "text": "See web results for Scale AI"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIFJlc2VhcmNoIEVuZ2luZWVyIC0gRmVkZXJhbCIsImh0aWRvY2lkIjoiYTFuSDh3RnRCVjBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1V6WklOazE0WkhJMlkxTnJObXhaUzFkaFREVlVVbEYzTjNOdFpFNVRUa1ZoY0RRMFZ6bFdUVnByYjJaQlUyaGZSR3hTTkRkcVEwWXhVa2t6VEhaUWNrZHhNMFpuU25BelMwWXRlbHBRTlVKZlZXUjBVR2s0VVRBelVHOUlTazVsTnpnd2NEWTRla3RpYjFOT1VIbDJZV1Y2VWw5d2FTMVhTMWhwTTNwaWJqRkthemgwYmxWeGRITlhibU01YTNaaFVVTmxSSGQ1U1drNWVpMUlYMGxVZUMxR01WcENOVnBUVEZabVVWOUhaM2w2UlZKMmJFaHJNRk01YmtKUk9XRjBOV2h5ZFhkcVkxSldjVXh0UnpBemJYWnJUbGx1T1ZkbFYxaEdkeElYVUhKek9WcE5MVkZOZFdsc05VNXZVR3R2TFdwclFXc2FJa0ZQTFRCeWJEZE9ibGRhUlV0SVJuQk1TVk5XVUhOSmEzaDVjRE5xTUd0c2FuYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9tYWNoaW5lLWxlYXJuaW5nLXJlc2VhcmNoLWVuZ2luZWVyLWZlZGVyYWwtYXQtc2NhbGUtYWktMzAyNDQ3MTU0OT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Engineering Manager - Data & Machine Learning Platform",
+            "company_name": "Booking.com",
+            "location": "  Washington, DC   ",
+            "via": "via The Muse",
+            "description": "We at Booking.com are looking for an Engineering Manager to provide technical guidance to our teams, to grow talent and to help us expand our engineering community. If you have experience building large scale technology products which impact the way in which thousands of users interact and if you have experience in Data and Machine Learning, we would love to hear from you!\n\nWhat You Will Do...\n\nYou will primarily manage, coach and develop an engineering team, ensuring the development of both (the individual and team as a whole) are in line with organizational objectives and direction. You will be responsible for timely delivery of new features and with good quality. In addition to this, you will confer with leaders, and key stakeholders and determine engineering feasibility, cost effectiveness, scalability and time-to-market for new and existing products. The ideal candidate is strong technically (is software developer, data engineer, machine learning scientist or machine learning engineer) and has people management experience.\n\nPeople Leadership\n\u2022 Directly manage Engineers and/or Data Engineers, or Machine Learning Scientists and/or Engineers in multiple teams and in various roles;\n\u2022 Nurture, grow and develop talent in the team;\n\u2022 Lead by example by taking ownership, being proactive and collaborating.\nTechnology, Craft & Delivery\n\u2022 Technical Incident Management;\n\u2022 Building and integrating software applications;\n\u2022 Creating development, deployment, and integration plans;\n\u2022 Continuous Quality and Process Improvement;\n\u2022 Creating a culture of ownership and technical excellence;\n\u2022 Manage technical stakeholders in integrating solutions.\nArchitecture & Product Strategy\n\u2022 Thought partner for Product to define, shape and deliver the roadmap;\n\u2022 Architectural Ownership and Guidance;\n\u2022 Drive innovation in their own team.\nWhat You Will Bring:\n\u2022 Bachelor's Degree In Computer Science, Computer Or Electrical Engineering, Mathematics, Or A Related Field Or 5 Years Of Progressively Responsible Experience In The Specialty As Equivalent\n\u2022 5+ years of engineering experience;\n\u2022 2+ years of experience leading and managing a team of engineers in a fast-paced and complex environment\n\u2022 Strong people management skills and experience dealing with complex people issues\n\u2022 You Have Several Years Of Experience With Java And You Possess Deep Knowledge Of Java Ecosystems\n\u2022 You have a proven track record of migrating services from other languages to Java.\n\u2022 You have a solid understanding of Service Oriented Architecture, Microservices & OOP patterns - and you mastered explaining these concepts to others.\n\u2022 You Have Worked With Large Scale Distributed Systems, Highly Available APIs, And Products That Impact Millions Of Customers.\n\u2022 Having experience with Maven, Docker, Hadoop, Kubernetes, Cassandra, Apache Spark, Kafka, and Elastic stack is a plus.\n\u2022 Having experience with ML, AI technologies is a plus.\n\u2022 Knowledge of cloud computing fundamentals and experience with AWS and/or GCP is a plus.\n\u2022 Strong business and technical vision\n\u2022 A deep understanding of software development in a team, and a track record of hands-on developing and shipping software\n\u2022 Strong interpersonal skills\n\u2022 Strong work ethic; self-directed and resourceful\n\u2022 Solution oriented and result driven\n\u2022 Proactive, flexible and capable of working independently as well as working in a team\n\u2022 Excellent verbal and written communication skills\n\u2022 Analytical skills and data-driven mindset\nWhat We Will Offer:\n\nIT is the core of our business and we ensure that we give the best 'deal' possible to our employees. Here is what you get:\n\u2022 Contributing to a high scale, complex, world renowned product and seeing real time impact of your work\n\u2022 Working in a fast paced and performance driven culture\n\u2022 Career Advancement via Online and On-the-job training, Hackathons, Conferences and active community participation\n\u2022 Competitive compensation and benefits package and some great added perks of working for Booking.com\n\u2022 The salary range for this position is: $225,000 - $247,600\nShould you require accommodation to meet the essential functions of this job, please let us know.\n\nPre- Employment Screening:\n\nIf your application is successful, your personal data may be used for a pre-employment screening check by a third party as permitted by applicable law. Depending on the vacancy and applicable law, a pre-employment screening may include employment history, education and other information (such as media information) that may be necessary for determining your qualifications and suitability for the position",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate is strong technically (is software developer, data engineer, machine learning scientist or machine learning engineer) and has people management experience",
+                        "Bachelor's Degree In Computer Science, Computer Or Electrical Engineering, Mathematics, Or A Related Field Or 5 Years Of Progressively Responsible Experience In The Specialty As Equivalent",
+                        "2+ years of experience leading and managing a team of engineers in a fast-paced and complex environment",
+                        "Strong people management skills and experience dealing with complex people issues",
+                        "You Have Several Years Of Experience With Java And You Possess Deep Knowledge Of Java Ecosystems",
+                        "You have a proven track record of migrating services from other languages to Java",
+                        "You have a solid understanding of Service Oriented Architecture, Microservices & OOP patterns - and you mastered explaining these concepts to others",
+                        "You Have Worked With Large Scale Distributed Systems, Highly Available APIs, And Products That Impact Millions Of Customers",
+                        "Strong business and technical vision",
+                        "A deep understanding of software development in a team, and a track record of hands-on developing and shipping software",
+                        "Strong interpersonal skills",
+                        "Strong work ethic; self-directed and resourceful",
+                        "Solution oriented and result driven",
+                        "Proactive, flexible and capable of working independently as well as working in a team",
+                        "Excellent verbal and written communication skills",
+                        "Analytical skills and data-driven mindset"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will primarily manage, coach and develop an engineering team, ensuring the development of both (the individual and team as a whole) are in line with organizational objectives and direction",
+                        "You will be responsible for timely delivery of new features and with good quality",
+                        "In addition to this, you will confer with leaders, and key stakeholders and determine engineering feasibility, cost effectiveness, scalability and time-to-market for new and existing products",
+                        "Directly manage Engineers and/or Data Engineers, or Machine Learning Scientists and/or Engineers in multiple teams and in various roles;",
+                        "Nurture, grow and develop talent in the team;",
+                        "Lead by example by taking ownership, being proactive and collaborating",
+                        "Technical Incident Management;",
+                        "Building and integrating software applications;",
+                        "Creating development, deployment, and integration plans;",
+                        "Continuous Quality and Process Improvement;",
+                        "Creating a culture of ownership and technical excellence;",
+                        "Manage technical stakeholders in integrating solutions",
+                        "Architecture & Product Strategy",
+                        "Thought partner for Product to define, shape and deliver the roadmap;",
+                        "Architectural Ownership and Guidance;",
+                        "Drive innovation in their own team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Contributing to a high scale, complex, world renowned product and seeing real time impact of your work",
+                        "Working in a fast paced and performance driven culture",
+                        "Career Advancement via Online and On-the-job training, Hackathons, Conferences and active community participation",
+                        "Competitive compensation and benefits package and some great added perks of working for Booking.com",
+                        "The salary range for this position is: $225,000 - $247,600"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.booking.com/",
+                    "text": "booking.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Booking.com&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCNUK",
+                    "text": "See web results for Booking.com"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJFbmdpbmVlcmluZyBNYW5hZ2VyIC0gRGF0YSBcdTAwMjYgTWFjaGluZSBMZWFybmluZyBQbGF0Zm9ybSIsImh0aWRvY2lkIjoiX3pUQkRhMW9FNVlBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1UxZDNWWGcxTkRCUk1XeG1ObkpKYVZwUFJEWlNXWFZKUVZoQ01ua3lNMmxEYzI5d2NsOWtkbGxFVVd4RVZrWlNSSEpQVUMxM1VIRXhkVXRNTmtjM1VEWkdTMnhFVURsU2RWVlhjMkU1YVU5NlVtcHBUelpxTVVWc1ZHUkJRMlJRWkV0dk9HNXdMWEo2TWxoTlpscFZWM0l6VnpOS1ZGVTNRMGxWTmt3M1VqRlhVMmhKWjJ3NWIxWjNiMHA1UzNSVFRHRmZYelJRVG04eGNGSk5lbTB4ZUhScVgxbElVSE5yU3pKRlEySmpUVFF5ZGxsVmJVZDBlWFppZVVKZlMwdDRVRmt6WVdaUlkxZE9kWGh0ZUVKVVJXVTVkelpJZGpsNlFtMDVTbGw1VFd0WWEweEtZMEZHV1c5dWFWSXlTVkUxZHhJWFVISnpPVnBOTFZGTmRXbHNOVTV2VUd0dkxXcHJRV3NhSWtGUExUQnliRFJ0VkhoZlFVeDVSVmRMUWtaek1HSmZkVzgyVjFSZlpYQmlhVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRoZSBNdXNlIiwibGluayI6Imh0dHBzOi8vd3d3LnRoZW11c2UuY29tL2pvYnMvYm9va2luZ2NvbS9lbmdpbmVlcmluZy1tYW5hZ2VyLWRhdGEtbWFjaGluZS1sZWFybmluZy1wbGF0Zm9ybT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Principal AI/Machine Learning Engineer",
+            "company_name": "Lockheed Martin",
+            "location": "  Bethesda, MD   ",
+            "via": "via Lockheed Martin - Talentify",
+            "description": "When it comes to using cutting-edge machine learning to tackle complex problems, Lockheed Martin is driven by a singular mission focus and desire to continuously innovate. Today\u2019s challenges to global security aren\u2019t just changing \u2013 they\u2019re accelerating faster than ever before. Through our dedication to our mission, our AI-enabled systems are changing the way militaries operate and protect their... forces, the way first responders fight fires, and how researchers explore the far reaches of space and the ocean\u2019s depths.\n\nThe Lockheed Martin Artificial Intelligence Center (LAIC) team is seeking a high energy leader with hands-on experience in software engineering and AI/ML to lead and grow the AI Consulting portfolio for the business. In this role you will be part of the AI Foundations team consisting of colleagues possessing varying skill sets including AI/Machine Learning specialists, front-end and back-end developers, data engineers, product managers, and other data scientists. The selected candidate will focus on the AI Consulting team but will be included as part of a broader range of projects across the LAIC portfolio. The team is focused on exploiting small, innovative, and agile teams to rapidly iterate and mature solutions from prototypes to deployment for utilization across the Lockheed Martin enterprise.\n\nThe LAIC AI Consulting Team\u2019s mission includes serving as a center of excellence for AI at Lockheed Martin. The candidate will work to disseminate best practices of the AI Consulting Team to other AI and data science teams in the corporation. The candidate will be required to create knowledge materials to publish these best practices, as well as meet with other data science leaders in Lockheed Martin to teach and discuss these practices.\n\nThe responsibilities of this position include collaboration with business stakeholders to identify business opportunities and requirements to develop associated statistical models that deliver useful, actionable recommendations, or which augment human capabilities in various work settings. The candidate is responsible for modeling complex business and engineering problems, discovering insights and deploying AI capabilities using machine learning and associated feature engineering techniques. Responsibilities also include tracking projects and driving work on them through to completion, as well as implementing best technical practices from the fields of machine learning and software engineering.\n\nThe candidate will need a combination of business focus, creative thinking, strong analytical and problem solving skills, and programming knowledge to be able to quickly cycle hypotheses through the discovery phase of the project. Excellent communications skills to understand the needs of the business, and to communicate the value of the models built back to the business.\n\nDomestic travel may be required when travel resumes (approx. 10%).\n\nMUST BE A US CITIZEN. \u2022 Bachelor's Degree in Engineering, Computer Science from an accredited college in a related discipline, or equivalent experience, with 20 years of professional experience; or 18 years of experience required with a related Master's degree.\n\u2022 Previous experience building machine learning models by way of work, projects, courses, etc.\n\u2022 Significant previous experience in applying any of the following machine learning techniques to business problems:\nnatural language processing, deep learning, anomaly detection, reinforcement learning.\n\u2022 Previous experience evaluating model performance, including performance metric selection.\n\u2022 Previous experience with feature engineering and data cleaning/pre-processing.\n\u2022 Experience with developing software and software engineering best practices.\n\u2022 Demonstrated creativity and innovation in identifying valuable ways of incorporating machine learning into business workflows and processes.\n\u2022 Superlative communication and interpersonal skills.\n\u2022 The ability to stay updated on new technologies in the rapidly evolving field of AI.\n\u2022 Must have strong problem-solving skills, business acumen, and demonstrated excellent oral and written communication skills.\n\u2022 Experience in running data product projects from start to finish and interacting with end user customers.\n\u2022 Experience with stakeholder communication and defining requirements\n\u2022 Preferred languages: Python\n\u2022 Must be a US citizen \u2022 Experience with the design, implementation, and evaluation of models, agents and software prototypes for real world AI\n\u2022 Bridge the gap between fundamental research and products by addressing research questions arising in real world problems and integrating novel research into applications.\n\u2022 Knowledge of machine learning and deep learning concepts\n\u2022 Ability to design and conduct experiments to evaluate AI models\n\u2022 Strong problem-solving and critical thinking skills\n\u2022 Experience leading a team of researchers and engineers\n\u2022 Knowledge of industry best practices for developing and deploying AI systems. Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The candidate will need a combination of business focus, creative thinking, strong analytical and problem solving skills, and programming knowledge to be able to quickly cycle hypotheses through the discovery phase of the project",
+                        "Excellent communications skills to understand the needs of the business, and to communicate the value of the models built back to the business",
+                        "MUST BE A US CITIZEN",
+                        "Bachelor's Degree in Engineering, Computer Science from an accredited college in a related discipline, or equivalent experience, with 20 years of professional experience; or 18 years of experience required with a related Master's degree",
+                        "Previous experience building machine learning models by way of work, projects, courses, etc",
+                        "Significant previous experience in applying any of the following machine learning techniques to business problems:",
+                        "natural language processing, deep learning, anomaly detection, reinforcement learning",
+                        "Previous experience evaluating model performance, including performance metric selection",
+                        "Previous experience with feature engineering and data cleaning/pre-processing",
+                        "Experience with developing software and software engineering best practices",
+                        "Demonstrated creativity and innovation in identifying valuable ways of incorporating machine learning into business workflows and processes",
+                        "Superlative communication and interpersonal skills",
+                        "The ability to stay updated on new technologies in the rapidly evolving field of AI",
+                        "Must have strong problem-solving skills, business acumen, and demonstrated excellent oral and written communication skills",
+                        "Experience in running data product projects from start to finish and interacting with end user customers",
+                        "Experience with stakeholder communication and defining requirements",
+                        "Experience with the design, implementation, and evaluation of models, agents and software prototypes for real world AI",
+                        "Bridge the gap between fundamental research and products by addressing research questions arising in real world problems and integrating novel research into applications",
+                        "Knowledge of machine learning and deep learning concepts",
+                        "Ability to design and conduct experiments to evaluate AI models",
+                        "Strong problem-solving and critical thinking skills",
+                        "Experience leading a team of researchers and engineers",
+                        "Knowledge of industry best practices for developing and deploying AI systems"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The candidate will work to disseminate best practices of the AI Consulting Team to other AI and data science teams in the corporation",
+                        "The candidate will be required to create knowledge materials to publish these best practices, as well as meet with other data science leaders in Lockheed Martin to teach and discuss these practices",
+                        "The candidate is responsible for modeling complex business and engineering problems, discovering insights and deploying AI capabilities using machine learning and associated feature engineering techniques",
+                        "Responsibilities also include tracking projects and driving work on them through to completion, as well as implementing best technical practices from the fields of machine learning and software engineering"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.lombardmalta.com/",
+                    "text": "lombardmalta.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Lockheed+Martin&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCJUL",
+                    "text": "See web results for Lockheed Martin"
+                }
+            ],
+            "extensions": [
+                "18 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "18 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQUkvTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciIsImh0aWRvY2lkIjoiLXZOeWxDU2pXTnNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UzaERia0pqUmtoNk5uUk9RMlUyWWpsdVowcENTWEp0ZVdwUVlXNWFOV2RwY0dSS05sOXZSbWhUZW1WUU1EUkROMGxrWDBWcVRrOUdYME5qZWsxZmIwUlllbVpuTTNGbk1VMHRVM1l3UmxocVowVnJWWEpwVTBKRVMxRjBTVGN6ZVVKQlEzaFFlV0pMYUVadlpuQkJWVkJ0TjJNeFdIWlVabmhOVVZsWFIyMVZOV0pPWW1kdk9WVndka1F4VTBseVN5MTRkell3VlZJd1RtdGFlbEYwYmtweE5uRmhhVjlVYXpaalpWQlhYMHgzUmtaeVkzRTNNRkV4V1RCeE1XdHhkWFozYnpaRGQyWklUVFZsYzNWUVJqbFVZWFpPU0VGT05uaG5aeElYVUhKek9WcE5MVkZOZFdsc05VNXZVR3R2TFdwclFXc2FJa0ZQTFRCeWJEVXhjbEpmVm05MWRXSm5TR3RoWmxOb2VuWk1hVWMyUzNwMk1WRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTG9ja2hlZWQgTWFydGluIC0gVGFsZW50aWZ5IiwibGluayI6Imh0dHBzOi8vbG9ja2hlZWQtbWFydGluLnRhbGVudGlmeS5pby9qb2IvcHJpbmNpcGFsLWFpbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1iZXRoZXNkYS1tYXJ5bGFuZC1sb2NraGVlZC1tYXJ0aW4tNjM0MTA2YnI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Research Engineer - Security Clearance Required",
+            "company_name": "Peraton",
+            "location": "  Silver Spring, MD   ",
+            "via": "via My Panhandle Jobs",
+            "description": "Responsibilities\n\nRole and responsibility for this position...\n\nThe ML/Data Science Research Engineer will participate in an end-to-end design and implementation of deep learning solutions for application in network/graph representation learning (NRL) and graph construction/generation/completion.\n\nThe ideal candidate will be able to start from the end users' needs and understand how they drive performance and infrastructure requirements. The ideal candidate has experience converting customers' needs into user interface requirements and baselining and scaling ML solutions using CI/CD best practices.\n\nRoles and Responsibilities:\n\u2022 Frame the problem, research current state-of-the-art ML solutions, and assess their suitability to the problem at hand.\n\u2022 Leverage deep learning frameworks (e.g., PyTorch, Tensorflow) to develop deep learning solutions, tailoring them to the application area.\n\u2022 Develop extract-transform-load (ETL) pipelines to curate large-scale ML datasets.\n\u2022 Leverage graph neural networks (GNN) to construct embedded/latent representations for downstream tasks.\n\u2022 Train ML models using automated hyper-parameter tuning frameworks.\n\u2022 Design data model to capture real-world phenomena using graph data structures in a space/computationally efficient\nQualifications\n\nEducation adn Experience:\n\nBS 5-7 Years, MS 3-5, PhD 0-2\n\nClearance and Citizenship:\n\nUnited States Citizen\n\nNo Clearance Required - Eligible and willing to be submitted for a Top Secret level clearance\n\nRequired Skills:\n\u2022 Experience training conventional models from scratch (e.g., ordinary least squares (OLM), random forests, support vector machines (SVM), boosting methods, etc.)\n\u2022 Personally trained a deep neural network (DNN): either trained a DNN from scratch OR leveraged transfer learning techniques to further tune a pretrained DNN to a specific target domain.\n\u2022 Developed data wrangling/ETL transforms using python Pandas package.\n\u2022 Experience with Git version control. Desired Skills:\n\u2022 Experience training a deep neural network from scratch\n\u2022 Experience finding white-papers applicable to problem area and tailoring provided code to application domains\n\u2022 Experience with Generative Modeling (e.g., GANs)\n\u2022 Experience with Reinforcement Learning (RL) solutions\n\u2022 Network engineering experience (e.g., knowledge of OSI/TCP/IP models, network infrastructure)\n\u2022 Experience developing on GNU/Linux-based operating system\n\u2022 Experience with MLOps tooling/workflows\n\u2022 Experience using containers (e.g., docker)\n\u2022 Experience with orchestration solutions, including Docker Swarm, Kubernetes, Terraform\nPeraton Labs has a portfolio that spans several domains & problem sets, including (but not limited to):\n\u2022 Full-spectrum cyber operations, including CND, CNE, CNA, and CNO.\n\u2022 Program analysis, including program understanding, vulnerability identification, and remediation\n\u2022 Malware analysis and reverse engineering\n\u2022 Resilient networking in support of cyber mission goals\n\u2022 Autonomous agent development\n\u2022 Software-defined networking for cyber defense and deception\n\u2022 Cryptographic techniques for assured computation\n\u2022 Symbolic logic and theorem proving for automating network configuration\n\u2022 Application of formal methods for secure and resilient systems\n\u2022 Application of mathematic, statistics, and linguistics to large data sets to uncover patterns, extract information and gain understanding\n\u2022 Artificial intelligence (reasoning, probabilistic inference, machine learning)\nPeraton Overview\n\nPeraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can't be done, solving the most daunting challenges facing our customers.\n\nTarget Salary Range\n\n$86,000 - $138,000. This represents the typical salary range for this position based on experience and other factors.\n\nEEO Tagline (Text Only)\n\nAn Equal Opportunity Employer including Disability/Veteran.Experience\nAll",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate has experience converting customers' needs into user interface requirements and baselining and scaling ML solutions using CI/CD best practices",
+                        "BS 5-7 Years, MS 3-5, PhD 0-2",
+                        "United States Citizen",
+                        "No Clearance Required - Eligible and willing to be submitted for a Top Secret level clearance",
+                        "Experience training conventional models from scratch (e.g., ordinary least squares (OLM), random forests, support vector machines (SVM), boosting methods, etc.)",
+                        "Personally trained a deep neural network (DNN): either trained a DNN from scratch OR leveraged transfer learning techniques to further tune a pretrained DNN to a specific target domain",
+                        "Developed data wrangling/ETL transforms using python Pandas package",
+                        "Experience with Git version control",
+                        "Software-defined networking for cyber defense and deception",
+                        "Application of formal methods for secure and resilient systems",
+                        "Application of mathematic, statistics, and linguistics to large data sets to uncover patterns, extract information and gain understanding"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The ML/Data Science Research Engineer will participate in an end-to-end design and implementation of deep learning solutions for application in network/graph representation learning (NRL) and graph construction/generation/completion",
+                        "The ideal candidate will be able to start from the end users' needs and understand how they drive performance and infrastructure requirements",
+                        "Frame the problem, research current state-of-the-art ML solutions, and assess their suitability to the problem at hand",
+                        "Leverage deep learning frameworks (e.g., PyTorch, Tensorflow) to develop deep learning solutions, tailoring them to the application area",
+                        "Develop extract-transform-load (ETL) pipelines to curate large-scale ML datasets",
+                        "Leverage graph neural networks (GNN) to construct embedded/latent representations for downstream tasks",
+                        "Train ML models using automated hyper-parameter tuning frameworks",
+                        "Design data model to capture real-world phenomena using graph data structures in a space/computationally efficient"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$86,000 - $138,000"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.peraton.com/",
+                    "text": "peraton.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Peraton&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCNUL",
+                    "text": "See web results for Peraton"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIFJlc2VhcmNoIEVuZ2luZWVyIC0gU2VjdXJpdHkgQ2xlYXJhbmNlIFJlcXVpcmVkIiwiaHRpZG9jaWQiOiJKVHRXdkltYlJhOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dDQ293Q1FVVnpOMnBPVWsxMllUSlZia00xWVhoNE9FNURibGh6UTNoeWJITmlRVjkyWWtkZlZrc3RMVWN5YjFGb2MwMU9hM0JFU0RGc1EzaGpaV0pZUlRORk1FaFdkWGcwWnpKUlZHSTBNa1kyTWtJMU1HZzFWMDFSY21WVFNERXlkMmQ2ZG0xeFoxOVVkbWg2Tm5aRlZVaEliM0pxZDNGd1ZIbDBkbFJQWTBkR05HMUthVEkzUWw5MVdISkxkMEp6UkRaMmVESjRPR0ZQT0VWUFlrZzJUREk0YUVsdVdFNTBkVzFRY2xOTGVYUklVbkZJVHpoU01tUlliMEZPUVZoYWQwOU5kM0JRZFV0a2FuWTVjbXR4UjFBdFNXNU1OVXg2TFc5MWJVOVdWbkJ5ZFdoVmVISm9hVGxZVTNvelRqZHJORWR1U3pCdFJteDRWV2RMYUd0VlVWcFJZMjh3VEZaQk5WZDRVR2h2VFJJWFVISnpPVnBOTFZGTmRXbHNOVTV2VUd0dkxXcHJRV3NhSWtGUExUQnliRFUyVjI1YU1YVnNOVGRCTFRGd1JsVjNhRGc0WjJJd1NuZG1XV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE15IFBhbmhhbmRsZSBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy5teXBhbmhhbmRsZS5jb20vam9icy9tYWNoaW5lLWxlYXJuaW5nLXJlc2VhcmNoLWVuZ2luZWVyLXNlY3VyaXR5LWNsZWFyYW5jZS1yZXF1aXJlZC1zaWx2ZXItc3ByaW5nLW1hcnlsYW5kLzk3NTE0ODgxMC0yLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Specialist SA, Machine Learning/AI Services",
+            "company_name": "Amazon Web Services, Inc.",
+            "location": "  Arlington, VA   ",
+            "via": "via Arlington, VA - Geebo",
+            "description": "Are you passionate about Artificial Intelligence, Machine Learning and Deep Learning? Are you passionate about helping customers build solutions leveraging the state-of-the-art AI/ML/DL tools on Amazon Web Service (AWS)? Come join us!At Amazon, we've been investing deeply in artificial intelligence for over 20 years, and many of the capabilities customers experience are driven by machine... learning.\nAmazon.\ncom's recommendations engine is driven by machine learning (ML), as are the paths that optimize robotic picking routes in our fulfillment centers.\nOur supply chain, forecasting, and capacity planning are also informed by ML algorithms.\nAlexa is fueled by Natural Language Understanding and Automated Speech Recognition deep learning; as is Prime Air, and the computer vision technology in our new retail experience, Amazon Go.\nWe have thousands of engineers at Amazon committed to machine learning and deep learning, and it's a big part of our heritage.\nWithin AWS, we're focused on bringing that knowledge and capability to customers through three layers of the AI stack:\n1) Frameworks and Infrastructure with tools like Apache MxNet and TensorFlow, 2) Machine Learning Platforms such as Amazon SageMaker for data scientists and 3) API-driven Services like Amazon Lex, Amazon Polly, Amazon Transcribe, Amazon Comprehend, and Amazon Rekognition to quickly add intelligence to applications with a simple API call.\nAWS is looking for an AI Solutions Architect (AI SA), who will be the Subject Matter Expert (SME) for helping customers in the AMERICAS design solutions that leverage our ML stack.\nYou will partner with Solution Architects, Sales, Business Development and the AI Service teams to enable customer adoption and revenue attainment for Amazon Transcribe, Amazon Rekognition, Amazon Comprehend and the other AWS AI services like SageMaker in the AMERICAS.\nYou will develop white papers, blogs, reference implementations, labs, and presentations to evangelize AWS AI design patterns and best practices for all of the AWS AI services.\nAnd, most important - you will act as the steward for developing winning ML capabilities for our customers.\nIf you are a qualified and accepted candidate, you may work out of any of the following cities:\nEastern Time Zone - Boston, New York, Washington DC Metro/Dulles, Atlanta; Central Time Zone - Chicago, Dallas, Austin, Nashville; Pacific Time Zone - Southern California (i.\ne.\nsouth of San Diego to north of Los Angeles), Bay Area California, Minneapolis, Portland, Oregon.\nTravel up to 50% across the AMERICAs may be possible.\nYour roles and responsibilities will include:\nWork with customers' development and data science teams to deeply understand their business and technical needs and design AI solutions that make the best use of the AWS cloud platform and AWS AI Services including Amazon Comprehend, Amazon Rekognition, Amazon Transcribe, Amazon Lex and the other AI services.\nThought Leadership - Evangelize AWS AI services and share best practices through forums such as AWS blogs, whitepapers, reference architectures and public-speaking events such as AWS Summit, AWS re:\nInvent, etc.\nPartner with SAs, Sales, Business Development and the AI Service teams to accelerate customer adoption and revenue attainment in the AMERICAS of Amazon Comprehend, Amazon Rekognition, Amazon Transcribe, Amazon Lex, Amazon Translate, Amazon Polly and the other AI services.\n.\nAct as a technical liaison between customers and the AI services engineering teams to provide customer driven product improvement feedback.\nDevelop and support an AWS internal community of AI related subject matter experts in the AMERICAS.\n.\nEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Frameworks and Infrastructure with tools like Apache MxNet and TensorFlow, 2) Machine Learning Platforms such as Amazon SageMaker for data scientists and 3) API-driven Services like Amazon Lex, Amazon Polly, Amazon Transcribe, Amazon Comprehend, and Amazon Rekognition to quickly add intelligence to applications with a simple API call"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will develop white papers, blogs, reference implementations, labs, and presentations to evangelize AWS AI design patterns and best practices for all of the AWS AI services",
+                        "And, most important - you will act as the steward for developing winning ML capabilities for our customers",
+                        "Act as a technical liaison between customers and the AI services engineering teams to provide customer driven product improvement feedback",
+                        "Develop and support an AWS internal community of AI related subject matter experts in the AMERICAS"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Estimated Salary: $20 to $28 per hour based on qualifications"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://aws.amazon.com/",
+                    "text": "aws.amazon.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Amazon+Web+Services,+Inc.&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCJEM",
+                    "text": "See web results for Amazon Web Services, Inc."
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTcGVjaWFsaXN0IFNBLCBNYWNoaW5lIExlYXJuaW5nL0FJIFNlcnZpY2VzIiwiaHRpZG9jaWQiOiJBT1M1XzlPWGg4VUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVWtGaUxWWmZhWEJpTWpSUGNHaG9aMnBTZFhOck16aFlPRlZtYURsbmJIVlJhM0ZxUjJaNU9FVktjVVJDVDFBMmJUSlRUa3htUW1OSWJYVnNSVzFmUTFZdFJYUktXbEJsUlVwMVNHWTVPRlUzUldSUk1VZEVaVjlYTFZBNVYwSjZSRWwyZVhwNlUyZGxiMGR6ZWtkVmJGbE5la2hzVHpOWU56bFBkSE00VG1kM056ZFhZMVpXYWpFMVpIRjZNVWN3TlVKWFdHTjJXVXRJUm5aa1puVklaVmxPT1RSU1NrTndOVjgxWjFaaWFEQnljSFJyVEZCUWFrZEtURVV4ZW5aTGIxTndSazVDZDI1aWVsRk9aRFZTUjNRME1qZGhNSE5wVGtSRlptZHJaRGw0VGxaWGQxODJZM0JmVVRCRWJqZEtieElYVUhKek9WcE5MVkZOZFdsc05VNXZVR3R2TFdwclFXc2FJa0ZQTFRCeWJEVXdWMWhXTW1wRlVWWnpTV3hqTkhkdFMwdEpSbU5yYTA5RmRXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEFybGluZ3RvbiwgVkEgLSBHZWVibyIsImxpbmsiOiJodHRwczovL2FybGluZ3Rvbi12YS5nZWViby5jb20vam9icy1vbmxpbmUvdmlldy9pZC83NjA5ODgyMTQtc3BlY2lhbGlzdC1zYS1tYWNoaW5lLWxlYXJuaW5nLS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Architect (Senior Consultant) | Businesses...",
+            "company_name": "Deloitte",
+            "location": "  Alexandria, VA   ",
+            "via": "via Alexandria, VA - Geebo",
+            "description": "Machine Learning Architect Are you looking for an organization with startup spirit AND enterprise strength? Deloitte Businesses, Global & Strategic Services group offers both. We are looking for talented individuals with an innovative mindset and technical skillset to join our growing team and work as part of the Deloitte Center for AI Computing within the AI Strategic Growth Offering (AI SGO... Work You'll Do:\nThe Machine Learning Architect will support a broader team of data scientists and architects focused on leveraging the power of GPU-based models. The ideal candidate should have a strong understanding of deep learning, artificial intelligence, computer vision, and natural language processing, and be able to analyze and optimize deep learning workloads on advanced hardware and software platforms. Additionally, the Machine Learning Architect is expected to have experience in setting up ML environments in unison with data scientists and other architects to support ML applications using industry best practices, and creating and implementing well-informed strategies. This individual should be able to communicate to technical and non-technical audiences and guide more junior team members in execution of the developed vision. The Team The Artificial Intelligence Strategic Growth Offering (AI SGO) drives the development, execution and integration of Deloitte's AI brand, offerings, and capabilities across its businesses (Audit & Assurance, Consulting, Tax, and Risk and Financial Advisory) in the US as well as ensures the alignment of global strategy, technology, and innovation. The AI SGO works to capitalize on Deloitte's shared strengths, leverage our scale and define our unique, highly differentiated formula for market leadership. As part of the AI SGO, you will join the Deloitte Center for AI Computing, powered by an NVIDIA DGX AI Supercomputer, which is a first-of-its-kind Center designed to co-innovate with clients and increase Deloitte's competitiveness in the Age of With TM . The Deloitte Center for AI Computing pioneers efforts to transform the world of data in motion, AI and machine learning, bringing innovation at scale to both our clients, and the firm.\nQualifications:\nBachelor's degree in Computer Science, Computer Engineering, Information Technology or another relevant field. 5\nyears' experience supporting data scientists, setting up ML work environments and optimizing data science workflows Proven experience working with GPUs Working experience with tools such as Tensorflow, Pytorch, MxNet or other deep learning libraries Strong understanding of network architecture and application development methodologies. Solid understanding of best practices such as test-driven development and industry established code quality standards Limited immigration sponsorship may be available. Travel up to 20% (While 20% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice.) Preferred Skills:\nMaster's degree in Computer Science, Computer Engineering, Information Technology or another relevant field is considered a plus. Strong understanding of ML and AI tool kits and processes Understanding of DevOps and MLops tool chains and processes. Effective communication skills (written and verbal) to properly articulate complicated cloud reports to management and other non-technical stakeholders. Familiarity with security best practices\nSalary Range:\n$80K -- $100K\nMinimum Qualification\nData Science & Machine Learning, Database AdministrationEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate should have a strong understanding of deep learning, artificial intelligence, computer vision, and natural language processing, and be able to analyze and optimize deep learning workloads on advanced hardware and software platforms",
+                        "Bachelor's degree in Computer Science, Computer Engineering, Information Technology or another relevant field",
+                        "years' experience supporting data scientists, setting up ML work environments and optimizing data science workflows Proven experience working with GPUs Working experience with tools such as Tensorflow, Pytorch, MxNet or other deep learning libraries Strong understanding of network architecture and application development methodologies",
+                        "Solid understanding of best practices such as test-driven development and industry established code quality standards Limited immigration sponsorship may be available",
+                        "Travel up to 20% (While 20% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice.)",
+                        "Strong understanding of ML and AI tool kits and processes Understanding of DevOps and MLops tool chains and processes",
+                        "Effective communication skills (written and verbal) to properly articulate complicated cloud reports to management and other non-technical stakeholders",
+                        "Familiarity with security best practices"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Machine Learning Architect will support a broader team of data scientists and architects focused on leveraging the power of GPU-based models"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$80K -- $100K"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.deloitte.com/",
+                    "text": "deloitte.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Deloitte&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCNAM",
+                    "text": "See web results for Deloitte"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEFyY2hpdGVjdCAoU2VuaW9yIENvbnN1bHRhbnQpIHwgQnVzaW5lc3NlcywgR2xvYmFsIGFuZCBTdHJhdGVnaWMgU2VydmljZXMgKEJHUykiLCJodGlkb2NpZCI6ImtfZzh3ZDVlSFZjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUNDcUlDUVVWek4ycE9ValUxYUhOU2NFZFRXRE55ZWxjMk4weFpUakprUkZkVFZWSlVXR3d4V1dOQ2FFMUZPRWx6YkcxbE9IbGhSR0poUmpCVU9GaHhTVlZVTm5GTVJqWXRNR3d6YmxNeGVXazJWRlJyTjBOQ1FrOXdkbXN0UmpWVGFsSkdkVkpRV0V0bVp6aEpjM1kwVm14bVZYZHVXSEJrYURkWlZWZ3llak5OWld4clRVaGpOa010YmswNWFHOTJXbkYwUzNOV1RrMDJNbEJrUzBWWGVDMW9RMmRHVjFKUE1tMDNhak5EUTBWTVNXRkxNamRRTkd0RldqVjNVRTB0Um5aWFpsQjViRnB1Ym10S1ZWTjNkRkJuUW5aMU1sVkxhVFJFUW05SWJXWjBObE5rTTBWUFpWQlRSWGROWDNGNFJVRnNNRXBxZFVGVVoweGhlbXhEV1hSM2VpMXJRVFZzVEUxWFVVVlBVM2xQTVdOWFJFdHhSREpPZVdOSlZFaFdaVmRCVWtFU0YxQnljemxhVFMxUlRYVnBiRFZPYjFCcmJ5MXFhMEZyR2lKQlR5MHdjbXcxT0RSSk1FUlZXWE15ZEZFNGRFODFWRzR6TTNOTk9WRnpWM2QzIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQWxleGFuZHJpYSwgVkEgLSBHZWVibyIsImxpbmsiOiJodHRwczovL2FsZXhhbmRyaWEtdmEuZ2VlYm8uY29tL2pvYnMtb25saW5lL3ZpZXcvaWQvMTEyNTI4MTcwNS1tYWNoaW5lLWxlYXJuaW5nLWFyY2hpdGVjdC1zZW5pb3ItLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senior Machine Learning Engineer",
+            "company_name": "Expedition Technology Inc.",
+            "location": "  Herndon, VA   ",
+            "via": "via ZipRecruiter",
+            "description": "Description:\n\nUS Citizenship is required due to security clearance requirements...\n\nAre you a motivated engineer who is passionate about embracing new challenges and solving the hardest technical problems in a team-oriented environment? Every day, the engineers at Expedition Technology work together to solve our nation\u2019s defense and intelligence challenges by using machine learning and deep learning to demystify data obtained from signals and images.\n\nOur applied research and development mindset afford our people the opportunity to work on the most cutting-edge methods of optimizing deep learning networks, developing state-of-the-art algorithms and ultimately producing software products that are critical to our nation\u2019s defense infrastructure.\n\nThe success we have already achieved has made Expedition Technology one of the top Machine Learning/Deep Learning research organizations in the Defense and Intelligence communities. We are seeking additional intelligent, passionate, creative people to join our team.\n\nWhen you join our team, you\u2019ll have the opportunity to:\n\u2022 Dive directly into the latest computer vision and signal processing research to replicate new techniques published in academia and find ways to make those ideas work on a larger scale\n\u2022 Use your strong Python coding skills to research, design, develop and expand upon algorithms that will train neural networks to deliver actionable intelligence faster and more effectively\n\u2022 Develop deep-learning software prototypes that demonstrate potential usefulness to our customers\n\u2022 Analyze data from disparate sources including images, video, radar, signals and more\n\u2022 Brainstorm solutions to the toughest problems alongside a team of smart, creative, passionate engineers\n\u2022 Participate in machine learning brownbag sessions and other forms of collaborative learning to keep abreast of the constant changes in Machine and Deep Learning\n\nRequired skills:\n\u2022 US Citizenship- Must be a US Citizen eligible to maintain a US Government security clearance\n\u2022 Bachelor\u2019s degree in Computer Science, Computer Engineering, Electrical Engineering, Physics, Applied Math or related field. Advance degrees welcome\n\u2022 4 years+ work experience developing machine learning models and/or applications.\n\u2022 Strong problem-solving skills combined with deep intellectual curiosity and the desire to push technical boundaries\n\u2022 Strong coding skills- preferably in Python, C/C++, Julia or other object-oriented language in a Linux environment\n\u2022 Software development skills and the desire to work on cutting edge development in a Cloud environment\n\u2022 Deep understanding of data structures and algorithms\n\u2022 Knowledge of computer vision and/or signal processing including techniques for classification and feature extraction\n\u2022 Excellent oral, written, presentation and communication skills\n\nDesired skills:\n\u2022 Experience with deep learning frameworks like Tensorflow, PyTorch, Caffe or Keras\n\u2022 Active US Government security clearance\n\nWhy work at Expedition Technology?\n\nWe are proud that our dynamic and collaborative culture along with our generous benefits package allowed us to earn a spot on the 2019, 2020 and the 2021 Washington Business Journal's Best Places to Work List. We are also a 2021 Top Workplace as named by the Washington Post.\n\nEXP offers a robust benefits package designed to meet the varying needs of our team. Benefits include:\n\u2022 Medical, Dental, Vision insurance (company-paid through an Individual Benefit Account)\n\u2022 Up to 45 days of PTO\n\u2022 Health Care Savings Account\n\u2022 Dependent Care Savings Account\n\u2022 Tuition Reimbursement of up to $5250/year\n\u2022 401k with up to 12% company match\n\u2022 Student Loan Repayment Assistance\n\u2022 Conference attendance\n\u2022 Free tickets to sporting and theater events\n\u2022 A supportive, collaborative culture that puts our people first\n\u2022 Professional development, advancement, learning and growth opportunities\n\nWho is Expedition Technology?\n\nExpedition Technology designs, develops, and delivers innovative, advanced signal, image, and multi-INT solutions for the defense and intelligence communities. We leverage advanced algorithms, platforms, and technologies to solve our customers\u2019 most complex, demanding, and urgent C4ISR challenges. Our culture promotes individual growth and opportunity, prioritizes a collaborative team spirit, and invites the intellectually curious to creatively solve challenging problems. Headquartered in Northern Virginia\u2019s high-tech corridor, EXP is a rapidly growing, privately held, employee-owned company that pushes the boundaries of what is possible every day.\n\nInterested in joining our team? Let\u2019s explore together.\n\nTo learn more about EXP and discover why we are an award-winning workplace, visit our web site and follow us on LinkedIn.\n\nEXP is proud to be an Equal Opportunity Employer that believes a diverse range of talent creates an environment that fosters creativity and innovation. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, disability, national origin, genetic information, or protected veteran status.\nRequirements",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "US Citizenship is required due to security clearance requirements",
+                        "US Citizenship- Must be a US Citizen eligible to maintain a US Government security clearance",
+                        "Bachelor\u2019s degree in Computer Science, Computer Engineering, Electrical Engineering, Physics, Applied Math or related field",
+                        "4 years+ work experience developing machine learning models and/or applications",
+                        "Strong problem-solving skills combined with deep intellectual curiosity and the desire to push technical boundaries",
+                        "Strong coding skills- preferably in Python, C/C++, Julia or other object-oriented language in a Linux environment",
+                        "Software development skills and the desire to work on cutting edge development in a Cloud environment",
+                        "Deep understanding of data structures and algorithms",
+                        "Knowledge of computer vision and/or signal processing including techniques for classification and feature extraction",
+                        "Excellent oral, written, presentation and communication skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Use your strong Python coding skills to research, design, develop and expand upon algorithms that will train neural networks to deliver actionable intelligence faster and more effectively",
+                        "Develop deep-learning software prototypes that demonstrate potential usefulness to our customers",
+                        "Brainstorm solutions to the toughest problems alongside a team of smart, creative, passionate engineers",
+                        "Participate in machine learning brownbag sessions and other forms of collaborative learning to keep abreast of the constant changes in Machine and Deep Learning"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Medical, Dental, Vision insurance (company-paid through an Individual Benefit Account)",
+                        "Up to 45 days of PTO",
+                        "Health Care Savings Account",
+                        "Dependent Care Savings Account",
+                        "Tuition Reimbursement of up to $5250/year",
+                        "401k with up to 12% company match",
+                        "Student Loan Repayment Assistance",
+                        "Conference attendance",
+                        "Free tickets to sporting and theater events",
+                        "A supportive, collaborative culture that puts our people first",
+                        "Professional development, advancement, learning and growth opportunities"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Expedition+Technology+Inc.&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCJYN",
+                    "text": "See web results for Expedition Technology Inc."
+                }
+            ],
+            "extensions": [
+                "13 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "13 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciIsImh0aWRvY2lkIjoiaUZ0YXUyd1h6d0FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VsWjNTVXQwYWpCRU5TMUpWV1puZFdoaWNFMXdaMVpRUzNGTU0wODNWMmxGVWtKeFdFTTNWVTFsVUZkdkxXdDBSMXB6WVRSU2EydHlTVFV3V0VzMFdXVmZlSGxuUms1TlltdFpVMnQ2U21OTFRrRXpjMDl0ZWxoa1FVeHpVVWwwVVV0dGQyZGxRbFpuWlU1M1JsWmhZVEl0U21WUk1XcDRRVkJtVkcxa1RGb3lVWFpMYW00MWFXSnllRFJFYUc1S2FETlVVRTlPYURWZlNGWmlUakZDT0dGTFJYRlJZMlJaTkhOS2JtWnBkVkpSV2tjeFMySkZlakpyTlV0RE1HVlNhakpKVDAxT1kyRlVjRTlUT1dsR1ZIQjNhVXgzVlVsMmJrcHdVUklYVUhKek9WcE5MVkZOZFdsc05VNXZVR3R2TFdwclFXc2FJa0ZQTFRCeWJEZDFOVXBvTW5WNk1XaElUbUpHUlRkcGJVOWxTbFZLWm1KRWExRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE0IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvRXhwZWRpdGlvbi1UZWNobm9sb2d5LUluYy4vSm9iL1Nlbmlvci1NYWNoaW5lLUxlYXJuaW5nLUVuZ2luZWVyLy1pbi1IZXJuZG9uLFZBP2ppZD01YzcxY2Q1MGRiNDZhOGM5XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Architect (Senior Consultant) - Deloitte Center...",
+            "company_name": "Deloitte",
+            "location": "  Fort Meade, MD   ",
+            "via": "via Deloitte Jobs",
+            "description": "Are you looking for an organization with startup spirit AND enterprise strength? Deloitte Businesses, Global & Strategic Services group offers both. We are looking for talented individuals with an innovative mindset and technical skillset to join our growing team and work as part of the Deloitte Center for AI Computing within the AI Strategic Growth Offering (AI SGO).\n\nWork You'll Do...\n\nThe Machine Learning Architect will support a broader team of data scientists and architects focused on leveraging the power of GPU-based models. The ideal candidate should have a strong understanding of deep learning, artificial intelligence, computer vision, and natural language processing, and be able to analyze and optimize deep learning workloads on advanced hardware and software platforms.\n\nAdditionally, the Machine Learning Architect is expected to have experience in setting up ML environments in unison with data scientists and other architects to support ML applications using industry best practices, and creating and implementing well-informed strategies. This individual should be able to communicate to technical and non-technical audiences and guide more junior team members in execution of the developed vision.\n\nThe Team\n\nThe Artificial Intelligence Strategic Growth Offering (AI SGO) drives the development, execution and integration of Deloitte's AI brand, offerings, and capabilities across its businesses (Audit & Assurance, Consulting, Tax, and Risk and Financial Advisory) in the US as well as ensures the alignment of global strategy, technology, and innovation. The AI SGO works to capitalize on Deloitte's shared strengths, leverage our scale and define our unique, highly differentiated formula for market leadership. As part of the AI SGO, you will join the Deloitte Center for AI Computing , powered by an NVIDIA DGX AI Supercomputer, which is a first-of-its-kind Center designed to co-innovate with clients and increase Deloitte's competitiveness in the Age of With TM . The Deloitte Center for AI Computing pioneers efforts to transform the world of data in motion, AI and machine learning, bringing innovation at scale to both our clients, and the firm.\n\nQualifications:\n\u2022 Bachelor's degree in Computer Science, Computer Engineering, Information Technology or another relevant field.\n\u2022 5+ years' experience supporting data scientists, setting up ML work environments and optimizing data science workflows\n\u2022 2+ years' experience in a leadership position managing junior technical resources and driving towards project deadlines\n\u2022 Proven experience working with GPUs\n\u2022 Working experience with tools such as Tensorflow, Pytorch, MxNet or other deep learning libraries\n\u2022 Strong understanding of network architecture and application development methodologies.\n\u2022 Solid understanding of best practices such as test-driven development and industry established code quality standards\n\u2022 Limited immigration sponsorship may be available.\n\u2022 Travel up to 20% (While 20% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice.)\n\nPreferred Skills:\n\u2022 Master's degree in Computer Science, Computer Engineering, Information Technology or another relevant field is considered a plus.\n\u2022 Strong understanding of ML and AI toolkits and processes, such as Kubeflow or MLflow.\n\u2022 Understanding of DevOps and MLOps tool chains and processes, including ML model deployment.\n\u2022 Experience working with data visualization tools like Tableau and/or Power BI.\n\u2022 Effective communication skills (written and verbal) to properly articulate complicated cloud reports to management and other non-technical stakeholders.\n\u2022 Familiarity with security best practices\n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $86,425 to $159,165.\n\nYou may also be eligible to participate in a sales incentive program, whereby you may be eligible to receive certain incentive compensation amounts based on achievement of certain sales goals set forth each year, subject to the terms and conditions of any applicable program document.\n\nEABGSExpHire\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate should have a strong understanding of deep learning, artificial intelligence, computer vision, and natural language processing, and be able to analyze and optimize deep learning workloads on advanced hardware and software platforms",
+                        "Bachelor's degree in Computer Science, Computer Engineering, Information Technology or another relevant field",
+                        "5+ years' experience supporting data scientists, setting up ML work environments and optimizing data science workflows",
+                        "2+ years' experience in a leadership position managing junior technical resources and driving towards project deadlines",
+                        "Proven experience working with GPUs",
+                        "Working experience with tools such as Tensorflow, Pytorch, MxNet or other deep learning libraries",
+                        "Strong understanding of network architecture and application development methodologies",
+                        "Solid understanding of best practices such as test-driven development and industry established code quality standards",
+                        "Limited immigration sponsorship may be available",
+                        "Travel up to 20% (While 20% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice.)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Machine Learning Architect will support a broader team of data scientists and architects focused on leveraging the power of GPU-based models"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A reasonable estimate of the current range is $86,425 to $159,165",
+                        "You may also be eligible to participate in a sales incentive program, whereby you may be eligible to receive certain incentive compensation amounts based on achievement of certain sales goals set forth each year, subject to the terms and conditions of any applicable program document"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.deloitte.com/",
+                    "text": "deloitte.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Deloitte&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCNcN",
+                    "text": "See web results for Deloitte"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEFyY2hpdGVjdCAoU2VuaW9yIENvbnN1bHRhbnQpIC0gRGVsb2l0dGUgQ2VudGVyIGZvciBBSSBDb21wdXRpbmcgfCBCdXNpbmVzc2VzLCBHbG9iYWwgYW5kIFN0cmF0ZWdpYyBTZXJ2aWNlcyAoQkdTKSIsImh0aWRvY2lkIjoiVDJacm1jcDR4djhBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJREN1SUNRVVZ6TjJwT1VqUkdWbGhTU1djdFREaG1NVlZoUlRkRk5qRXdMVEJ1YzJsNGJVNTJhbGhLU25CemREVnVSREF3VWxoVmFuSmFjMk5TUW1wZlEwMUpRbmRRTjFsTFQwbzFUa1JqTVhCTllVWnJNVXRoWTJoTFpGVjBTR3c0YURSS1VVMVZValpKVHpoU2FscFlSVFpHWm10aVpEVkdWMnhoUTNkcVMzQkdRelJZVkdwdE9FbDRkVkZwZVc5UVFreHRPVmN3ZG5aZlduSkVWVlp2ZEZKSFFUQnZRa042VFZCUVVXaDVPVkY0Ymw5U1RFZFFUVkJwVEc5RlRITlNkekZVTFhOMFlsaFJOSEZDVUhacFdtSk9SekZET1ZCRE9URmlSVTFNY0V4clNVaGlaekZqWTBaTFVGSlljRWhoY2twbmFFTkNiMjQxUTBSSGFuRlZibmQ0VTAwemMyeGFiakpvVURGeVNFdENUMFJ4UW1Gdk4wZFpNMWM1VG5abmEzSnJURmxLVm1Gc05XcFJOVWRZY0Zoc2JVWkJNR3RmZEhWd1lWZ3liV2xwWTJaRWFVcFhVV1ZDWVROTWJVZE1kM2xQV0dKZlpVMWhYMVo1TkZseVN5MTRPVE4zRWhkUWNuTTVXazB0VVUxMWFXdzFUbTlRYTI4dGFtdEJheG9pUVU4dE1ISnNOR3czUzJsV1EwVnliVEk0Ulc1QlFtOWpNVmw2WkZoSll6Vk9adyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIERlbG9pdHRlIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzdXMuZGVsb2l0dGUuY29tL2ZvcnQtbWVhZGUtbWQvbWFjaGluZS1sZWFybmluZy1hcmNoaXRlY3Qtc2VuaW9yLWNvbnN1bHRhbnQtZGVsb2l0dGUtY2VudGVyLWZvci1haS1jb21wdXRpbmctYnVzaW5lc3Nlcy1nbG9iYWwtYW5kLXN0cmF0ZWdpYy1zZXJ2aWNlcy1iZ3MvMjE5RUQ5RTU2QzY4NDAyN0JBMDA0M0U4ODA5MEE3OTAvam9iLz92cz0yOFx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "company_name": "Booz Allen Hamilton",
+            "location": "  Suffolk, VA   ",
+            "via": "via Booz Allen Hamilton",
+            "description": "Machine Learning Engineer\n\nThe Opportunity...\n\nAs an experienced engineer, you know that machine learning is critical to understanding and processing massive datasets. Your ability to conduct statistical analyses on business processes using Machine Learning (ML) techniques makes you an integral part of delivering a customer-focused solution. We need your technical knowledge and desire to problem-solve to support. As a machine learning engineer on our team, you\u2019ll train, test, deploy, and maintain models that learn from data.\n\nIn this role, you\u2019ll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies. You\u2019ll be part of a large community of machine learning engineers across the firm and collaborate with data engineers, data scientists, and product owners to deliver world class solutions to design and develop advanced machine learning models, and ensure models are properly maintained over time while delivering cutting edge solutions to real world problems. Your advanced consulting skills and extensive technical expertise will guide clients as they navigate the landscape of ML algorithms, tools, and frameworks.\n\nWork with us to solve real-world challenges and define ML strategy for the Department of Defense.\n\nJoin us. The world can\u2019t wait.\n\nYou Have:\u202f\n\u2022 Experience as a Machine Learning Engineer or Lead Data Scientist\n\u2022 Experience with software containerization and orchestration, including Docker, Kubernetes, and Pod Man\n\u2022 Experience with Machine Learning programming languages, including Python, TensorFlow, or JavaScript\n\u2022 Experience with distributed computing, including Apache Spark, HDFS, MapR, or Cloudera\n\u2022 Knowledge of Machine Learning Ops and the design and implementation of Machine Learning algorithms integrated in operational systems and deployed to production environments\n\u2022 Knowledge of deep learning, natural language processing, and synthetic data generation\n\u2022 Ability to train, optimize, integrate, and reinforce Machine Learning algorithms across high volume or velocity text and imagery or full-motion video data feeds\n\u2022 Secret clearance\n\u2022 Master's degree\n\nNice If You Have:\u202f\n\u2022 Experience with Machine Learning hardware, including AMD, NVIDIA DGX, or small form factor HW, including Jetson or Xavier\n\u2022 Experience performing data exploration and data analysis on multiple data types, including images, video, and text\n\u2022 Experience with feature selection, computer vision or natural language processing model building, and optimization using supervised and unsupervised machine learning techniques to support analytic objectives\n\u2022 Experience with Databricks\n\u2022 Possession of strong SQL skills\n\u2022 TS/SCI clearance\n\nClearance:\u202f\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.\n\nCreate Your Career:\n\nGrow With Us\n\nYour growth matters to us\u2014that\u2019s why we offer a variety of ways for you to develop your career. With professional and leadership development opportunities like upskilling programs, tuition reimbursement, mentoring, and firm-sponsored networking, you can chart a unique and fulfilling career path on your own terms.\n\nA Place Where You Belong\n\nDiverse perspectives cultivate collective ingenuity. Booz Allen\u2019s culture of respect, equity, and opportunity means that, here, you are free to bring your whole self to work. With an array of business resource groups and other opportunities for connection, you\u2019ll build your community in no time.\n\nSupport Your Well-Being\n\nOur comprehensive benefits package includes wellness programs with HSA contributions, paid holidays, paid parental leave, a generous 401(k) match, and more. With these benefits, plus the option for flexible schedules and remote and hybrid locations, we\u2019ll support you as you pursue a balanced, fulfilling life\u2014at work and at home.\n\nYour Candidate Journey\n\nAt Booz Allen, we know our people are what propel us forward, and we value relationships most of all. Here, we\u2019ve compiled a list of resources so you\u2019ll know what to expect as we forge a connection with you during your journey as a candidate with us.\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen\u2019s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual\u2019s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $93,300.00 to $212,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen\u2019s total compensation package for employees.\n\nWork Model\nOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.\n\u2022 If this position is listed as remote or hybrid, you\u2019ll periodically work from a Booz Allen or client site facility.\n\u2022 If this position is listed as onsite, you\u2019ll work with colleagues and clients in person, as needed for the specific role.\n\nEEO Commitment\n\nWe\u2019re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change \u2013 no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience as a Machine Learning Engineer or Lead Data Scientist",
+                        "Experience with software containerization and orchestration, including Docker, Kubernetes, and Pod Man",
+                        "Experience with Machine Learning programming languages, including Python, TensorFlow, or JavaScript",
+                        "Experience with distributed computing, including Apache Spark, HDFS, MapR, or Cloudera",
+                        "Knowledge of Machine Learning Ops and the design and implementation of Machine Learning algorithms integrated in operational systems and deployed to production environments",
+                        "Knowledge of deep learning, natural language processing, and synthetic data generation",
+                        "Ability to train, optimize, integrate, and reinforce Machine Learning algorithms across high volume or velocity text and imagery or full-motion video data feeds",
+                        "Secret clearance",
+                        "Master's degree",
+                        "Experience with Machine Learning hardware, including AMD, NVIDIA DGX, or small form factor HW, including Jetson or Xavier",
+                        "Experience performing data exploration and data analysis on multiple data types, including images, video, and text",
+                        "Experience with feature selection, computer vision or natural language processing model building, and optimization using supervised and unsupervised machine learning techniques to support analytic objectives",
+                        "Experience with Databricks",
+                        "Possession of strong SQL skills",
+                        "TS/SCI clearance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Your ability to conduct statistical analyses on business processes using Machine Learning (ML) techniques makes you an integral part of delivering a customer-focused solution",
+                        "As a machine learning engineer on our team, you\u2019ll train, test, deploy, and maintain models that learn from data",
+                        "In this role, you\u2019ll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies",
+                        "You\u2019ll be part of a large community of machine learning engineers across the firm and collaborate with data engineers, data scientists, and product owners to deliver world class solutions to design and develop advanced machine learning models, and ensure models are properly maintained over time while delivering cutting edge solutions to real world problems",
+                        "Your advanced consulting skills and extensive technical expertise will guide clients as they navigate the landscape of ML algorithms, tools, and frameworks",
+                        "Work with us to solve real-world challenges and define ML strategy for the Department of Defense",
+                        "If this position is listed as onsite, you\u2019ll work with colleagues and clients in person, as needed for the specific role"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "With professional and leadership development opportunities like upskilling programs, tuition reimbursement, mentoring, and firm-sponsored networking, you can chart a unique and fulfilling career path on your own terms",
+                        "Our comprehensive benefits package includes wellness programs with HSA contributions, paid holidays, paid parental leave, a generous 401(k) match, and more",
+                        "With these benefits, plus the option for flexible schedules and remote and hybrid locations, we\u2019ll support you as you pursue a balanced, fulfilling life\u2014at work and at home",
+                        "At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+                        "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+                        "The projected compensation range for this position is $93,300.00 to $212,000.00 (annualized USD)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.boozallen.com/",
+                    "text": "boozallen.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Booz+Allen+Hamilton&sa=X&ved=0ahUKEwjPp42T77H-AhXoElkFHZLHCJIQmJACCJoO",
+                    "text": "See web results for Booz Allen Hamilton"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiI0RThuOVRiVDYzVUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVW5aRFNsRjRabTlKWm5aNVJ5MUhZWGwwUW1OTk1XNWlUVEZVV0Uwd1lrTTJaMTgzU2xvemF6Vm5WUzEyVnkxb04xRk9MVmRLYTFOMVltOXhaVlV3WTNveGJsOUZjMHhTV0ZCQ1FWTTNiMWxvVmt4VmVqUmhkMGh2YjNOdmRqbHFTR3BrUWpZNVdVbGZXak16TWxCdVpsTmhWbU16TjNnME0yZEdPRzlCT0Rnd1ZFWkdhMG80Y1ZZMVVISnhOa1JNTWtwbmVrRnhhWE16YW1Sd1kwRlNla2RYTURsUVlYaFdOVVZRT0dGTFJHdFdUREEzUzNBeExWcFVNVGhQZDE5QlpGSTFXbVJYRWhkUWNuTTVXazB0VVUxMWFXdzFUbTlRYTI4dGFtdEJheG9pUVU4dE1ISnNOV0ZHZW5OclYwUjJlR0ZpY20wemNIVjZaM2syUm5oMWJWUjNVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE4IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJvb3ogQWxsZW4gSGFtaWx0b24iLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmJvb3phbGxlbi5jb20vdGVhbXMvSm9iRGV0YWlsL1N1ZmZvbGstTWFjaGluZS1MZWFybmluZy1FbmdpbmVlci1SMDE2ODg0OS83Nzc4Nj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Associate director",
+                    "value": "associate director"
+                },
+                {
+                    "text": "Data analyst",
+                    "value": "data analyst"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Development representative",
+                    "value": "development representative"
+                },
+                {
+                    "text": "Devops engineer",
+                    "value": "devops engineer"
+                },
+                {
+                    "text": "Engineer senior",
+                    "value": "engineer senior"
+                },
+                {
+                    "text": "Engineers",
+                    "value": "engineers"
+                },
+                {
+                    "text": "General",
+                    "value": "general"
+                },
+                {
+                    "text": "Infrastructure",
+                    "value": "infrastructure"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Lead architect",
+                    "value": "lead architect"
+                },
+                {
+                    "text": "Lead engineer",
+                    "value": "lead engineer"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Performance engineer",
+                    "value": "performance engineer"
+                },
+                {
+                    "text": "Platform engineer",
+                    "value": "platform engineer"
+                },
+                {
+                    "text": "Principal scientist",
+                    "value": "principal scientist"
+                },
+                {
+                    "text": "Product owner",
+                    "value": "product owner"
+                },
+                {
+                    "text": "Reliability engineer",
+                    "value": "reliability engineer"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Sales engineer",
+                    "value": "sales engineer"
+                },
+                {
+                    "text": "Senior scientist",
+                    "value": "senior scientist"
+                },
+                {
+                    "text": "Site manager",
+                    "value": "site manager"
+                },
+                {
+                    "text": "Technical writer",
+                    "value": "technical writer"
+                },
+                {
+                    "text": "Test engineer",
+                    "value": "test engineer"
+                },
+                {
+                    "text": "With experience",
+                    "value": "with experience"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Redmond, WA",
+                    "value": "I-4AIK0MkFTyBNjF6pADXg=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Atlantic City, NJ",
+                    "value": "IcdcblfdwIliUmfpQ8tvSg=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Burlingame, CA",
+                    "value": "WY6bVCV2j4BPjy9TPvq8Cw=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Madison, WI",
+                    "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "Natick, MA",
+                    "value": "dSAbXrOH44kno1zsiT-M3w=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Arabi, LA",
+                    "value": "gaN3G1kdnogAYxoYxcr7OQ=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Auburn Hills, MI",
+                    "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+                },
+                {
+                    "text": "Auburn, AL",
+                    "value": "g_ibsy_xjIhYk9M1kpElyw=="
+                },
+                {
+                    "text": "Bismarck, ND",
+                    "value": "Y-nYVxKD11KTyrv5Er2qzA=="
+                },
+                {
+                    "text": "Boerne, TX",
+                    "value": "dT7ey6F2XIYrJjlC9reRHA=="
+                },
+                {
+                    "text": "Boise, ID",
+                    "value": "nbRH6XLxrlSbnWc2m5hbmg=="
+                },
+                {
+                    "text": "Bolinas, CA",
+                    "value": "JT1aDFWVhYCFrdiPbqL8sg=="
+                },
+                {
+                    "text": "Bridgeport, WV",
+                    "value": "W-eWWTZmSoh7WJ88dTfN5w=="
+                },
+                {
+                    "text": "California City, CA",
+                    "value": "QwmmE9IpwoAyC_U7tN5YNA=="
+                },
+                {
+                    "text": "Carrboro, NC",
+                    "value": "dW4B92XZrIlFweaZta8IEw=="
+                },
+                {
+                    "text": "Cary, NC",
+                    "value": "Q4tK_1S9rInhS0Ra249WRA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Corte Madera, CA",
+                    "value": "K4ajZAmWhYAScMmUASVIBQ=="
+                },
+                {
+                    "text": "El Segundo, CA",
+                    "value": "rTzSGUexwoC22Yu8x2IFjA=="
+                },
+                {
+                    "text": "Emeryville, CA",
+                    "value": "s44f6hR-hYAHcbCoMRgdSA=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fremont, CA",
+                    "value": "98rot0a_j4DUiNiJOzHaig=="
+                },
+                {
+                    "text": "Fresno, CA",
+                    "value": "nU6eVOFdlIARuKNJZEASew=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Genentech",
+                    "value": "/m/01_lh1"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Rivian",
+                    "value": "/m/0gj8vdm"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "AbSci",
+                    "value": "/g/11f01flq2c"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "Approgence Inc.",
+                    "value": "/g/11c73njm7n"
+                },
+                {
+                    "text": "Battelle",
+                    "value": "/m/02m9dl"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Elevance Health",
+                    "value": "/m/04xtkp"
+                },
+                {
+                    "text": "Flagship Pioneering",
+                    "value": "/g/11fy29v0zb"
+                },
+                {
+                    "text": "GSK",
+                    "value": "/m/01bbm7"
+                },
+                {
+                    "text": "GoodRx",
+                    "value": "/g/11df0pkp5v"
+                },
+                {
+                    "text": "Lambda",
+                    "value": "/g/11fv60v44p"
+                },
+                {
+                    "text": "MathWorks",
+                    "value": "/m/02q9vb"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Square",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "Trilogy Innovations Inc",
+                    "value": "/g/11scx87bzx"
+                },
+                {
+                    "text": "WayUp",
+                    "value": "/g/11gfj67hvn"
+                },
+                {
+                    "text": "Adobe",
+                    "value": "/m/0vlf"
+                },
+                {
+                    "text": "Advanced Micro Devices, Inc",
+                    "value": "/m/0z64"
+                },
+                {
+                    "text": "Ansys",
+                    "value": "/m/06dplm"
+                },
+                {
+                    "text": "Aurora Flight Sciences",
+                    "value": "/m/076tx9t"
+                },
+                {
+                    "text": "Baker Hughes",
+                    "value": "/m/02yd0p"
+                },
+                {
+                    "text": "Barrington James",
+                    "value": "/g/11h15xyk33"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,915 @@
+{
+    "search_metadata": {
+        "id": "643db9980a90c708dcd50442",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/98cd1eba9932637c/643db9980a90c708dcd50442.json",
+        "created_at": "2023-04-17 21:26:48 UTC",
+        "processed_at": "2023-04-17 21:26:48 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=neural+networks&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20",
+        "raw_html_file": "https://serpapi.com/searches/98cd1eba9932637c/643db9980a90c708dcd50442.html",
+        "total_time_taken": 0.9
+    },
+    "search_parameters": {
+        "q": "neural networks",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 20
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Software Engineer (Python / Deep Neural Networks)",
+            "company_name": "Jobot",
+            "location": "  Atlanta, GA   ",
+            "via": "via My ArkLaMiss Jobs",
+            "description": "What if machines could learn the way humans do?\n\nThis Jobot Job is hosted by: Craig Rosecrans...\nAre you a fit? Easy Apply now by clicking the \"Apply Now\" button and sending us your resume.\nSalary: $14,000 - $300,000 per year\n\nA bit about us:\n\nOur client is changing the way machines learn by creating software with human-like intelligence! a VC backed startup based in Silicone Valley, they are looking for engineers that are as passionate as them when it comes creating software that will revolutionize the way AI learns.\n\nWhy join us?\n\u2022 Work directly on creating software with human-like intelligence.\n\u2022 Generous compensation, equity, and benefits.\n\u2022 $20K+ yearly budget for self-improvement: coaching, courses, conferences, etc.\n\u2022 Actively co-create and participate in a positive, intentional team culture.\n\u2022 Spend time learning, reading papers, and deeply understanding prior work.\n\u2022 Frequent team events, dinners, off-sites, and hanging out.\n\nJob Details\n\u2022 Very comfortable writing Python.\n\u2022 Familiar with PyTorch and training deep neural networks.\n\u2022 Excited to work on open source code.\n\u2022 Passionate about engineering best practices.\n\u2022 Self-directed and independent.\n\u2022 Excellent at getting things done\n\nInterested in hearing more? Easy Apply now by clicking the \"Apply Now\" button",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Very comfortable writing Python",
+                        "Familiar with PyTorch and training deep neural networks",
+                        "Passionate about engineering best practices",
+                        "Self-directed and independent",
+                        "Excellent at getting things done"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary: $14,000 - $300,000 per year",
+                        "Work directly on creating software with human-like intelligence",
+                        "Generous compensation, equity, and benefits",
+                        "$20K+ yearly budget for self-improvement: coaching, courses, conferences, etc",
+                        "Frequent team events, dinners, off-sites, and hanging out"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Jobot&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIzAk",
+                    "text": "See web results for Jobot"
+                }
+            ],
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKFB5dGhvbiAvIERlZXAgTmV1cmFsIE5ldHdvcmtzKSIsImh0aWRvY2lkIjoiTjU0ZE9vNVlsZnNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZGWmpibkp6U2xCMFREWnZTVlpZTVdoYU1XTTFYMGx2TkVwVE9HbDJaVEJmUldOZk9XbGxja3cxZGkxT1p6QlBUek00ZVdkd1FVMTFiMnhEVEhRMFp6RnpVRWhPTkZkUGFVUmZjRnBoZUZaVFkyMVJSbEJIWTFOcWEzaG9jWGxXVWpGbVlrTjJVVFU0YlhKcU4xUllSRTl5TW5oaloxSlZUVlZoYW5GSmVtOVZjMlF4UVdoZmNFVjFZVFJCWVhac2MwRm5jbU5zVlRGUU1ERldUM1ZYY1VoTVkzcDFNR2hqUnpWS1lteHNjRzlQVkRnNVgyaFRabU5OVHpGS1MyNW1kblpNUkVNNUVoZHRUR3M1V2s1aWVrVnZXR3MxVG05UU5VbEhPVGhCWnhvaVFVOHRNSEpzTmxWd1NIaG9SSEZZTmpsMGEyVk9WMEZxWkhwVWEwbFlURU5SUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIE15IEFya0xhTWlzcyBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy5teWFya2xhbWlzcy5jb20vam9icy9zZW5pb3Itc29mdHdhcmUtZW5naW5lZXItcHl0aG9uLWRlZXAtbmV1cmFsLW5ldHdvcmtzLWF0bGFudGEtZ2VvcmdpYS85NzQ1MjEwNzMtMi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Engineer, Jr-Mid level, Design Deep Learning...",
+            "company_name": "Riccione Resources",
+            "location": " Anywhere ",
+            "via": "via ZipRecruiter",
+            "description": "Machine Learning Engineer, Jr-Mid level, Design Deep Learning Layers for Neural Networks, Python, Remote/Dallas\n\nAre you interested in joining a firm building disruptive technology for Fortune 500 supply chain logistics? This firm is leading the way in building 4D infrastructure for the next generation of technology, using AI/ML, Computer Vision, and IoT Sensors. Your chance to join a team and... company of passionate innovators who desire to create value and success for their customers. Unique opportunity to impact the companys growth significantly and have an ownership stake in the firm.\n\nWhy should you apply here?\n\u2022 This companys co-founders have built successful startups\n\u2022 Its a well-funded growing startup with Fortune 500 companies for clients\n\u2022 A ground-floor opportunity with solid growth potential and scaling up\n\u2022 Contribute to greenfield development\n\u2022 Products focused on AI/ML, Computer Vision, IoT Sensor technology\n\u2022 A passionate team with successful people who enjoy working together and celebrating wins\n\u2022 Ownership through stock equity\n\u2022 Virtual first workplace environment with remote and flexible arrangements\n\nWhat will you be doing?\n\u2022 Grow your technical skills by solving technically challenging problems\n\u2022 Work with a lot of variations, have exposure to large companies (customers), problems to solve, different industries, problem sets, etc.\n\u2022 Solve very specific problems for customers with in-depth experience and understanding of Deep Learning Layers and Neural Networks\n\u2022 Create Deep Learning layers and make Neural Nets\n\u2022 Modify off-the-shelf architectures or technologies to come up with solutions\n\u2022 Work with Python and TensorFlow\n\u2022 Deploy solutions in a public cloud\n\nWhat are the minimum qualifications?\n\u2022 B.S. or M.S in Data Science, Computer Science, Applied Mathematics, or a Data-Focused major\n\u2022 Jr-Mid level experience with a heavy focus on the design of Deep Learning layers for Neural Networks\n\u2022 Must be familiar with deep learning architectures, understand the computational complexity of network architectures and each layer, loss functions, and evaluation metrics\n\u2022 Experience with ML frameworks, such as PyTorch, TensorFlow, scikit-learn, or similar\n\u2022 Strong software experience with Python and/or C++\n\u2022 Experience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform\n\u2022 Experience designing, implementing, and scaling complex data pipelines for ML models and evaluating their performance\n\nWhat will make your rsum stand out?\n\u2022 Experience with TensorRT is a plus\n\u2022 Experience with Kubernetes\n\u2022 Experience incorporating synthetic data into model building\n\u2022 Experience building ETL pipelines and working with big data technologies is a plus (e.g., Hadoop, Spark, and serverless technologies such as EMR, Redshift, S3, AWS Glue, and Kinesis)\n\nLocation: Remote, Headquarters in Dallas, TX, and prefer candidates living in Texas\n\nCitizenship: U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. This company is currently unable to provide sponsorship (e.g., H1B).\n\nSalary: 100k 140k + Stock Options,100% employer-paid medical coverage for employees and dependents, and Flexible PTO policy",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "B.S. or M.S in Data Science, Computer Science, Applied Mathematics, or a Data-Focused major",
+                        "Jr-Mid level experience with a heavy focus on the design of Deep Learning layers for Neural Networks",
+                        "Must be familiar with deep learning architectures, understand the computational complexity of network architectures and each layer, loss functions, and evaluation metrics",
+                        "Experience with ML frameworks, such as PyTorch, TensorFlow, scikit-learn, or similar",
+                        "Strong software experience with Python and/or C++",
+                        "Experience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform",
+                        "Experience designing, implementing, and scaling complex data pipelines for ML models and evaluating their performance",
+                        "Experience with Kubernetes",
+                        "Experience incorporating synthetic data into model building",
+                        "Citizenship: U.S. Citizens and those authorized to work in the U.S. are encouraged to apply"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Grow your technical skills by solving technically challenging problems",
+                        "Work with a lot of variations, have exposure to large companies (customers), problems to solve, different industries, problem sets, etc",
+                        "Solve very specific problems for customers with in-depth experience and understanding of Deep Learning Layers and Neural Networks",
+                        "Create Deep Learning layers and make Neural Nets",
+                        "Modify off-the-shelf architectures or technologies to come up with solutions",
+                        "Work with Python and TensorFlow",
+                        "Deploy solutions in a public cloud"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A ground-floor opportunity with solid growth potential and scaling up",
+                        "Contribute to greenfield development",
+                        "Products focused on AI/ML, Computer Vision, IoT Sensor technology",
+                        "A passionate team with successful people who enjoy working together and celebrating wins",
+                        "Ownership through stock equity",
+                        "Virtual first workplace environment with remote and flexible arrangements",
+                        "Salary: 100k 140k + Stock Options,100% employer-paid medical coverage for employees and dependents, and Flexible PTO policy"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Riccione+Resources&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIkgo",
+                    "text": "See web results for Riccione Resources"
+                }
+            ],
+            "extensions": [
+                "100K\u2013140K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "100K\u2013140K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyLCBKci1NaWQgbGV2ZWwsIERlc2lnbiBEZWVwIExlYXJuaW5nIExheWVycyBmb3IgTmV1cmFsIE5ldHdvcmtzLCBQeXRob24sIFJlIiwiaHRpZG9jaWQiOiJkTHRsZHdyelI3TUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlDQ3FJQ1FVVnpOMnBPVW5SNVgxZGpTa1IwWldaRlJVWnRjVFpyUmpkTGRtUkdhM1o2ZWtrelFVWnhjbU56ZURKbWVIUnhTMXA1UjJGU1pGSndTMEpQVDJkVWVEVk5aWGxLYm1aRWJuSlJXa3RrUjJOSmJsTlJlSGhwU2pKMFZUbDBRa2hmV1hGSlpERnVWQzE0VURreVkyNUtZbkZ2ZG1SR1lWVldTMU13VmtaU2RWOXhUakJyU25GdVl6bDVUemhHWTJFdFVVbFhOM0pEYW5SbldEWlpZazA0UTNsS2FXSlpUVmhqUTFsQ01HMUhTRTFUZWt0bU55MW5jVEJvTVU5T2NIVTNXSEZJVUZKM2NVUnhOVUpDTkRabFVVdGpNR0ZQVm1WclR6SmlTQzB6Y1U5eE1XdzNUVnBFWjBoTlRGa3dOMFYyYVZFMVlVZERRakV6YjNwR1ZVRjBMVVUyTlROeldtTnZSVUZCUWpRd1dGazJZbG80Y2xaNUxVTlZVRVV0WlZoVVMzY1NGMjFNYXpsYVRtSjZSVzlZYXpWT2IxQTFTVWM1T0VGbkdpSkJUeTB3Y213MUxWUklUVzFzTURGWU1HMWxTVXRuVUV4dmVXZ3pRVzgxTVRGQiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9SaWNjaW9uZS1SZXNvdXJjZXMvSm9iL01hY2hpbmUtTGVhcm5pbmctRW5naW5lZXIsLUpyLU1pZC1sZXZlbCwtRGVzaWduLURlZXAtTGVhcm5pbmctTGF5ZXJzLWZvci1OZXVyYWwtTmV0d29ya3MsLVB5dGhvbiwtUmUvLWluLURhbGxhcyxUWD9qaWQ9YWFmZGIxM2Y2NWYxOTEyZlx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Deep Learning Engineer",
+            "company_name": "Matroid",
+            "location": "  Palo Alto, CA   ",
+            "via": "via AngelList",
+            "description": "Apply here --> https://matroid.breezy.hr/p/eb926c2e5033-deep-learning-engineer?source=angellist\n\nhttps://matroid.breezy.hr/p/eb926c2e5033-deep-learning-engineer?source=linkedin...\n\u2022 *About Matroid\n\nMatroid\u2019s mission is to enable computers to visually understand the world. With a \u201cno programming required\u201d product, Matroid brings computer vision into the hands of many. Our users can deploy cutting-edge, deep neural networks on the cloud or on-premise with the click of a button.\n\nAt Matroid, you will have the opportunity to work directly with founder and CEO, Reza Zadeh, and a world-class engineering team. You\u2019ll immediately take on high-impact projects, building features like visual search, semantic segmentation, custom object tracking, model interpretability, video summarization, and the infrastructure required to run complex machine learning workloads.\n\nHeadquartered in Palo Alto and founded in 2016 by Stanford Professor Reza Zadeh Ph.D., Matroid has raised $33.5 million from NEA, Energize Ventures, and Intel Capital.\n\nYou\u2019ll be working at our new office in downtown Palo Alto, just a five-minute walk from the Caltrain station.\n\nWhat you\u2019ll be doing\n\u2022 Design and build the computer vision software that powers the Matroid platform.\n\u2022 Build Matroid features that use computer vision in novel ways to solve complex vision tasks across manufacturing and industrial inspection.\n\u2022 Research and evaluate leading computer vision model architectures and techniques.\n\u2022 Act as the technical lead on customer engagements.\n\nHow you\u2019ll be doing it\n\u2022 You\u2019ll be part of a world-class, multidisciplinary engineering team, where each member identifies and prioritizes valuable and interesting new features to work on.\n\u2022 You will operate in a collaborative but highly autonomous environment that isn\u2019t bogged down by unnecessary meetings or project management.\n\u2022 You will know that almost everything you build affects real-world users, and you will appropriately set the quality standards for your work.\n\u2022 You will be working collaboratively alongside other engineers to develop new features for the platform.\n\u2022 You will learn a lot along the way, diving into new technologies and the world of computer vision both on your own and during frequent company tech talks.\n\nWhat you bring to the table\n\u2022 Bachelors in Computer Science (AI/ML specialization), Electrical Engineering, Statistics, Mathematics (Probability), or equivalent.\n\u2022 Experience training and deploying state-of-the-art computer vision models using popular machine learning frameworks, such as TensorFlow or PyTorch.\n\u2022 Knowledge of leading model architectures and techniques across a broad range of domains, including image classification, object detection, image segmentation, anomaly detection and object tracking.\n\u2022 Strong software engineering skills.\n\u2022 Willingness and eligibility for security clearance up to TS/SCI\n\nBonus points if... Computer vision experience in manufacturing or industrial inspection use cases. Previously worked as a software engineer.\n\nWhat we offer in return\n\u2022 Competitive pay and equity.\n\u2022 The chance to constantly work on stimulating intellectual challenges.\n\u2022 Gym membership reimbursement.\n\u2022 Free lunch, healthy drinks, and snacks every day.\n\u2022 Medical, dental, and vision insurance with 100% paid premiums.\n\u2022 A flexible schedule that leaves time for all of your other interests.\n\u2022 A budget for whatever hardware or software will make you most effective.\n\u2022 Resources to learn about the cutting edge of software engineering and computer vision.\n\u2022 You\u2019ll be working at our new office in downtown Palo Alto, just a five-minute walk from the Caltrain station.\n\nMatroid is committed to creating a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law.\n\nMatroid focuses on Machine Learning, Big Data, Artificial Intelligence, and Computer Vision. Their company has offices in Palo Alto. They have a small team that's between 11-50 employees. To date, Matroid has raised $33.5M of funding; their latest round was closed on October 2020.\n\nYou can view their website at http://matroid.com or find them on Twitter, Facebook, and LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelors in Computer Science (AI/ML specialization), Electrical Engineering, Statistics, Mathematics (Probability), or equivalent",
+                        "Experience training and deploying state-of-the-art computer vision models using popular machine learning frameworks, such as TensorFlow or PyTorch",
+                        "Knowledge of leading model architectures and techniques across a broad range of domains, including image classification, object detection, image segmentation, anomaly detection and object tracking",
+                        "Strong software engineering skills",
+                        "Willingness and eligibility for security clearance up to TS/SCI",
+                        "Computer vision experience in manufacturing or industrial inspection use cases",
+                        "Previously worked as a software engineer"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You\u2019ll immediately take on high-impact projects, building features like visual search, semantic segmentation, custom object tracking, model interpretability, video summarization, and the infrastructure required to run complex machine learning workloads",
+                        "Design and build the computer vision software that powers the Matroid platform",
+                        "Build Matroid features that use computer vision in novel ways to solve complex vision tasks across manufacturing and industrial inspection",
+                        "Research and evaluate leading computer vision model architectures and techniques",
+                        "Act as the technical lead on customer engagements",
+                        "You\u2019ll be part of a world-class, multidisciplinary engineering team, where each member identifies and prioritizes valuable and interesting new features to work on",
+                        "You will operate in a collaborative but highly autonomous environment that isn\u2019t bogged down by unnecessary meetings or project management",
+                        "You will know that almost everything you build affects real-world users, and you will appropriately set the quality standards for your work",
+                        "You will be working collaboratively alongside other engineers to develop new features for the platform",
+                        "You will learn a lot along the way, diving into new technologies and the world of computer vision both on your own and during frequent company tech talks"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive pay and equity",
+                        "The chance to constantly work on stimulating intellectual challenges",
+                        "Gym membership reimbursement",
+                        "Free lunch, healthy drinks, and snacks every day",
+                        "Medical, dental, and vision insurance with 100% paid premiums",
+                        "A flexible schedule that leaves time for all of your other interests",
+                        "A budget for whatever hardware or software will make you most effective"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.matroid.com/",
+                    "text": "matroid.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Matroid&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAII2go",
+                    "text": "See web results for Matroid"
+                }
+            ],
+            "extensions": [
+                "140K\u2013160K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "140K\u2013160K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJXRFJzbU9od0dpNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVkU5TE9FaDJVM2RaVmpCU0xUUnJNa0oyYjNJM1NrcGtaVzl5VTI4NFdHRjZTRTlUWjNZMWNUVktiRkpXTTFCSmJUZHdRbEY0YVhkNGNXTlFOa3B5ZEhoVE5IUXlNWE15YkZob2MzaG5ZbFl3WmpFeWVVc3pkelpQYzFwYU5tUnhOMjB3ZURsRlpIRmxhbm94ZW5GRk9ESnVTbTVCYjJ4dFRHb3paWFZ6TW5ZNWFYTkhhbkIzUjI1blNuQkJZakUwTTFOSVpYTjBTSGhaZUdWWlZIaEtXbEl5WWxCT2EyWmhRa2d4VmtkSVRGQm5FaGR0VEdzNVdrNWlla1Z2V0dzMVRtOVFOVWxIT1RoQlp4b2lRVTh0TUhKc05rTk5VM2xNUm5adlNWQllPVVpXVjNsVmJUWm1XbDlPUzBOR1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBBbmdlbExpc3QiLCJsaW5rIjoiaHR0cHM6Ly93ZWxsZm91bmQuY29tL2NvbXBhbnkvbWF0cm9pZC9qb2JzLzI1MDA2MDQtZGVlcC1sZWFybmluZy1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Implementing Recurrent Neural Networks",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Implement Recurrent Neural Network for the data provided",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Implement Recurrent Neural Network for the data provided"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIkgs",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJJbXBsZW1lbnRpbmcgUmVjdXJyZW50IE5ldXJhbCBOZXR3b3JrcyIsImh0aWRvY2lkIjoicldpRDgxRG51Uk1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1UzWmxiM2cyU0RoRlREWlFSR3BZVlVJMFZ6ZGpYMkZDUWpaT01GVmZYMEZXTFRseWMxTmZaVmh1V0dad1gybE9kV2hZTlRBNVNHMHRTbXd4ZFZBeGRGZHhTWFZpZGtjeE1XMXNiVVJoY1VsMlNsSmtUVmRaVlVvMVp6Y3dWVUoxT0c5WlZuQnZhVXBIUmxvellsaHJaRWRDYlVaVVMxOVJkVmhGTURWSFV6TTJPVEppY2pSYVNUWmlRa1ZMVXpkUk16bFRXRzV6VGxnd1pscEZYMjB6TW10TVprbEthakIxTUd0elEwVjRMV1I0TkhaSmRtb3laemM1UzNjNWRqazBOekZhWVZwWkVoZHRUR3M1V2s1aWVrVnZXR3MxVG05UU5VbEhPVGhCWnhvaVFVOHRNSEpzTkdrMGVEWlpla1ZzUzNKbGMwWnlZVVJmWjI1NFp6QktabmRIUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L0ltcGxlbWVudGluZy1SZWN1cnJlbnQtTmV1cmFsLU5ldHdvcmtzX34wMTk1ZDQ1OTQ3ODY4MTY4YmIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Machine Learning Research Engineer",
+            "company_name": "Peraton",
+            "location": "  Silver Spring, MD   ",
+            "via": "via Peraton - ICIMS",
+            "description": "Responsibilities\n\nRole and responsibility for this position:\u202f...\n\nThe ML/Data Science Research Engineer will participate in an end-to-end design and implementation of deep learning solutions for application in network/graph representation learning (NRL) and graph construction/generation/completion.\n\nThe ideal candidate will be able to start from the end users' needs and understand how they drive performance and infrastructure requirements. The ideal candidate has experience converting customers' needs into user interface requirements and baselining and scaling ML solutions using CI/CD best practices.\n\n\u202f\n\nRoles and Responsibilities:\n\u2022 Frame the problem, research current state-of-the-art ML solutions, and assess their suitability to the problem at hand.\n\u2022 Leverage deep learning frameworks (e.g., PyTorch, Tensorflow) to develop deep learning solutions, tailoring them to the application area.\n\u2022 Develop extract-transform-load (ETL) pipelines to curate large-scale ML datasets.\n\u2022 Leverage graph neural networks (GNN) to construct embedded/latent representations for downstream tasks.\n\u2022 Train ML models using automated hyper-parameter tuning frameworks.\n\u2022 Design data model to capture real-world phenomena using graph data structures in a space/computationally efficient\n\nQualifications\n\nEducation adn Experience:\n\nBS 5-7 Years, MS 3-5, PhD 0-2\n\nClearance and Citizenship:\n\nUnited States Citizen\n\nNo Clearance Required - Eligible and willing to be submitted for a Top Secret level clearance\n\nRequired Skills:\n\u2022 Experience training conventional models from scratch (e.g., ordinary least squares (OLM), random forests, support vector machines (SVM), boosting methods, etc.)\n\u2022 Personally trained a deep neural network (DNN): either trained a DNN from scratch OR leveraged transfer learning techniques to further tune a pretrained DNN to a specific target domain.\n\u2022 Developed data wrangling/ETL transforms using python Pandas package.\n\u2022 Experience with Git version control.\n\nDesired Skills:\n\u2022 Experience training a deep neural network from scratch\n\u2022 Experience finding white-papers applicable to problem area and tailoring provided code to application domains\n\u2022 Experience with Generative Modeling (e.g., GANs)\n\u2022 Experience with Reinforcement Learning (RL) solutions\n\u2022 Network engineering experience (e.g., knowledge of OSI/TCP/IP models, network infrastructure)\n\u2022 Experience developing on GNU/Linux-based operating system\n\u2022 Experience with MLOps tooling/workflows\n\u2022 Experience using containers (e.g., docker)\n\u2022 Experience with orchestration solutions, including Docker Swarm, Kubernetes, Terraform\n\nPeraton Labs has a portfolio that spans several domains & problem sets, including (but not limited to):\u202f\n\u2022 Full-spectrum cyber operations, including CND, CNE, CNA, and CNO.\u202f\n\u2022 Program analysis, including program understanding, vulnerability identification, and remediation\u202f\n\u2022 Malware analysis and reverse engineering\u202f\n\u2022 Resilient networking in support of cyber mission goals\u202f\n\u2022 Autonomous agent development\u202f\n\u2022 Software-defined networking for cyber defense and deception\u202f\n\u2022 Cryptographic techniques for assured computation\u202f\n\u2022 Symbolic logic and theorem proving for automating network configuration\n\u2022 Application of formal methods for secure and resilient systems\u202f\n\u2022 Application of mathematic, statistics, and linguistics to large data sets to uncover patterns, extract information and gain understanding\u202f\n\u2022 Artificial intelligence (reasoning, probabilistic inference, machine learning)\u202f\n\nPeraton Overview\n\nPeraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world\u2019s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can\u2019t be done, solving the most daunting challenges facing our customers.\n\nTarget Salary Range\n$86,000 - $138,000. This represents the typical salary range for this position based on experience and other factors.\nEEO Tagline (Text Only)\nAn Equal Opportunity Employer including Disability/Veteran",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate has experience converting customers' needs into user interface requirements and baselining and scaling ML solutions using CI/CD best practices",
+                        "BS 5-7 Years, MS 3-5, PhD 0-2",
+                        "United States Citizen",
+                        "No Clearance Required - Eligible and willing to be submitted for a Top Secret level clearance",
+                        "Experience training conventional models from scratch (e.g., ordinary least squares (OLM), random forests, support vector machines (SVM), boosting methods, etc.)",
+                        "Personally trained a deep neural network (DNN): either trained a DNN from scratch OR leveraged transfer learning techniques to further tune a pretrained DNN to a specific target domain",
+                        "Developed data wrangling/ETL transforms using python Pandas package",
+                        "Experience with Git version control",
+                        "Software-defined networking for cyber defense and deception"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The ML/Data Science Research Engineer will participate in an end-to-end design and implementation of deep learning solutions for application in network/graph representation learning (NRL) and graph construction/generation/completion",
+                        "The ideal candidate will be able to start from the end users' needs and understand how they drive performance and infrastructure requirements",
+                        "Frame the problem, research current state-of-the-art ML solutions, and assess their suitability to the problem at hand",
+                        "Leverage deep learning frameworks (e.g., PyTorch, Tensorflow) to develop deep learning solutions, tailoring them to the application area",
+                        "Develop extract-transform-load (ETL) pipelines to curate large-scale ML datasets",
+                        "Leverage graph neural networks (GNN) to construct embedded/latent representations for downstream tasks",
+                        "Train ML models using automated hyper-parameter tuning frameworks",
+                        "Design data model to capture real-world phenomena using graph data structures in a space/computationally efficient"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$86,000 - $138,000"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.peraton.com/",
+                    "text": "peraton.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Peraton&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAII0ws",
+                    "text": "See web results for Peraton"
+                }
+            ],
+            "extensions": [
+                "29 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "29 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIFJlc2VhcmNoIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJBYXd2WFdSWHQtNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVTB0S2J6TjBNWGhGVDJaVlJUUXRNV0ZIV1ZoSVQwTTRRVUZvYmtwalZYSnVjVWhXYzNodVJrMTNZalpIWVV4T1ZFeG9aR2x5U1hwTVlrUlRkVkJJTkdabWNXWm1aVEpEY1ZSNFRESXpiV2t5WlhKeFdHaFdUV0pSTkVOaU9UaHFTVlYxTVdkbU1WSjFNV0pLYjJSTlIwSkZabTU1VldSMWVERlJPVU0yWjI5dFkxRjNPSFZ5VlVjeGFFcGZaR2sxZUdvM1ZIVm1PRlptWkcxRFVHMXhkekJPZERFek5sRXdiRXg2T1ZWSkxVZG5OalZPZG1rMWJtcFhOalpKTkZWUlN6TmlVakU0RWhkdFRHczVXazVpZWtWdldHczFUbTlRTlVsSE9UaEJaeG9pUVU4dE1ISnNORFJKVlZSU2J6UktibE55Y1c5WlZIbDVaVEZJWkhGQll6Wk1kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gUGVyYXRvbiAtIElDSU1TIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy1wZXJhdG9uLmljaW1zLmNvbS9qb2JzLzEzMTMzNy9tYWNoaW5lLWxlYXJuaW5nLXJlc2VhcmNoLWVuZ2luZWVyL2pvYj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Deep learning/Machine Learning developers",
+            "company_name": "Netra",
+            "location": "  Boston, MA   ",
+            "via": "via AngelList",
+            "description": "We are working on cutting-edge technologies the intersection of deep-learning and machine vision.\n\nSkills/Experience Desired...\n\nSolid experience with Convolutional Neural networks and deep learning tools such as Keras, Tensorflow etc.\n\nExperience in machine learning algorithm development\n\nExperience with video, audio or image processing algorithms is a major plus\n\nSoftware development experience, with Java, Scala, C, C++, C# or Python\n\nFamiliarity with R, OpenCV, SQL, and NoSQL systems a plus\n\nPhD degree or Master\u2019s degree or equivalent work experience in machine learning\n\nNetra focuses on Brand Marketing and Targeted Advertising. Their company has offices in Boston. They have a small team that's between 11-50 employees. To date, Netra has raised $2.45M of funding; their latest round was closed on May 2016.\n\nYou can view their website at http://www.netra.io or find them on LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Solid experience with Convolutional Neural networks and deep learning tools such as Keras, Tensorflow etc",
+                        "Experience in machine learning algorithm development",
+                        "Experience with video, audio or image processing algorithms is a major plus",
+                        "Software development experience, with Java, Scala, C, C++, C# or Python",
+                        "PhD degree or Master\u2019s degree or equivalent work experience in machine learning"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Netra&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIjAw",
+                    "text": "See web results for Netra"
+                }
+            ],
+            "extensions": [
+                "80K\u2013120K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "80K\u2013120K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIGxlYXJuaW5nL01hY2hpbmUgTGVhcm5pbmcgZGV2ZWxvcGVycyIsImh0aWRvY2lkIjoiLXdsVUpMNmxGejhBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1UxRnVTVWRYVGxKSk0wWnFaakphVlZkR1IxbFllRFYwYkVoRFkyaG1VVVY1VTNKcmFEWmFibTF0VlRGbFVuQmlkVzVTZVdwU1UwbFVTM2hMYVhkYVVqVnBhSHBTWkhwMmFXaEhSVTVRVFdkcFR6a3liekptYzBJNFJXOWthVmxNVm5WbE5uUkRiRzFsUTNNM0xVODNZbDlxUmtkR2FWRlZWbVpRVTA5RllsQlJTbVk0WTNkZlVFMXlXblJGVmtRNFMwSmlibXQ0VFV4cE9XdE5NVUYyVTJKZlYwdExkMmxQV25oV1NVcG9XR1JGRWhkdFRHczVXazVpZWtWdldHczFUbTlRTlVsSE9UaEJaeG9pUVU4dE1ISnNOVXBOTm1aQ2RVTjVSM2t4TVRVNE1ERTNUV2s1VG01dFJIWlFRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQW5nZWxMaXN0IiwibGluayI6Imh0dHBzOi8vd2VsbGZvdW5kLmNvbS9jb21wYW55L25ldHJhL2pvYnMvMTI3MDM3LWRlZXAtbGVhcm5pbmctbWFjaGluZS1sZWFybmluZy1kZXZlbG9wZXJzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "AIML -Hardware Engineer, Neural Acceleration",
+            "company_name": "Apple",
+            "location": "  Seattle, WA   ",
+            "via": "via Careers At Apple",
+            "description": "Summary\nPosted: Mar 16, 2023\nWeekly Hours: 40...\nRole Number:200441688\n\nThe Machine Intelligence, Neural Design (MIND) team employs HW/SW co-design to achieve best-in-class performance and energy efficiency for numerous use cases that deploy neural networks. We seek a Hardware Engineer to help define and implement features that would be realized in next-gen neural accelerators. Our team is comprised of HW, SW, and ML engineers working together in the area of Efficient ML. Our charter is to push the frontiers of perf and power for DNNs with minimal memory footprint.\n\nAs a HWE, you will be responsible for designing low-power hardware accelerators for AI applications. This includes but is not limited to: architecting energy-efficient hardware designs, implementing changes in an in-house simulator, and/or implementing new features in an in-house compiler. Our ideal team member is courageous when it comes to trying new things, is adept at reasoning about systems performance, and is willing to iterate on ideas. We value team members with strong communication skills with experience working cross-functionally with HW, SW, and ML teams.\n\nKey Qualifications\n\nKey Qualifications\n\u2022 2+ years of experience working on designing low-power hardware\n\u2022 Proficient in Python, working knowledge of C++\n\nDescription\n\nDescription\nAs a member of this team, you will use your background to:\n\u2022 Work with ML experts to co-design hardware solutions that further improve perf and power of neural workloads\n\u2022 Implement features in our simulation engine and compiler for next-gen accelerators\n\u2022 Benchmark and diagnose performance bottlenecks of deep learning models\n\u2022 Work with a variety of partners from all parts of the stack \u2014 from Apps to Compilation, HW Arch, and Silicon Validation\n\nEducation & Experience\n\nEducation & Experience\nBachelor's, Masters or PhD degree in Electrical Engineering, Computer Science, or a related field\n\nAdditional Requirements\n\nAdditional Requirements\n\u2022 Preferred Qualifications:\n\u2022 * Deep understanding of computer systems and the interactions between HW and SW\n\u2022 * Strong communicator with ability to analyze complex and ambiguous problems\n\u2022 * Experience with backend compilation, HW/SW co-design, and/or performance optimization\n\u2022 * Familiarity with at least one deep learning framework (e.g., PyTorch, Keras, TensorFlow)\n\u2022 * Familiarity with ML model compression techniques (e.g., quantization, pruning) and their mapping to microarchitecture\n\u2022 * Debugging model conversion from a high-level framework to a target device for correctness and performance issues\n\nPay & Benefits\n\nPay & Benefits\n\u2022 At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $113,500 and $207,000, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple\u2019s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple\u2019s Employee Stock Purchase Plan. You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "2+ years of experience working on designing low-power hardware",
+                        "Proficient in Python, working knowledge of C++",
+                        "Bachelor's, Masters or PhD degree in Electrical Engineering, Computer Science, or a related field",
+                        "Deep understanding of computer systems and the interactions between HW and SW",
+                        "Strong communicator with ability to analyze complex and ambiguous problems",
+                        "Experience with backend compilation, HW/SW co-design, and/or performance optimization",
+                        "Familiarity with at least one deep learning framework (e.g., PyTorch, Keras, TensorFlow)",
+                        "Familiarity with ML model compression techniques (e.g., quantization, pruning) and their mapping to microarchitecture",
+                        "Debugging model conversion from a high-level framework to a target device for correctness and performance issues"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work with ML experts to co-design hardware solutions that further improve perf and power of neural workloads",
+                        "Implement features in our simulation engine and compiler for next-gen accelerators",
+                        "Benchmark and diagnose performance bottlenecks of deep learning models",
+                        "Work with a variety of partners from all parts of the stack \u2014 from Apps to Compilation, HW Arch, and Silicon Validation"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "The base pay range for this role is between $113,500 and $207,000, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.apple.com/",
+                    "text": "apple.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Apple&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAII0Aw",
+                    "text": "See web results for Apple"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSU1MIC1IYXJkd2FyZSBFbmdpbmVlciwgTmV1cmFsIEFjY2VsZXJhdGlvbiIsImh0aWRvY2lkIjoiOUZhd3hfcGNPNWdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VtVm5hUzFXYmpsWk1VNTROSEpqZDBwelkxbDFVa05MYWw4eVdHRTJkRUpTWDFSV1pVZG9TbWhCWTAwME9XUkpiamRUVWxCTVNXZFlWRWh3WlZCWFNYSlVhbkJQVDJaTmRGOTBla3hXU2s1eU1GTk5SbHB1UzI1NmFVTjBTVGRpZFVJNE0zWlFZM05SV0c4MFZESTRSbFJhV1dKdlFtSlNSSGR5Tkhvd1RteElVa0ZrUVVKdlJHOXdOR1J3VkVkU1R6a3djWGxKYjJGTlVIWjRUMVY1WDFkaVVFOHRjMFI0YUU1VlRqRlVWMU5GVWpobFRsWmpSbGxRYnpOb09FbFRUVEZrTlZnekVoZHRUR3M1V2s1aWVrVnZXR3MxVG05UU5VbEhPVGhCWnhvaVFVOHRNSEpzTjBKTE56ZDRaVlpFYUZKMVNXaGxlVzlMY2xwcGFGVmZkekpCVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXJlZXJzIEF0IEFwcGxlIiwibGluayI6Imh0dHBzOi8vam9icy5hcHBsZS5jb20vZW4tdXMvZGV0YWlscy8yMDA0NDE2ODgvYWltbC1oYXJkd2FyZS1lbmdpbmVlci1uZXVyYWwtYWNjZWxlcmF0aW9uP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Senior Software Engineer (Python / Deep Neural Networks)",
+            "company_name": "Jobot",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!\n\nJob details...\n\nWhat if machines could learn the way humans do?\n\nThis Jobot Job is hosted by Craig Rosecrans\n\nAre you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.\n\nSalary $14,000 - $300,000 per year\n\nA Bit About Us\n\nOur client is changing the way machines learn by creating software with human-like intelligence! a VC backed startup based in Silicone Valley, they are looking for engineers that are as passionate as them when it comes creating software that will revolutionize the way AI learns.\n\nWhy join us?\n\u2022 Work directly on creating software with human-like intelligence.\n\u2022 Generous compensation, equity, and benefits.\n\u2022 $20K+ yearly budget for self-improvement coaching, courses, conferences, etc.\n\u2022 Actively co-create and participate in a positive, intentional team culture.\n\u2022 Spend time learning, reading papers, and deeply understanding prior work.\n\u2022 Frequent team events, dinners, off-sites, and hanging out.\n\nJob Details\n\u2022 Very comfortable writing Python.\n\u2022 Familiar with PyTorch and training deep neural networks.\n\u2022 Excited to work on open source code.\n\u2022 Passionate about engineering best practices.\n\u2022 Self-directed and independent.\n\u2022 Excellent at getting things done\n\nInterested in hearing more? Easy Apply now by clicking the \"Apply\" button.\n\nWant to learn more about this role and Jobot?\n\nClick our Jobot logo and follow our LinkedIn page",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Very comfortable writing Python",
+                        "Familiar with PyTorch and training deep neural networks",
+                        "Passionate about engineering best practices",
+                        "Self-directed and independent",
+                        "Excellent at getting things done"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary $14,000 - $300,000 per year",
+                        "Work directly on creating software with human-like intelligence",
+                        "Generous compensation, equity, and benefits",
+                        "$20K+ yearly budget for self-improvement coaching, courses, conferences, etc",
+                        "Frequent team events, dinners, off-sites, and hanging out"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Jobot&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIkg0",
+                    "text": "See web results for Jobot"
+                }
+            ],
+            "extensions": [
+                "10 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgKFB5dGhvbiAvIERlZXAgTmV1cmFsIE5ldHdvcmtzKSIsImh0aWRvY2lkIjoicW80YWpZaXBJMmNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZEaFlkMGhTY2paT1gxRmpkR1pZZWpSeFQxSkJiV0kyUTFwNWNGaHhRVzlWTUVkTVZGZDNlWGQwTkRnM0xWVjNWSHBvU1Vab1RGTTRaV1F6VVVkZlpFVTBXSGRLU2s5TFJtSXdhRmRpZUhseU5XaFlhSE4zUWxoWmVHVmxUbEZ5VUZJM1NFc3RTbkI2TFhSZlNFeEZORzg0TVZWQ2RWVlZUbW81T0d4TlYyb3hiMlZSWkRZMldVNTJhRXMwTjJkeFVYUktVMUpwVUhsRGNUaGpaMFJGVjJaWmJIQjZSbk5mUzBjd2JGTjVTVGw0VUdSc1RGbDJlVmgwU0doTVFuQkVTa1EyTmtwR0VoZHRUR3M1V2s1aWVrVnZXR3MxVG05UU5VbEhPVGhCWnhvaVFVOHRNSEpzTkdKMmVVSmtZVTAyUWxjemVYcG5kRUZXY21ocWJreGtlSGxIZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1zb2Z0d2FyZS1lbmdpbmVlci1weXRob24tZGVlcC1uZXVyYWwtbmV0d29ya3MtYXQtam9ib3QtMzU1NzU3OTEyMz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Expert in Xgboost/ Random Forest/ Neural Network required for a...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "We require the services of a Machine Learning expert to assist in selecting the most appropriate model from a range of options, including xgBoost, random forest, neural network, and other models suitable for time-series datasets. The dataset contains both continuous and categorical variables, as well as numerous logical variables representing events.\n\nSubsequently, we seek assistance in... constructing and refining the chosen model. Given that our project employs R language, a solid understanding of machine learning libraries in R is essential. The nature of this engagement entails consultation, and we shall convene via a Zoom session.\n\nThe successful candidate will possess exceptional proficiency in selecting, constructing, and refining models. Any previous successes in Kaggle competitions would be viewed favorably",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Any previous successes in Kaggle competitions would be viewed favorably"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIzg0",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "10\u201325 an hour",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Contractor",
+                "salary": "10\u201325 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJFeHBlcnQgaW4gWGdib29zdC8gUmFuZG9tIEZvcmVzdC8gTmV1cmFsIE5ldHdvcmsgcmVxdWlyZWQgZm9yIGEgcHJvamVjdCBpbiBSIiwiaHRpZG9jaWQiOiI3WUtWVnlSODJDb0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVW1sVlpUTlZYMVZXUm5aTE1YbzRXVW81ZEc5WlNYRmlURFZsVEhOUVN6SlBkVUpKU0RRNFJuVndTV2RLZW1aZk1WVm1hM2hSUWpCVmVUbFRha0owZGt0NmJUbHhOakowTkZWYVVsWXpObU5mVDI5YU0yeDViRm80WTJzM1NTMW9Ra2xDZDJsS2FWWkpMV3RFUjFCSmFtTkpRMWhGUlhOd1FVazRkVU5VTjNaWk9Ga3llSEExVVhsR05qTTRNVU5aZDJVNE0xazVXbFE0VWxGMWRFdHphRmM0TlZSYVVGZHdZalZWVW1OS2VWTk5Nbmh1UlZkSE1XZFliRVZVU1hSTWFVeFVNVjlrV1RCemRUZFJiV052WTNKTVMwOVhYMjFMWDJGc2FUQlhlakJMVUdaVVltWnRWREJIWkVSd1gzWk1VUklYYlV4ck9WcE9ZbnBGYjFock5VNXZVRFZKUnprNFFXY2FJa0ZQTFRCeWJEWkxlRkphYmxCQlZsUm1UMnhNWXpadGNuUm1ZWGhOZGxKWU4zYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L0V4cGVydC1YZ2Jvb3N0LVJhbmRvbS1Gb3Jlc3QtTmV1cmFsLU5ldHdvcmstcmVxdWlyZWQtZm9yLXByb2plY3RffjAxYmUxYWY0MDFiZGQ1Y2NhYi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Software Engineer - AI Machine Learning",
+            "company_name": "Harsco Corporation",
+            "location": "  West Columbia, SC   ",
+            "via": "via SmartRecruiters Job Search",
+            "description": "Company Description\n\nHarsco is recognized for technical leadership and worldwide experience in virtually all major aspects of railway track maintenance. We enable railroads to operate at peak efficiency over smooth, precisely aligned track that increases railway safety while reducing fuel consumption and other key operating costs. Our broad array of equipment and services support every type of... railway operator, from major national and international railway systems, to short lines and high-speed urban transit networks.\n\nJob Description\n\nThis is an outstanding opportunity to develop professional expertise and contribute to a specialized team. As a Software Engineer, the person in this position typically works full-time to design and develops scalable solutions using AI tools and machine learning models for various neural network related solutions for the various area in railroad and transportation. Utilizes big data computation and storage tools to create prototypes and datasets. Conduct model training and evaluations. Integrates, bench tests, onsite tests, tunes and monitors solutions. Proficient with languages like C and C++. Develop software for the Linux platforms. It is anticipated that successful execution will lead to significant career opportunities within Harsco Rail.\n\no Design and develop real time AI \u2013 Neural Network solutions for railway maintenance equipment including graphical user interfaces.\n\no Write clean, documented code following best practices.\n\no Develop and implement communication protocols.\n\no Work independently and collaboratively with a motivated team.\n\no Generate requirements and design documentation.\n\no Plan for, design, and deliver testing, and tested products into the QA process.\n\no Apply communication and problem-solving skills to solve software issues related to the design, development, deployment, testing, and operation of systems.\n\no Meet deadlines to ensure projects are completed within acceptable time and cost targets.\n\no Willingness and ability to travel up to 15% of time.\n\no Other duties may apply as required.\n\nQualifications\n\nMinimum Requirements:\n\no Master\u2019s/ Bachelor\u2019s degree in Software Engineering or similar experience.\n\no 3+ years of software development experience with demonstrated contributions.\n\no Experience with Supervised and Semi-Supervised Learning, Deep Learning, Support Vector Machines, Linear and Logistic Regression.\n\no Working knowledge of AI Framework such as TensorFlow, Caf\u00e9, PyTorch or Darknet and OpenCV.\n\no Coding knowledge and experience with languages: C, C++.\n\no Working knowledge of AI edge devices such as NVIDIA Jetson.\n\no Experience with Linux or Embedded Linux.\n\no Experience with configuration management tools.\n\no Must have excellent communication skills.\n\nPreferred Requirements:\n\no Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.\n\no Experience working with and creating data architectures.\n\no Knowledge of a variety of machine learning techniques (semantic segmentation, clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.\n\no Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications.\n\nEssential Functions\n\no The ability to read and speak fluent English.\n\no The ability to work cooperatively with others.\n\no System installation may require the ability to lift at least 40 lbs, walk over uneven surfaces (gravel) for up to 1 mile and climb vertical ladders up to 10'.\n\no The ability to drive a typical automobile.\n\no The ability to deal politely with customers and coworkers.\n\no The ability to perform several tasks at once.\n\no The ability to stand/bend/stretch, etc.\n\nAdditional Information\n\nWe provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, veteran status or genetics. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n\nIf you have a difficulty applying for any job posted on Harsco Rail\u2019s website because a disability prevents you from using the online system, Harsco Rail offers the following alternate application procedure: Contact Quinn Belton, HR Generalist, at 803-822-7440 and Harsco Rail will arrange for an alternate method of applying and will consider your application together with all other applications received for the job. Please call only for disability application. All of your information will be kept confidential according to EEO guidelines",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proficient with languages like C and C++",
+                        "Master\u2019s/ Bachelor\u2019s degree in Software Engineering or similar experience",
+                        "3+ years of software development experience with demonstrated contributions",
+                        "Experience with Supervised and Semi-Supervised Learning, Deep Learning, Support Vector Machines, Linear and Logistic Regression",
+                        "Working knowledge of AI Framework such as TensorFlow, Caf\u00e9, PyTorch or Darknet and OpenCV",
+                        "Coding knowledge and experience with languages: C, C++",
+                        "Working knowledge of AI edge devices such as NVIDIA Jetson",
+                        "Experience with Linux or Embedded Linux",
+                        "Experience with configuration management tools",
+                        "Must have excellent communication skills",
+                        "to manipulate data and draw insights from large data sets",
+                        "Experience working with and creating data architectures",
+                        "Knowledge of a variety of machine learning techniques (semantic segmentation, clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks",
+                        "Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and experience with applications",
+                        "The ability to read and speak fluent English",
+                        "The ability to work cooperatively with others",
+                        "System installation may require the ability to lift at least 40 lbs, walk over uneven surfaces (gravel) for up to 1 mile and climb vertical ladders up to 10'",
+                        "The ability to drive a typical automobile",
+                        "The ability to deal politely with customers and coworkers",
+                        "The ability to perform several tasks at once",
+                        "The ability to stand/bend/stretch, etc"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Software Engineer, the person in this position typically works full-time to design and develops scalable solutions using AI tools and machine learning models for various neural network related solutions for the various area in railroad and transportation",
+                        "Utilizes big data computation and storage tools to create prototypes and datasets",
+                        "Conduct model training and evaluations",
+                        "Integrates, bench tests, onsite tests, tunes and monitors solutions",
+                        "It is anticipated that successful execution will lead to significant career opportunities within Harsco Rail",
+                        "Design and develop real time AI \u2013 Neural Network solutions for railway maintenance equipment including graphical user interfaces",
+                        "Write clean, documented code following best practices",
+                        "Develop and implement communication protocols",
+                        "Work independently and collaboratively with a motivated team",
+                        "Generate requirements and design documentation",
+                        "Plan for, design, and deliver testing, and tested products into the QA process",
+                        "Apply communication and problem-solving skills to solve software issues related to the design, development, deployment, testing, and operation of systems",
+                        "Meet deadlines to ensure projects are completed within acceptable time and cost targets",
+                        "Willingness and ability to travel up to 15% of time"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.harsco.com/",
+                    "text": "harsco.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Harsco+Corporation&sa=X&ved=0ahUKEwjWn9HJ7bH-AhUFMlkFHeRAD444FBCYkAIIkw4",
+                    "text": "See web results for Harsco Corporation"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAtIEFJIE1hY2hpbmUgTGVhcm5pbmciLCJodGlkb2NpZCI6IlVocUdMSGRuM3VFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VV0l0ZDBKUkxWcGFjVEY1VGpWa2FWaE5Xa0ZLU0hWVmEyRTFabGRKV1MxR1YzSkZZVWRyVFU5NGFsWldURWwzVWw5S09WUldRamRMYlcxUlJuUnlRbWd4UmxaalpuSlVVblJQVVdwVGNVWkRORzVLYWxkdk1VTTBkMVpQTVdWMmFrNVpiVU10ZEdSamRFSjBSR2xDTFVWSWFtc3lYMGRCUmxNdFFWRlphMTlYUTBoaFFXRlFRM0ZCWDNSMU5WVlBSMHhUVTNKdlkyZ3RXblJ4VFZaUVpXeDViRlZ0UTBKR1NISk1NRTVmVjJsS1JWWkVSMnBLVFVKaVJHUmljRE5xUkRONVUzSjVNa3hOUTBRM1RTMHdaa1ZPVkZKbGVIRm9kMmQzUVJJWGJVeHJPVnBPWW5wRmIxaHJOVTV2VURWSlJ6azRRV2NhSWtGUExUQnliRFY1WlRCNmEzRjRZVGx1ZVZGc1VVcFZUSEV4V1RSM1RuZGFiR2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTbWFydFJlY3J1aXRlcnMgSm9iIFNlYXJjaCIsImxpbmsiOiJodHRwczovL2pvYnMuc21hcnRyZWNydWl0ZXJzLmNvbS9IYXJzY29Db3Jwb3JhdGlvbjEvNzQzOTk5ODM1MzUxMTMxLXNvZnR3YXJlLWVuZ2luZWVyLWFpLW1hY2hpbmUtbGVhcm5pbmc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Train",
+                    "value": "train"
+                },
+                {
+                    "text": "Academic",
+                    "value": "academic"
+                },
+                {
+                    "text": "Adjunct",
+                    "value": "adjunct"
+                },
+                {
+                    "text": "Learning specialist",
+                    "value": "learning specialist"
+                },
+                {
+                    "text": "Physical therapist",
+                    "value": "physical therapist"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                },
+                {
+                    "text": "Training",
+                    "value": "training"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Bethune, SC",
+                    "value": "G2Nv8ZWWVYgGooD_4S7F2w=="
+                },
+                {
+                    "text": "Champaign, IL",
+                    "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+                },
+                {
+                    "text": "Covington, KY",
+                    "value": "myVs1KuwQYir4rDrV8nmLg=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Remote, OR",
+                    "value": "Xd1PcUdfxFT6HfQNXR_RRw=="
+                },
+                {
+                    "text": "Ruston, LA",
+                    "value": "Z_Xpt5vPMYYtcrHXZA59Dg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Silver Spring, MD",
+                    "value": "J-lqZk7Pt4nfmrJlqDOEAA=="
+                },
+                {
+                    "text": "West Columbia, SC",
+                    "value": "y828G6S8-Iga9n4VilaDlw=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Tesla",
+                    "value": "/m/0dr90d"
+                },
+                {
+                    "text": "Wolfram",
+                    "value": "/m/02h86l5"
+                },
+                {
+                    "text": "225 Qualcomm Technologies, Inc.",
+                    "value": "/g/11g9mr53d5"
+                },
+                {
+                    "text": "Bosch Group LLC",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "Cadence Design Systems",
+                    "value": "/m/01zb9v"
+                },
+                {
+                    "text": "DATA FUSION & NEURAL NETWORKS",
+                    "value": "/g/11fy1z_3jx"
+                },
+                {
+                    "text": "Gen Nine, Inc.",
+                    "value": "/g/11rp1ytm63"
+                },
+                {
+                    "text": "Grand Canyon University",
+                    "value": "/m/07gp_k"
+                },
+                {
+                    "text": "Harsco Corporation",
+                    "value": "/m/026sh84"
+                },
+                {
+                    "text": "Matroid",
+                    "value": "/g/11g71_z45n"
+                },
+                {
+                    "text": "OriGen.AI",
+                    "value": "/g/11lkbv8fr6"
+                },
+                {
+                    "text": "Owl Autonomous Imaging",
+                    "value": "/g/11ftl6zhgp"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Qualcomm",
+                    "value": "/m/01m1xf"
+                },
+                {
+                    "text": "Robinhood",
+                    "value": "/m/011q8ct1"
+                },
+                {
+                    "text": "UCLA Health Systems",
+                    "value": "/g/11b6cwc7g4"
+                }
+            ]
+        }
+    ]
+}

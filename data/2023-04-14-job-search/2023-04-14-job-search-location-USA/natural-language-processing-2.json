@@ -1,0 +1,1221 @@
+{
+    "search_metadata": {
+        "id": "643db9fcaf63040332a30629",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/74b5ca05b503ff51/643db9fcaf63040332a30629.json",
+        "created_at": "2023-04-17 21:28:28 UTC",
+        "processed_at": "2023-04-17 21:28:28 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=natural+language+processing&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=20",
+        "raw_html_file": "https://serpapi.com/searches/74b5ca05b503ff51/643db9fcaf63040332a30629.html",
+        "total_time_taken": 1.36
+    },
+    "search_parameters": {
+        "q": "natural language processing",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 20
+    },
+    "jobs_results": [
+        {
+            "title": "Data Scientist (NLP - Natural Language Processing)",
+            "company_name": "Authenticx",
+            "location": " Anywhere ",
+            "via": "via StartWire",
+            "description": "Company Description\n\u2022 Our online application process only takes a few minutes\n...\nWho is Authenticx?\n\nAuthenticx is on a mission to help humans understand humans. Our platform is the new standard for humanizing customer interaction data at scale. We do this by channeling our passion and talent into helping health care leaders listen to their conversational data in a way that delivers value to the enterprise.\n\nWhat do we offer our team members?\n\u2022 A culture based on our core values of Authenticity, Courage and Having Fun\n\u2022 A collaborative environment that supports your personal and professional development\n\u2022 Remote/virtual working flexibility\n\u2022 Free health insurance options\n\u2022 Comprehensive benefits - medical, vision, dental, life, and disability insurance\n\u2022 HSA and FSA plans\n\u2022 401(K)\n\u2022 Unlimited vacation time\n\u2022 Generous paid holidays, sick leave, and parental leave\n\u2022 Perks at Work membership for discounts on shopping, travel and much more\nJob Description\n\nAs a Data Scientists at Authenticx, you will:\n\u2022 Develop machine learning (ML) models using natural language processing (NLP) that will be integrated into our automated processes\n\u2022 Serve as a technical leader and early adopter of technology while developing new features with varying levels of design specs\n\u2022 Troubleshoot and resolve issues and provide technical solutions\n\u2022 Utilizie Python and machine learning (ML) technologies to perform conversational analytics\n\u2022 Analyze structured and unstructured data and build predictive models using a variety of approaches\n\u2022 Search through large data sets and transform data to make it more appropriate for analysis\n\u2022 Create reports and presentations for business uses\nQualifications\n\nOur ideal Data Scientist will possess the following skills & qualifications:\n\nBasic Qualifications:\n\u2022 B.S. in Mathematics, Economics, Computer Science, Statistics, or another quantitative field\n\u2022 2+ years of experience as a Data Scientist, Machine Learning Engineer, or relevant school work.\n\u2022 Strong knowledge of Natural Language Processing (NLP) or Audio Signal Processing\n\u2022 Proficiency with Python (Pandas, Numpy, Matplotlib, Scikit-Learn, Spacy, Scipy, etc.)\n\u2022 Experience with a deep learning framework (Tensorflow, Pytorch, etc.) and deep learning architectures (RNNs, CNNs, Transformers, etc.)\n\u2022 Strong mathematics skills (e.g., Linear Algebra, Statistics)\n\u2022 Advanced ability to perform exploratory data analysis and to communicate complex data in a simple, actionable way\n\u2022 Experience with SQL, databases, and other data management tools\n\u2022 Ability to work independently and with team members from different backgrounds\n\u2022 Excellent attention to detail\n\u2022 Comfortable interacting with executive level leaders\n\nPreferred Qualifications:\n\u2022 Software-as-a-service (SaaS) and/or healthcare industry experience\n\u2022 Experience with cloud technologies a plus (Azure, AWS, GCP)\n\u2022 Experience with the full life cycle of model development. From data acquisition to training and deploying the model in a production environment.\n\u2022 Exceptional technical writing skills\nAdditional Information\n\u2022 This is primarily a remote/virtual position. Local team members may be expected to work on-site occasionally.\n\u2022 Remote team members may be expected to travel to Indianapolis approximately 2-4x per year based on business needs.\n\u2022 You must live in the USA.\n\u2022 You must be authorized to work in the USA, now and in the future, without requirement of employment visa sponsorship",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "B.S. in Mathematics, Economics, Computer Science, Statistics, or another quantitative field",
+                        "2+ years of experience as a Data Scientist, Machine Learning Engineer, or relevant school work",
+                        "Strong knowledge of Natural Language Processing (NLP) or Audio Signal Processing",
+                        "Proficiency with Python (Pandas, Numpy, Matplotlib, Scikit-Learn, Spacy, Scipy, etc.)",
+                        "Experience with a deep learning framework (Tensorflow, Pytorch, etc.) and deep learning architectures (RNNs, CNNs, Transformers, etc.)",
+                        "Strong mathematics skills (e.g., Linear Algebra, Statistics)",
+                        "Advanced ability to perform exploratory data analysis and to communicate complex data in a simple, actionable way",
+                        "Experience with SQL, databases, and other data management tools",
+                        "Ability to work independently and with team members from different backgrounds",
+                        "Excellent attention to detail",
+                        "Comfortable interacting with executive level leaders",
+                        "From data acquisition to training and deploying the model in a production environment",
+                        "Exceptional technical writing skills",
+                        "You must live in the USA",
+                        "You must be authorized to work in the USA, now and in the future, without requirement of employment visa sponsorship"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop machine learning (ML) models using natural language processing (NLP) that will be integrated into our automated processes",
+                        "Serve as a technical leader and early adopter of technology while developing new features with varying levels of design specs",
+                        "Troubleshoot and resolve issues and provide technical solutions",
+                        "Utilizie Python and machine learning (ML) technologies to perform conversational analytics",
+                        "Analyze structured and unstructured data and build predictive models using a variety of approaches",
+                        "Search through large data sets and transform data to make it more appropriate for analysis",
+                        "Create reports and presentations for business uses"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A culture based on our core values of Authenticity, Courage and Having Fun",
+                        "A collaborative environment that supports your personal and professional development",
+                        "Remote/virtual working flexibility",
+                        "Free health insurance options",
+                        "Comprehensive benefits - medical, vision, dental, life, and disability insurance",
+                        "HSA and FSA plans",
+                        "401(K)",
+                        "Unlimited vacation time",
+                        "Generous paid holidays, sick leave, and parental leave",
+                        "Perks at Work membership for discounts on shopping, travel and much more"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Authenticx&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAII0Qk",
+                    "text": "See web results for Authenticx"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoTkxQIC0gTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nKSIsImh0aWRvY2lkIjoiMGhCLThBTWlKSjRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VXeGFXVlZ5V2tFeGMzUXphV2RGYjJ4eFNrZHdXbDloTTJSNmIzQnFWRlZrZERsZllVRnJaRmxzZW1Oc1lUaENWR1I0YzJ0aldGRm9Sa0pGVEZCRlVHWjVjbTlYVFZOS1pFTnVSVGczYlVVd2JGQTVZVkZmVm5WU2JtUkZhWFJOTmpCbGFrdG1aa00yWVVacFZtVldPSFZTVHpSSFMwSTFTMFp1YTFCb2NGVlNkWGhzY20xM05HSjZaRXhMU1hoUlNITXdZMDQwWlVnNFgxRndNRWs1U1ZRNWVuRnVXV3hmUjBKbWR6TjBjMFZWWDJKd1RYUlBkR2xZVFcxU2REUktiVTlUVVVzemVqQkxUMjQxU3paVFlYUkRiMUJ2VDFkdU1XOUpkeElYWDB4ck9WcE1RMDVJY0ZOcGNIUlJVRFpKY1RNdFFXTWFJa0ZQTFRCeWJEUkVNM1pSWkRrdFlsUnJUMVZWYlhJNGVWSndZakJLYVd0b1psRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gU3RhcnRXaXJlIiwibGluayI6Imh0dHBzOi8vd3d3LnN0YXJ0d2lyZS5jb20vam9icy9pbmRpYW5hcG9saXMtaW4vZGF0dW0tc2NpZW50aXN0LTQyNDAzOTM5Mjg/c291cmNlPXNlb1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Spanish Natural Language Processing Dialog Engineer",
+            "company_name": "IBM Corporation",
+            "location": "  Sacramento, CA   ",
+            "via": "via Trabajo.org",
+            "description": "Introduction\n\nWatson Orders is an IBM Silicon Valley based technology group working on a world-class conversational AI system. Our mission is to deliver advanced solutions that address real-world needs in the quick service restaurant industry. We use state-of-the-art Machine Learning and related technologies to deliver a product that will help serve tens of millions of customers per day...\n\nYour Role and Responsibilities\n\nYour Role:\n\nWe are looking for highly skilled Software Engineers and Computational Linguists to work on our cutting-edge Conversational AI system for the Drive-Thru. Our team uses linguistic expertise, software engineering skills, and data-driven approaches to solve complex Natural Language Understanding (NLU), Dialog Management, and Natural Language Generation (NLG) problems\n\nResponsibilities:\n\nPartner with computational linguists, machine learning experts, and domain experts to adapt\n\nour Conversational AI to support Spanish.\n\nDrive best design practices and decision-making around transforming our Conversational AI into a platform that supports multiple languages.\n\nContribute to improving our conversational simulator to generate naturalistic Spanish training data for ML-based Natural Language Understanding.\n\nTranslate our Conversational AI's dialog response templates into Spanish.\n\nWrite code in Python to manage dialog flow and apply voice actions in context.\n\nRequired Technical and Professional Expertise\n\u2022 3+ years of professional experience in software engineering.\n\u2022 2+ years of professional experience in Python.\n\u2022 1+ years of professional experience with Git.\n\u2022 2+ years of professional experience with conversational AI\n\u2022 Fluent or native proficiency in Spanish\n\u2022 History of fostering a positive and collaborative environment\n\nPreferred Technical and Professional Expertise\n\u2022 Professional experience with conversational AI (chatbots, virtual assistants, etc.)\n\u2022 Graduate degree (MA/MS, PhD) in Computer Science, Linguistics, or related field\n\u2022 Professional experience with Linux\n\u2022 A demonstrated interest in acquiring new skills",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3+ years of professional experience in software engineering",
+                        "1+ years of professional experience with Git",
+                        "2+ years of professional experience with conversational AI",
+                        "Fluent or native proficiency in Spanish",
+                        "History of fostering a positive and collaborative environment"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Partner with computational linguists, machine learning experts, and domain experts to adapt",
+                        "Contribute to improving our conversational simulator to generate naturalistic Spanish training data for ML-based Natural Language Understanding",
+                        "Translate our Conversational AI's dialog response templates into Spanish",
+                        "Write code in Python to manage dialog flow and apply voice actions in context"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.ibm.com/",
+                    "text": "ibm.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=IBM+Corporation&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAIIlAo",
+                    "text": "See web results for IBM Corporation"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTcGFuaXNoIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyBEaWFsb2cgRW5naW5lZXIiLCJodGlkb2NpZCI6ImhlMndqSEZxTzJnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VVWh1VGpCV2FtcFZVams1ZGs5b2FDMVdPVkJFWTJaYVZGOWpTRWhWU0Vrek1qa3pSVEZ1U1U1QmFtTktjV2RKVEdWQ1RuRTJNemxNZFdzeVUxTnJRM05WYzBReUxTMVdUamhMYVdsc2VqWk1URVo2VDNwek5rcGtZMVZPTW5kQlRUSkVPV1YyWnpWQ04zTjVXbDlJZVRCd2JrcGhXbFYwUkRKUWIzbFBiMHh4VDNOd1kxbFNWa3QyYkZkaWFUVllTM0oyZURWeVIxOWhkekpDU3psallVZFBSazQ1YlZWeGN6UkNTalpxVFVkcVdYazNWbUptZURCdlprZFZhSE0yV2todlVHMXpTV3B5VEhWVWJubGZWamx3WmxGeGJXNXBUemRKUVJJWFgweHJPVnBNUTA1SWNGTnBjSFJSVURaSmNUTXRRV01hSWtGUExUQnliRFZYTFc1bmQwMXRSSEI2UWtWd05FeG5SRzR5YzBGNFVISmFSbWMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFRyYWJham8ub3JnIiwibGluayI6Imh0dHBzOi8vdXMudHJhYmFqby5vcmcvam9iLTIwMTAtMjAyMzA0MTUtYWY2NjE2YmIyY2U0Y2YwYjgyYzRmNTM5MTBkMTgwMWU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Natural Language Processing Engineer",
+            "company_name": "Brain Technologies, Inc.",
+            "location": "  San Mateo, CA   ",
+            "via": "via Karkidi",
+            "description": "Responsibilities:\n\u2022 Learning from user interactions with our NLP system to identify failure modes and ship robust solutions to production.\n\u2022 Collaborating with and assisting other engineers and designers to develop new computational-linguistics or deep-learning based solutions for natural language understanding and reasoning...\n\u2022 Improving Brain\u2019s understanding of the real-world from a NLP perspective \u2013 of restaurants, brands, products, contextual information and more.\n\u2022 Build and maintain Python web services for NLP that support thousands of users of Natural IOS application.\n\u2022 Design and build pipelines for automatic training and evaluation of state-of-art NLP models.\n\u2022 Extend and maintain critical dashboards used to monitor application performance.\n\u2022 Interface with both NLP and back-end engineering team.\n\u2022 Develop automated Natural Language Processing application, which can update the model based on the data distribution and inference accuracy.\n\u2022 Integrate the state-of-art Natural Language Processing model, like GPT3, into our app\n\nQualifications and Skills:\n\u2022 Job entails working with and requires Master\u2019s degree in Computational Linguistics, Computer Science, Software Engineering, or equivalent with 2 years of experience including: Python, Linguistic analysis, Machine Learning, Deep Learning, Natural Language Understanding, Natural Language Generation.\n\u2022 Employer will accept any suitable combination of education, training or experience. This should be read to mean that the employer requires: Master\u2019s degree in Computational Linguistics, Computer Science, Software Engineering or equivalent with 2 years of experience in the job offered, NLP Engineer, Software Engineer, Machine learning Engineer, or equivalent",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Job entails working with and requires Master\u2019s degree in Computational Linguistics, Computer Science, Software Engineering, or equivalent with 2 years of experience including: Python, Linguistic analysis, Machine Learning, Deep Learning, Natural Language Understanding, Natural Language Generation",
+                        "Employer will accept any suitable combination of education, training or experience",
+                        "This should be read to mean that the employer requires: Master\u2019s degree in Computational Linguistics, Computer Science, Software Engineering or equivalent with 2 years of experience in the job offered, NLP Engineer, Software Engineer, Machine learning Engineer, or equivalent"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Learning from user interactions with our NLP system to identify failure modes and ship robust solutions to production",
+                        "Collaborating with and assisting other engineers and designers to develop new computational-linguistics or deep-learning based solutions for natural language understanding and reasoning",
+                        "Improving Brain\u2019s understanding of the real-world from a NLP perspective \u2013 of restaurants, brands, products, contextual information and more",
+                        "Build and maintain Python web services for NLP that support thousands of users of Natural IOS application",
+                        "Design and build pipelines for automatic training and evaluation of state-of-art NLP models",
+                        "Extend and maintain critical dashboards used to monitor application performance",
+                        "Interface with both NLP and back-end engineering team",
+                        "Develop automated Natural Language Processing application, which can update the model based on the data distribution and inference accuracy",
+                        "Integrate the state-of-art Natural Language Processing model, like GPT3, into our app"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://brain.im/",
+                    "text": "brain.im"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Brain+Technologies,+Inc.&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAII1Ao",
+                    "text": "See web results for Brain Technologies, Inc."
+                }
+            ],
+            "extensions": [
+                "160K\u2013250K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "160K\u2013250K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgRW5naW5lZXIiLCJodGlkb2NpZCI6InZiMG84bjJMaHFnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VVFZpZVV0VGF6VllNbHBXY0dONlptSmxhRGhrZWpSelNsSXdSekpmVTFoME5sOU1hRzEyWDJwcVFVMHpTRUpOTUVsNlZteExObEZ0UzJrM2MyVjNXbkZoWTB0QlUxbE9RVEZpTXpneGVVSTNhSFowU0VGWlFrdzNUVXRHYldsdVpXZFJkMEZCZWtGdVJVSTJNRkF6U25neFFtTnRRVmt4ZUcxWFkxcDNabU16YTNSUk5sZHhVVEZZYTNkak9XUnBjV1ZoWjFCZmFERkVhbWxLVDB0d1VIb3dkMDg1YlVwVmIwUmhjMWhaTjBGaWFtMWhhbVoyWWpodldYVjZTVEZTWm5kblNEaDFiR3g0VVdrMmRXZFhaV2QwWTJ4V2JHUnBZV3hIVVJJWFgweHJPVnBNUTA1SWNGTnBjSFJSVURaSmNUTXRRV01hSWtGUExUQnliRFJhYTIxWWJtTm9ZbVZMVkVwdlJFaGxXVmhoWTFWTkxYZGtTVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEthcmtpZGkiLCJsaW5rIjoiaHR0cHM6Ly93d3cua2Fya2lkaS5jb20vam9iLWRldGFpbHMvMzgzMzMtbmF0dXJhbC1sYW5ndWFnZS1wcm9jZXNzaW5nLWVuZ2luZWVyLWpvYj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer/ Data Scientist- NLP 2023 Summer Intern...",
+            "company_name": "Supportiv",
+            "location": "  San Jose, CA   ",
+            "via": "via WDHN Jobs",
+            "description": "First, The Data!\n\u2022 Over 1 million unique chat users\n\u2022 Over 150 million conversation data points focused on mental health and emotional wellbeing...\n\u2022 Over 1.1 million manually labeled data points by our highly trained moderators\n\u2022 Over 1.2 million data points on moods and emotions\n\u2022 Over 480 thousand resources and services matched in real-time (patented)\n\u2022 Over 10 real-time AI engines + Our own corpus and language models (patented)\n\u2022 Double feedback loop from users and moderators for ML and fine tuning\n\u2022 No hate/racism/trolls or other biases in the data, as all user chats supervised by our moderators\n\nAbout The Job\n\nSupportiv is driven by building a peer-to-peer mental well-being platform that helps users with their emotional needs 24/7/365 affordably. We are seeking a highly-analytical impact-oriented Master/Ph.D. student to join our Data Science team as a 2023 Summer Intern (the internship length is 3 months minimum). The role will serve as a core member within the team, focused on applying artificial intelligence (AI) to solve real business problems, along with analytics to drive insights from the user interactions on the platform to guide data-driven product development and business decisions. The intern will work cross-functionally between various teams at Supportiv.\n\nWhat Makes Supportiv Special?\n\nWe are not just a highly ambitious technology company with a soul. Fundamental to our mission to help improve mental wellbeing is offering affordable, on-demand, and equitable access to peer support. We enable users to cope with, problem-solve, and heal from struggles in an ultra user-friendly, practical, tactical way by harnessing the power of AI and natural language understanding (NLU).\n\nInterview Process\n\u2022 [30 min] Initial screen.\n\u2022 [1 day] Take-home programming challenge.\n\u2022 In-depth interview stages:\n\u2022 [60 min] Technical deep learning/NLP interview.\n\u2022 [60 min] Technical programming interview.\n\u2022 [30 min] Value and cultural fit interview.\n\u2022 [60 min] Debrief with the Co-Founders.\n\u2022 We check references and make you an offer.\n\nWhat Will You Need to Succeed?\n\u2022 Experience in the field of Machine Learning and Natural Language Understanding.\n\u2022 Master/Ph.D. student in machine learning, natural language processing, or another field applying NLP/NLU techniques with publications in top-tier journals and conferences.\n\u2022 Strong knowledge of modern NLU techniques such as RNNs, Transformers, BERT, GPT, Foundational NLP models, etc.\n\u2022 Experience with common natural language processing packages and tools (Spacy, Scikit-learn, Pytorch, Huggingface)\n\u2022 Strong communication and interpersonal skills.\n\nWhat You Will Get?\n\u2022 Learn how to design solutions to address real business problems.\n\u2022 You will learn to develop and evaluate AI models, deploy models into production, monitor their performance, and retrain them as necessary.\n\u2022 Get hands-on experience with cloud computing technologies.\n\u2022 Collaborate in a multidisciplinary start-up culture with a close-knit, all-star team.\n\u2022 Gain a deep understanding of the healthcare industry",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "[1 day] Take-home programming challenge",
+                        "[60 min] Technical deep learning/NLP interview",
+                        "[30 min] Value and cultural fit interview",
+                        "Experience in the field of Machine Learning and Natural Language Understanding",
+                        "Master/Ph.D. student in machine learning, natural language processing, or another field applying NLP/NLU techniques with publications in top-tier journals and conferences",
+                        "Strong knowledge of modern NLU techniques such as RNNs, Transformers, BERT, GPT, Foundational NLP models, etc",
+                        "Experience with common natural language processing packages and tools (Spacy, Scikit-learn, Pytorch, Huggingface)",
+                        "Strong communication and interpersonal skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role will serve as a core member within the team, focused on applying artificial intelligence (AI) to solve real business problems, along with analytics to drive insights from the user interactions on the platform to guide data-driven product development and business decisions",
+                        "The intern will work cross-functionally between various teams at Supportiv",
+                        "You will learn to develop and evaluate AI models, deploy models into production, monitor their performance, and retrain them as necessary"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Supportiv&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAIIlAs",
+                    "text": "See web results for Supportiv"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Internship"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Internship"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyLyBEYXRhIFNjaWVudGlzdC0gTkxQIDIwMjMgU3VtbWVyIEludGVybiAoVVMgUmVtb3RlKSIsImh0aWRvY2lkIjoiQU9nTDJMZmhTbFlBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1UxbDNVVkJRTTJkc1JXTTNTVEZUZUhwVGNrOVNXRFJIWmtWdE9WOXlTa05rZFZjeE1rSTFMVk5rUWxCUllsUlRhRzlHUzFaQ1RuSk5kRWhZVFhaa2NFeHNTVTlGV2paVVlsSTRUbkl4YUZwek5HOWpkRFpKUjE5WWVVeDZZa0pSVGpONGVtcHdWQzEwU2xaUmJWTmZTV3hOY2xJMWVFVnJjMkphTWsxcFUwbDRjbTAzZUVRNFVVbFRjMHhuU1U1Tk1VSmhVbkZYWjBKWlNXbElZekJ2VlRBemJqQXpSR0ZVYW1wcGR6WXpibmxDVWpSRGExQmtXRmczWm1WQ1EybFdWVEZyVVUxUE9HbFRTRWhXTldkTVQwRkRTemhZWWt4SFNWcHFXR000ZW5GdFVtUnBRVkk1U1V4dVJIRnVaVGhxUVJJWFgweHJPVnBNUTA1SWNGTnBjSFJSVURaSmNUTXRRV01hSWtGUExUQnliRGQ0UnpWMmJtbGpPVFl4UW5kUFRrNVRSRTkzVlhWMGVGaHdkSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdESE4gSm9icyIsImxpbmsiOiJodHRwczovL2pvYnMud2Robi5jb20vam9icy9tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLWRhdGEtc2NpZW50aXN0LW5scC0yMDIzLXN1bW1lci1pbnRlcm4tdXMtcmVtb3RlLXNhbi1qb3NlLWNhbGlmb3JuaWEvOTc2ODE2OTg1LTIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "AI Technology and Systems, Artificial Intelligence Researcher...",
+            "company_name": "MIT Lincoln Laboratory",
+            "location": "  Lexington, MA   ",
+            "via": "via Jobs At MIT Lincoln Laboratory - Massachusetts Institute Of Technology",
+            "description": "For over fifty years, the Artificial Intelligence Technology and Systems Group has applied its deep technical expertise in\n\nartificial intelligence, machine learning, natural language processing, speech processing, signal processing, and...\n\ngraph processing to discover, create, and deliver some of the Nation's most impactful speech, language, and cyber\n\ntechnologies for national security. The group serves as the Nation\u2019s \u201cgo to\u201d technical resource in these areas and\n\nhas been recognized at the highest levels of the government. This is an amazing opportunity to join a group that has\n\nhad unmatched impact, work on teams with distinguished colleagues, and be in on the ground floor in exciting new\n\nareas. We seek a candidate with experience in the area of natural language processing (NLP) to work with our team on\n\nresearch, technology development and transfer, and applications in end-to-end artificial-intelligence systems.\n\nJob Description\n\nSome of the group\u2019s NLP research and development (R&D) efforts include authorship attribution, text generation, entity and relationship extraction, low-resource language processing, content authentication, auto summarization, style transfer, and explainable AI.\n\n\u2022 Conduct research and development in artificial intelligence/machine learning with application to text and NLP\n\n\u2022 Develop and evaluate technology for text understanding\n\n\u2022 Prior experience with deep learning architectures and related libraries (PyTorch, Tensor flow, etc.) is highly desired\n\n\u2022 Support the deployment of NLP systems across the US Government\n\n\u2022 Interact with government sponsors in support of developing new areas of research and fulfillment of future needs\n\n\u2022 This is an individual contributor (IC) role with significant opportunities to grow into a team leadership role\n\nRequirements\n\u2022 Masters or Bachelors degree and 3-5 years of experience in Computer Science, Computer Engineering, Data Science, Electrical\n\u2022 Engineering, Mathematics, Physics, or a related field\n\nFor Benefits Information, click http://hrweb.mit.edu/benefits\n\nSelected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.\n\nTo safeguard our health and well-being, MIT Lincoln Laboratory requires COVID-19 vaccination for all employees. Individuals may request exemption from the vaccine requirement for medical or religious reason.\n\nMIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.\n\nRequisition ID: 39964",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Masters or Bachelors degree and 3-5 years of experience in Computer Science, Computer Engineering, Data Science, Electrical",
+                        "Engineering, Mathematics, Physics, or a related field",
+                        "Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Some of the group\u2019s NLP research and development (R&D) efforts include authorship attribution, text generation, entity and relationship extraction, low-resource language processing, content authentication, auto summarization, style transfer, and explainable AI",
+                        "Conduct research and development in artificial intelligence/machine learning with application to text and NLP",
+                        "Develop and evaluate technology for text understanding",
+                        "Support the deployment of NLP systems across the US Government",
+                        "Interact with government sponsors in support of developing new areas of research and fulfillment of future needs",
+                        "This is an individual contributor (IC) role with significant opportunities to grow into a team leadership role"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.ll.mit.edu/",
+                    "text": "ll.mit.edu"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=MIT+Lincoln+Laboratory&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAII0ws",
+                    "text": "See web results for MIT Lincoln Laboratory"
+                }
+            ],
+            "extensions": [
+                "8 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBUZWNobm9sb2d5IGFuZCBTeXN0ZW1zLCBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBSZXNlYXJjaGVyIChSXHUwMDI2RCkgLSBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmciLCJodGlkb2NpZCI6Ik1RcG5VZDVXSFk0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0NDcmNDUVVWek4ycE9WR0ZMVVhBNFRsSjZWM0ZtVldoSVJHRlhVVWN5YkhCamMycHRhMHg0YmtKdWNVZEtabTVaUjBKNk5sbzVWVEk0UlVKaU5qZzNjV3QxUldaQ1ZXbzNOVzlIT1dWNFFVVk5XV3cxZDFobGRFOW1MVkJSVkhrMmRuQXdjRzVsYjNwaFpFUkpaVk5DY3pST2IxWmFSakJwY1U5WGJsVnNXV1k1TkZoRkxUZDBiRlpwTjJ0eGR6SnZaMUpQWDBkMkxWZGZRakZZTUZseFpWUTVieTFCTVhKR2RYcFFaSEZsWVdFd1dXVkNjekZzZUVaQ2NuQlRVbEJ4ZEhOUlZXRkdOVXBtY1d0YU5XUTRPVE5NWW5GNlJIQTBZbXQyUlUxNFZWbzBRMko0Y0ZOTlpVWmxOa3BxYWswdFdFTmxXR1k1UTNSQ1dIVkJkRXRUWkhWb09HdDZRWG80TkZGcVFYZGhWV2xIYlROTFpGOXVWMHBmWjFwUU0wOUxXRlUyUnpWNVFsaEtNMFJDUXkxNVoxbGxNbTAzWmxSU1VUZ1NGMTlNYXpsYVRFTk9TSEJUYVhCMFVWQTJTWEV6TFVGakdpSkJUeTB3Y213MWFsSm1SWEpMVTJ4cVQySXpZVEl6UTNKaFpVaEJVVUZXVDFWMyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icyBBdCBNSVQgTGluY29sbiBMYWJvcmF0b3J5IC0gTWFzc2FjaHVzZXR0cyBJbnN0aXR1dGUgT2YgVGVjaG5vbG9neSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMubGwubWl0LmVkdS9qb2IvTGV4aW5ndG9uLUFJLVRlY2hub2xvZ3ktYW5kLVN5c3RlbXMlMkMtQXJ0aWZpY2lhbC1JbnRlbGxpZ2VuY2UtUmVzZWFyY2hlci0lMjhSXHUwMDI2RCUyOS1OYXR1cmFsLUxhbmd1YWdlLVByb2Nlc3NpbmctTUEtMDI0MjAvMTAxMzc0MjQwMC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Engineer/ Data Scientist- NLP 2023 Summer Intern...",
+            "company_name": "Supportiv",
+            "location": "  Chicago, IL   ",
+            "via": "via KLFY Jobs",
+            "description": "First, The Data!\n\u2022 Over 1 million unique chat users\n\u2022 Over 150 million conversation data points focused on mental health and emotional wellbeing...\n\u2022 Over 1.1 million manually labeled data points by our highly trained moderators\n\u2022 Over 1.2 million data points on moods and emotions\n\u2022 Over 480 thousand resources and services matched in real-time (patented)\n\u2022 Over 10 real-time AI engines + Our own corpus and language models (patented)\n\u2022 Double feedback loop from users and moderators for ML and fine tuning\n\u2022 No hate/racism/trolls or other biases in the data, as all user chats supervised by our moderators\n\nAbout The Job\n\nSupportiv is driven by building a peer-to-peer mental well-being platform that helps users with their emotional needs 24/7/365 affordably. We are seeking a highly-analytical impact-oriented Master/Ph.D. student to join our Data Science team as a 2023 Summer Intern (the internship length is 3 months minimum). The role will serve as a core member within the team, focused on applying artificial intelligence (AI) to solve real business problems, along with analytics to drive insights from the user interactions on the platform to guide data-driven product development and business decisions. The intern will work cross-functionally between various teams at Supportiv.\n\nWhat Makes Supportiv Special?\n\nWe are not just a highly ambitious technology company with a soul. Fundamental to our mission to help improve mental wellbeing is offering affordable, on-demand, and equitable access to peer support. We enable users to cope with, problem-solve, and heal from struggles in an ultra user-friendly, practical, tactical way by harnessing the power of AI and natural language understanding (NLU).\n\nInterview Process\n\u2022 [30 min] Initial screen.\n\u2022 [1 day] Take-home programming challenge.\n\u2022 In-depth interview stages:\n\u2022 [60 min] Technical deep learning/NLP interview.\n\u2022 [60 min] Technical programming interview.\n\u2022 [30 min] Value and cultural fit interview.\n\u2022 [60 min] Debrief with the Co-Founders.\n\u2022 We check references and make you an offer.\n\nWhat Will You Need to Succeed?\n\u2022 Experience in the field of Machine Learning and Natural Language Understanding.\n\u2022 Master/Ph.D. student in machine learning, natural language processing, or another field applying NLP/NLU techniques with publications in top-tier journals and conferences.\n\u2022 Strong knowledge of modern NLU techniques such as RNNs, Transformers, BERT, GPT, Foundational NLP models, etc.\n\u2022 Experience with common natural language processing packages and tools (Spacy, Scikit-learn, Pytorch, Huggingface)\n\u2022 Strong communication and interpersonal skills.\n\nWhat You Will Get?\n\u2022 Learn how to design solutions to address real business problems.\n\u2022 You will learn to develop and evaluate AI models, deploy models into production, monitor their performance, and retrain them as necessary.\n\u2022 Get hands-on experience with cloud computing technologies.\n\u2022 Collaborate in a multidisciplinary start-up culture with a close-knit, all-star team.\n\u2022 Gain a deep understanding of the healthcare industry",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "[1 day] Take-home programming challenge",
+                        "[60 min] Technical deep learning/NLP interview",
+                        "[30 min] Value and cultural fit interview",
+                        "Experience in the field of Machine Learning and Natural Language Understanding",
+                        "Master/Ph.D. student in machine learning, natural language processing, or another field applying NLP/NLU techniques with publications in top-tier journals and conferences",
+                        "Strong knowledge of modern NLU techniques such as RNNs, Transformers, BERT, GPT, Foundational NLP models, etc",
+                        "Experience with common natural language processing packages and tools (Spacy, Scikit-learn, Pytorch, Huggingface)",
+                        "Strong communication and interpersonal skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role will serve as a core member within the team, focused on applying artificial intelligence (AI) to solve real business problems, along with analytics to drive insights from the user interactions on the platform to guide data-driven product development and business decisions",
+                        "The intern will work cross-functionally between various teams at Supportiv",
+                        "You will learn to develop and evaluate AI models, deploy models into production, monitor their performance, and retrain them as necessary"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Supportiv&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAIIkQw",
+                    "text": "See web results for Supportiv"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Internship"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Internship"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyLyBEYXRhIFNjaWVudGlzdC0gTkxQIDIwMjMgU3VtbWVyIEludGVybiAoVVMgUmVtb3RlKSIsImh0aWRvY2lkIjoiNzM2dXV4UllkbkFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1VrWTJkM1V5VGtWRlgzVkRXbXBCVUROMlZERnZZa3RLU1U1VGRHUmxkV3hqUWpBemNHZFpWbWxIV2pWWFVuaHViREZKYmxGalFXMU9VSFl0YWxKa2JGWjFhRVo2TFhsdU9GUnNNM001TjBnMmRuUm9RVlpWVUZwMFJXUXlTaTF6WTFVdFNGVkNkMGRGUWxvM1NteEdaVzlLT1VGSGFucG9XbFpTYUhSVlJUbFZkRkE0WlVkaVNGSjBaMHhFUm1wV2MzZDRiMHhSTFVRNFZEQmFZbEZOWTJoSmJuY3piRUppVm5GWWExVmpRbmhQY0dnMWEyaHNRMGhxVFY5RFdYTkJUMHgyU1ZOMFpVaHhORzlvWmxVeVVGWmtZMmR0VkdSRGJYaGpUWFl5ZFRKb1pWaFdTVWMwTkVsTVdFbFRSM2hCU1JJWFgweHJPVnBNUTA1SWNGTnBjSFJSVURaSmNUTXRRV01hSWtGUExUQnliRGRIU0ZsYVZUaGhOMjFhWVRWU1dsZFhibmxCUVZsVVNrNXFPR2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEtMRlkgSm9icyIsImxpbmsiOiJodHRwczovL2pvYnMua2xmeS5jb20vam9icy9tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLWRhdGEtc2NpZW50aXN0LW5scC0yMDIzLXN1bW1lci1pbnRlcm4tdXMtcmVtb3RlLWNoaWNhZ28taWxsaW5vaXMvOTc2ODE1NTU4LTIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Post-Doc Researcher for Natural Language Processing",
+            "company_name": "Robert Bosch",
+            "location": "  Sunnyvale, CA   ",
+            "via": "via Ladders",
+            "description": "Company Description\n\nThe Bosch Research and Technology Center North America with s in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is part of the global Bosch Group , a company with over 70 billion euro revenue, 400,000 people worldwide, a very diverse product portfolio, and a history of over 125 years. The Research and Technology Center North America (RTC-NA) is... committed to providing technologies and system solutions for various Bosch business fields primarily in the areas of Integrated Human-Machine Intelligence, Robotics, Energy Technologies, Internet Technologies, Circuit Design, Semiconductors and Wireless, and MEMS Advanced Design.\n\nThe focus of our global research on Integrated Human-Machine Intelligence includes Big Data Visual Analytics, Explainable AI, Audio Analytics, NLP, Conversational AI, Cloud Robotics, Mixed Reality and Smart Wearables, etc. We develop intuitive, interactive, and intelligent solutions to enable inspiring UX for Bosch products and services in application areas such as autonomous driving, car infotainment and driver assistance systems (ADAS), Industry 4.0 and Internet of Things (IoT), security systems, smart home and building solutions, health care, and robotics.\n\nAs a part of our global research unit, our Conversational AI & Natural Language Processing group is responsible for shaping the future user experience of Bosch products by developing cutting-edge technologies and prototype systems in the fields of natural language processing and understanding, knowledge representation and reasoning, question answering, information retrieval, dialogue management, knowledge-based assistance, speech processing, and etc. We on solutions to derive useful information and knowledge from textual data, and enable natural, intuitive and intelligent personal assistance. We internal partners at various Bosch business units to transfer our ideas and solutions into future products. We also actively collaborate with leading groups in academia and industry to promote research ideas and publish research findings in internationally renowned conferences and journals, e.g., ACL, EMNLP, ISWC, AAAI, NeurIPS, ICML, ICASSP.\nJob Description\n\u2022 Conduct research on Natural Language Processing (NLP) to address academic and industrial challenges in NLP fields\n\u2022 an international team of experts to transfer and apply the Bosch in-house NLP innovations and 3rd-party NLP solutions to Bosch products and services of information extraction, knowledge-rich assistance, question answering, and information retrieval.\nQualifications\n\nBasic Qualifications\n\u2022 Ph.D. in computer science or engineering\n\u2022 3+ years of research experience in natural language processing\n\u2022 Publication record in top NLP / ML venues (e.g., ACL, EMNLP, NAACL, TACL, AAAI, etc.)\n\u2022 Hands-on experience on state-of-the-art NLP / ML libraries and toolkits\n\nPreferred Qualifications\n\u2022 R&D experiences on low-resource NLP\n\u2022 R&D experiences on explainable NLP\n\u2022 R&D experiences on knowledge representation and reasoning and/or neural symbolic reasoning\nAdditional Information\n\nBOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives\n\u2022 FIRST Robotics (For Inspiration and Recognition of Science and Technology)\n\u2022 AWIM (A World In Motion)\n\nBy choice, we are committed to a diverse force \u2013 EOE/Protected Veteran/Disabled.\n\nFor more information on our culture and benefits\n\nCulture and Benefits | Bosch in the USA\n\nThe U.S. base salary range for this full-time position is 100,000 - 150,000. Within the range, individual pay is determined based on several factors, including, but not limited to, experience and job knowledge, complexity of the role, job location, etc. Your Recruiter can share more details about the specific salary range for this position during the interview process.\n\nIn addition to your base salary, Bosch offers a comprehensive benefits package that includes health, dental, and vision plans; health savings accounts (HSA); flexible spending accounts; 401(K) retirement plan with an attractive employer match; wellness programs; life insurance; short and long term disability insurance; paid time off; parental leave, adoption assistance; and reimbursement of education expenses. Pay ranges included in the postings generally reflect base salary; certain positions may include bonus, commission, or additional benefits",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ph.D. in computer science or engineering",
+                        "3+ years of research experience in natural language processing",
+                        "Publication record in top NLP / ML venues (e.g., ACL, EMNLP, NAACL, TACL, AAAI, etc.)",
+                        "Hands-on experience on state-of-the-art NLP / ML libraries and toolkits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Conduct research on Natural Language Processing (NLP) to address academic and industrial challenges in NLP fields",
+                        "an international team of experts to transfer and apply the Bosch in-house NLP innovations and 3rd-party NLP solutions to Bosch products and services of information extraction, knowledge-rich assistance, question answering, and information retrieval"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The U.S. base salary range for this full-time position is 100,000 - 150,000",
+                        "Within the range, individual pay is determined based on several factors, including, but not limited to, experience and job knowledge, complexity of the role, job location, etc",
+                        "In addition to your base salary, Bosch offers a comprehensive benefits package that includes health, dental, and vision plans; health savings accounts (HSA); flexible spending accounts; 401(K) retirement plan with an attractive employer match; wellness programs; life insurance; short and long term disability insurance; paid time off; parental leave, adoption assistance; and reimbursement of education expenses",
+                        "Pay ranges included in the postings generally reflect base salary; certain positions may include bonus, commission, or additional benefits"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.bosch.com/",
+                    "text": "bosch.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Robert+Bosch&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAII0ww",
+                    "text": "See web results for Robert Bosch"
+                }
+            ],
+            "extensions": [
+                "100K\u2013150K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "100K\u2013150K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQb3N0LURvYyBSZXNlYXJjaGVyIGZvciBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmciLCJodGlkb2NpZCI6InFXeW4tUEZvQUNvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VelpWYjFkdGJFRlZOMWRvZWtONFgwSXhVWGxOYzNWb1drcFdRV0ZhVEVvMmMwOU9iRGxDV1hJeVRYUlZVR1ZPYW5FeVZWUnJVRlJLVWt0aFVWbDNWVXQ0YUdKdldqWm9XVTQ1VEZWc1dHNXlkMUpvWDFkV1YxTXljbkV3TFdaWVJuQnBURkJFTjJkZlZraFdhMkpETlZjeVUwSlBOM0F4TlV4WFZtMXlOMDQxTkZVdGRXTlBVa2R0TjNsdmExYzVTVmhNU3pRMFRUaFNiV2h6ZUcxd1l5MVBTazVtVnpsbVRtYzBWMTlEYTBSemNYaFRMVFJEU1VoQloxRmlVVU5RY1doWVYxOTNUbWhWTkZKaGIyRkNORkJHTm1ONmVtUjZTRzR3ZHhJWFgweHJPVnBNUTA1SWNGTnBjSFJSVURaSmNUTXRRV01hSWtGUExUQnliRFZuYm1JeU1Vc3dTRTl5VjBVM00wWjNZbE15YjBONFRXVkViWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMYWRkZXJzIiwibGluayI6Imh0dHBzOi8vd3d3LnRoZWxhZGRlcnMuY29tL2pvYi9wb3N0LWRvYy1yZXNlYXJjaGVyLWZvci1uYXR1cmFsLWxhbmd1YWdlLXByb2Nlc3NpbmctYm9zY2h1cy1zdW5ueXZhbGUtY2FfNjI1Njk1Njg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Technical Leader - Natural Language Processing (NLP)",
+            "company_name": "Kitware",
+            "location": "  Minneapolis, MN   ",
+            "via": "via ZipRecruiter",
+            "description": "Team Description:\n\nOur computer vision team is a leader in the creation of cutting-edge algorithms and software for automated image and video analysis. Our solutions embrace deep learning and add measurable value to government agencies, commercial organizations, and academic institutions worldwide. We understand the difficulties in extracting, interpreting, and utilizing information across... images, video, metadata, and text, and we recognize the need for robust, affordable solutions. We seek to advance the fields of computer vision and deep learning through research and development and through collaborative projects that build on our open source software platforms, such as VIAME and Telesculptor.\n\nAbout the Projects:\n\nNLP and Computer Vision research is increasingly interrelated, with common computational approaches and the increasing availability of text + image/video benchmarks. Likewise, multi-modal domains such as social media and news stories are of increasing interest for applications such as disinformation detection, attribution, and characterization. In addition to this, projects at Kitware require understanding written instructions, including natural language rules.\n\nKitware's employees have unique opportunities to interact and collaborate directly with customers, visit interesting customer sites, and participate in live field tests and demonstrations. Much of Kitware's work involves applying state-of-the-art artificial intelligence approaches to dynamic, real-world problems. In this case, you will have the opportunity to contribute your skills to projects focused on national security, making a difference on a daily basis to protect our country. Research and Development Engineers at Kitware also enjoy benefits commonly associated with a position in academia, such as support and encouragement for the publication of novel work.\n\nWe partner with premier government R&D agencies such as DARPA, IARPA, AFRL, NVESD, NOAA, ONR, other branches of the US military, and multiple members of the Intelligence Community on a range of efforts including prime contracts, SBIRs, and STTRs. In addition, we provide commercial services to companies ranging from startups to Fortune 500 companies. Kitware employs an open source business model to foster extended, collaborative communities, and to provide flexible, high-quality technical solutions. If you've used CMake, ITK, or VTK, you know our work and the impact it has on the communities we help build.\n\nIn This Position You Will:\n\u2022 Bring your technical expertise and project management skills to lead small teams of researchers and engineers on advanced R&D projects funded by government and commercial customers.\n\u2022 Collaborate with external, well-known academic and industry researchers in Natural Language Processing, ML, AI, and computer vision.\n\u2022 Lead proposals for new funding from government R&D organizations and/or commercial companies.\n\u2022 Develop and evaluate algorithms to understand the textual content of textual and multi-modal data, and/or perform reasoning on extracted data.\n\u2022 Enjoy support and encouragement for participation in national and international NLP, machine learning, AI, and/or computer vision conferences.\n\nRequired Qualifications:\n\u2022 PhD in Computer Science or related field with a minimum of 6 years relevant experience and/or a Master's degree with 8 years experience.\n\u2022 Strong publication history in NLP (ACL, EMNLP, NAACL) conferences, or other AI venues incorporating NLP (AAAI, ICML, ICLR, NeurIPS). Candidates should include a detailed list of publications as part of their resume/CV.\n\u2022 Experience collaborating successfully with others and thriving in a fast-paced and dynamic work environment.\n\u2022 Experience leading federal and/or commercial business development activities and winning R&D funding.\n\u2022 Experience developing and nurturing project teams, building an environment of collaboration.\n\u2022 Excellent project management skills with demonstrable efforts leading and delivering complex research projects on time, within budget, and with a high level of customer satisfaction.\n\u2022 Experience in supervising and reviewing research and software developed by others.\n\u2022 Experience designing and implementing complex software systems.\n\u2022 Due to contractual restrictions, only US Citizens will be considered for this position\n\u2022 If not already cleared TS/SCI, willingness and ability to apply for and maintain a TS/SCI security clearance\n\nPreferred Qualifications:\n\u2022 Experience with natural language text generation using one or more of GPT-2, BERT, or Grover.\n\u2022 Past work applying NLP to textual instructions and/or rules.\n\nCompany Description:\n\nKitware is a research and development software solutions provider with a mission to advance science, make a positive impact, and share our results all within a collaborative, employee-focused work environment that is friendly, fair, and flexible. Our work is improving healthcare outcomes, increasing national security, and advancing our national computing infrastructure. Our customers and collaborators include top universities from around the world, government organizations, national research labs, medical device manufacturers, car manufacturers, financial institutions, and many others.\n\nKitware is proud to be 100% employee-owned, and Great Place to Work-Certified\u2122.\n\nAdditional Information:\n\nOur team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. Besides a great work environment, our comprehensive benefits package includes a competitive compensation plan, tuition reimbursement program, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, bonus plan, and free coffee, drinks, and snacks.\n\nKitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law.\n\nTo be in compliance with the requirements for federal government contractors, all Kitware new hires must be fully vaccinated against COVID-19 prior to their start date. Kitware will consider exceptions for religious and medical reasons, where appropriate. \"Fully vaccinated\" means you must have both doses of a 2-dose vaccine and two weeks have elapsed since the second dose, or have received 1 dose of a 1-dose vaccine and two weeks have elapsed since the dose. Proof of your vaccination status in the form of a copy of a CDC vaccine card, or notice of approval of a religious or medical exemption by Kitware human resources, must be submitted prior to your start date.\n\nAny unsolicited resume sent to Kitware, including to Kitware's mailing addresses, fax machines or email addresses, whether directly to Kitware employees or to Kitware's applicant tracking system, will be considered Kitware property. Kitware will not pay a fee for any placement resulting from the receipt of an unsolicited resume, and will consider any candidate submitted by a recruitment agency without a fully executed contract with Kitware to have been referred free of any charges or fees.\n\nIf you need assistance with applying or interviewing for a role due to a disability or special need, please reach out directly to our HR team at hr@kitware.com at any time during the hiring process",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD in Computer Science or related field with a minimum of 6 years relevant experience and/or a Master's degree with 8 years experience",
+                        "Strong publication history in NLP (ACL, EMNLP, NAACL) conferences, or other AI venues incorporating NLP (AAAI, ICML, ICLR, NeurIPS)",
+                        "Experience collaborating successfully with others and thriving in a fast-paced and dynamic work environment",
+                        "Experience leading federal and/or commercial business development activities and winning R&D funding",
+                        "Experience developing and nurturing project teams, building an environment of collaboration",
+                        "Excellent project management skills with demonstrable efforts leading and delivering complex research projects on time, within budget, and with a high level of customer satisfaction",
+                        "Experience in supervising and reviewing research and software developed by others",
+                        "Experience designing and implementing complex software systems",
+                        "Due to contractual restrictions, only US Citizens will be considered for this position",
+                        "If not already cleared TS/SCI, willingness and ability to apply for and maintain a TS/SCI security clearance",
+                        "\"Fully vaccinated\" means you must have both doses of a 2-dose vaccine and two weeks have elapsed since the second dose, or have received 1 dose of a 1-dose vaccine and two weeks have elapsed since the dose",
+                        "Proof of your vaccination status in the form of a copy of a CDC vaccine card, or notice of approval of a religious or medical exemption by Kitware human resources, must be submitted prior to your start date"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Lead proposals for new funding from government R&D organizations and/or commercial companies",
+                        "Develop and evaluate algorithms to understand the textual content of textual and multi-modal data, and/or perform reasoning on extracted data",
+                        "Enjoy support and encouragement for participation in national and international NLP, machine learning, AI, and/or computer vision conferences"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Besides a great work environment, our comprehensive benefits package includes a competitive compensation plan, tuition reimbursement program, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, bonus plan, and free coffee, drinks, and snacks"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.kitware.com/",
+                    "text": "kitware.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Kitware&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAIImA0",
+                    "text": "See web results for Kitware"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJUZWNobmljYWwgTGVhZGVyIC0gTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIChOTFApIiwiaHRpZG9jaWQiOiJ3MkEzNUhnLS1mRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVkVobWVETlplRmRWYVd0d2FFZGtkbHBKZERCdlJXWXpkVUppZW5SZldGYzJaV1ZaYWxOUWFEZ3dXRkZwTWpZdE4wOTRVbEpPZFROemIyRjZVR0pXV1V4d1pFcGFkbmxLTjFoQmRqTXphalpmVG5ZM1FVaGpkMkpzYVVkSFVrVjJNVkJOY1dkMGNrOTJObWRxUkRKemRXbFRVekZKZVdSV2JrTlVOVkJOVGpSdk0wTXRURWd3VkdaRGJITkpVbEJrTmxwNE4yNDVjbFJMTWxSTFkyODJXa1pOUkc1b1kxQm9jMFpXYlZKUlVVRXpSVzl1Wm5kZlZtNXhaemgwZDNaNE1XUjJZVmQzU1RWTGRFSXhjVk56UVU1QmMyZHVXWGxyYWpaNlFSSVhYMHhyT1ZwTVEwNUljRk5wY0hSUlVEWkpjVE10UVdNYUlrRlBMVEJ5YkRSNWVqbEljM1Z2Y25KellWaDNNVlIxVmxaT1RVbE5iRWxKZEdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9LaXR3YXJlL0pvYi9UZWNobmljYWwtTGVhZGVyLU5hdHVyYWwtTGFuZ3VhZ2UtUHJvY2Vzc2luZy0oTkxQKS8taW4tTWlubmVhcG9saXMsTU4/amlkPTAxZjVjZjI2OTgzZmQxZTNcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Lead Research Scientist, Natural Language Processing",
+            "company_name": "Snap Inc.",
+            "location": "  Los Angeles, CA   ",
+            "via": "via Jooble",
+            "description": "Lead Research Scientist, Natural Language Processing page is loaded Lead Research Scientist, Natural Language Processing\nApply locations Los Angeles, California time type Full time posted on Posted 2 Days Ago job requisition id R0030321\n...\nSnap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company\u2019s three core products are Snapchat , a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio , an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles .\n\nSnap Research serves as an innovation engine for the company. Our projects range from solutions to hard technical problems that significantly enhance Snap\u2019s existing products, to riskier explorations that can lead to fundamental paradigm shifts in the way people communicate and express themselves. The team consists of scientists and engineers who experiment with and invent new technology that has a lasting impact on Snap\u2019s products.\n\nWe are looking for a Lead Research Scientist to join the Creative Vision Research Team! We believe creativity is achieved when technology understands the world, humans and objects, provides a range of creative generation and manipulation tools and efficient real-time experiences. Besides, the future of creativity requires a multimodal conversation of the creator and AI-driven creative tools. We expand our expertise to large-scale language models, multimodal generative and dialog models.\n\nWhat you\u2019ll do:\n\u2022 Define and own a roadmap of large-scale research projects from inception to completion\n\u2022 Participate in strategic decision-making across the company\n\u2022 Mentor and lead other teammates and interns\n\u2022 Publish your work to top conferences\n\u2022 Partner with engineering teams to deliver your technology to millions of Snapchatters\n\nKnowledge, Skills, & Abilities:\n\u2022 Strong technical knowledge of statistics, machine learning, 2D and 3D vision and state-of-the-art deep learning literature\n\u2022 Proven experience with natural language processing, including textual data processing , training and evaluating masked and causal LLMs, and dialogue models\n\u2022 Demonstrated ability in defining, leading and executing challenging research projects\n\u2022 Strong computer science fundamentals, problem solving skills, programming (Python, C, C++)\n\u2022 Proven ability to lead interns, PhD students, and junior researchers\n\u2022 Proven ability to impact product with cutting edge research technology\n\nMinimum Qualifications:\n\u2022 PhD in a related technical field such as computer science, statistics, mathematics, machine learning or equivalent years of experience\n\u2022 4+ years of post-PhD experience of building impactful research projects\n\u2022 Experience with large scale language models, multimodal personalization methods\n\u2022 Track record of publications in top-tier international research venues (e.g. ICLR, AAAI, NeurIPS, ACLs, EMNLP, ICML)\n\u2022 Experience with large-scale data collection and annotation best practices\n\nPreferred Qualifications:\n\u2022 Experience with multimodal machine learning with images, videos, audio, text, speech\n\u2022 Experience with basic and advanced computer vision algorithms\n\nCompensation\n\nIn the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate\u2019s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future.\n\u2022 Zone A (CA, WA, NYC) : The base salary range for this position is $230,000 - $335,000 annually\n\u2022 Zone B : The base salary range for this position is $219,000 - 318,000 annually\n\u2022 Zone C : The base salary range for this position is $196,000 - $285,000 annually\n\nThis position is eligible for equity in the form of RSUs\n\n\"Default Together\" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a \u201cdefault together\u201d approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week).\n\nIf you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy.\n\nAt Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don\u2019t be shy and contact us at View email address on click.appcast.io.\n\nOur Benefits : Snap Inc. is its own community, so we\u2019ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap\u2019s long-term success!\nSimilar Jobs (1)\nLead Research Scientist, Computer Vision\nlocations Los Angeles, California time type Full time posted on Posted 2 Days Ago About Us\n\nA Decade of Snap : Learn about our origin story, values, mission, culture of innovation, and more.\n\nCitizenSnap : In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward.\n\nThe DEI Innovation Summit : Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action.\n\nSnap News : Stay up to date on the latest and greatest product and innovation news at Snap\n\nApplicant and Candidate Privacy Policy",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong technical knowledge of statistics, machine learning, 2D and 3D vision and state-of-the-art deep learning literature",
+                        "Proven experience with natural language processing, including textual data processing , training and evaluating masked and causal LLMs, and dialogue models",
+                        "Demonstrated ability in defining, leading and executing challenging research projects",
+                        "Strong computer science fundamentals, problem solving skills, programming (Python, C, C++)",
+                        "Proven ability to lead interns, PhD students, and junior researchers",
+                        "Proven ability to impact product with cutting edge research technology",
+                        "PhD in a related technical field such as computer science, statistics, mathematics, machine learning or equivalent years of experience",
+                        "4+ years of post-PhD experience of building impactful research projects",
+                        "Experience with large scale language models, multimodal personalization methods",
+                        "Track record of publications in top-tier international research venues (e.g. ICLR, AAAI, NeurIPS, ACLs, EMNLP, ICML)",
+                        "Experience with large-scale data collection and annotation best practices"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Define and own a roadmap of large-scale research projects from inception to completion",
+                        "Participate in strategic decision-making across the company",
+                        "Mentor and lead other teammates and interns",
+                        "Publish your work to top conferences",
+                        "Partner with engineering teams to deliver your technology to millions of Snapchatters"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "In the United States, work locations are assigned a pay zone which determines the salary range for the position",
+                        "Zone A (CA, WA, NYC) : The base salary range for this position is $230,000 - $335,000 annually",
+                        "Zone B : The base salary range for this position is $219,000 - 318,000 annually",
+                        "Zone C : The base salary range for this position is $196,000 - $285,000 annually"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.snap.com/",
+                    "text": "snap.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Snap+Inc.&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAII3g0",
+                    "text": "See web results for Snap Inc."
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFJlc2VhcmNoIFNjaWVudGlzdCwgTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIiwiaHRpZG9jaWQiOiJHVmhITEFKdl95Y0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVkRCWlZtNHdVM05mYzFOZmIwdG9aMUpoVkVkeFJVSmxkRlpxVmpsMFdIY3hiVk5zYzBJMlkzRjFTVkU0WW01SGQyc3dObkZoYUZkTVZGcFBhRE13WkVORFFUWktWamszZWkxU1lXSmxRMnRhVDBSdE5sRlNiRVl0YldSb2R6ZDZZbXBMU1dKUlMzVnRja0UxV0RWNVpsQkxUMVpwT1c5NlNrWlZXalJzWkdVMlJrOU1ZWGhUVjFaSExVZHBjbHB4Ykc1WmNYZDBWR05sWDJSUk5sUm9OVWQyUmt4bldHWTNURUo2VEdZeWNXYzJXR05wTWpWTlUxVkRWR1pZVkc1YU5qVmpUVlZ1UTNCYVZEQnNPVXRUWWxGeVNVOW1MWHB0VEY5V1ZYaDBWMWxhWlRod1VFcGZTRUZXUVdkeU9ISkljeElYWDB4ck9WcE1RMDVJY0ZOcGNIUlJVRFpKY1RNdFFXTWFJa0ZQTFRCeWJEVlFiVUl6TWxWaFZuZHZlSHB1WXpGdlducHJNSFk1WWpjMU9HYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE0IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvb2JsZSIsImxpbmsiOiJodHRwczovL2pvb2JsZS5vcmcvamRwLzEyNjc4Mzk2Mjg1Nzg3ODI2MTEvTGVhZC1SZXNlYXJjaC1TY2llbnRpc3QlMkMtTmF0dXJhbC1MYW5ndWFnZS1Qcm9jZXNzaW5nLUxvcy1BbmdlbGVzJTJDLUNBP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Research Associate  in Natural Language Processing - Now Hiring",
+            "company_name": "SRI International",
+            "location": "  Menlo Park, CA   ",
+            "via": "via Snagajob",
+            "description": "Research Associate in Natural Language Processing\n\nJob Locations...\n\nUS-CA-San Diego | US-CA-Menlo Park\n\nID\n\n2022-5379\n\nCategory\n\nComputer Science\n\nPosition Type\n\nFull-Time\n\nWorker Type\n\nOn-Site\n\nOverview\n\nSRI International's Artificial Intelligence Center (AIC) is seeking researchers in the area of natural language processing (NLP) to work in the Advanced Analytics group in San Diego, California.\n\nWe are seeking innovators to develop cutting-edge artificial intelligence solutions for a broad range of problems involving human language. Past and present research in the group spans a wide range of use cases, including: automated understanding of the scientific literature; information extraction; unsupervised induction of linguistic structure and semantics from text corpora; and models of idea propagation and influence in social media.\n\nThough the Advanced Analytics group is located in SRI's San Diego office, the option exists to work in SRI's headquarters in Menlo Park, California.\n\nResponsibilities\n\nSuccessful applicants will work as part of a team to address challenging problems for commercial and government clients. We are seeking a potential NLP thought leader with experience in any or all of the following areas: computational linguistics, empirical natural language processing, text mining, computational socio-linguistics, and multi-source data processing (images, audio, video, text, etc.).\n\nCandidates for the position should have:\n\nExperience applying machine learning to real-world problems involving natural language, preferably with a publication record\n\u2022 An ability to use, adapt, and extend approaches described in the NLP literature\n\u2022 Strong computational and mathematical skills, with demonstrated programming experience\n\u2022 Excellent oral and written communication skills\n\u2022 An ability to work effectively with diverse groups of people\n\nQualifications\n\u2022 PhD (preferred) or Masters in Computer Science or a related field\n\nFounded in 1966, SRI's Artificial Intelligence Center (www.sri.com/artificial-intelligence) has been a pioneer and a major contributor to the field of AI. The Center researches the computational principles underlying intelligence in man and machines, and develops methods for building systems to solve problems, to communicate with people, and to perceive and interact with the physical world. Activities cover most major areas of AI, including natural language processing, machine learning, knowledge representation and automated reasoning, multi-agent systems, robotics, dialog-based systems, and image understanding.\n\nThe salary range is: $117,545.00-$155,744.00. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are seeking a potential NLP thought leader with experience in any or all of the following areas: computational linguistics, empirical natural language processing, text mining, computational socio-linguistics, and multi-source data processing (images, audio, video, text, etc.)",
+                        "Experience applying machine learning to real-world problems involving natural language, preferably with a publication record",
+                        "An ability to use, adapt, and extend approaches described in the NLP literature",
+                        "Strong computational and mathematical skills, with demonstrated programming experience",
+                        "Excellent oral and written communication skills",
+                        "An ability to work effectively with diverse groups of people"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Successful applicants will work as part of a team to address challenging problems for commercial and government clients"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range is: $117,545.00-$155,744.00",
+                        "Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles",
+                        "Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program",
+                        "SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.sri.com/",
+                    "text": "sri.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=SRI+International&sa=X&ved=0ahUKEwiw-7P57bH-AhUUkYkEHWjFDX84FBCYkAIIog4",
+                    "text": "See web results for SRI International"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBBc3NvY2lhdGUgIGluIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAtIE5vdyBIaXJpbmciLCJodGlkb2NpZCI6IkZuUmFMNEsyRVN3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9VWEkyYVRSc1NWbEpWMUpWV2xWWlJWVnFTbUZ2WTE5Uk5WaDFUelJ0V1haR2NIQlpVVmhSVVhVd1VrbEdaRzVmVXpWbFJUQnplVmg0ZWpRemRHWkpOVzV1Vlc0dGQycGlVbnA2VURoa0xWOU9XbTV0U1VGWWVsRlZSMlpNV0hsd1pYWnlXR1Z5ZEhGVmNtRXRabWxNUWpseVQwNTVZazB4VEhSdFFqVlNlak5PYzB0eFQyVTJZa3g2VGt0cWJVdDVjSGQ1YUZkMFdISndRMXBxTm5BMVJGQlZXbmhTWmxCcGRrMXhTRFYxY0hNMlNXUmZNemxhWVhoVVkyWkxiMEpzVEdWV2NtVjJTbXM0WDNoT1pGOTVVVUV6ZUV0VGNYTnpRVWhDTVMxRmVHRlBSa1JOYXpaRU1XTTVOekl6WjNoalRHczBPVTVtVmtRM2JuVXdPRkpsVUU1WmJGTkZVQklYWDB4ck9WcE1RMDVJY0ZOcGNIUlJVRFpKY1RNdFFXTWFJa0ZQTFRCeWJEVjNkeTExUlhwNGVHdDRhakF3YTFOWWIySllOSEJwVFRkNVluYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNuYWdham9iIiwibGluayI6Imh0dHBzOi8vd3d3LnNuYWdham9iLmNvbS9qb2JzLzgyNjI5NDkyOD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Processing engineer",
+                    "value": "processing engineer"
+                },
+                {
+                    "text": "Technical leader",
+                    "value": "technical leader"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Professor",
+                    "value": "professor"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Analytics manager",
+                    "value": "analytics manager"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Executive director",
+                    "value": "executive director"
+                },
+                {
+                    "text": "Frontend engineer",
+                    "value": "frontend engineer"
+                },
+                {
+                    "text": "Group leader",
+                    "value": "group leader"
+                },
+                {
+                    "text": "Management consultant",
+                    "value": "management consultant"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Postdoctoral",
+                    "value": "postdoctoral"
+                },
+                {
+                    "text": "Postdoctoral researcher",
+                    "value": "postdoctoral researcher"
+                },
+                {
+                    "text": "Processing specialist",
+                    "value": "processing specialist"
+                },
+                {
+                    "text": "Program manager",
+                    "value": "program manager"
+                },
+                {
+                    "text": "Programmer",
+                    "value": "programmer"
+                },
+                {
+                    "text": "Research specialist",
+                    "value": "research specialist"
+                },
+                {
+                    "text": "Sales specialist",
+                    "value": "sales specialist"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Sr. manager",
+                    "value": "sr. manager"
+                },
+                {
+                    "text": "Staff engineer",
+                    "value": "staff engineer"
+                },
+                {
+                    "text": "Staff scientist",
+                    "value": "staff scientist"
+                },
+                {
+                    "text": "Technical advisor",
+                    "value": "technical advisor"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Redmond, WA",
+                    "value": "I-4AIK0MkFTyBNjF6pADXg=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Sunnyvale, CA",
+                    "value": "O13QqUW2j4Ciw3zdJvuNdg=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Irvine, CA",
+                    "value": "40CRaA7d3IA5mkpgdbV6pw=="
+                },
+                {
+                    "text": "Lexington, MA",
+                    "value": "y1hS39qd44nNEzYWyIU2hQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Sacramento, CA",
+                    "value": "-ZeDsnLGmoDbfxl0qmofkg=="
+                },
+                {
+                    "text": "Ann Arbor, MI",
+                    "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+                },
+                {
+                    "text": "Arlington, TX",
+                    "value": "05gI5NJiToZRU6AfrPZeCw=="
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Berkeley, CA",
+                    "value": "00mFOjZ5hYCT6XWmlRXqlA=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Boise, ID",
+                    "value": "nbRH6XLxrlSbnWc2m5hbmg=="
+                },
+                {
+                    "text": "Burlingame, CA",
+                    "value": "WY6bVCV2j4BPjy9TPvq8Cw=="
+                },
+                {
+                    "text": "Carmel, IN",
+                    "value": "HfozMJetFIj8OHtfXwm5Qw=="
+                },
+                {
+                    "text": "Carrboro, NC",
+                    "value": "dW4B92XZrIlFweaZta8IEw=="
+                },
+                {
+                    "text": "Chevy Chase, MD",
+                    "value": "DxpmGHLJt4meDebirKhC0A=="
+                },
+                {
+                    "text": "Cheyenne, WY",
+                    "value": "k-9zLnY4b4crLZePQTAKsQ=="
+                },
+                {
+                    "text": "Cincinnati, OH",
+                    "value": "-SE43rFRQIgXk8Dki377aQ=="
+                },
+                {
+                    "text": "Clearwater, FL",
+                    "value": "Gbt04v3xwoj7kjzS0d-pdQ=="
+                },
+                {
+                    "text": "Cleveland, OH",
+                    "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+                },
+                {
+                    "text": "Columbus, OH",
+                    "value": "cd6QucGJOIgztbHP-GYy5A=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Deerfield, IL",
+                    "value": "4SbNkAm_D4gpTtHtiNMnPQ=="
+                },
+                {
+                    "text": "Dover, DE",
+                    "value": "rV5odTNjx4nwbAD7R-TiqQ=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Garland, TX",
+                    "value": "dcJf28EDTIbQPGI4y70fBw=="
+                },
+                {
+                    "text": "Honolulu, HI",
+                    "value": "TUbDjDsYAHxsl6fzX_UoSw=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Management",
+                    "value": "/business/naics2007/55"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Leidos",
+                    "value": "/m/01h2kg"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Multiplan",
+                    "value": "/g/1dt_x5k2"
+                },
+                {
+                    "text": "ASAPP",
+                    "value": "/g/11f01jwrr9"
+                },
+                {
+                    "text": "Google",
+                    "value": "/m/045c7b"
+                },
+                {
+                    "text": "IBM",
+                    "value": "/m/03sc8"
+                },
+                {
+                    "text": "Authenticx",
+                    "value": "/g/11ftxllx86"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                },
+                {
+                    "text": "FuseMachines",
+                    "value": "/g/11g9n3hrsf"
+                },
+                {
+                    "text": "JPMorgan Chase & Co.",
+                    "value": "/m/01hlwv"
+                },
+                {
+                    "text": "MIT Lincoln Laboratory",
+                    "value": "/m/02zby3"
+                },
+                {
+                    "text": "Robert Bosch",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "SRI International",
+                    "value": "/m/02fpms"
+                },
+                {
+                    "text": "Snap Inc.",
+                    "value": "/g/11c1s2xz66"
+                },
+                {
+                    "text": "UC San Diego",
+                    "value": "/m/07vjm"
+                },
+                {
+                    "text": "Zoom",
+                    "value": "/m/011c8m4f"
+                },
+                {
+                    "text": "Zoom corporation",
+                    "value": "/m/0681qp"
+                },
+                {
+                    "text": "Advanced Software Talent",
+                    "value": "/g/11c73q5twk"
+                },
+                {
+                    "text": "Amazon.com, Inc",
+                    "value": "/m/0mgkg"
+                },
+                {
+                    "text": "Avispa Technology",
+                    "value": "/g/11h1y7_gl0"
+                },
+                {
+                    "text": "Bank of America",
+                    "value": "/m/01yx7f"
+                },
+                {
+                    "text": "Brain Technologies, Inc.",
+                    "value": "/g/11g7092p_9"
+                },
+                {
+                    "text": "Bytedance",
+                    "value": "/g/11ghnfr0sv"
+                },
+                {
+                    "text": "Charles River Analytics",
+                    "value": "/g/11fy1sf75z"
+                },
+                {
+                    "text": "Charter Communications",
+                    "value": "/m/05c51w"
+                },
+                {
+                    "text": "Chime",
+                    "value": "/g/11fy2dc0l8"
+                },
+                {
+                    "text": "Cigna",
+                    "value": "/m/02twsr"
+                },
+                {
+                    "text": "Clarifai",
+                    "value": "/g/11f6zwz1qh"
+                },
+                {
+                    "text": "Conversica, Inc",
+                    "value": "/g/11h59s3sw3"
+                }
+            ]
+        }
+    ]
+}

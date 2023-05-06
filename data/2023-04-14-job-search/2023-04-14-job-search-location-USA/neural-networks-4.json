@@ -1,0 +1,792 @@
+{
+    "search_metadata": {
+        "id": "643db99ab7b1cc54dd45c12f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1260623261e4e9be/643db99ab7b1cc54dd45c12f.json",
+        "created_at": "2023-04-17 21:26:50 UTC",
+        "processed_at": "2023-04-17 21:26:50 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=neural+networks&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=40",
+        "raw_html_file": "https://serpapi.com/searches/1260623261e4e9be/643db99ab7b1cc54dd45c12f.html",
+        "total_time_taken": 0.69
+    },
+    "search_parameters": {
+        "q": "neural networks",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 40
+    },
+    "jobs_results": [
+        {
+            "title": "we need an expert to consult on the GNNs (graph neural networks...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "We are an IT business, and my manager has stated that we need a remote developer for this project. Please let me know if you have any knowledge about GNN so that we can connect over a call to discuss this further. I found a detailed document from my boss for this project. If you are interested just share your similar past works (preferable but not necessary) and I will send you the requirements document. (Please make sure we signed an NDA for this project from our client so please make every requirement confidential)\n\nThanks",
+            "job_highlights": [
+                {
+                    "items": [
+                        "We are an IT business, and my manager has stated that we need a remote developer for this project. Please let me know if you have any knowledge about GNN so that we can connect over a call to discuss this further. I found a detailed document from my boss for this project. If you are interested just share your similar past works (preferable but not necessary) and I will send you the requirements document. (Please make sure we signed an NDA for this project from our client so please make every requirement confidential)\n\nThanks"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAIIuQk",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "9 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJ3ZSBuZWVkIGFuIGV4cGVydCB0byBjb25zdWx0IG9uIHRoZSBHTk5zIChncmFwaCBuZXVyYWwgbmV0d29ya3MpIHByb2plY3QgLSBDb250cmFjdCB0byBIaXJlIiwiaHRpZG9jaWQiOiJPTTYyNmFGZV90TUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dDQ293Q1FVVnpOMnBPVTFCYVkzQkhhbGN5TUhONU0zVnVPRmhhZEV4SFdrVjVXbmg0VkZkM0xXZFZYekZHY1hveVRYQTBOamhJVFRaWk5qWllVSHBUVnpaSlZUSlhRWFk1U0RkWk9VVmlOSGhYVjFJMlZuVnNjVEJuUVVkRFJESXpaMlpaUmtGclFubGpWRFJGY20xaWN6bElWRGhQYUdvMlJqSXpjVXB2T0U5WFgwazFUWEUzZGxvd2VXbGhhR3B2YkZaUFpXcHpNRVpHVWxGWWIzWkhObmg0ZEZKamR6RXhXVzF1YjJVMlZqZE5ORUZFZFd3MFR6YzVRMk5LUjFwMlozbFRZMXA0Y0VaNk9GQm9iMDB6TVVsQldqWktiM3BFTWtGTU5UQlBTVzlFYkdaQ2JWOVVTbUpaWXpOMWQxSk9ibXR5T1hOc1MxSm1keTFZWDJzeFFYTTNkMWhYZDNOUWFtVnZabE13ZUJJWGJYSnJPVnBRYm5kSk4xQmFOVTV2VUhOd2RYVTRRVGdhSWtGUExUQnliRFJIY21aYVUzUXhiRTkyUTFCNlkyVm5Oa3hFU2kxWmNYVXlUVUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L25lZWQtZXhwZXJ0LWNvbnN1bHQtdGhlLUdOTnMtZ3JhcGgtbmV1cmFsLW5ldHdvcmtzLXByb2plY3RffjAxNGEzZTZjM2NiZmQxZDAwZi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Deep Neural Network Standalone Device",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "I would like a deep neural network stand alone device that can upload pictures for 2 dimensionality in the output layer (YES/NO inputs). I would like to upload pictures and determine if the picture is the \"same\" anomaly. I am interesting in a GUI (Java) front for interaction by the operator with Keras or PyTorch into TensorFlow. User friendly interface/GUI is important.\n\nEach item can be split as... a separate task but a \"end to end\" solution would be ideal",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "I am interesting in a GUI (Java) front for interaction by the operator with Keras or PyTorch into TensorFlow",
+                        "User friendly interface/GUI is important",
+                        "Each item can be split as a separate task but a \"end to end\" solution would be ideal"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAII9Ak",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "17 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIE5ldXJhbCBOZXR3b3JrIFN0YW5kYWxvbmUgRGV2aWNlIiwiaHRpZG9jaWQiOiJNN3FtbEVNNXNkUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVTFJM1pVMVRNVVZtTm5GWlZtUlZOVU4xWVd4NFNtODVSV2s1ZURjdFVGSlBlbmxNVlhWc2VWbGlZbFYxY1dFeE1EZDNVMFEzY1V0ZmMzZFFhRTVPT1VvNU5qaEZUWFYyTm5SMFdHMWlOakJVZHpoTVZtOXZkWFIyTlV0bmRIZEtUbGhqT0ZJMlIyUnNZamQwYURKdVkwVlRiekkwWDBkaGVVOWFaRU16VEdZNFMyOVdWVW95VTJkNWJsZFVWSFIwTVZwc2QwZEhiMGhXUkZsblZWWjViMlJVYkZZM0xWZzRVM0puYVhWRVFYb3RZVWt6ZVdjd1R6ZEZhbHB1VEhnMU9IVXpMV0l5RWhkdGNtczVXbEJ1ZDBrM1VGbzFUbTlRYzNCMWRUaEJPQm9pUVU4dE1ISnNObEEwTFV4cmIwUktaVms0T0ROT0xXOU5hV28zT0dkR05tVlFkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gVXB3b3JrIiwibGluayI6Imh0dHBzOi8vd3d3LnVwd29yay5jb20vZnJlZWxhbmNlLWpvYnMvYXBwbHkvRGVlcC1OZXVyYWwtTmV0d29yay1TdGFuZGFsb25lLURldmljZV9+MDFlNzVhNTlmYWU3NTZlN2VmLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Query-Based Abstractive Summarization Using Neural Networks",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "This project is already implemented in github link given here : https://github.com/helmertz/querysum based on research paper.\n\nI just want to make some modifications and run it in my device properly along with given datasets as it is.",
+            "job_highlights": [
+                {
+                    "items": [
+                        "This project is already implemented in github link given here : https://github.com/helmertz/querysum based on research paper.\n\nI just want to make some modifications and run it in my device properly along with given datasets as it is."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAIIogo",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "12 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJRdWVyeS1CYXNlZCBBYnN0cmFjdGl2ZSBTdW1tYXJpemF0aW9uIFVzaW5nIE5ldXJhbCBOZXR3b3JrcyIsImh0aWRvY2lkIjoiZkZ0MUJvR0FPLXdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VuSm5ObkpWV2pWVlVUQlJhVzFsV0VwcVdEVTBWRU5zVnpaelJUVlBTMjlTVmtoV01rOVJYMjkzVm1kaFFWSXlTVzE1VGw5TFVrZHpSRkpTUWtKQmExRlVNbVZSVmpFd1YwZGFjM1ZrZVhCWVNHUlhhRXBDZDJ0VmNtUm1OMDg0VlRWbWVUQjVYMDB0ZEcxaFNVWnhibTEyZEU1WWNsRkRjbE16YTNCbFlUVXhPVkkxVm5wMVVXUXhXbDl4V1VwVGEzWlhaRTV2UW5kYWJWcDRaM1IxUWtSQ2RqaDBRbmd5VFhsdmQzcDVNSFZLYTFFM04ySjVZVVV3VDIxaVNsTnRTR056ZG5ZMlkxOU5ZMDFRYldKNllqazFTV3hJYm5jemRUZFZkeElYYlhKck9WcFFibmRKTjFCYU5VNXZVSE53ZFhVNFFUZ2FJa0ZQTFRCeWJEWXRNMjk1VjNONk4wTlJVSGw0TlVOU1ZXWlJkbEUwZDJKRloxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gVXB3b3JrIiwibGluayI6Imh0dHBzOi8vd3d3LnVwd29yay5jb20vZnJlZWxhbmNlLWpvYnMvYXBwbHkvUXVlcnktQmFzZWQtQWJzdHJhY3RpdmUtU3VtbWFyaXphdGlvbi1Vc2luZy1OZXVyYWwtTmV0d29ya3NffjAxYzU3Y2FjNmRmM2RjZTM0My8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Deep Learning Expert Wanted",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "We are seeking an experienced Deep Learning Developer with a strong understanding of neural networks, YOLOv5, and Python. The ideal candidate should have at least 2 years of Deep Learning experience and be capable of solving complex problems using a variety of technologies and frameworks.\n\nResponsibilities...\n\nDesign, develop, and implement deep learning models using neural networks and YOLOv5\n\nDevelop Python-based algorithms for data processing\n\nCollaborate with the team to find effective solutions to complex problems\n\nMonitor and optimize models to achieve the best results\n\nRequirements:\n\nAt least 2 years of experience in deep learning model development\n\nExperience with neural networks, YOLOv5, and Python\n\nKnowledge of computer vision, image or speech recognition is a plus\n\nWe offer:\n\nAn exciting and challenging position in an innovative and fast-growing company\n\nCompetitive compensation and an attractive benefits package\n\nA dynamic work environment with a dedicated and talented team\n\nOpportunities for professional development\n\nIf you are interested in this position and meet the qualifications, please send us your application along with evidence of your previous work. Make sure to include \"Deep Learning Developer Application\" in the subject line of your email, or your application will not be processed.\n\nWe look forward to hearing from you",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate should have at least 2 years of Deep Learning experience and be capable of solving complex problems using a variety of technologies and frameworks",
+                        "At least 2 years of experience in deep learning model development"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design, develop, and implement deep learning models using neural networks and YOLOv5",
+                        "Develop Python-based algorithms for data processing",
+                        "Collaborate with the team to find effective solutions to complex problems",
+                        "Monitor and optimize models to achieve the best results"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive compensation and an attractive benefits package",
+                        "A dynamic work environment with a dedicated and talented team"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAII4go",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Contractor",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEV4cGVydCBXYW50ZWQiLCJodGlkb2NpZCI6ImlNSmsyY2R4bldRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VbmhoVDBkalUzSkpjVWhGT1VsQllXMWFOelkxUkhsR2RtWlZRVFZ2VGxodGJUaDVTbU42YlVORFdUaDJNRkZpWkd4c2RtcElTRlZmWHpsb1UzcEtVVVYxZG1sbmVWUmlWVmxsZGpOVmQwZFdOVEJMYnpSRU1pMXliVU5rU3pjMlVHRlBabDk0ZEZKM1YyWk1hWE5RWW1SYU1EVlpaVWhUT0ZSaFNWTmpOVlZHVnpORFZYWTBVbmxxWjBoWGFFSlZiV0UzZHpWcFNreFJWa05VUjFaUGEyaFNUM1pvZFRWUE4wcEZURGxRYUVWckVoZHRjbXM1V2xCdWQwazNVRm8xVG05UWMzQjFkVGhCT0JvaVFVOHRNSEpzTjFsUFlXaGFaRkY1TTE4eVJEbFlkREpVUldkbk1qVkJkREZ2WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L0RlZXAtTGVhcm5pbmctRXhwZXJ0LVdhbnRlZF9+MDE4ZDk5YWFmODg3ZThkYjUwLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Graph neural networks professional or academic for 3d data",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "I would like to hire a professional or academic with experience in graph neural networks for detecting patterns in building 3d elements, the file type given is ifc and the extraction of the ifc data is producing data in tabular format for each building element, e.g. a wall is a row with certain properties as different columns. E.g. x,y,z centroid coordinates, volume, discipline (electrical or... hvac)\n\nThe goal is to apply GNN or GCN to find topological and property building element patterns for example a certain positioning and distancing between the electrical elements and the classification in different classes.\n\nAlong with this problem there are more similar problems that need to be solved in similar ways.\n\nHere is the recent research paper that needs to be taken into account. The goal is not to outsource the project but to get advice on the technology, advice on the steps to do create the solution, consultation on the code with live sessions\n\nPapers for describing the problem:\n\nhttps://pdfs.semanticscholar.org/27ed/47d49eff095efa7ebd097c88f9badff92320.pdf?_gl=1*19ltm2j*_ga*ODc5NDkxODgzLjE2NzkxODI5NTg.*_ga_H7P4ZT52H5*MTY3OTIzODE5OC4zLjAuMTY3OTIzODIwMC4wLjAuMA..\n\nhttps://trepo.tuni.fi/bitstream/handle/10024/139232/KuikkaToni.pdf?sequence=2\n\nImportant:\n\nPlease make a proposal after you read the research papers attached, so that there can be an informed discussion about the specific details, on the project and how it can be approached",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "I would like to hire a professional or academic with experience in graph neural networks for detecting patterns in building 3d elements, the file type given is ifc and the extraction of the ifc data is producing data in tabular format for each building element, e.g. a wall is a row with certain properties as different columns. E.g"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The goal is not to outsource the project but to get advice on the technology, advice on the steps to do create the solution, consultation on the code with live sessions"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAIIngs",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "29 days ago",
+                "40\u201360 an hour",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "29 days ago",
+                "schedule_type": "Contractor",
+                "salary": "40\u201360 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJHcmFwaCBuZXVyYWwgbmV0d29ya3MgcHJvZmVzc2lvbmFsIG9yIGFjYWRlbWljIGZvciAzZCBkYXRhIiwiaHRpZG9jaWQiOiJSSTNyT1lxaFlaa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVTA5d1dHaFNYek5MY2t4TWFVWTNlR05aTms5cVkzcDVWRzFtY1VWQ2NYTTNjVU5wZFdaUVZIUmZTMHQwTWxkRVJUUnlMVVF0UjNKWmEwSkxRMHh5YlRoaVZIcGxSVmhRTkhsSFJtZHdiRUU0U0dkWWFEUjZXR3RpV1RkT05IaExWWFJXTmtKV1owVXhZakJ5YzAxdFNEbFdOekV0TlZSSU1uVlVaMHgyU0RkRFNHUjJhazg0TWs1aVFVMDNXVVZEUzFSdk1sOVhWVkJZZUVGYWNFdzFOWFU0ZEZGMlExa3pOMkV3U25JM2MwWnNZWEpZTWtkM2RXVnNOa0ZtVUZSR1VHcFRRVmQyTkhObFVuaHNZbmRsVDJkTFMySXdkVVJVTVZVM1FSSVhiWEpyT1ZwUWJuZEpOMUJhTlU1dlVITndkWFU0UVRnYUlrRlBMVEJ5YkRWeVRHdHRNRlJRWjJGQmQwNXNZMjFzYlVaVWIyVlRPVkpEZW5jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9HcmFwaC1uZXVyYWwtbmV0d29ya3MtcHJvZmVzc2lvbmFsLWFjYWRlbWljLWZvci1kYXRhX34wMTc0ZmY3MmI0NmU1NGVlMmMvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Need an expert to consult on GNNs (graph neural networks)",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Hello,\n\nI am looking to explore GNNs (graph neural networks) and would like to consult an expert to see if my project has any feasibility. I am not looking to fit data, because my model does not have data. But rather solve a forward problem in differential equations. The problem is a continous time markov chain and I am looking for innovative ways to solve this problem via graphs and/or message... passing algorithms. Perhaps a combination with reinforcement learning and graph neual ODEs, or autoregressive models... I have many references for inspiration and would like an expert's view",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Perhaps a combination with reinforcement learning and graph neual ODEs, or autoregressive models.."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAII2As",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "10 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOZWVkIGFuIGV4cGVydCB0byBjb25zdWx0IG9uIEdOTnMgKGdyYXBoIG5ldXJhbCBuZXR3b3JrcykiLCJodGlkb2NpZCI6IlcxWFhVMVJFRTgwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VbFF3V2twMVZrNUxZV1JrTlZodmFqaFlhbkZzUldKdUxVTlNTbnBRWTJoaVNtOW9ZbFZVZERsSmEwYzFlazFpZGtGTlVFUnZWMUo0Vld0NU5sSTBTazFEWWxrdFQxWkZhVTQxT1hSU1VWTllXVFZDTUVVNWFUTlBlVWRzV0VsdU1VVTVielp1U1VaeFJHSlJXWGcwYUU1TU1IcFlWbmc1UTFscU9YUnBWRU16VjA5VlNtdFpSV2RxTTB0a1oyVlZiVGhDTkZCTVltVlhXSGhMUm1kNlJITndla1ZtUnpndFNXOWlTRE5UYjNobFJWcFRiRWwwZFhGeGQzWTJPRWRYU1haNGJ5MVJOVVUxZUhaVFp6bHNTbHBFUmtSMGNqUk9jR1psVVJJWGJYSnJPVnBRYm5kSk4xQmFOVTV2VUhOd2RYVTRRVGdhSWtGUExUQnliRFoxTTBWWFlsZHRja04wWjFKMlZUbFJZM1p5VTBSd2NGWlRibEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9OZWVkLWV4cGVydC1jb25zdWx0LUdOTnMtZ3JhcGgtbmV1cmFsLW5ldHdvcmtzX34wMTQzMzgzN2Q4YzA4NjgxMjMvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Neural Network (20266) - Contract to Hire",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "I need an expert in Neural NetworkYou need to know LaTex, requires stats in python.\n\nPlease bid $50",
+            "job_highlights": [
+                {
+                    "items": [
+                        "I need an expert in Neural NetworkYou need to know LaTex, requires stats in python.\n\nPlease bid $50"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAIIhgw",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "28 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOZXVyYWwgTmV0d29yayAoMjAyNjYpIC0gQ29udHJhY3QgdG8gSGlyZSIsImh0aWRvY2lkIjoibERSS2M3dTFRMTBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VXNVlVVWhSV2xaM1VsZHpZVTVTWkZkaGRuRkRkakJCYVVKck1tdDFaMHhpU1VVd2EyRkZjMmRWZWtObFVuVnBVVmN3UzJGelkwODRWRVZWTVMxdk1VZE5NM1p5Wm1SMlNIRklaVTFETVdRNU1FbEpUSGxpU25wYVIxcEVVM05vT0hWTGFGVndaV1U0TUUwME1YRmhOVVZITjE5RFowNUpNRVJNY1UxaGJYSjNVR0V3ZHpacU4xSTJjM0pUZFd0VFF6RjBUamRHTm1jeExXOVpaRU5ZTlVaSVVHdEZWa0ZtTkVobGVDMDRjMlJCVFdSbVR6TTFhV010VGxKYVRuZFJha2xzTTFWV0VoZHRjbXM1V2xCdWQwazNVRm8xVG05UWMzQjFkVGhCT0JvaVFVOHRNSEpzTnpCMFdUQm9iRWxRZWxkS1RTMVlVbTVsUkdORlNVZDNaR0V6WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9OZXVyYWwtTmV0d29yay0yMDI2Nl9+MDFmNTg4MWEzYTEwYWJhNjdhLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Train a neural network model using a specific knowledge database...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Using Hugging Face's Transformers library, create a natural language processing (NLP) task to train a neural network model using a specific data set/data base. The proposed database contains about 550,000 pages of data.\n\nI understand that the Transformers library is built on top of both TensorFlow and PyTorch, so you can use it with either framework.",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Using Hugging Face's Transformers library, create a natural language processing (NLP) task to train a neural network model using a specific data set/data base. The proposed database contains about 550,000 pages of data.\n\nI understand that the Transformers library is built on top of both TensorFlow and PyTorch, so you can use it with either framework."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAIItAw",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "23 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "23 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJUcmFpbiBhIG5ldXJhbCBuZXR3b3JrIG1vZGVsIHVzaW5nIGEgc3BlY2lmaWMga25vd2xlZGdlIGRhdGFiYXNlLiAtIENvbnRyYWN0IHRvIEhpcmUiLCJodGlkb2NpZCI6ImdUTDBuYy1oUGxNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9WRk5RWWpRMlgxbFBNRFZuT1hkUFVHdEZTV0pmWkRoUk9XcFNXamRSY0ZJeGRYZGpSRGhzYWtaV1FrTkNjVEZ5UVVsalJqZEZRbE5LVVRsS04yUlpWRXhVVjNoQ1MwaDBjMVZ3Y0hZM1NYbzFOMFZpVlc1NVdqTXdlbG80ZUdOa2Mxa3haVFF6YTB4c1RqaHRXRUpHV2pRNFMxTm9OakJKWW0wemVVWm9NazlaWmxKQlYySlFTWE5qUVROQ1R6QTNhRmhRV0RCVVJsOXNaRlJqUm1rNVdXdHFhWGhrVFRKdk5IbHdWM2xqY25KdU1HTlhWWEF0VjBOdVdtNUpSbkJsTTJwUFpsRmZjR1l6U1ZOaWNqVkNTMWhUYlc5cGRFZEtVM2c0ZEdGTlkyRlVORmxLUzFwMVZWRkhWVmwxZVUxZk9WUlhVV3hyYlhSeVNVbzNjMVJKWmpJdGJFZHFiaElYYlhKck9WcFFibmRKTjFCYU5VNXZVSE53ZFhVNFFUZ2FJa0ZQTFRCeWJEVkVWV3RmYm1RNE5rTkdTRUpFY21SSGEwaFhRMGM0WlVVNWFGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L1RyYWluLW5ldXJhbC1uZXR3b3JrLW1vZGVsLXVzaW5nLXNwZWNpZmljLWtub3dsZWRnZS1kYXRhYmFzZV9+MDExMmFjMDAzODc1NDI2ZWIyLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Help to build custom AI based on Real-Time NEAT, Machine Learning...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Expectations:\n\n- Experience in neural networks, evolutionary AI, genetic algorithms, data science, inference learning knowledge base...\n\n- Able to collaborate as a pair coder\n\n- Good teacher, presenter, and summarizer of complex concepts\n\n- Willing to work remotely\n\nOutput:\n\nCreate a computationally efficient AI system able to concurrently run simulations derived from the real-time NeuroEvolutionary of Augmenting Topologies (NEAT) concept and fuzzy logic to construct artificial stock market participants that adapt to human player choices and events to turn what would be a boring stock market simulation into an engaging game full of emergent phenomenon.\n\nConstraints:\n\n- Work with team to develop algorithms\n\n- Maintain confidentiality of the final product\n\n- Use of fuzzy logic to define the world\n\n- Use of an RDF-influenced approach to store fuzzy statements\n\n- Create algorithms able to make inferences to develop emergent behavior\n\n- agent neural nets should be a bottom-up connection of RDF, fuzzy logic nodes stored in a graph knowledge database to make decisions queryable",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience in neural networks, evolutionary AI, genetic algorithms, data science, inference learning knowledge base",
+                        "Able to collaborate as a pair coder",
+                        "Good teacher, presenter, and summarizer of complex concepts",
+                        "Willing to work remotely"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work with team to develop algorithms",
+                        "Maintain confidentiality of the final product",
+                        "Use of fuzzy logic to define the world",
+                        "Use of an RDF-influenced approach to store fuzzy statements",
+                        "Create algorithms able to make inferences to develop emergent behavior"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAII9gw",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "19 hours ago",
+                "25\u2013100 an hour",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "19 hours ago",
+                "schedule_type": "Contractor",
+                "salary": "25\u2013100 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJIZWxwIHRvIGJ1aWxkIGN1c3RvbSBBSSBiYXNlZCBvbiBSZWFsLVRpbWUgTkVBVCwgTWFjaGluZSBMZWFybmluZywgRGVlcCBMZWFybmluZyBmcm9tIHNjcmF0Y2giLCJodGlkb2NpZCI6IkxmZzlPWlA4c3hZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUNDcUlDUVVWek4ycE9VbE54WDBKNU9IaExOV3B4VkV3NWRGOW5hekk1ZFZKR1JXNW1jM0ZhWVdoa1VrUkNVMFJSVW5JeVprd3lTVmh4VlVWM1pFdHViM2RyWTJGMGNVeEJUSEJzYXpSbVFVNXhVRmd5YjJWWE4zZ3RaMjV4Wmw5UFlXdERUWGRPZGpONmFGVkdiVXhGVFhKTU5qTlFPREo2VTBwUlRqRmhTVFpIUlRnMkxXeGtha1l6WkVVdFMyY3RkM00zU0RVM2VHMWFabXRIWldaaVFtUnRNREE0YnpSYVFuSlNWRUZLVUhweU5EWnpNRFZKVEhNd01YbFZiMnRwUmsxa2FuUkJNM2hCVmsxM2RFZHZTWEF5ZVRGSFJXNVJSME5CUmpsSVExcENlWEp3Tld0RVRraHVia1ZHVFRoME56VjJaREJ0TFdSRFExUmtOMDlMZUVkZk1sOTJTblJSTjBOaFVraEhNekZ6YjB0T1gxZzNjM051U1UxUVZqTTFjVlZMTm1jU0YyMXlhemxhVUc1M1NUZFFXalZPYjFCemNIVjFPRUU0R2lKQlR5MHdjbXcwUTFSamFWbEZYMnR2WTA1WFIwNWFjMHRNWlhOVGJEZHFXbFYzIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gVXB3b3JrIiwibGluayI6Imh0dHBzOi8vd3d3LnVwd29yay5jb20vZnJlZWxhbmNlLWpvYnMvYXBwbHkvSGVscC1idWlsZC1jdXN0b20tYmFzZWQtUmVhbC1UaW1lLU5FQVQtTWFjaGluZS1MZWFybmluZy1EZWVwLUxlYXJuaW5nLWZyb20tc2NyYXRjaF9+MDFkODY1MTBmMGQ5Y2Q0ZTM1Lz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Python Algorithm for Convolution Neural network - Contract to Hire",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "We are seeking an experienced Python developer to design and implement an algorithm for a convolutional neural network. The algorithm will be used to analyze and classify large volumes of data in real-time, with a focus on accuracy and efficiency.\n\nThe ideal candidate will have a strong background in machine learning and neural network design, as well as a proven track record of delivering... successful Python projects. Experience with convolutional neural networks and image classification is a plus.\n\nThe project will involve designing the algorithm from scratch, testing and optimizing its performance, and integrating it into our existing data pipeline. Strong communication skills and the ability to work independently are a must.\n\nIf you have the skills and experience needed to tackle this challenge, we would love to hear from you. Please provide examples of your relevant work and a brief summary of your background in machine learning and Python development",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong communication skills and the ability to work independently are a must",
+                        "If you have the skills and experience needed to tackle this challenge, we would love to hear from you"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The algorithm will be used to analyze and classify large volumes of data in real-time, with a focus on accuracy and efficiency"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj5pdzK7bH-AhWzLFkFHbKNC_44KBCYkAIIsw0",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "21 days ago",
+                "12\u201340 an hour",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "schedule_type": "Contractor",
+                "salary": "12\u201340 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gQWxnb3JpdGhtIGZvciBDb252b2x1dGlvbiBOZXVyYWwgbmV0d29yayAtIENvbnRyYWN0IHRvIEhpcmUiLCJodGlkb2NpZCI6ImNiV3ZNM19VZ3BnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VbXhsU205NlkxWkpUbVJ5Vm05VkxVeGxYMEphTVhoNlVXZzRYM0Z0U25CVWVrdzRka1pOTjB0MFQyYzNaa2xQT1dkeGRTMVBRMGhWTUdaeWJqRlVTMko2ZFVoeU56QkNObFJ0VjFaakxWZEpOMVJQWW1STlgwdFJSRjl1TVVWQkxXTlFXVUkxY1Rka1NFeEVRa3hxU0hOdWMxRXlVbHBwZFZvd2RsVm1iRVIxTTFGcmF6Y3lWMnBvWW10Nk9UbDRUbGN3YmtFMFowcDZSelphTjB0dWEzZFdMVkJWV25CWmJsWlFRWHBWUlhCUWFWbHRhSE4wWmtSNWVsQm9hVnB3TmtwTVdHZ3pXblJoY0d3M2IxUjZVekJrTVRoS1kzSTRlaTFHZHhJWGJYSnJPVnBRYm5kSk4xQmFOVTV2VUhOd2RYVTRRVGdhSWtGUExUQnliRFZqTjBGeWQxSllZMEZRZG5sUlNHeGtiMW8zWXpjeWVqQktkVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9QeXRob24tQWxnb3JpdGhtLWZvci1Db252b2x1dGlvbi1OZXVyYWwtbmV0d29ya19+MDE1NmIxYjFkZmRhZWFhMDlhLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Train",
+                    "value": "train"
+                },
+                {
+                    "text": "Academic",
+                    "value": "academic"
+                },
+                {
+                    "text": "Adjunct",
+                    "value": "adjunct"
+                },
+                {
+                    "text": "Learning specialist",
+                    "value": "learning specialist"
+                },
+                {
+                    "text": "Physical therapist",
+                    "value": "physical therapist"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                },
+                {
+                    "text": "Training",
+                    "value": "training"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Bethune, SC",
+                    "value": "G2Nv8ZWWVYgGooD_4S7F2w=="
+                },
+                {
+                    "text": "Champaign, IL",
+                    "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+                },
+                {
+                    "text": "Covington, KY",
+                    "value": "myVs1KuwQYir4rDrV8nmLg=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Remote, OR",
+                    "value": "Xd1PcUdfxFT6HfQNXR_RRw=="
+                },
+                {
+                    "text": "Ruston, LA",
+                    "value": "Z_Xpt5vPMYYtcrHXZA59Dg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Silver Spring, MD",
+                    "value": "J-lqZk7Pt4nfmrJlqDOEAA=="
+                },
+                {
+                    "text": "West Columbia, SC",
+                    "value": "y828G6S8-Iga9n4VilaDlw=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Tesla",
+                    "value": "/m/0dr90d"
+                },
+                {
+                    "text": "Wolfram",
+                    "value": "/m/02h86l5"
+                },
+                {
+                    "text": "225 Qualcomm Technologies, Inc.",
+                    "value": "/g/11g9mr53d5"
+                },
+                {
+                    "text": "Bosch Group LLC",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "Cadence Design Systems",
+                    "value": "/m/01zb9v"
+                },
+                {
+                    "text": "DATA FUSION & NEURAL NETWORKS",
+                    "value": "/g/11fy1z_3jx"
+                },
+                {
+                    "text": "Gen Nine, Inc.",
+                    "value": "/g/11rp1ytm63"
+                },
+                {
+                    "text": "Grand Canyon University",
+                    "value": "/m/07gp_k"
+                },
+                {
+                    "text": "Harsco Corporation",
+                    "value": "/m/026sh84"
+                },
+                {
+                    "text": "Matroid",
+                    "value": "/g/11g71_z45n"
+                },
+                {
+                    "text": "OriGen.AI",
+                    "value": "/g/11lkbv8fr6"
+                },
+                {
+                    "text": "Owl Autonomous Imaging",
+                    "value": "/g/11ftl6zhgp"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Qualcomm",
+                    "value": "/m/01m1xf"
+                },
+                {
+                    "text": "Robinhood",
+                    "value": "/m/011q8ct1"
+                },
+                {
+                    "text": "UCLA Health Systems",
+                    "value": "/g/11b6cwc7g4"
+                }
+            ]
+        }
+    ]
+}

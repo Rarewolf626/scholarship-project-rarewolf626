@@ -1,0 +1,1432 @@
+{
+    "search_metadata": {
+        "id": "643db9b6f716eebe9e76be57",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dd05532699f8356a/643db9b6f716eebe9e76be57.json",
+        "created_at": "2023-04-17 21:27:18 UTC",
+        "processed_at": "2023-04-17 21:27:18 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=machine+learning&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/dd05532699f8356a/643db9b6f716eebe9e76be57.html",
+        "total_time_taken": 1.24
+    },
+    "search_parameters": {
+        "q": "machine learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "Machine Learning Engineer III",
+            "company_name": "Expedia Group",
+            "location": "  Seattle, WA   ",
+            "via": "via Expedia Group - Talentify",
+            "description": "If you need assistance during the recruiting process due to a disability, please reach out to our Recruiting Accommodations Team through the Accommodation Request form . This form is used only by individuals with disabilities who require assistance or adjustments in applying and interviewing for a job. This form is not for inquiring about a position or the status of an application.\n\nMachine... Learning Engineer III\n\nA high performing individual contributor who mentors junior engineers. applies new data engineering principles to improve existing systems, and leads complex, well-defined projects.\n\nWhat you'll do:\n\u2022 Proactively teams up with peers across the organization to build an understanding of cross dependencies and shared problem solving\n\u2022 Participates in a community of practice to share and gain knowledge\n\u2022 Continually seeks new technical skills in an engineering area\n\u2022 Shares new skills and knowledge with team to increase effectiveness\n\u2022 Demonstrates knowledge of advanced and relevant technology\n\u2022 Exhibits comfort working with several forms of technology\n\u2022 Understands the relationship between applications, databases, ML models and technology platforms\n\u2022 Develops and tests complex or non-routine software applications and related programs and procedures to ensure they meet design requirements\n\u2022 Effectively applies knowledge of software design principles, data structures and/or design patterns and computer science fundamentals to write code that is clean, maintainable, optimized, and modular with good naming conventions\n\u2022 Effectively uses the understanding of software frameworks and how to leverage them to write simpler code\n\u2022 Leads/clarifies code evolution in code reviews\n\u2022 Contributes to design discussion for big data applications\n\u2022 Effectively applies data manipulation techniques commonly used by Data Scientists\n\u2022 Effectively applies an understanding of dependency management in DS/ML systems\n\u2022 Coordinates bringing together different stakeholders with varied perspectives to develop solutions to issues, and contributes own suggestions\n\u2022 Thinks holistically to identify opportunities around policies/ processes to increase efficiency across organizational boundaries\n\u2022 Assists with a whole systems approach to analyzing issues by ensuring all components (structure, people, process and technology) are identified and accounted for\n\u2022 Identifies areas of inefficiency in code or systems operation and offer suggestions for improvements\n\u2022 Recommends advancements, innovations and changes in technologies (specifically relating to machine learning engineering, ML platforms, DS models, enterprise information management, business intelligence and data science)\n\u2022 Compiles and reports on major operational or technical initiatives (like RCAs) to larger groups through written or oral means\n\nWho you are:\n\u2022 Bachelor's or Master's degree in a related technical field; or equivalent related professional experience. 5+ years for Bachelor's or 3+ years for Master's degree\n\u2022 Developed software in at least 3 different languages\n\u2022 Built and maintained at least one machine learning engineering pipeline end-to-end in production environments, including feature engineering, model training, model scoring, model validation, etc.\n\u2022 Built and maintained streaming applications in a hybrid/cloud infrastructure\n\u2022 Demonstrates strength in more than one language and/or one language with multiple technology implementations\n\u2022 Identifies strengths and weaknesses among languages for particular use cases\n\u2022 Creates API's to be consumed across the business unit\n\u2022 Demonstrates the ability to select among technology available to implement and solve for need\n\u2022 Understands how projects fit together within their team\n\u2022 Understands and designs moderately complex systems\n\u2022 Tests and monitors code at the project level\n\u2022 Understands testing and monitoring tools\n\u2022 Debugs applications\n\u2022 Tests, debugs, and fixes issues within established SLAs\n\u2022 Designs easily testable and observable software\n\u2022 Has a strong command with Spark and how map-reduce works, how to evaluate, optimize, and debug Spark applications\n\u2022 Is familiar with data access such defining IAM policies for S3 buckets\n\u2022 Has a strong command with machine learning libraries such as PyTorch and Tensorflow and know common integration patterns for serving inference with them\n\u2022 Is familiar with training models with very large datasets- strategies for parallelizing and optimizing the training jobs especially with GPUs or large-compute\n\u2022 Is familiar with machine learning inference at scale\n\u2022 Can instrument streaming or parallel inference tasks to accommodate large traffic or volume of data\n\u2022 Understands how team's goals fit a business need\n\u2022 Identifies business problems at the project level and provide solutions\n\nThe total cash range for this position in Seattle is $128,500.00 to $180,000.00. Employees in this role have the potential to increase their pay up to $205,500.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.\n\nStarting pay for this role will vary based on multiple factors, including location, available budget, and an individual\u2019s knowledge, skills, and experience. Pay ranges may be modified in the future.\n\nExpedia Group is proud to offer a wide range of benefits to support employees and their families, including medical/dental/vision, paid time off, and an Employee Assistance Program. To fuel each employee\u2019s passion for travel, we offer a wellness & travel reimbursement, travel discounts, and an International Airlines Travel Agent (IATAN) membership. View our full list of benefits .\n\nAbout Expedia Group\n\nExpedia Group (NASDAQ: EXPE) powers travel for everyone, everywhere through our global platform. Driven by the core belief that travel is a force for good, we help people experience the world in new ways and build lasting connections. We provide industry-leading technology solutions to fuel partner growth and success, while facilitating memorable experiences for travelers. Expedia Group's family of brands includes: Brand Expedia\u00ae, Hotels.com\u00ae, Expedia\u00ae Partner Solutions, Vrbo\u00ae, trivago\u00ae, Orbitz\u00ae, Travelocity\u00ae, Hotwire\u00ae, Wotif\u00ae, ebookers\u00ae, CheapTickets\u00ae, Expedia Group\u2122 Media Solutions, Expedia Local Expert\u00ae, CarRentals.com\u2122, and Expedia Cruises\u2122.\n\n\u00a9 2021 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50\n\nEmployment opportunities and job offers at Expedia Group will always come from Expedia Group\u2019s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you\u2019re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals to whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is careers.expediagroup.com/jobs .\n\nExpedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's or Master's degree in a related technical field; or equivalent related professional experience",
+                        "5+ years for Bachelor's or 3+ years for Master's degree",
+                        "Developed software in at least 3 different languages",
+                        "Built and maintained at least one machine learning engineering pipeline end-to-end in production environments, including feature engineering, model training, model scoring, model validation, etc",
+                        "Built and maintained streaming applications in a hybrid/cloud infrastructure",
+                        "Demonstrates strength in more than one language and/or one language with multiple technology implementations",
+                        "Tests and monitors code at the project level",
+                        "Tests, debugs, and fixes issues within established SLAs",
+                        "Designs easily testable and observable software",
+                        "Has a strong command with Spark and how map-reduce works, how to evaluate, optimize, and debug Spark applications",
+                        "Is familiar with data access such defining IAM policies for S3 buckets",
+                        "Has a strong command with machine learning libraries such as PyTorch and Tensorflow and know common integration patterns for serving inference with them",
+                        "Is familiar with training models with very large datasets- strategies for parallelizing and optimizing the training jobs especially with GPUs or large-compute",
+                        "Is familiar with machine learning inference at scale",
+                        "Can instrument streaming or parallel inference tasks to accommodate large traffic or volume of data",
+                        "Understands how team's goals fit a business need"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Proactively teams up with peers across the organization to build an understanding of cross dependencies and shared problem solving",
+                        "Participates in a community of practice to share and gain knowledge",
+                        "Continually seeks new technical skills in an engineering area",
+                        "Shares new skills and knowledge with team to increase effectiveness",
+                        "Demonstrates knowledge of advanced and relevant technology",
+                        "Exhibits comfort working with several forms of technology",
+                        "Understands the relationship between applications, databases, ML models and technology platforms",
+                        "Develops and tests complex or non-routine software applications and related programs and procedures to ensure they meet design requirements",
+                        "Effectively applies knowledge of software design principles, data structures and/or design patterns and computer science fundamentals to write code that is clean, maintainable, optimized, and modular with good naming conventions",
+                        "Effectively uses the understanding of software frameworks and how to leverage them to write simpler code",
+                        "Leads/clarifies code evolution in code reviews",
+                        "Contributes to design discussion for big data applications",
+                        "Effectively applies data manipulation techniques commonly used by Data Scientists",
+                        "Effectively applies an understanding of dependency management in DS/ML systems",
+                        "Coordinates bringing together different stakeholders with varied perspectives to develop solutions to issues, and contributes own suggestions",
+                        "Thinks holistically to identify opportunities around policies/ processes to increase efficiency across organizational boundaries",
+                        "Assists with a whole systems approach to analyzing issues by ensuring all components (structure, people, process and technology) are identified and accounted for",
+                        "Identifies areas of inefficiency in code or systems operation and offer suggestions for improvements",
+                        "Recommends advancements, innovations and changes in technologies (specifically relating to machine learning engineering, ML platforms, DS models, enterprise information management, business intelligence and data science)",
+                        "Compiles and reports on major operational or technical initiatives (like RCAs) to larger groups through written or oral means",
+                        "Creates API's to be consumed across the business unit",
+                        "Demonstrates the ability to select among technology available to implement and solve for need",
+                        "Identifies business problems at the project level and provide solutions"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Employees in this role have the potential to increase their pay up to $205,500.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role",
+                        "Starting pay for this role will vary based on multiple factors, including location, available budget, and an individual\u2019s knowledge, skills, and experience",
+                        "Pay ranges may be modified in the future",
+                        "Expedia Group is proud to offer a wide range of benefits to support employees and their families, including medical/dental/vision, paid time off, and an Employee Assistance Program",
+                        "To fuel each employee\u2019s passion for travel, we offer a wellness & travel reimbursement, travel discounts, and an International Airlines Travel Agent (IATAN) membership"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.expediainc.com/",
+                    "text": "expediainc.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Expedia+Group&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAII0wk",
+                    "text": "See web results for Expedia Group"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "206K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "salary": "206K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIElJSSIsImh0aWRvY2lkIjoiSDJ1SklDYXhvRlVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VXRTROSEJPVkY5VlpXeHhPVGRKUTJzeE5tRkhVR0pWZFhNNVgyRTJPWHBYUkVSTVZuaDZWVkEwWVhOdVkxOWplVVF3WVVaUGJuY3RjbGxoY1ZBdGQxbDRiamRuTFc1UFEyeHFiWEpSTFZkc1NUUlZUbXhtUzBkdWMwbzJhbkpRYnpKVlFXSndVVWMwWXpOd1drVnJPRUpOVEhwc1lqbExWRjkyUW1scVVIa3lZMk5uUlVoTk5rWkVWVkYxTTNWNGFUTllPRzFxZDJoc1MyTkhlVXBMUzNseFdVZ3pYME14UWtWNU5GSnRUa3M1Ukhkbk5IaHZNbmRQVnpSTVZqaEdNa1ZWTFRSTEVoZDBjbXM1V2t0ZlEwVjBlWEUxVG05UWQzRlhURzlCYXhvaVFVOHRNSEpzTlVkdU0xTnVNa3hmVmsxZmJreGxWbXRxZW5WbFFqbDZjbWhEWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIEV4cGVkaWEgR3JvdXAgLSBUYWxlbnRpZnkiLCJsaW5rIjoiaHR0cHM6Ly9leHBlZGlhLWdyb3VwLnRhbGVudGlmeS5pby9qb2IvbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1paWktc2VhdHRsZS13YXNoaW5ndG9uLWV4cGVkaWEtZ3JvdXAtci04MDIyMD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senior AI Scientist, Artificial Intelligence/Machine Learning",
+            "company_name": "Genentech",
+            "location": "  Bolinas, CA   ",
+            "via": "via WRBL Jobs",
+            "description": "The Position\n\nWe are building the Artificial Intelligence and Machine Learning Department in Genentech Research and Early Development (gRED). The successful candidate will develop and apply novel machine learning methods to impact biological discovery with the ultimate goal of impacting drug discovery and human health...\n\nThe Role\n\u2022 You will join the growing department of AI/ML within Research Biology. Your peers will be machine learning and computational scientists working across different areas of the life sciences.\n\u2022 You will closely collaborate with chemists, biologists and computational scientists across departments in gRED.\n\u2022 You will develop machine learning methods for the analysis of graph and sequence data.\n\u2022 You will help build and scale machine learning techniques to massive datasets and aid in the deployment of novel machine learning algorithms.\n\u2022 You will contribute to and drive publications in scientific journals and machine learning conferences, and present results at internal and external scientific meetings.\n\nDesired Qualifications\n\u2022 PhD degree in quantitative field ( e.g. Computer Science, Statistics, Mathematics) or, in the physical or life sciences (e.g.Chemistry, Biology) with strong focus on AI methods for drug discovery.\n\u2022 Excellent communication and interpersonal skills.\n\u2022 Fluent in Python and strong experience with analysis of single-cell genomics (e.g. scRNA-seq and scATAC-seq) datasetsgraph and sequence based data.\n\u2022 Demonstrated experience with modern Python frameworks for deep learning (e.g. PyTorch or TensorFlow-Keras).\n\u2022 Demonstrated interest in problems across chemistry and biology as applied to the discovery and development of treatments for disease.\n\u2022 Record of scientific leadership and experience, as evidenced by at least one high-impact first author publication in a scientific journal, or equivalent.\n\nAdditional Desired Qualifications\n\u2022 Experience with best practices in Data Engineering and Machine Learning Ops.\n\u2022 Public portfolio of computational projects (available on e.g. GitHub)\n\u2022 Record of machine learning research excellence as evidenced by publications in computer science and machine learning conferences (e.g. NeurIPS, ICLR, ICML).\n\u2022 Experience with representation learning and probabilistic programming (e.g. Pyro).\n\u2022 Experience with language models (e.g. GPT), convolutional neural networks and their applications to DNA sequences in the context of regulatory genomics.\n\nInterest in modeling evolution of traits (e.g. Ornstein-Uhlenbeck process), human genetics, genome-wide association studies (GWAS) and online mendelian inheritance in man (OMIM).\n\n#LI-GL2\n\n#gREDInformatics\n\nWho We Are\n\nA member of the Roche Group, Genentech has been at the forefront of the biotechnology industry for more than 40 years, using human genetic information to develop novel medicines for serious and life-threatening diseases. Genentech has multiple therapies on the market for cancer & other serious illnesses. Please take this opportunity to learn about Genentech where we believe that our employees are our most important asset & are dedicated to remaining a great place to work. Genentech is an equal opportunity employer & prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, disability, marital & veteran status. For more information about equal employment opportunity, visit our Genentech Careers page\n\nRelocation benefits are available for this job posting.\n\nThe expected salary range for this position based on the primary location of California is $137,300 - $255,100 and max of hiring range. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.\n\nBenefits\n\nGenentech is an equal opportunity employer, and we embrace the increasingly diverse world around us. Genentech prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin or ancestry, age, disability, marital status and veteran status.\n\nGenentech requires all new hires to be fully vaccinated against COVID-19 as of their start date. This requirement is a condition of employment at Genentech, and it applies regardless of whether the position is located at a Genentech campus or is fully remote. If you are unable to receive the vaccine due to a disability or serious medical condition, or because it is prohibited as a result of your sincerely held religious beliefs, you will have an opportunity to request a reasonable accommodation.\n\nGenentech is an equal opportunity employer, and we embrace the increasingly diverse world around us. Genentech prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin or ancestry, age, disability, marital status and veteran status.\n\nGenentech requires all new hires to be fully vaccinated against COVID-19 as of their start date. This requirement is a condition of employment at Genentech, and it applies regardless of whether the position is located at a Genentech campus or is fully remote. If you are unable to receive the vaccine due to a disability or serious medical condition, or because it is prohibited as a result of your sincerely held religious beliefs, you will have an opportunity to request a reasonable accommodation.\n\nJob Facts\nJOB FUNCTION\nCOMPANY/DIVISION\nGenentech SCHEDULE\nJOB TYPE\nFull time",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience with representation learning and probabilistic programming (e.g. Pyro)",
+                        "Experience with language models (e.g"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will join the growing department of AI/ML within Research Biology",
+                        "You will closely collaborate with chemists, biologists and computational scientists across departments in gRED",
+                        "You will develop machine learning methods for the analysis of graph and sequence data",
+                        "You will help build and scale machine learning techniques to massive datasets and aid in the deployment of novel machine learning algorithms",
+                        "You will contribute to and drive publications in scientific journals and machine learning conferences, and present results at internal and external scientific meetings"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The expected salary range for this position based on the primary location of California is $137,300 - $255,100 and max of hiring range",
+                        "Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law",
+                        "A discretionary annual bonus may be available based on individual and Company performance",
+                        "This position also qualifies for the benefits detailed at the link provided below"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.gene.com/",
+                    "text": "gene.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Genentech&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAIIlQo",
+                    "text": "See web results for Genentech"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkgU2NpZW50aXN0LCBBcnRpZmljaWFsIEludGVsbGlnZW5jZS9NYWNoaW5lIExlYXJuaW5nIiwiaHRpZG9jaWQiOiJYRnNUU0tWSTlqOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVW5nM1N6UjJjVXRJVEVsWGQweDVSRmR1V1dabWQyWmZiblp4WkMweFh6SmhiVXhRU1VkRVpFaERiREYxWVZSRFowcDFVREUyUzNaUExVeDJjemRSU2sxV2JETXdVRUUyYW1nemRFRlpSMEY1VVdsT2FVWllTMDVuUkc1WFRGWmlTakZ6YUU1ek9VWlNUV2RPWlZWWE1scEphblJPYVZKdlNrZzFiRkJUTTJwTlFVaHpiRWxNVEdsUFVIVkpNRTlFUmtad2NrSTNPR1ZXUjA5VWNrWlFXbTAzY1ZaSlJEVjFRMDFrUldKalRWUnhNa0pVVVd3eGIyUlJXRkUxVDA4d09UQnFRemgyTUZRMmVGOVhNRzl6TUdOelpuQnFiRWhQTkRZM1gzZHhjV0ZWU0dWTVRuRjJXbFJCU0ZSaVprdzVUUklYZEhKck9WcExYME5GZEhseE5VNXZVSGR4VjB4dlFXc2FJa0ZQTFRCeWJEUTJiRFZaYm1oUWNVc3dkbGhpZDFCS2JVRXhSMkZzU25CVFZIYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV1JCTCBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy53cmJsLmNvbS9qb2JzL3Nlbmlvci1haS1zY2llbnRpc3QtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtbWFjaGluZS1sZWFybmluZy1ib2xpbmFzLWNhbGlmb3JuaWEvOTc4MDA5MzA4LTIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "AIML - Staff Machine Learning Engineer, Data & ML Innovation",
+            "company_name": "Apple",
+            "location": "  Cupertino, CA   ",
+            "via": "via Careers At Apple",
+            "description": "Summary\nPosted: Feb 21, 2023\n...\nRole Number:200464615\n\nDo you want to innovate at the intersection of Machine Learning and Data to make Apple products smarter for our users? The Data and Machine Learning Innovation team is looking deeply into the end-to-end lifecycle of ML product development, and finding innovative ways to make it scalable and efficient. We are a R&D team with strong expertise in Applied Machine Learning, Data Engineering and Distributed Infrastructure. The team works broadly with Machine Learning teams across the company to advance capabilities in the data centric machine learning world.\n\nAs part of our team, you will work together with similar minds in a unique development team where your skills and expertise will be put into the Apple products. This role is highly multi-functional, and you will collaborate very closely with various highly skilled machine learning and software development teams developing groundbreaking solutions!\n\nKey Qualifications\n\nKey Qualifications\n\u2022 10+ years of technical leadership experience.\n\u2022 Excellent knowledge and experienced practical skills in major machine learning algorithms.\n\u2022 Extensive knowledge in design and development of large scale distributed and big data processing systems.\n\u2022 Mastery of one of following languages: Python, Java or C++, demonstrating strong background in algorithms and data structures.\n\u2022 Excellent interpersonal skills, ability to work independently as well as in a team.\n\u2022 Creativity and curiosity for solving highly complex problems.\n\u2022 Excellent data analytical skills.\n\nDescription\n\nDescription\nAs a member of our fast-paced group you\u2019ll have the unique and rewarding opportunity to shape upcoming products from Apple. Our team includes a diversity of background engineers focusing on making ML development lifecycle scalable and efficient. As such we are looking for candidates with both strong applied machine learning experiences and engineering skills.\n\nEducation & Experience\n\nEducation & Experience\nMS or Ph.D in Computer Science, Machine Learning or related field.\n\nApple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant.\n\nAdditional Requirements\n\nAdditional Requirements\n\nPay & Benefits\n\nPay & Benefits\n\u2022 At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $229,000 and $343,500, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple\u2019s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple\u2019s Employee Stock Purchase Plan. You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "10+ years of technical leadership experience",
+                        "Excellent knowledge and experienced practical skills in major machine learning algorithms",
+                        "Extensive knowledge in design and development of large scale distributed and big data processing systems",
+                        "Mastery of one of following languages: Python, Java or C++, demonstrating strong background in algorithms and data structures",
+                        "Excellent interpersonal skills, ability to work independently as well as in a team",
+                        "Creativity and curiosity for solving highly complex problems",
+                        "Excellent data analytical skills",
+                        "As such we are looking for candidates with both strong applied machine learning experiences and engineering skills",
+                        "MS or Ph.D in Computer Science, Machine Learning or related field"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "The base pay range for this role is between $229,000 and $343,500, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.apple.com/",
+                    "text": "apple.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Apple&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAII2Ao",
+                    "text": "See web results for Apple"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSU1MIC0gU3RhZmYgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciwgRGF0YSBcdTAwMjYgTUwgSW5ub3ZhdGlvbiIsImh0aWRvY2lkIjoiejFkb2U4SG9vTmdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1ZGSkNOMUZyTVhreVowNUJOR2x5YjJKc1lqaDZZWGxPUVhCUFEycGpOalZtUmpKd1kwSjRlWFZZZVdOd2JIUkxkbUZTVGpjM1ZsWkljVGh6YVRaUWRtNTJaMGhXZVRVemRrSk5lRFZLUTBGb2NUWk1NbXhUTlVGTFZEQjRZMll6YkZGU1psTkZNRFJtVFZGVU4wdGFSMU5WZFVaMU5rbFZPVGRuZUU1b2ExbEZZM05oUm1wQ1ptVXdibnBNTTJKNmVWaFRiRVp3Y2tocmVYZGxaR05DUmxWTVIyUkRMVVZIZVhoeE5XUlBOMkkxVEVGamJVdHRPSE10Y1RkU2RXWkxPRXR1ZG1oR00zSmhRazlyYTNKblpta3piM2RYWDJOcGRGTllRUklYZEhKck9WcExYME5GZEhseE5VNXZVSGR4VjB4dlFXc2FJa0ZQTFRCeWJEZHZiRVk0Vm1KNmJURlhNSEp2WVVGbExXRjVZbFJ2VHpCNU5FRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBBcHBsZSIsImxpbmsiOiJodHRwczovL2pvYnMuYXBwbGUuY29tL2VuLXVzL2RldGFpbHMvMjAwNDY0NjE1L2FpbWwtc3RhZmYtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1kYXRhLW1sLWlubm92YXRpb24/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Software Engineer, Machine Learning - Generative AI",
+            "company_name": "Facebook",
+            "location": "  New York, NY   ",
+            "via": "via LocalJobs.com",
+            "description": "\u2022 *Summary:**\n\nMeta is embarking on the most transformative change to its business and technology in company history, and our Machine Learning Engineers are at the forefront of this evolution. By leading crucial projects and initiatives that have never been done before, you have an opportunity to help us advance the way people connect around the world. The ideal candidate will have industry... experience working on a range of recommendation, classification, and optimization problems. You will bring the ability to own the whole ML life cycle, define projects and drive excellence across teams. You will work alongside the world\u2019s leading engineers and researchers to solve some of the most exciting and massive social data and prediction problems that exist on the web.Generative AI represents a huge opportunity to unleash the creativity of the billions of people globally who use our technologies. For years, teams at Meta have been leading the industry in AI research. We are uniquely positioned to adopt an end-to-end approach to generative AI that few organizations can offer through building breakthrough product experiences using generative AI, generative AI research across all modalities, world-class applied AI/ML product engineering, building scalable, high-performance AI infrastructure and deep experience building tools that enable social connection and expression.As a/an Software Engineer on the generative AI team at Meta, you can help bring the transformative potential of generative AI to people and businesses around the world as we build a new class of generative AI experiences.\n\u2022 *Required Skills:**\n\nSoftware Engineer, Machine Learning - Generative AI Responsibilities:\n\n1. Play a critical role in setting the direction and goals for a sizable team, in terms of project impact, ML system design, and ML excellence\n\n2. Adapt standard machine learning methods to best exploit modern parallel environments (e.g., distributed clusters, multicore SMP, and GPU)\n\n3. Re-evaluate the trade-offs of already shipped features/ML systems, and you are able to drive large efforts across multiple teams to reduce technical debt, designing from first principles when appropriate\n\n4. Leading a team from a technical perspective to develop ML best practices and influence engineering culture\n\n5. Be a go-to person to escalate the most complex online/production performance and evaluation issues, that require an in-depth knowledge of how the machine learning system interacts with systems around it\n\n6. Develop highly scalable classifiers and tools leveraging machine learning, data regression, and rules based models\n\n7. Suggest, collect and synthesize requirements and create effective feature roadmap\n\n8. Code deliverables in tandem with the engineering team\n\u2022 *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n9. 6+ years of experience in software engineering, or a relevant field or 4+ years of experience if you have a PhD\n\n10. 2+ years of experience in one or more of the following areas: machine learning, recommendation systems, pattern recognition, data mining, artificial intelligence, or related technical field\n\n11. Experience with developing machine learning models at scale from inception to business impact\n\n12. Knowledge developing and debugging in C/C++ and Java, or experience with scripting languages such as Python, Perl, PHP, and/or shell scripts\n\n13. Experience demonstrating technical leadership working with teams, owning projects, defining and setting technical direction for projects\n\n14. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n\u2022 *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n15. Masters degree or PhD in Computer Science or a related technical field\n\n16. Exposure to architectural patterns of large scale software applications\n\u2022 *Public Compensation:**\n\n$173,000/year to $241,000/year + bonus + equity + benefits\n\u2022 *Industry:** Internet\n\u2022 *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice here. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view Meta's Pay Transparency Policy, Equal Employment Opportunity is the Law notice, and Notice to Applicants for Employment and Employees by clicking on their corresponding links. Additionally, Meta participates in the E-Verify program in certain locations, as required by law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will have industry experience working on a range of recommendation, classification, and optimization problems",
+                        "6+ years of experience in software engineering, or a relevant field or 4+ years of experience if you have a PhD",
+                        "2+ years of experience in one or more of the following areas: machine learning, recommendation systems, pattern recognition, data mining, artificial intelligence, or related technical field",
+                        "Experience with developing machine learning models at scale from inception to business impact",
+                        "Knowledge developing and debugging in C/C++ and Java, or experience with scripting languages such as Python, Perl, PHP, and/or shell scripts",
+                        "Experience demonstrating technical leadership working with teams, owning projects, defining and setting technical direction for projects",
+                        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will bring the ability to own the whole ML life cycle, define projects and drive excellence across teams",
+                        "Play a critical role in setting the direction and goals for a sizable team, in terms of project impact, ML system design, and ML excellence",
+                        "Leading a team from a technical perspective to develop ML best practices and influence engineering culture",
+                        "Develop highly scalable classifiers and tools leveraging machine learning, data regression, and rules based models",
+                        "Suggest, collect and synthesize requirements and create effective feature roadmap",
+                        "Code deliverables in tandem with the engineering team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$173,000/year to $241,000/year + bonus + equity + benefits"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.meta.com/",
+                    "text": "meta.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Facebook&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAIImQs",
+                    "text": "See web results for Facebook"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgTWFjaGluZSBMZWFybmluZyAtIEdlbmVyYXRpdmUgQUkiLCJodGlkb2NpZCI6IndUSi1YNE9yZ3ZzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VbTgwUXpnMlVqZG1abWREWWxoVlYySXlWazAxVlVaRE5sVXdjVVJhTFU5YVltOHRjMWhGZWkxSE5HRTBOalpaWlRSRlJYRnBjVzV5ZWtwMVJXVldSa2RSU0RSSlVtZGpjRkZ3ZVhOelgwRmtiRVJvU25ZMlpXWTBZa1U1ZDBReFNtRlpOMkZ6VmtFM09YTlhjUzAwVG1FelZWTmtWRk4wVlhZemNWRmpNSGd0TW1aVlEydGhTRTEwTURJM1lYZFNVakIyV1Vaa1duY3RZMkZVVUhOcVNGZGhSMlpLWTIwNE1FUTJWMUJNVFhVdGRuRm1YMlF3WDJJemFXeFlRV05mZUhNeVYxaDBWVUkyZFZsdmRFdFhWM1paVVVaM1J6SXRhV3BvVVJJWGRISnJPVnBMWDBORmRIbHhOVTV2VUhkeFYweHZRV3NhSWtGUExUQnliRFJqZGpsT1ozUnZkR0prV2pCeFdYZHZNV0YzZFVFeFkwZE9PSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExvY2FsSm9icy5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cubG9jYWxqb2JzLmNvbS9qb2IvbmV3LXlvcmstbnktc29mdHdhcmUtZW5naW5lZXItbWFjaGluZS1sZWFybmluZy1nZW5lcmF0aXZlLWFpLTE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Principal Machine Learning Engineer, New Initiatives (Remote)",
+            "company_name": "Dropbox",
+            "location": " Anywhere ",
+            "via": "via Built In San Francisco",
+            "description": "Role Description\nWe are looking for a technical leader to help shape the Machine Learning agenda for Dropbox\u2019s new initiatives. This will involve developing high impact ML solutions that touch hundreds of millions of people and a *lot* of data. From images to documents in every language, using the full range of Machine Learning techniques from deep learning, interacting with modern LLMs (natural... language), computer vision, etc. and executing everywhere from mobile devices to large clusters on our back-end infrastructure.\nResponsibilities\n\u2022 You will work with machine learning experts across Dropbox to help shape where and how we use machine learning\n\u2022 You will build delightful products and experiences for millions, while working alongside an excellent, multi-functional team across Engineering, Product and Design\n\u2022 You will help craft the direction of machine learning and artificial intelligence at Dropbox\nRequirements\n\u2022 BS, MS, or PhD in Computer Science or related technical field involving Machine Learning, or equivalent technical experience\n\u2022 10+ years of experience building machine learning or AI systems in applied settings\n\u2022 Demonstrated skill develop deep learning model architectures in practice\n\u2022 Strong communication skills and a demonstrated passion for helping others leverage machine learning\n\u2022 Proven software engineering skills across multiple languages Python, C/C++ and ML packages (e.g., scikit-learn, TensorFlow, Caffe, Theano, Torch)\nTotal Rewards\n\nFor candidates hired in San Francisco metro, New York City metro, or Seattle metro, the expected salary/On-Target Earnings (OTE) range for the role is currently $276,300 - $325,000 - $373,800.\n\nFor candidates hired in the following locations: Austin (TX) metro, Chicago metro, California (outside SF metro), Colorado, Connecticut (outside NYC metro), Delaware, Massachusetts, New Hampshire, New York (outside NYC metro), Oregon, Pennsylvania (outside NYC or DC metro), Washington (outside Seattle metro) and Washington DC metro, the expected salary/On-Target Earnings (OTE) range for the role is currently $248,600 - $292,500 - $336,400.\n\nFor candidates hired in all other US locations, the expected salary/On-Target Earnings (OTE) range for this role is currently $221,000 - $260,000 - $299,000.\n\nRange(s) is subject to change. Dropbox takes a number of factors into account when determining individual starting pay, including job and level they are hired into, location/metropolitan area, skillset, and peer compensation. Dropbox uses the zip code of an employee\u2019s remote work location to determine which metropolitan pay range we use.\n\nSalary/OTE is just one component of Dropbox\u2019s total rewards package. All regular employees are also eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS, MS, or PhD in Computer Science or related technical field involving Machine Learning, or equivalent technical experience",
+                        "10+ years of experience building machine learning or AI systems in applied settings",
+                        "Demonstrated skill develop deep learning model architectures in practice",
+                        "Strong communication skills and a demonstrated passion for helping others leverage machine learning",
+                        "Proven software engineering skills across multiple languages Python, C/C++ and ML packages (e.g., scikit-learn, TensorFlow, Caffe, Theano, Torch)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We are looking for a technical leader to help shape the Machine Learning agenda for Dropbox\u2019s new initiatives",
+                        "This will involve developing high impact ML solutions that touch hundreds of millions of people and a *lot* of data",
+                        "You will work with machine learning experts across Dropbox to help shape where and how we use machine learning",
+                        "You will build delightful products and experiences for millions, while working alongside an excellent, multi-functional team across Engineering, Product and Design",
+                        "You will help craft the direction of machine learning and artificial intelligence at Dropbox"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Total Rewards",
+                        "For candidates hired in San Francisco metro, New York City metro, or Seattle metro, the expected salary/On-Target Earnings (OTE) range for the role is currently $276,300 - $325,000 - $373,800",
+                        "For candidates hired in the following locations: Austin (TX) metro, Chicago metro, California (outside SF metro), Colorado, Connecticut (outside NYC metro), Delaware, Massachusetts, New Hampshire, New York (outside NYC metro), Oregon, Pennsylvania (outside NYC or DC metro), Washington (outside Seattle metro) and Washington DC metro, the expected salary/On-Target Earnings (OTE) range for the role is currently $248,600 - $292,500 - $336,400",
+                        "For candidates hired in all other US locations, the expected salary/On-Target Earnings (OTE) range for this role is currently $221,000 - $260,000 - $299,000"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Dropbox&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAII2ws",
+                    "text": "See web results for Dropbox"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "221K\u2013374K a year",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time",
+                "salary": "221K\u2013374K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciwgTmV3IEluaXRpYXRpdmVzIChSZW1vdGUpIiwiaHRpZG9jaWQiOiJIZTV6eWI5RkhsWUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVW5Wb2N5MDFhRzFuVDNjNGNVSkhXbWhYWWxOM1gwUktkbmhOVUdWSmNYQlVWRmMxYUZBd2VVOXdRMHByYmxCR2MyNHpNR1JIWTBrNGVYUnlSbnBXYVU1NlRYcG5aSGx5UkRWeGFuUjBaalJOY0doU2RtUnpUVnBNYmpKYVEwcEZlbVZHTWtkQ1EwNUZaMlpqYkdGdk9HWjBiSFppUjFGclMwbEZWMTlrU1RGWk1HZzBSWE5oY0RreVFUaE1hVmg0VUV0TVFWRnVZaTFpTTFZemFqWTNkSE5aTFVFMVRtNTRPR2c0VkU0dE5WRmpUMjVVUTJaTWQzZGFNRnB1TVhwRE1qaG5WVEJWUzFFelNtcE9ha3BrYzBZeVNIRlJURFpoWTJsVlltRTBTMkpQWDFOdFlubDRXR2h6VEhadlVtTXpieElYZEhKck9WcExYME5GZEhseE5VNXZVSGR4VjB4dlFXc2FJa0ZQTFRCeWJEWkZZMEZzTldwUFdtNW5XVGw0UkVvMGEycGhlVXh6UkRoc09WRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQnVpbHQgSW4gU2FuIEZyYW5jaXNjbyIsImxpbmsiOiJodHRwczovL3d3dy5idWlsdGluc2YuY29tL2pvYi9kYXRhL3ByaW5jaXBhbC1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLW5ldy1pbml0aWF0aXZlcy8xNDc2MzU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior Machine Learning Engineer- Pricing Strategy  ( 100% Remote)",
+            "company_name": "Hopper",
+            "location": "  Boston, MA   ",
+            "via": "via Lever",
+            "description": "About the job\n\nIn this role you will be part of a cross-functional team of product managers, designers, and engineers in the creation of data-driven Fintech products that make travel planning easier and deliver them to millions of users...\n\nThis role has a tremendous impact on the vision and success of the company. It's a unique opportunity to join one of the most innovative teams, get access to fascinating and massive data sets with market and behavioral data, a huge personal growth trajectory, and a high potential upside of pre-IPO stock options.\n\nWe are looking for someone who has a real bias for action, takes ownership, thrives on autonomy and delivers results. A smart creative with a proven record of solving hard problems and deep understanding of data, product and business.\n\nAn Ideal candidate has:\n\u2022 Coding abilities with languages like Python, SQL, etc.\n\u2022 Strong problem-solving skills, and critical thinking competencies\n\u2022 Statistics Commercial Awareness (works backwards from making money to the business)\n\u2022 Industry experience (e.g. Booking, Uber, Lyft, google, Facebook, Zillow etc)\n\u2022 Has deployed ML algorithms into production using latest technologies (i.e. Docker, Kubernetes, etc)\n\u2022 Has a proven track record of solving complex problems with in depth understanding of data, product and business impact\n\u2022 Has experience with data visualization tools (Tableau, Amplitude, Big Query)\n\nPerks of working with us:\n\u2022 Well-funded and proven startup with large ambitions, competitive salary and stock options\n\u2022 Unlimited PTO\n\u2022 WeWork All Access Pass OR Work-from-home stipend\n\u2022 Entrepreneurial culture where pushing limits and taking risks is everyday business\n\u2022 Open communication with management and company leadership\n\u2022 Small, dynamic teams = massive impact\n\u2022 100% employer paid medical, dental, vision, disability and life insurance plans\n\u2022 Access to a 401k\n\nMore about Hopper\n\nAt Hopper, we are on a mission to become the world\u2019s best \u2014 and most fun \u2014 place to book travel. By leveraging massive amounts of data, advanced machine learning algorithms, Hopper combines its world-class travel agency offering with proprietary fintech products to help customers spend less and travel better. Ranked the third largest online travel agency in North America, the app has been downloaded nearly 80 million times and continues to gain market share globally.\n\nHere are just a few stats that demonstrate the company\u2019s recent growth:\n\n- Hopper sold around $4 billion in travel and travel fintech in 2022, up nearly 3X over 2021. In 2022, Hopper increased its revenue 2.5X year-over year.\n\n- The company\u2019s bespoke fintech products, such as Flight Disruption Guarantee and Price Freeze, now represent 30-40% of Hopper\u2019s total app revenue.\n\n- Given the success of its fintech products, Hopper launched a B2B initiative called Hopper Cloud in late 2021. Through this partnership program, any travel provider (airlines, hotels, banks, travel agencies, etc.) can integrate and seamlessly distribute Hopper\u2019s fintech or travel inventory. As its first Hopper Cloud partnership,\n\n- Hopper partnered with Capital One to co-develop Capital One Travel, a new travel portal designed specifically for cardholders.\n\n- Recognized as one of the world\u2019s most innovative companies by Fast Company four years in a row, Hopper has been downloaded over 80 million times and continues to have millions of new installs each month.\n\n- Hopper has raised over $700 million USD of private capital and is backed by some of the largest institutional investors and banks in the world. Hopper is primed to continue its acceleration as the world\u2019s fastest-growing mobile-first travel marketplace.\n\nCome take off with us",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A smart creative with a proven record of solving hard problems and deep understanding of data, product and business",
+                        "Coding abilities with languages like Python, SQL, etc",
+                        "Strong problem-solving skills, and critical thinking competencies",
+                        "Statistics Commercial Awareness (works backwards from making money to the business)",
+                        "Industry experience (e.g. Booking, Uber, Lyft, google, Facebook, Zillow etc)",
+                        "Has deployed ML algorithms into production using latest technologies (i.e",
+                        "Docker, Kubernetes, etc)",
+                        "Has a proven track record of solving complex problems with in depth understanding of data, product and business impact",
+                        "Has experience with data visualization tools (Tableau, Amplitude, Big Query)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Well-funded and proven startup with large ambitions, competitive salary and stock options",
+                        "Unlimited PTO",
+                        "WeWork All Access Pass OR Work-from-home stipend",
+                        "Entrepreneurial culture where pushing limits and taking risks is everyday business",
+                        "Small, dynamic teams = massive impact",
+                        "100% employer paid medical, dental, vision, disability and life insurance plans",
+                        "Access to a 401k"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Hopper&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAIIogw",
+                    "text": "See web results for Hopper"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlci0gUHJpY2luZyBTdHJhdGVneSAgKCAxMDAlIFJlbW90ZSkiLCJodGlkb2NpZCI6IktkQk5pZFJKdWlFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVWek4ycE9VMmRNVFdsMlJEWnpMVFoyTUdkSlQySlpiWGx1ZGxoUmFtRnpSSFpEUjJnM1YzbDRXRkZYYWtrdFowazNaV0o2WDJzdFNFZ3lkMDlhU2pWcFVFZElOVWwwVkRGMmFXOUxSM05wTjNOeGEzcG5TVWxHVEhwVk5UQllSVVp2ZFZGbmRHbFZhQzF4ZVdsdVgzQnFPSEoxZEhCWU4wZGpUV3hCZUVJMVJWSllVM050VW14UmVUZHNka05OYUZOQk5VRk9helJxTUZORk5VbDNhVEZFUVdGNk5tOXJRWGxwUkd3NGVuVm5VMkphWDFCM1JrSmljMkZ4TUU1Wk5VUkVXakZ6YjIxSk16QnlWSEF6TkdSTFFXOXJWR1JLVVhwRlprUnNNV1ZLWVVzMFNrUldaekJsZW1SaFRHYzNPRE5pU2xrdE5CSVhkSEpyT1ZwTFgwTkZkSGx4TlU1dlVIZHhWMHh2UVdzYUlrRlBMVEJ5YkRWbGNqTmhSM0ZvWTIxS1FVbDZNbVZFYmt4NGVqTlJObGhhUTNjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGV2ZXIiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmxldmVyLmNvL2hvcHBlci84ODliOTI1YS0xMmM5LTQyZDctYmI4Yi0xM2U0MjNhM2Y2YjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Science Tech Lead, Machine Learning",
+            "company_name": "DoorDash",
+            "location": "  San Francisco, CA   ",
+            "via": "via The Muse",
+            "description": "About the Team\n\nCome help us build the world's most reliable on-demand, logistics engine for delivery...\n\nWe are looking for a Tech Lead for our Growth Machine Learning team. The team is responsible for building the ML that powers our growth platform, responsible for intelligence of our systems ranging from smart user notifications, efficient marketing prospects, and new user recommendations for DoorDash's three-sided marketplace of consumers, merchants, and dashers.\n\nAbout the Role\n\nYou will be part of a team of world-class engineers in Machine Learning science, redefining the new user acquisition and discovery experience through cutting edge approaches, and defining effective approaches to realize DoorDash\u2019s pricing strategy. You will be a tech lead on the team that ensures we provide a consistent, personalized experience to our users, no matter where they sit on their journey with us, and help make critical optimization algorithms that drive effective promotions and targeting across our various customer bases. You will leverage our robust data and infrastructure to develop models that impact millions of users across our three audiences. You will partner cross functionally to set the strategies that help us grow our business and lead efforts to execute those strategies.\n\nYou\u2019re excited about this opportunity because you will\u2026\n\u2022 Lead the effort for growth machine learning: Applying supervised, semi-supervised, active-learning, embedding, and causal inference approaches to improve customer acquisition, retention, resurrection, and development\n\u2022 Work with the team to build models to optimize promotions, non-monetary interventions, and personalized recommendations across different segments of customers\n\u2022 Lead and implement end to end ML products, and ship both real time and batch production models via experimentation.\n\u2022 Use causal inference techniques to find effective approaches to recommend across various segments of customers\n\u2022 Ship production-grade optimization models\n\u2022 Exercise variety of techniques to optimize complex systems such as Marketplaces, with domain deep domain knowledge in OR (stochastic optimization, convex optimization, dynamic programming, MIPs, sequential decision models), applied experience with Machine Learning (DL/ NN, Tree Based models,etc.), contextual bandits and reinforcement learning problems\n\u2022 Collaborate with the team on a wide spectrum of ML techniques.\n\u2022 You can find out more on our ML blog post here\n\nWe\u2019re excited about you because\u2026\n\u2022 5+ years of industry experience developing inference and optimization models with business impact \u2014 more experience preferred\n\u2022 2+ years of experience in a technical management role\n\u2022 M.S., or PhD. in Statistics, Computer Science, Electric Engineering, Math, Operations Research, Physics, Economics, or other quantitative field\n\u2022 Deep understanding of at least one of probability, statistics, machine learning, causal inference, prediction, forecasting, optimization\n\u2022 Demonstrated familiarity with programming languages e.g. python and machine learning libraries e.g. SciKit Learn, PyTorch/TensorFlow, SQL\n\u2022 Desire for impact \u2014 ready to take on a lot of responsibility and work collaboratively with your team\n\u2022 Growth-minded \u2014 you\u2019re eager to expand your skill set and excited to carve out your career path in a hyper-growth setting\n\u2022 Adaptable, resilient, and able to thrive in ambiguity \u2014 things change quickly in our fast-paced startup and you\u2019ll need to be able to keep up!\n\u2022 Humble \u2014 you\u2019re willing to jump in and you\u2019re open to feedback\n\u2022 You\u2019re an owner \u2014 driven, focused, and quick to take ownership of your work\n\u2022 High-energy and confident \u2014 you keep the mission in mind, take ideas and help them grow using data and rigorous testing, show evidence of progress and then double down\n\u2022 Good understanding of many quantitative disciplines such as statistics, machine learning, operations research, and causal inference\n\nAbout DoorDash\n\nAt DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users\u2014from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.\n\nDoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.\n\nOur Commitment to Diversity and Inclusion\n\nWe\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.\n\nStatement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on \u201cprotected categories,\u201d we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce \u2013 people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.\n\nPursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.\n\nIf you need any accommodations, please inform your recruiting contact upon initial connection.\n\nCompensation\n\nThe location-specific base salary range for this position is listed below. Compensation in other geographies may vary.\n\nActual compensation within the pay range will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location. For roles that are available to be filled remotely, base salary is localized according to employee work location. Please discuss your intended work location with your recruiter for more information.\n\nDoorDash cares about you and your overall well-being, and that\u2019s why we offer a comprehensive benefits package, for full-time employees, that includes healthcare benefits, a 401(k) plan including an employer match, short-term and long-term disability coverage, basic life insurance, wellbeing benefits, paid time off, paid parental leave, and several paid holidays, among others.\n\nIn addition to base salary, the compensation package for this role also includes opportunities for equity grants.\nCalifornia Pay Range:\n$208,000\u2014$282,000 USD",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "2+ years of experience in a technical management role",
+                        "M.S., or PhD. in Statistics, Computer Science, Electric Engineering, Math, Operations Research, Physics, Economics, or other quantitative field",
+                        "Deep understanding of at least one of probability, statistics, machine learning, causal inference, prediction, forecasting, optimization",
+                        "Demonstrated familiarity with programming languages e.g. python and machine learning libraries e.g",
+                        "SciKit Learn, PyTorch/TensorFlow, SQL",
+                        "Desire for impact \u2014 ready to take on a lot of responsibility and work collaboratively with your team",
+                        "Growth-minded \u2014 you\u2019re eager to expand your skill set and excited to carve out your career path in a hyper-growth setting",
+                        "Adaptable, resilient, and able to thrive in ambiguity \u2014 things change quickly in our fast-paced startup and you\u2019ll need to be able to keep up!",
+                        "Humble \u2014 you\u2019re willing to jump in and you\u2019re open to feedback",
+                        "You\u2019re an owner \u2014 driven, focused, and quick to take ownership of your work",
+                        "High-energy and confident \u2014 you keep the mission in mind, take ideas and help them grow using data and rigorous testing, show evidence of progress and then double down",
+                        "Good understanding of many quantitative disciplines such as statistics, machine learning, operations research, and causal inference"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will be part of a team of world-class engineers in Machine Learning science, redefining the new user acquisition and discovery experience through cutting edge approaches, and defining effective approaches to realize DoorDash\u2019s pricing strategy",
+                        "You will be a tech lead on the team that ensures we provide a consistent, personalized experience to our users, no matter where they sit on their journey with us, and help make critical optimization algorithms that drive effective promotions and targeting across our various customer bases",
+                        "You will leverage our robust data and infrastructure to develop models that impact millions of users across our three audiences",
+                        "Lead the effort for growth machine learning: Applying supervised, semi-supervised, active-learning, embedding, and causal inference approaches to improve customer acquisition, retention, resurrection, and development",
+                        "Work with the team to build models to optimize promotions, non-monetary interventions, and personalized recommendations across different segments of customers",
+                        "Lead and implement end to end ML products, and ship both real time and batch production models via experimentation",
+                        "Use causal inference techniques to find effective approaches to recommend across various segments of customers"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We're committed to supporting employees\u2019 happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more",
+                        "The location-specific base salary range for this position is listed below",
+                        "Compensation in other geographies may vary",
+                        "Actual compensation within the pay range will be decided based on factors including, but not limited to, skills, prior relevant experience, and specific work location",
+                        "In addition to base salary, the compensation package for this role also includes opportunities for equity grants",
+                        "$208,000\u2014$282,000 USD"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.doordash.com/",
+                    "text": "doordash.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=DoorDash&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAII6gw",
+                    "text": "See web results for DoorDash"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgVGVjaCBMZWFkLCBNYWNoaW5lIExlYXJuaW5nIiwiaHRpZG9jaWQiOiJhMWpkbWZzMmlDd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVTNwWlJtaHRaVmxqT0ZsaFVsODRNVlphYUV0MVRXbzNUWFF6ZURrMk1qVTRZMk4zTkdjelVsQkZkbXhWUlZGTWJrVmhWelpuVldwblUyZEhTVTFJVFhCa2NtWXlkVVJHTVZGM1MyUm1RMlJEZUc1ZlZHdDZkRzFqYW5wcldXNXFURTkxUmtkSGVtcFNSamRPYkU5SWNsZFFSRFZoVXpsUE5WZFNkMFZWV1RKNlpFZzVXbmczVVRBMlFYYzRjRXR6ZW5jeFExTTNOMU13WDI0eVNFbHFWM1JWYVhwaWVVTkJVR0pXWjJZMmMzWldaMkpwU0RoYU9GSXlYM2wyV0RoSk1VNWthRVkyYmxKV05uTTVjVkE1YWpOWVVHOUJkMlptV2pGT2R4SVhkSEpyT1ZwTFgwTkZkSGx4TlU1dlVIZHhWMHh2UVdzYUlrRlBMVEJ5YkRRME1WQklMVGxOUW0xM09EUkRWa0pEYzFSMVdGRlNYM0ZuVEZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVGhlIE11c2UiLCJsaW5rIjoiaHR0cHM6Ly93d3cudGhlbXVzZS5jb20vam9icy9kb29yZGFzaC9kYXRhLXNjaWVuY2UtdGVjaC1sZWFkLW1hY2hpbmUtbGVhcm5pbmc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Lead Machine Learning Engineer",
+            "company_name": "Tala",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "About Tala\n\nTala is a global technology company building the world\u2019s most accessible financial services. With more than $350 million raised from visionary investors, we are serving millions of customers around the world who have been overlooked by traditional financial institutions \u2013 and our plan is to serve millions more, and have been named by the Fortune Impact 20 list, CNBC\u2019s Disruptor 50... and Forbes\u2019 Fintech 50 list for five years running. We are expanding across product offerings, countries and crypto and are looking for people who have an entrepreneurial spirit and are passionate about the mission.\n\nBy creating a unique platform that enables lending and other financial services around the globe, people in emerging markets are able to start and expand small businesses, manage day-to-day needs, and pursue their financial goals with confidence. Currently, more than 7 million people across Kenya, the Philippines, Mexico, and India have used Tala products. Due to our global team, we have a remote-first approach, and also have offices in Santa Monica, CA (HQ); Nairobi, Kenya; Mexico City, Mexico; Manila, the Philippines; and Bangalore, India.\n\nMost Talazens join us because they connect with our mission of enabling financial agency for underbanked people around the world. If you are energized by the impact you can make at Tala, we\u2019d love to hear from you!\n\nThe Lead Machine Learning Engineer is an individual contributor and a technical lead who will build, monitor, and maintain Tala\u2019s core machine learning and causal inference services and tooling. In addition, you will own customer-facing real-time streaming feature extraction and model inference, model-related batch compute platforms and jobs, service level objective definition and measurement, root cause analysis, software and architecture design, enterprise technical maturity assessment, highly effective cross-functional collaboration, and mentorship. You will effectively represent Tala in the greater machine learning engineering community, participating in knowledge sharing, open source projects, technical writing and speaking, and community evangelism.\n\nWhat You'll Do\n\u2022 Develop Data Scientist and Analyst-friendly self-service tooling and frameworks to explore new data sources, extract new features, and train, test, deploy, and monitor models.\n\u2022 Optimize the model development and software development life cycles.\n\u2022 Maximize quality of models, services, and tooling with unit testing, integration testing, dry run and blue-green deployment, infrastructure-as-code, automation, observability, and fault tolerance.\n\u2022 Write and review design documents, perform code reviews, and weigh in on implementation choices from other technical teams.\n\u2022 Collaborate with and support cross functional teams (Product, Data Platform, Credit, and Business Development).\n\u2022 Raise the bar internally and increase our reputation externally.\n\nWhat You'll Need\n\u2022 6+ years backend software experience in consumer scale applications, at least 4 of them with Python.\n\u2022 2+ of those years in real-time streaming data (Kafka, Kinesis, Beam, Flink, Spark Streaming).\n\u2022 2+ of those years in a tech lead role.\n\u2022 Experience autonomously building machine learning or causal inference models to solve business problems.\n\u2022 Proficiency with machine learning tools and tech (Jupyter, Pandas, Scikit-Learn, Xgboost, Tensorflow, Pytorch, Hugging Face).\n\u2022 Strong database experience, both relational and non-relational (MySQL, PostgreSQL, Cassandra, HDFS, Snowflake, Druid).\n\u2022 Strong hands-on experience in cloud computing (AWS, GCP, Azure, Kubernetes).\n\u2022 Experience with batch processing platforms (Airflow, Metaflow).\n\u2022 Experience with API development for mobile/web use (REST, GraphQL, gRPC, Protocol Buffers).\n\u2022 Strong collaboration experience with Data Science, Analytics, other Engineering teams, and business stakeholders.\n\u2022 Able to create new structure in ambiguous environments.\n\u2022 Knowledge of scalable algorithms.\n\u2022 Prefer advanced degree in computer science, math, or related field.\n\nWe strive to provide Talazens and their loved ones with a holistic benefit experience! We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.\n\u2022 Competitive compensation programs with stock/equity program\n\u2022 Flexible work environments and Hybrid/Remote-first work model\n\u2022 Medical (HMO, PPO, HSA), Dental PPO, Vision, FSA, DC FSA\n\u2022 Employer paid Life w AD&D, Short Term and Long Term Disability\n\u2022 401k and Roth 401k\n\u2022 Voluntary benefits like critical illness, accident, life, and pet insurance\n\u2022 Employee Assistance Program\n\u2022 Paid Holidays, Unlimited PTO, Wellness/rest \u201csloth days\u201d, Paid Parental leave, Birthday Holiday, Life Event Days off, paid sabbatical after 5 years of service, and more\n\u2022 Health and Wellness events and seminars\n\nSalary range: $165,000-$220,000\n\nOur vision is to build a new financial ecosystem where everyone can participate on equal footing and access the tools they need to be financially healthy. We strongly believe that inclusion fosters innovation and we\u2019re proud to have a diverse global team that represents a multitude of backgrounds, cultures, and experience. We hire talented people regardless of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "6+ years backend software experience in consumer scale applications, at least 4 of them with Python",
+                        "2+ of those years in real-time streaming data (Kafka, Kinesis, Beam, Flink, Spark Streaming)",
+                        "2+ of those years in a tech lead role",
+                        "Experience autonomously building machine learning or causal inference models to solve business problems",
+                        "Proficiency with machine learning tools and tech (Jupyter, Pandas, Scikit-Learn, Xgboost, Tensorflow, Pytorch, Hugging Face)",
+                        "Strong database experience, both relational and non-relational (MySQL, PostgreSQL, Cassandra, HDFS, Snowflake, Druid)",
+                        "Strong hands-on experience in cloud computing (AWS, GCP, Azure, Kubernetes)",
+                        "Experience with batch processing platforms (Airflow, Metaflow)",
+                        "Experience with API development for mobile/web use (REST, GraphQL, gRPC, Protocol Buffers)",
+                        "Strong collaboration experience with Data Science, Analytics, other Engineering teams, and business stakeholders",
+                        "Able to create new structure in ambiguous environments",
+                        "Knowledge of scalable algorithms",
+                        "Prefer advanced degree in computer science, math, or related field"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Lead Machine Learning Engineer is an individual contributor and a technical lead who will build, monitor, and maintain Tala\u2019s core machine learning and causal inference services and tooling",
+                        "In addition, you will own customer-facing real-time streaming feature extraction and model inference, model-related batch compute platforms and jobs, service level objective definition and measurement, root cause analysis, software and architecture design, enterprise technical maturity assessment, highly effective cross-functional collaboration, and mentorship",
+                        "You will effectively represent Tala in the greater machine learning engineering community, participating in knowledge sharing, open source projects, technical writing and speaking, and community evangelism",
+                        "Develop Data Scientist and Analyst-friendly self-service tooling and frameworks to explore new data sources, extract new features, and train, test, deploy, and monitor models",
+                        "Optimize the model development and software development life cycles",
+                        "Maximize quality of models, services, and tooling with unit testing, integration testing, dry run and blue-green deployment, infrastructure-as-code, automation, observability, and fault tolerance",
+                        "Write and review design documents, perform code reviews, and weigh in on implementation choices from other technical teams",
+                        "Collaborate with and support cross functional teams (Product, Data Platform, Credit, and Business Development)",
+                        "Raise the bar internally and increase our reputation externally"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive compensation programs with stock/equity program",
+                        "Flexible work environments and Hybrid/Remote-first work model",
+                        "Medical (HMO, PPO, HSA), Dental PPO, Vision, FSA, DC FSA",
+                        "Employer paid Life w AD&D, Short Term and Long Term Disability",
+                        "401k and Roth 401k",
+                        "Voluntary benefits like critical illness, accident, life, and pet insurance",
+                        "Employee Assistance Program",
+                        "Paid Holidays, Unlimited PTO, Wellness/rest \u201csloth days\u201d, Paid Parental leave, Birthday Holiday, Life Event Days off, paid sabbatical after 5 years of service, and more",
+                        "Health and Wellness events and seminars",
+                        "Salary range: $165,000-$220,000"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Tala&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAIIsQ0",
+                    "text": "See web results for Tala"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIE1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXIiLCJodGlkb2NpZCI6InB6Tm0wLTlrVnV3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVWek4ycE9Va3RtT0hBMlNFdGthMUI2VEc5SlFtVndRVUp5TURseWRXbG5UVlZaTlc5T2JrNW1Wek5QY2xCeFYxOUhjR05qYm14SVdGbEtZVTgwUmxsNVZXTTRVekkzTFdscFdIWnFSVlJCYTBFNFgyaExWbXM1TldOdmJrOTZPSEZPVFMwM2VtaDBkbFJGWlZBdFpVaFZaM2RvWkVFdE5EUjNkMGhmYmxjemIzZGtYM2hMV1dKUldEVk1PRmhqVW1GamFscFVabU55ZVhsbFdraHlTRGhuRWhkMGNtczVXa3RmUTBWMGVYRTFUbTlRZDNGWFRHOUJheG9pUVU4dE1ISnNOVUpaTVdSclgwMWtTSGRrV0c1QlZEVXlhM0ZxY0RoWk5qQmFVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvbGVhZC1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLWF0LXRhbGEtMzU2MjI3MTQ2NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Lead Software Engineer, Machine Learning Platform",
+            "company_name": "Chime",
+            "location": "  San Francisco, CA   ",
+            "via": "via Careers At Chime",
+            "description": "About the role\n\nIn this role, you\u2019ll join Chime\u2019s Data Science and Machine Learning team that combats fraud, improves member experience, creates recommendations for users, and much more. You\u2019ll contribute to Chime\u2019s ML platform, which includes infrastructure for building and deploying production ML models (model training, batch and transactional inference) as well as model monitoring and... alerting. Your work will accelerate ML development as the team scales up and out alongside Chime\u2019s explosive member growth.\n\nThe base salary offered for this role and level of experience will begin at $167,200 and up to $232,200. Full-time employees are also eligible for a bonus, competitive equity package, and benefits. The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience.\n\nIn this role, you can expect to\n\u2022 Design, implement, scale, and support cloud infrastructure for serving realtime and batch ML inferences\n\u2022 Build realtime and batch feature pipelines, collaborating with Chime\u2019s Data Engineering and Data Science teams, among others\n\u2022 Design and deploy low latency, scalable, and high-availability microservice APIs that integrate seamlessly with Chime Engineering services.\n\u2022 Deliver on our ML Platform reliability and observability strategy, including standardized metrics and SLO dashboards, dependency-graph-aware alerting, and advocating for best practices Chime-wide\n\u2022 Provide our Data Science team with ML observability and explainability, including drift detection, model performance monitoring, and feature and prediction cohorting, accelerating both new and iterative model development\n\u2022 Help grow our SageMaker ML pipeline infrastructure for model training, evaluation and deployment at scale\n\u2022 Collaborate closely with a wide range of Chime teams, including Product, Engineering, Risk, and more\n\nTo thrive in this role, you have\n\u2022 CS or related degree with 6+ years of experience implementing and deploying large-scale distributed systems, backend systems, or ML pipeline infrastructure in production\n\u2022 4+ years of experience working with Cloud (AWS, Azure or GCP), Docker, CI/CD, and orchestration technologies (Kubernetes). Experience with Terraform or CloudFormation is a bonus\n\u2022 4+ years of end-to-end DSML experience building data pipelines, ML models, DS automation workflows, machine learning tools and using frameworks (Keras, Tensorflow, SparkML, pandas, scikit-learn, etc)\n\u2022 Experience working with various data and ML infrastructure technologies (SageMaker, AzureML, SQL/NoSQL) and data streaming/processing (Spark, Kafka, Flink, Airflow, AWS Kinesis) is preferred\n\u2022 Competency in programming skills and software engineering fundamentals (Python, Golang, or similar languages)\n\u2022 Demonstrated experience leading projects, from inception to deployment and monitoring, while collaborating with cross-functional teams\n\u2022 Technologies we use: Python, SageMaker, AWS cloud stack (e.g. RDS, S3, DynamoDB, lambdas, Kinesis, ECR), Datadog, Terraform, Snowflake, MySQL, and Postgres, among many others\n\nA little about us\n\nWe created Chime because we believe everyone deserves financial peace of mind. By eliminating unnecessary fees and helping people grow their savings automatically, we\u2019ve empowered millions of Americans to take control of their finances.\n\nChime is the largest and fastest-growing U.S. player in the challenger-banking space. Through our banking partners, we offer access to bank accounts with fee-free overdraft, provide members the chance to receive early access to their paychecks, help them improve their credit, and more!\n\nWe\u2019ve built one of the most experienced leadership teams in Fintech and were recently valued at over $25.5B. We\u2019ve raised over $1.7B in funding from leading investors including Sequoia Capital Global Equities, SoftBank Vision Fund 2, General Atlantic, Tiger Global, Dragoneer, DST, Coatue, Iconiq, Menlo Ventures and others.\n\nWhat we offer\n\u2022 \ud83d\udcb0 Competitive salary based on experience\n\u2022 \u2728 401k match plus the usual medical, dental, vision, life, and disability benefits\n\u2022 \ud83c\udfdd Generous vacation policy and company-wide Take Care of Yourself Days\n\u2022 \ud83d\udda5 Virtual events to connect with your fellow Chimers- think cooking classes, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!\n\u2022 \ud83d\udc9a A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help create a completely new kind of banking service\n\nWe know that great work comes from great, and inclusive teams. At Chime, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our members and helps us all grow as Chimers and individuals.\n\nWe hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. If you have a disability or special need that requires accommodation, please let us know. To learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy Notice.\n\n#LI-LY1",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "CS or related degree with 6+ years of experience implementing and deploying large-scale distributed systems, backend systems, or ML pipeline infrastructure in production",
+                        "4+ years of experience working with Cloud (AWS, Azure or GCP), Docker, CI/CD, and orchestration technologies (Kubernetes)",
+                        "Experience with Terraform or CloudFormation is a bonus",
+                        "4+ years of end-to-end DSML experience building data pipelines, ML models, DS automation workflows, machine learning tools and using frameworks (Keras, Tensorflow, SparkML, pandas, scikit-learn, etc)",
+                        "Competency in programming skills and software engineering fundamentals (Python, Golang, or similar languages)",
+                        "Demonstrated experience leading projects, from inception to deployment and monitoring, while collaborating with cross-functional teams",
+                        "Technologies we use: Python, SageMaker, AWS cloud stack (e.g. RDS, S3, DynamoDB, lambdas, Kinesis, ECR), Datadog, Terraform, Snowflake, MySQL, and Postgres, among many others"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you\u2019ll join Chime\u2019s Data Science and Machine Learning team that combats fraud, improves member experience, creates recommendations for users, and much more",
+                        "You\u2019ll contribute to Chime\u2019s ML platform, which includes infrastructure for building and deploying production ML models (model training, batch and transactional inference) as well as model monitoring and alerting",
+                        "Your work will accelerate ML development as the team scales up and out alongside Chime\u2019s explosive member growth",
+                        "Design, implement, scale, and support cloud infrastructure for serving realtime and batch ML inferences",
+                        "Build realtime and batch feature pipelines, collaborating with Chime\u2019s Data Engineering and Data Science teams, among others",
+                        "Design and deploy low latency, scalable, and high-availability microservice APIs that integrate seamlessly with Chime Engineering services",
+                        "Deliver on our ML Platform reliability and observability strategy, including standardized metrics and SLO dashboards, dependency-graph-aware alerting, and advocating for best practices Chime-wide",
+                        "Provide our Data Science team with ML observability and explainability, including drift detection, model performance monitoring, and feature and prediction cohorting, accelerating both new and iterative model development",
+                        "Help grow our SageMaker ML pipeline infrastructure for model training, evaluation and deployment at scale",
+                        "Collaborate closely with a wide range of Chime teams, including Product, Engineering, Risk, and more",
+                        "To thrive in this role, you have"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary offered for this role and level of experience will begin at $167,200 and up to $232,200",
+                        "Full-time employees are also eligible for a bonus, competitive equity package, and benefits",
+                        "The actual base salary offered may be higher, depending on your location, skills, qualifications, and experience",
+                        "\ud83d\udcb0 Competitive salary based on experience",
+                        "\u2728 401k match plus the usual medical, dental, vision, life, and disability benefits",
+                        "\ud83c\udfdd Generous vacation policy and company-wide Take Care of Yourself Days",
+                        "\ud83d\udda5 Virtual events to connect with your fellow Chimers- think cooking classes, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.chime.com/",
+                    "text": "chime.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Chime&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAII-g0",
+                    "text": "See web results for Chime"
+                }
+            ],
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFNvZnR3YXJlIEVuZ2luZWVyLCBNYWNoaW5lIExlYXJuaW5nIFBsYXRmb3JtIiwiaHRpZG9jaWQiOiIzWmRZSWRSaWRNOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVXpOVVNVOXlVSFIyYzIxQlpqQlJkVEpzVldWUVR6ZzNSVzloYVZkMVJXRXlkalZJTFRRemRIUjBkRTk0ZG1ZNVJEVlVPRkZRU2xBeFIzZHFXVzlZYlZwT1YyeGFkV1J6Y3psUWJVbHVRMHBzZUdGdmJIRjVOMGROUjBJeGQwaHNhWHBZUVVKV1YyTnZibGw1WWxGME9FWlRVakU1YWpkbFJucHlMV2RwTVdsVWRITktYMHhhYlU4M05WOWlVakJaUWpFMGVqTlRlbTFFY2psUWFtRjBVRnB0UnpWR1RFWmhTVFJDUVZkNVNIRjFlVzB3UW5SNFJWSjBSVUZ3ZGxZNVpVRk5lR1k0VkdWak1rWmtSbkZ5WVZKUWJtYzFWRXhoWVZNMVp4SVhkSEpyT1ZwTFgwTkZkSGx4TlU1dlVIZHhWMHh2UVdzYUlrRlBMVEJ5YkRaME9XZE9aMUpCTWpSUFFXdEdRM0Z3WlhWUGRsWTJVM2x0VGxFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQ2FyZWVycyBBdCBDaGltZSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuY2hpbWUuY29tL2pvYi82NjM5MzE2MDAyL0xlYWQtU29mdHdhcmUtRW5naW5lZXItTWFjaGluZS1MZWFybmluZy1QbGF0Zm9ybT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Solutions Architect, AI Specialist",
+            "company_name": "2100 NVIDIA USA",
+            "location": " Anywhere ",
+            "via": "via Workday",
+            "description": "Do you want to be part of the team that brings Artificial Intelligence (AI) emerging technology to the field? We are looking for a Solution Architect or Data Scientist to join the NVIDIA AI Specialist team focused on Machine Learning, Deep Learning, and Accelerated Data Analytics. If you are passionate about AI and how it can be applied to solve real-world problems, we should talk. NVIDIA is the... world leader in GPU accelerated computing and AI, and is looking for developers like you to design and build enterprise AI solutions using our newest technology. As a member of the AI Specialist Solution Architecture team, you will work closely with customers and partners to tackle hard problems across industries and build and deploy AI solutions in production at scale. What you\u2019ll be doing: A big part of our day-to-day job is developing end-to-end Machine Learning & Deep Learning solutions and recipes that enable Enterprise use cases. We work with customers to successfully adopt NVIDIA AI SDKs and APIs by providing deep technical product expertise. We solve customer problems by creating solutions using our innovative technology for Machine Learning and Deep Learning including Large Language Models, Computer Vision systems, Recommender systems, and Advanced Generative AI systems. As we work with customers across multiple industries, we identify common trends that lead to success. With this knowledge, we help improve NVIDIA products and build creative solutions to overcome any adoption challenges. We contribute to the wider organization and community by sharing our expert knowledge with others. This can vary from building hands-on training to writing papers, developer blogs, and teaching. Above all, you will be part of the team that helps bring NVIDIA technology to life in the Enterprise! We empower you and give you the tools to achieve this with the backing of all of NVIDIA, including other Solution Architects, Product, and Engineering teams. You\u2019ll get to be the face and trusted expert advisor that our customers rely on. What we need to see: Strong foundational expertise, from a BS, MS, or Ph.D. degree in Engineering, Mathematics, Physics, Computer Science, Data Science, or similar (or equivalent experience). 5+ years experience demonstrating an established track record in Deep Learning and Machine Learning; experience with GPUs as well as expertise in using deep learning frameworks such as TensorFlow or PyTorch. Strong analytical and problem-solving skills. Strong coding development and debugging skills. Including experience with Python, C/C++, Bash, as well as Cloud services, Spark and Linux. Experience working with NVIDIA Infrastructure, DevOps and MLOps including but not limited to Docker/Containers, Kubernetes, and Data Center or Cloud AI deployments. Ability to multitask effectively in a dynamic environment. Clear written and oral communications skills with the ability to effectively collaborate with executives and engineering teams. Successful candidates will be able to demonstrate a strong desire to share knowledge with clients, partners, and co-workers. Ways to stand out from the crowd: Demonstrate expertise and hands-on experience with NVIDIA AI products. Some products of interest include Machine Learning (RAPIDS and sparks-rapids), Natural Language Processing and Large Language Models (NVIDIA NEMO), Logistics and Route Optimization (NVIDIA CuOpt), AI Cybersecurity (NVIDIA Morpheus), Physics-based AI Modeling (NVIDIA Modulus), Recommender systems (NVIDIA Merlin) and Generative AI technologies (AI Foundations). Experience and understanding of the latest Deep Learning Architectures and training techniques. For example, Transformers Models and the latest customization techniques such as prompt engineering, p-tuning, and Reinforcement Learning Human Feedback. Leadership experience working with customers and managing large projects with multiple collaborators. Show willingness and ability to dig into unfamiliar territories to solve complex problems relying on experience from previous work. The base salary range is $144,000 - $270,250. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. You will also be eligible for equity and benefits. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law. NVIDIA is a Learning Machine NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and the metaverse is transforming the world's largest industries and profoundly impacting society. Learn more about NVIDIA",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "What we need to see: Strong foundational expertise, from a BS, MS, or Ph.D. degree in Engineering, Mathematics, Physics, Computer Science, Data Science, or similar (or equivalent experience)",
+                        "5+ years experience demonstrating an established track record in Deep Learning and Machine Learning; experience with GPUs as well as expertise in using deep learning frameworks such as TensorFlow or PyTorch",
+                        "Strong analytical and problem-solving skills",
+                        "Strong coding development and debugging skills",
+                        "Including experience with Python, C/C++, Bash, as well as Cloud services, Spark and Linux",
+                        "Experience working with NVIDIA Infrastructure, DevOps and MLOps including but not limited to Docker/Containers, Kubernetes, and Data Center or Cloud AI deployments",
+                        "Ability to multitask effectively in a dynamic environment",
+                        "Clear written and oral communications skills with the ability to effectively collaborate with executives and engineering teams",
+                        "Successful candidates will be able to demonstrate a strong desire to share knowledge with clients, partners, and co-workers",
+                        "Experience and understanding of the latest Deep Learning Architectures and training techniques",
+                        "For example, Transformers Models and the latest customization techniques such as prompt engineering, p-tuning, and Reinforcement Learning Human Feedback",
+                        "Leadership experience working with customers and managing large projects with multiple collaborators",
+                        "Show willingness and ability to dig into unfamiliar territories to solve complex problems relying on experience from previous work"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a member of the AI Specialist Solution Architecture team, you will work closely with customers and partners to tackle hard problems across industries and build and deploy AI solutions in production at scale",
+                        "You\u2019ll get to be the face and trusted expert advisor that our customers rely on"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary range is $144,000 - $270,250",
+                        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+                        "You will also be eligible for equity and benefits"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=2100+NVIDIA+USA&sa=X&ved=0ahUKEwiv9ffX7bH-AhVcFVkFHcLSApQ4ChCYkAIIvw4",
+                    "text": "See web results for 2100 NVIDIA USA"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2x1dGlvbnMgQXJjaGl0ZWN0LCBBSSBTcGVjaWFsaXN0IiwiaHRpZG9jaWQiOiJyNzNXRHRhSzFMUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVXpZeFpHSjRaMFZ4UzNwd1VGbHJObTlOTWs4d1UwbGZXV2x6YVRsaGFuUjRTbkY2WjJGWE9VTlBTM3BVWVVwWGFpMHdlSGcxUXpKNloxTTFXRXBJVEhKVllWOUlWbUZDZFZSR1dXRTFWWEEwWDBoRGF6bG1RelptUldoZk9WcGtTVjlpVGxkUUxXRmlXVmw1VFRkeE1uUkJNbVZPVW1WS1ltYzVYMEY1ZFRkYU1VY3lhVlV5TmpsNmNrNTFSVTAwV1dWblREQjVaMlpxTFdkeE56VkVVVFV0UW5aZllWOVNhak5JZGpkdFkxOW5WREZMUVcxbU9EaE5kekJvTTJaR1l6ZGZOWGRGRWhkMGNtczVXa3RmUTBWMGVYRTFUbTlRZDNGWFRHOUJheG9pUVU4dE1ISnNOWFpGYW5OSlUyNHRZV2R5UzFsRE1rczRYMlJoUjFVNFYzcEpkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE4IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdvcmtkYXkiLCJsaW5rIjoiaHR0cHM6Ly9udmlkaWEud2Q1Lm15d29ya2RheWpvYnMuY29tL2VuLVVTL05WSURJQUV4dGVybmFsQ2FyZWVyU2l0ZS9qb2IvVVMtQ0EtU2FudGEtQ2xhcmEvU29sdXRpb25zLUFyY2hpdGVjdC0tQUktU3BlY2lhbGlzdF9KUjE5NjU4MzM/dXRtX3NvdXJjZT1uZXdzbGV0dGVyXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jYW1wYWlnbj1ub2NvbW11dGUuc3Vic3RhY2suY29tXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Engineering",
+                    "value": "engineering"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Program manager",
+                    "value": "program manager"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Staff engineer",
+                    "value": "staff engineer"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Application engineer",
+                    "value": "application engineer"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Assistant professor",
+                    "value": "assistant professor"
+                },
+                {
+                    "text": "Computer",
+                    "value": "computer"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Engineer senior",
+                    "value": "engineer senior"
+                },
+                {
+                    "text": "Evangelist",
+                    "value": "evangelist"
+                },
+                {
+                    "text": "Firmware engineer",
+                    "value": "firmware engineer"
+                },
+                {
+                    "text": "Graduate",
+                    "value": "graduate"
+                },
+                {
+                    "text": "Lead architect",
+                    "value": "lead architect"
+                },
+                {
+                    "text": "Lead engineer",
+                    "value": "lead engineer"
+                },
+                {
+                    "text": "Modeling",
+                    "value": "modeling"
+                },
+                {
+                    "text": "Operations engineer",
+                    "value": "operations engineer"
+                },
+                {
+                    "text": "Post doctoral",
+                    "value": "post doctoral"
+                },
+                {
+                    "text": "Principal scientist",
+                    "value": "principal scientist"
+                },
+                {
+                    "text": "Processing engineer",
+                    "value": "processing engineer"
+                },
+                {
+                    "text": "Product engineer",
+                    "value": "product engineer"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Research director",
+                    "value": "research director"
+                },
+                {
+                    "text": "Sales engineer",
+                    "value": "sales engineer"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Senior scientist",
+                    "value": "senior scientist"
+                },
+                {
+                    "text": "Senior staff",
+                    "value": "senior staff"
+                },
+                {
+                    "text": "Solution architect",
+                    "value": "solution architect"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Sr principal",
+                    "value": "sr principal"
+                },
+                {
+                    "text": "Sr. director",
+                    "value": "sr. director"
+                },
+                {
+                    "text": "Technical",
+                    "value": "technical"
+                },
+                {
+                    "text": "Technology specialist",
+                    "value": "technology specialist"
+                },
+                {
+                    "text": "Vice president",
+                    "value": "vice president"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "McLean, VA",
+                    "value": "O3mKsew1tonx6vqtXrpijg=="
+                },
+                {
+                    "text": "Jacksonville, FL",
+                    "value": "66_O8Ra35Yjix_yWOH3NxA=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Atlantic City, NJ",
+                    "value": "IcdcblfdwIliUmfpQ8tvSg=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Fremont, CA",
+                    "value": "98rot0a_j4DUiNiJOzHaig=="
+                },
+                {
+                    "text": "Hartford, CT",
+                    "value": "pVER8hFT5omZWX3pqEqOzA=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Irvine, CA",
+                    "value": "40CRaA7d3IA5mkpgdbV6pw=="
+                },
+                {
+                    "text": "Laurel, MD",
+                    "value": "0dxJ6BDdt4n8ks39Ll7NmA=="
+                },
+                {
+                    "text": "Littleton, CO",
+                    "value": "Kzvi-z98a4fAPNau6ZcFBw=="
+                },
+                {
+                    "text": "Livermore, CA",
+                    "value": "cSBaOIblj4Bx2GvLMSLTmA=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "Providence, RI",
+                    "value": "XXN-Q-BE5IkntrNITXzfaQ=="
+                },
+                {
+                    "text": "Salt Lake City, UT",
+                    "value": "7THRiJQ9UofKMU1IoLdTWw=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "San Mateo, CA",
+                    "value": "RVWp72Cej4CnG8wt9PyO_Q=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Albany, NY",
+                    "value": "S_tPzDQK3onEKOegEmOh4Q=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Ann Arbor, MI",
+                    "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+                },
+                {
+                    "text": "Auburn Hills, MI",
+                    "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+                },
+                {
+                    "text": "Auburn, AL",
+                    "value": "g_ibsy_xjIhYk9M1kpElyw=="
+                },
+                {
+                    "text": "Beavercreek, OH",
+                    "value": "B-LwKg6bQIiC7xPC5lB3ug=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Bismarck, ND",
+                    "value": "Y-nYVxKD11KTyrv5Er2qzA=="
+                },
+                {
+                    "text": "Bolinas, CA",
+                    "value": "JT1aDFWVhYCFrdiPbqL8sg=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Entertainment",
+                    "value": "/business/naics2007/71"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Travel",
+                    "value": "/business/naics2007/5615"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Capital One",
+                    "value": "/m/04c_q_"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Snap",
+                    "value": "/g/11c1s2xz66"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Bayer",
+                    "value": "/m/01snr1"
+                },
+                {
+                    "text": "Genentech",
+                    "value": "/m/01_lh1"
+                },
+                {
+                    "text": "Google",
+                    "value": "/m/045c7b"
+                },
+                {
+                    "text": "Square",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "Battelle",
+                    "value": "/m/02m9dl"
+                },
+                {
+                    "text": "CarMax",
+                    "value": "/m/08763h"
+                },
+                {
+                    "text": "Comcast",
+                    "value": "/m/01s73z"
+                },
+                {
+                    "text": "Dropbox",
+                    "value": "/m/04mzcr5"
+                },
+                {
+                    "text": "Elevance Health",
+                    "value": "/m/04xtkp"
+                },
+                {
+                    "text": "Figma",
+                    "value": "/g/11fy1pwqvr"
+                },
+                {
+                    "text": "GSK",
+                    "value": "/m/01bbm7"
+                },
+                {
+                    "text": "Groq",
+                    "value": "/g/11fy1p1dh4"
+                },
+                {
+                    "text": "Hopper",
+                    "value": "/g/11sdd541ff"
+                },
+                {
+                    "text": "Johns Hopkins Applied Physics Laboratory",
+                    "value": "/m/07qxqz"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "L3Harris",
+                    "value": "/g/11fm6fqq8c"
+                },
+                {
+                    "text": "LLNL",
+                    "value": "/m/09qyt"
+                },
+                {
+                    "text": "Leidos",
+                    "value": "/m/01h2kg"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "ROBLOX",
+                    "value": "/m/0kytjpp"
+                },
+                {
+                    "text": "Recursion",
+                    "value": "/g/11f01c2xdk"
+                },
+                {
+                    "text": "Warner Media Group",
+                    "value": "/m/0l8sx"
+                },
+                {
+                    "text": "Accelirate Inc. -",
+                    "value": "/g/11j3kb0qdr"
+                },
+                {
+                    "text": "Accenture Federal Services",
+                    "value": "/m/09mg6hx"
+                },
+                {
+                    "text": "Adobe",
+                    "value": "/m/0vlf"
+                },
+                {
+                    "text": "Altos Labs",
+                    "value": "/g/11pw122my_"
+                },
+                {
+                    "text": "Amazon",
+                    "value": "/m/0mgkg"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Amentum",
+                    "value": "/g/11j2vydq82"
+                },
+                {
+                    "text": "Annapurna Labs (U.S.) Inc.",
+                    "value": "/m/012psqv7"
+                },
+                {
+                    "text": "Ansys",
+                    "value": "/m/06dplm"
+                },
+                {
+                    "text": "Aurora Flight Sciences",
+                    "value": "/m/076tx9t"
+                }
+            ]
+        }
+    ]
+}

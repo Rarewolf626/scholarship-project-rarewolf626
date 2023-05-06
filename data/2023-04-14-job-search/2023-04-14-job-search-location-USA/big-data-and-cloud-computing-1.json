@@ -1,0 +1,1184 @@
+{
+    "search_metadata": {
+        "id": "643db9a0a5ad6dae22756a88",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2ba37d99f269fa17/643db9a0a5ad6dae22756a88.json",
+        "created_at": "2023-04-17 21:26:56 UTC",
+        "processed_at": "2023-04-17 21:26:56 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=big+data+and+cloud+computing&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/2ba37d99f269fa17/643db9a0a5ad6dae22756a88.html",
+        "total_time_taken": 1.99
+    },
+    "search_parameters": {
+        "q": "big data and cloud computing",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "65 Cloud Design Engineer 2",
+            "company_name": "ARSIEM",
+            "location": "  Annapolis Junction, MD   ",
+            "via": "via Lever",
+            "description": "About ARSIEM Corporation\n\nAt ARSIEM Corporation we are committed to fostering a proven and trusted partnership with our government clients. We provide support to multiple agencies across the United States Government. ARSIEM has an experienced workforce of qualified professionals committed to providing the best possible support...\n\nAs demand increases, ARSIEM continues to provide reliable and cutting-edge technical solutions at the best value to our clients. That means a career packed with opportunities to grow and the ability to have an impact on every client you work with.\n\nARSIEM is currently looking for a Cloud Design Engineer. The position will support one of our Government clients in Annapolis Junction, MD.\n\nResponsibilities\n\u2022 Develops, maintains, and enhances complex and diverse Web-Based User Interfaces that interact with Big-Data Cloud systems based upon documented requirements.\n\u2022 Directly contributes to all stages of designing, implementing and testing Web-Based User Interfaces that expose data for Big-Data Cloud Based infrastructure using Hadoop Eco-System.\n\u2022 Provides expertise in Cloud Technologies, Distributed Computing and how to display best data produced by these technologies.\n\u2022 Implements Graphical Web-Based User Interface with usability, security, and performance in mind. Reviews and tests software components to adhere to design requirements and document test results.\n\u2022 Resolves software problem reports.\n\u2022 Utilizes software development and software design methodologies appropriate to the development environment.\n\u2022 Provides specific input to the software components of system design, including hardware/software trade-offs and software reuse.\n\nMinimum Qualifications\n\u2022 Eight (8) years of software engineering experience in programs and contracts of similar scope, type, and complexity are required;\n\u2022 Two (2) years in programs utilizing Big-Data Cloud technologies and Distributed Computing.\n\u2022 Four (4) years of cloud software engineering experience on projects with similar Big-Data systems may be substituted for a bachelor\u2019s degree.\n\u2022 A Bachelor\u2019s degree in Computer Science or a related discipline from an accredited college or university is required.\n\u2022 A Master's in Computer Science or related discipline from an accredited college or university may be substituted for two (2) years of experience.\n\u2022 Cloudera Certified Hadoop Developer certification may be substituted for one (1) year of Cloud experience.\n\u2022 Two (2) years of Web-Based applications that retrieve/store data in a Cloud Data System\n\u2022 Two (2) years of building applications that comply with modern Web 2.0 standards\n\u2022 Two (2) years of Cloud or Distributed Computing Information Retrieval (IR)\n\u2022 One (1) year working with data stored in Cloud Big Table\n\u2022 One (1) year of analyzing data stored in Cloud Distributed File System\n\u2022 Experience in Computer Network Operations - Utility Computing, Network Management, Virtualizations (VMWare or VirtualBox), Cloud Computing\n\u2022 Experience in Information Assurance - Securing User Interfaces based on Cloud and Distributed applications that contain disparate data sources and classifications through industry-standard techniques such as Firewalls, PKI Certificate, and Server Authentication with experience in Corporate authentication service(s)\n\u2022 Object Oriented Design and Programming, Java, Eclipse or similar development environment, MAVEN, RESTful web services\n\u2022 Interfacing with Cloud and Distributed Computing Technologies: at least one or a combination of several of the following areas - Spring MVC, J2EE, HDFS, HBase, JMS, Concurrent Programming, Multi-Node implementation/installation and other applicable technologies\n\u2022 Cloud and Distributed Computing Information Retrieval: at least one or a combination of several of the following areas - HDFS, HBASE, Apache Lucene, Apache Solr, MongoDB\n\u2022 AJAX Cross Browser support: HTML, CSS, JavaScript, JSP/Servlets, Groovy\n\u2022 Aspect Oriented Design and Development\n\u2022 Debugging and Profiling Cloud and Distributed Installations: Java Virtual Machine (JVM) memory management, Profiling Java Applications\n\u2022 Experience with at least one SIGINT collection discipline area (FORNSAT, CABLE, Terrestrial/Microwave, Overhead, ELINT)\n\u2022 Geolocation, emitter identification, and signal applications\n\u2022 Joint program collection platforms and dataflow architectures; signals characterization analysis\n\u2022 Experience with CentOS, Linux/RedHat; Configuration management tools such as Subversion, ClearQuest, or Razor\n\nPreferred Qualifications\n\u2022 Provides in-depth knowledge of Information Retrieval; assisting the software development team in designing, developing and testing Cloud Information Retrieval\n\u2022 Propose new ways of analyzing data stored in Cloud Big Table\n\u2022 Propose new ways of analyzing data stored in Cloud Distributed File System\n\u2022 Oversees one or more software development tasks and ensures the work ifollowingordance with the constraints of the software development process being used on any particular project\n\u2022 Ensure quality control of all developed and modified software\n\u2022 Make recommendations for improving documentation and software development process standards\n\nClearance Requirement: This position requires an active TS/SCI with a polygraph. You must be a US Citizen for consideration.\n\nCandidate Referral: Do you know someone who would be GREAT at this role? If you do, ARSIEM has a way for you to earn a bonus through our referral program for persons presenting NEW (not in our resume database) candidates who are successfully placed on one of our projects. The bonus for this position is $10,000, and the referrer is eligible to receive the sum for any applicant we place within 12 months of referral. The bonus is paid after the referred employee reaches 6 months of employment.\n\nARSIEM is proud to be an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age, or any other federally protected class",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Eight (8) years of software engineering experience in programs and contracts of similar scope, type, and complexity are required;",
+                        "Two (2) years in programs utilizing Big-Data Cloud technologies and Distributed Computing",
+                        "Four (4) years of cloud software engineering experience on projects with similar Big-Data systems may be substituted for a bachelor\u2019s degree",
+                        "A Bachelor\u2019s degree in Computer Science or a related discipline from an accredited college or university is required",
+                        "A Master's in Computer Science or related discipline from an accredited college or university may be substituted for two (2) years of experience",
+                        "Cloudera Certified Hadoop Developer certification may be substituted for one (1) year of Cloud experience",
+                        "Two (2) years of Web-Based applications that retrieve/store data in a Cloud Data System",
+                        "Two (2) years of building applications that comply with modern Web 2.0 standards",
+                        "Two (2) years of Cloud or Distributed Computing Information Retrieval (IR)",
+                        "One (1) year working with data stored in Cloud Big Table",
+                        "One (1) year of analyzing data stored in Cloud Distributed File System",
+                        "Experience in Computer Network Operations - Utility Computing, Network Management, Virtualizations (VMWare or VirtualBox), Cloud Computing",
+                        "Experience in Information Assurance - Securing User Interfaces based on Cloud and Distributed applications that contain disparate data sources and classifications through industry-standard techniques such as Firewalls, PKI Certificate, and Server Authentication with experience in Corporate authentication service(s)",
+                        "Object Oriented Design and Programming, Java, Eclipse or similar development environment, MAVEN, RESTful web services",
+                        "Interfacing with Cloud and Distributed Computing Technologies: at least one or a combination of several of the following areas - Spring MVC, J2EE, HDFS, HBase, JMS, Concurrent Programming, Multi-Node implementation/installation and other applicable technologies",
+                        "Cloud and Distributed Computing Information Retrieval: at least one or a combination of several of the following areas - HDFS, HBASE, Apache Lucene, Apache Solr, MongoDB",
+                        "AJAX Cross Browser support: HTML, CSS, JavaScript, JSP/Servlets, Groovy",
+                        "Aspect Oriented Design and Development",
+                        "Debugging and Profiling Cloud and Distributed Installations: Java Virtual Machine (JVM) memory management, Profiling Java Applications",
+                        "Experience with at least one SIGINT collection discipline area (FORNSAT, CABLE, Terrestrial/Microwave, Overhead, ELINT)",
+                        "Geolocation, emitter identification, and signal applications",
+                        "Joint program collection platforms and dataflow architectures; signals characterization analysis",
+                        "Experience with CentOS, Linux/RedHat; Configuration management tools such as Subversion, ClearQuest, or Razor",
+                        "Clearance Requirement: This position requires an active TS/SCI with a polygraph",
+                        "You must be a US Citizen for consideration"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develops, maintains, and enhances complex and diverse Web-Based User Interfaces that interact with Big-Data Cloud systems based upon documented requirements",
+                        "Directly contributes to all stages of designing, implementing and testing Web-Based User Interfaces that expose data for Big-Data Cloud Based infrastructure using Hadoop Eco-System",
+                        "Provides expertise in Cloud Technologies, Distributed Computing and how to display best data produced by these technologies",
+                        "Implements Graphical Web-Based User Interface with usability, security, and performance in mind",
+                        "Reviews and tests software components to adhere to design requirements and document test results",
+                        "Resolves software problem reports",
+                        "Utilizes software development and software design methodologies appropriate to the development environment",
+                        "Provides specific input to the software components of system design, including hardware/software trade-offs and software reuse"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The bonus for this position is $10,000, and the referrer is eligible to receive the sum for any applicant we place within 12 months of referral"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.arsiem.com/",
+                    "text": "arsiem.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=ARSIEM&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIywk",
+                    "text": "See web results for ARSIEM"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiI2NSBDbG91ZCBEZXNpZ24gRW5naW5lZXIgMiIsImh0aWRvY2lkIjoiVlJVZDlzYVJTN1lBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZIcEljVlI1YlhweVVuVTBjbUpTZURNd1dIYzBibUZQUW5wT1ZuWklaRVp2VDNkR2VITkVVR1pMWW5WU1NTMUJZbnBqZGkxaWRIbEVWMnd3U0RKSk5WOXJSMnhZVmxacExUVktTMHBUYkhOSlJuWlpOekpIU0U1R1lYVnRWVXh4YVVsRlJXZEJaV2RLYW5JeVNUaG5TekZ0U25KVlNFbFRVamhzTm05ak5rMDRSRFIwZFVOMU5tRnRlVU5sU0VaSFpuSkhPVGRpY0VOWGJVRlNUakEyYVV0cU9Gb3ljM1ZOTm5Kd2QyaG1VRlpVTUZoa1lUTldRUzFvYkV4eWVrNTVOM2RIVFRWdEVoZHZZbXM1V2sxUVlreDBabW95Y205UU1uVkRSbWxCTkJvaVFVOHRNSEpzTkhWMllXUndia3hVVjJsTVlqWlZVR2QzUkVReWRWbFpXbE5FZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExldmVyIiwibGluayI6Imh0dHBzOi8vam9icy5sZXZlci5jby9hcnNpZW0vNGNiNjQ3NzMtZWUwMi00MjFjLWEyMWQtZGRhZWY5MGZhM2E3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Cloud Design Engineer (TS/SCI + Poly) - Security Clearance Required",
+            "company_name": "The DarkStar Group",
+            "location": "  Annapolis Junction, MD   ",
+            "via": "via WOWKtv Jobs",
+            "description": "Job Description\n\nThe Cloud Design Engineer develops, maintains, and enhances complex and diverse Web-Based User Interfaces that interact with Big-Data Cloud systems based upon documented requirements. Directly contributes to all stages of designing, implementing and testing Web-Based User Interfaces that expose data for Big-Data Cloud Based infrastructure using Hadoop Eco-System. Provides... expertise in Cloud Technologies, Distributed Computing and how to best display data produced by these technologies. Cloud Designer implements Graphical Web-Based User Interface with usability, security, and performance in mind. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse.Required Skills\n\u2022 Eight (8) years software engineering experience in programs and contracts of similar scope, type, and complexity are required; two (2) years of which must be in programs utilizing Big-Data Cloud technologies and/or Distributed Computing. Four (4) years of cloud software engineering experience on projects with similar Big-Data systems may be substituted for a bachelor's degree.\n\u2022 Bachelor's degree in Computer Science or related discipline from an accredited college or university is required. Master's in computer science or related discipline from an accredited college or university may be substituted for two (2) years of experience. Cloudera Certified Hadoop Developer certification may be substituted for one (1) year of Cloud experience.\n\u2022 The following Cloud related experiences are required:\n\u2022 a. Two (2) year of Web-Based applications that retrieves/stores data in a Cloud Data System\n\u2022 b. Two (2) year of building applications that comply with modern Web 2.0 standards\n\u2022 c. Two (2) years of Cloud and/or Distributed Computing Information Retrieval (IR)\n\u2022 d. One (1) year working with data stored in Cloud Big Table\n\u2022 e. One (1) year of analyzing data stored in Cloud Distributed File System\n\u2022 Experience in Computer Network Operations - Utility Computing, Network Management, Virtualizations (VMWare or VirtualBox), Cloud Computing\n\u2022 Experience in Information Assurance - Securing User Interfaces based on Cloud and Distributed applications that contain disparate data sources and classifications through industry standard techniques such as Firewalls, PKI Certificate, and Server Authentication with experience in corporate authentication service(s)\n\u2022 Experience in Information Technology:\n\u2022 a. Object Oriented Design and Programming, Java, Eclipse or similar development environment, MAVEN, RESTful web services\n\u2022 b. Interfacing with Cloud and Distributed Computing Technologies: at least one or a combination of several of the following areas - Spring MVC, J2EE, HDFS, HBase, JMS, Concurrent Programming, Multi-Node implementation/installation and other applicable technologies\n\u2022 c. Cloud and Distributed Computing Information Retrieval: at least one or a combination of several of the following areas - HDFS, HBASE, Apache Lucene, Apache Solr, MongoDB\n\u2022 d. AJAX Cross Browser support: HTML, CSS, JavaScript, JSP/Servlets, Groovy\n\u2022 e. Aspect Oriented Design and Development\n\u2022 f. Debugging and Profiling Cloud and Distributed Installations: Java Virtual Machine (JVM) memory management, Profiling Java Applications\n\u2022 Experience in SIGINT:\n\u2022 a. Experience with at least one SIGINT collection discipline areas (FORNSAT, CABLE, Terrestrial/Microwave, Overhead, ELINT)\n\u2022 b. Geolocation, emitter identification, and signal applications\n\u2022 c. Joint program collection platforms and dataflow architectures; signals characterization analysis\n\u2022 Experience with CentOS, Linux/RedHat; Configuration management tools such as Subversion, ClearQuest, or RazorDesired Skills\n\u2022 Provides in-depth knowledge of Information Retrieval, assisting the software development team in designing, developing and testing Cloud Information Retrieval\n\u2022 Propose new ways of analyzing data stored in Cloud Big Table\n\u2022 Propose new ways of analyzing data stored in Cloud Distributed File System\n\u2022 Oversees one or more software development tasks and ensures the work is completed in accordance with the constraints of the software development process being used on any particular project\n\u2022 Ensure quality control of all developed and modified software\n\u2022 Make recommendations for improving documentation and software development process standardsDescription:\nThe DarkStar\u00ae Group is a small business that solves BIG problems (and is growing). We're one of the Inc. 5000 fastest-growing private companies in the US, and our engineers support the most critical national security missions in Virginia, Maryland, Florida, and elsewhere. Data Science, Software Engineering, Cloud/AWS Infrastructure, and Cyber/CNO are our core areas of expertise. We offer interesting and important work, job security, some of the best and most flexible benefits you'll find in the IC, and salaries so strong that they'll likely surprise you.\n\u2022 * We offer up to a $25,000 reward for anyone you refer whom we hire. **\nEqual Opportunity Employer",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Eight (8) years software engineering experience in programs and contracts of similar scope, type, and complexity are required; two (2) years of which must be in programs utilizing Big-Data Cloud technologies and/or Distributed Computing",
+                        "Four (4) years of cloud software engineering experience on projects with similar Big-Data systems may be substituted for a bachelor's degree",
+                        "Bachelor's degree in Computer Science or related discipline from an accredited college or university is required",
+                        "Master's in computer science or related discipline from an accredited college or university may be substituted for two (2) years of experience",
+                        "Cloudera Certified Hadoop Developer certification may be substituted for one (1) year of Cloud experience",
+                        "Two (2) year of Web-Based applications that retrieves/stores data in a Cloud Data System",
+                        "Two (2) year of building applications that comply with modern Web 2.0 standards",
+                        "c. Two (2) years of Cloud and/or Distributed Computing Information Retrieval (IR)",
+                        "One (1) year working with data stored in Cloud Big Table",
+                        "One (1) year of analyzing data stored in Cloud Distributed File System",
+                        "Experience in Computer Network Operations - Utility Computing, Network Management, Virtualizations (VMWare or VirtualBox), Cloud Computing",
+                        "Experience in Information Assurance - Securing User Interfaces based on Cloud and Distributed applications that contain disparate data sources and classifications through industry standard techniques such as Firewalls, PKI Certificate, and Server Authentication with experience in corporate authentication service(s)",
+                        "Object Oriented Design and Programming, Java, Eclipse or similar development environment, MAVEN, RESTful web services",
+                        "Interfacing with Cloud and Distributed Computing Technologies: at least one or a combination of several of the following areas - Spring MVC, J2EE, HDFS, HBase, JMS, Concurrent Programming, Multi-Node implementation/installation and other applicable technologies",
+                        "d. AJAX Cross Browser support: HTML, CSS, JavaScript, JSP/Servlets, Groovy",
+                        "Experience with at least one SIGINT collection discipline areas (FORNSAT, CABLE, Terrestrial/Microwave, Overhead, ELINT)",
+                        "b. Geolocation, emitter identification, and signal applications",
+                        "Provides in-depth knowledge of Information Retrieval, assisting the software development team in designing, developing and testing Cloud Information Retrieval"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Cloud Design Engineer develops, maintains, and enhances complex and diverse Web-Based User Interfaces that interact with Big-Data Cloud systems based upon documented requirements",
+                        "Directly contributes to all stages of designing, implementing and testing Web-Based User Interfaces that expose data for Big-Data Cloud Based infrastructure using Hadoop Eco-System",
+                        "Provides expertise in Cloud Technologies, Distributed Computing and how to best display data produced by these technologies",
+                        "Cloud Designer implements Graphical Web-Based User Interface with usability, security, and performance in mind",
+                        "Reviews and tests software components for adherence to the design requirements and documents test results",
+                        "Resolves software problem reports",
+                        "Utilizes software development and software design methodologies appropriate to the development environment",
+                        "Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse",
+                        "Propose new ways of analyzing data stored in Cloud Big Table",
+                        "Propose new ways of analyzing data stored in Cloud Distributed File System",
+                        "Oversees one or more software development tasks and ensures the work is completed in accordance with the constraints of the software development process being used on any particular project",
+                        "Ensure quality control of all developed and modified software",
+                        "Make recommendations for improving documentation and software development process standards"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We offer up to a $25,000 reward for anyone you refer whom we hire"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=The+DarkStar+Group&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIiQo",
+                    "text": "See web results for The DarkStar Group"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBEZXNpZ24gRW5naW5lZXIgKFRTL1NDSSArIFBvbHkpIC0gU2VjdXJpdHkgQ2xlYXJhbmNlIFJlcXVpcmVkIiwiaHRpZG9jaWQiOiJRQnlteElzWUt3SUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlDQ3FJQ1FVVnpOMnBPVTJGblQwNW5SSGxpUzNocGFYRnhSVjk2ZUVoNllrTXplR1l0UlZKSmRYcEJZMlp3T0dKbVZHWnFRWGxEY1hKblQza3lNWHB4VERsTldERm9ObXBmVTNVelpHbDRXVkpuTFRKNlRrcFBOWEJFYkVodE5ubFViMGxEZFd4elgzZDRPVmRRTjNSdWNpMURUelJxVG1kV1FXOWhXbkpaVmtKTVVUbFhlbEJWYUd3Mk5YVkphRlV3YmtseWIwY3RWRU5YUTJ0dVgxTklOMnA1UkV4ZlNsVldNMmhaUTNwNWRtOUVNMDluVWtOMU9EZDRkVlJHYTJRdFFtSXlXRE5rVmtGdE1tRmxSMFpSTWxwamRFUXdObkIxY2pOcVpVMDNORXRQUzJRMlRFVnhNMVpLZEdaUGJXVm1iWGMzTWpSSGFsWXdjbkJSV0VkaU9GZEVTWE4xYmtwTFJXVjZUR3ROUVVoVE9GRlNhRVpYUlZOT2NUbGFUbFZSY21wNFUyY1NGMjlpYXpsYVRWQmlUSFJtYWpKeWIxQXlkVU5HYVVFMEdpSkJUeTB3Y213MVdEbDJPRmR1ZWpSQ1luTlpjWFZMVUY5UlNEa3pXVlJVVDBsUiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV09XS3R2IEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLndvd2t0di5jb20vam9icy9jbG91ZC1kZXNpZ24tZW5naW5lZXItdHMtc2NpLXBvbHktc2VjdXJpdHktY2xlYXJhbmNlLXJlcXVpcmVkLWFubmFwb2xpcy1qdW5jdGlvbi1tYXJ5bGFuZC85NzQwMjk2MTEtMi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Architect",
+            "company_name": "Applied Information Sciences",
+            "location": "  Reston, VA   ",
+            "via": "via AIS Careers - Applied Information Sciences",
+            "description": "As a Data Architect, you will use cutting-edge cloud and data technologies to help global brands and federal agencies solve challenging problems through innovative technology solutions. Work on exciting projects, future-proof your skills, and grow into your dream job alongside some of the industry's most talented, knowledgeable, and dedicated technologists.\n\nWhat You'll Be Doing...\n\u2022 Work in a team with other smart AIS employees and use cutting-edge technologies to solve challenging enterprise problems.\n\u2022 Design data platform solutions using Azure data services such as Data Factory, Azure Event Hub, Azure Synapse Analytics, and Azure Databricks.\n\u2022 Design scalable data processing and analytics solutions, including Big data storage for various data types and large-scale data processing using Databricks.\n\u2022 Apply your skills in Azure Cognitive Services, Azure P,aaS, and Machine Learning services.\n\u2022 Use experience working with Azure Data & Storage, Azure Analytics & Azure IoT tools, and the traditional Microsoft BI Stack.\n\u2022 Provide mentorship to more junior consultants.\n\nLocation and Travel Details\n\nThis is a remote position with occasional travel (if needed).\n\nProfile of Success\n\u2022 Minimum ten years of relational data background.\n\u2022 Minimum five years of data architecture experience.\n\u2022 Expert with Azure cloud computing, including big data technologies.\n\u2022 Proven experience developing Big Data solutions in the Azure space\n\u2022 Extensive experience with Azure Data services (Azure Data Lake, Azure Data Factory, Azure SQL Data Warehouse, Data Lake Analytics, HDInsight, Machine Learning, and Stream Analytics).\n\u2022 Expert in both traditional and modern data architecture and processing concepts, including relational databases, Data warehousing, big data, NoSQL, and business analytics.\n\u2022 Hands-on experience implementing Big Data solutions using Microsoft Data Platform and Azure Data Services.\n\u2022 Proven ability to work in a client-facing role, understand requirements and envision solutions.\n\nDesirable Skills\n\u2022 Experience with Azure cloud computing, including big data technologies such as Azure Databricks cluster management.\n\u2022 Background with Data Science tools such as R, Python, and SAS is a plus.\n\u2022 Experience with visualization tools such as Power BI or Tableau.\n\u2022 Desire to obtain or utilize relevant technical certifications as part of continuous professional growth.\n\nAbout AIS\n\nAIS, Dedicated to Our People\n\nAIS employees can spend their entire career at AIS doing challenging, rewarding work and reach their desired level of achievement and responsibility. We offer the opportunity to move up, without the obligation to move out of a position where one excels. We are committed to our employee's success; however, they define it.\n\nIt's our dedication to our employees that inspired our leadership to invest in our future and become partially employee-owned through an Employee Stock Ownership Program (ESOP).\n\nOur employees are our greatest strength, and we do all that we can to serve them. We invest in technology as early adopters, allowing us to create transformative and innovative solutions for our customers while exposing our team to cutting edge technology.\n\nWe hire outstanding individuals who are committed to curiosity, passionate about emerging technology, and who are excited to find innovative solutions for the biggest tech challenges facing international brands and government agencies today.\n\nWe Invest in Individuals Committed to Innovation\n\nAIS is seeking professionals of a certain character and level of excellence. People that we can learn from and that we can help grow to achieve their personal career goals.\n\nWe are looking for:\n\u2022 Smart people with a passion for technology\n\u2022 Strong technical capabilities with a consultancy mindset\n\u2022 Close involvement with local technical communities\n\u2022 A willingness to think outside of the box to provide innovative solutions to clients\n\u2022 Ability to solve challenging technical business problems\n\u2022 Self-directed professionals\n\nOur Core Values\n\u2022 Client Success\n\u2022 Continued Learning and Technical Excellence\n\u2022 Strong Client Relationships\n\u2022 Citizenship and Community\n\nEEO Statement\n\nApplied Information Sciences is an Equal Opportunity Employer and does not discriminate on the basis of race, national origin, religion, color, gender, sexual orientation, age, disability, protected veteran status, or any other basis covered by law. Employment decisions are based solely on qualifications, merit, and business need",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Minimum ten years of relational data background",
+                        "Minimum five years of data architecture experience",
+                        "Proven experience developing Big Data solutions in the Azure space",
+                        "Extensive experience with Azure Data services (Azure Data Lake, Azure Data Factory, Azure SQL Data Warehouse, Data Lake Analytics, HDInsight, Machine Learning, and Stream Analytics)",
+                        "Expert in both traditional and modern data architecture and processing concepts, including relational databases, Data warehousing, big data, NoSQL, and business analytics",
+                        "Hands-on experience implementing Big Data solutions using Microsoft Data Platform and Azure Data Services",
+                        "Proven ability to work in a client-facing role, understand requirements and envision solutions",
+                        "Experience with Azure cloud computing, including big data technologies such as Azure Databricks cluster management",
+                        "Experience with visualization tools such as Power BI or Tableau",
+                        "Desire to obtain or utilize relevant technical certifications as part of continuous professional growth",
+                        "Smart people with a passion for technology",
+                        "Strong technical capabilities with a consultancy mindset",
+                        "Close involvement with local technical communities",
+                        "A willingness to think outside of the box to provide innovative solutions to clients",
+                        "Ability to solve challenging technical business problems",
+                        "Continued Learning and Technical Excellence"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work in a team with other smart AIS employees and use cutting-edge technologies to solve challenging enterprise problems",
+                        "Design data platform solutions using Azure data services such as Data Factory, Azure Event Hub, Azure Synapse Analytics, and Azure Databricks",
+                        "Design scalable data processing and analytics solutions, including Big data storage for various data types and large-scale data processing using Databricks",
+                        "Apply your skills in Azure Cognitive Services, Azure P,aaS, and Machine Learning services",
+                        "Use experience working with Azure Data & Storage, Azure Analytics & Azure IoT tools, and the traditional Microsoft BI Stack",
+                        "Provide mentorship to more junior consultants",
+                        "This is a remote position with occasional travel (if needed)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Applied+Information+Sciences&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIzAo",
+                    "text": "See web results for Applied Information Sciences"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFyY2hpdGVjdCIsImh0aWRvY2lkIjoiMTg0WTVMZmFfUEFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1ZEbDNZbE5QTjI5RlRXcFlUSEZCWlMxblRWVk1ZMlZHZUc5WVJtVlBSRmxqZG0xMWNrNTViRzVZWkhSVGEyNVpWbVZWZHpoeFJucGtNVTV1TjB0MVZucFVNRmREZW04MllVUnVRbWhPZVZsYVRqY3pjMWhNUzBVMlNVRnJWMFJ5V1RCU1ZUSmpZakpNYzJKdFMwc3pVRVExYnpkVFRuUXdOSFJJZDJZek4yVm9YM1I1V0VwTWIwbFBZVTFoUldrNVgxSjFNV294U1hWRFpqRm1OeTB0TW1WR2VYTXhUbFJ4T0hrd2REbDFiM0ZuRWhkdlltczVXazFRWWt4MFptb3ljbTlRTW5WRFJtbEJOQm9pUVU4dE1ISnNOR0ZCVFhBeE16Y3hUVms0Wm1KdWJXNHhOVGs1VkZWaWJVUkdRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQUlTIENhcmVlcnMgLSBBcHBsaWVkIEluZm9ybWF0aW9uIFNjaWVuY2VzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5haXMuY29tL2pvYnMvMjkxMT9sYW5nPWVuLXVzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Cloud Engineer, Senior",
+            "company_name": "Booz Allen Hamilton",
+            "location": "  Chantilly, VA   ",
+            "via": "via Booz Allen Hamilton",
+            "description": "Data Cloud Engineer, Senior\n\nThe Challenge...\n\nAre you looking for an opportunity to develop a data platform that will have an impact on rapid exploitation and sharing of multi-INT information across the intelligence community? Solid platform development is a critical part of any program\u2019s success, and you know how to do it right through scalable design with baked-in security. That\u2019s why we need you, a developer with the skills to build a platform that will transform the integrated intelligence mission.\n\nAs a data platform developer on our team, you\u2019ll design and develop the core data integration platform for our project from end to end. You\u2019ll work with customers and end-users to understand their mission, architecture, and security requirements. With a focus on the customer\u2019s goals, you\u2019ll build a design that will scale to meet their evolving needs. Your technical expertise will be vital as you recommend tools and capabilities based on your research of the environment and new technology. Your design will set the standard for future development, so you\u2019ll craft an architecture that smoothly works with existing infrastructure without compromising security.\n\nAs a technical leader, you\u2019ll identify new opportunities to build platform-based solutions to help your customers meet their toughest challenges. This is a chance to use your deep OS knowledge and broaden your skill set into areas like Cloud computing, large-scale data ingestion and processing, multiple data store types, including graph data, time series, spatial, and other NoSQL, high performance data streaming, data science, and supporting the integration of novel mission applications and analytics. Join us as we develop software-based solutions to make a difference for the integrated intelligence mission.\n\nEmpower change with us.\n\nYou Have:\n\u2022 Experience with Java, Spark, Scala, Hive, or ETL engineering\n\u2022 Experience with working in data ingestion, processing, and distribution\n\u2022 Experience in developing and deploying data ingestion, processing, and distribution systems with AWS technologies\n\u2022 Experience with using AWS datastores, including RDS Postgres, S3, or DynamoDB\n\u2022 Experience with Agile software development practices\n\u2022 TS/SCI clearance\n\u2022 Bachelor's degree\n\u2022 Ability to obtain Security+ CE, SSCP, CCNA-Security, or GSEC Certification within 6 months of hire\n\nNice If You Have:\n\u2022 2+ years of experience with cognitive computing, data integration, data mining, Natural Language Processing, Hadoop platforms, or automating machine learning components\n\u2022 1+ years of experience with data mining using current methods and tools\n\u2022 Experience in working with IC data sets and NoSQL databases, including Elasticsearch and HBase\n\u2022 Experience with graph data stores, time series database, and other NoSQL technologies\n\u2022 Experience with processing big data with Spark, Scala, or MapReduce\n\u2022 Knowledge of Jira, Git, Kafka, Kubernetes, OpenShift and OCP, or Docker\n\u2022 Knowledge of data science tools and their integration with big data stores\n\u2022 Knowledge of data security policies and guidelines\n\u2022 AWS Certification\n\u2022 Security+ CE, SSCP, CCNA-Security, or GSEC Certification\n\nClearance:\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.\n\nBuild Your Career:\n\nA challenging and dynamic work environment isn\u2019t all we have to offer. When you join Booz Allen, you\u2019ll have access to:\n\u2022 experts in virtually every field\n\u2022 a culture that focuses on supporting our employees\n\u2022 opportunities that provide stability while offering variety\n\nYou\u2019ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We\u2019ll help you develop the career you want as you chart your own course for success.\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen\u2019s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual\u2019s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $81,800.00 to $186,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen\u2019s total compensation package for employees.\n\nWork Model\nOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.\n\u2022 If this position is listed as remote or hybrid, you\u2019ll periodically work from a Booz Allen or client site facility.\n\u2022 If this position is listed as onsite, you\u2019ll work with colleagues and clients in person, as needed for the specific role.\n\nEEO Commitment\n\nWe\u2019re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change \u2013 no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience with Java, Spark, Scala, Hive, or ETL engineering",
+                        "Experience in developing and deploying data ingestion, processing, and distribution systems with AWS technologies",
+                        "Experience with using AWS datastores, including RDS Postgres, S3, or DynamoDB",
+                        "Experience with Agile software development practices",
+                        "Bachelor's degree",
+                        "Ability to obtain Security+ CE, SSCP, CCNA-Security, or GSEC Certification within 6 months of hire",
+                        "2+ years of experience with cognitive computing, data integration, data mining, Natural Language Processing, Hadoop platforms, or automating machine learning components",
+                        "1+ years of experience with data mining using current methods and tools",
+                        "Experience in working with IC data sets and NoSQL databases, including Elasticsearch and HBase",
+                        "Experience with graph data stores, time series database, and other NoSQL technologies",
+                        "Experience with processing big data with Spark, Scala, or MapReduce",
+                        "Knowledge of Jira, Git, Kafka, Kubernetes, OpenShift and OCP, or Docker",
+                        "Knowledge of data science tools and their integration with big data stores",
+                        "Knowledge of data security policies and guidelines",
+                        "AWS Certification"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a data platform developer on our team, you\u2019ll design and develop the core data integration platform for our project from end to end",
+                        "You\u2019ll work with customers and end-users to understand their mission, architecture, and security requirements",
+                        "With a focus on the customer\u2019s goals, you\u2019ll build a design that will scale to meet their evolving needs",
+                        "Your technical expertise will be vital as you recommend tools and capabilities based on your research of the environment and new technology",
+                        "Your design will set the standard for future development, so you\u2019ll craft an architecture that smoothly works with existing infrastructure without compromising security",
+                        "As a technical leader, you\u2019ll identify new opportunities to build platform-based solutions to help your customers meet their toughest challenges",
+                        "This is a chance to use your deep OS knowledge and broaden your skill set into areas like Cloud computing, large-scale data ingestion and processing, multiple data store types, including graph data, time series, spatial, and other NoSQL, high performance data streaming, data science, and supporting the integration of novel mission applications and analytics",
+                        "If this position is listed as onsite, you\u2019ll work with colleagues and clients in person, as needed for the specific role"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "a culture that focuses on supporting our employees",
+                        "opportunities that provide stability while offering variety",
+                        "You\u2019ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books",
+                        "You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips",
+                        "At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+                        "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+                        "The projected compensation range for this position is $81,800.00 to $186,000.00 (annualized USD)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.boozallen.com/",
+                    "text": "boozallen.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Booz+Allen+Hamilton&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIkAs",
+                    "text": "See web results for Booz Allen Hamilton"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIENsb3VkIEVuZ2luZWVyLCBTZW5pb3IiLCJodGlkb2NpZCI6ImYxaGpxM04yZ2JFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9WR2h2VDFkeGRXUTJVVnBrUmpnd00wWk1TR0U1VURSVWEydGFiblZ3ZUU5b09HeGhNVTAzVDAxM2ExRm9PSEpKWkVsV2FWVkZSMXBqZERneWVtMWlXbWxxYW1wS1NqSjZRbWRKVjNKeGVHTjJhWHBwVm5SNmNrazBTVXhYVXpoZmRWaGFORVppWW05Q1YxTlJNRWhGUVRKSVRVVnFlak5zY1hoM2EwTnpRbFZVVG1KeWRqQmZaVEpaTm1walYzaHViWEZyTURkNFJUSnNabEo2TWxObWFUTnRWRzlXVG1Sc1drVTBPV3R2U0ZSNU1HbFJTVmhxWVd0UWQyeFZPR3MxTVhCak0wTTJFaGR2WW1zNVdrMVFZa3gwWm1veWNtOVFNblZEUm1sQk5Cb2lRVTh0TUhKc05rbG1Za05FT0ZObmNGVnhjREZtVmtKRVZ6bHFZMUZaTldJeGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCb296IEFsbGVuIEhhbWlsdG9uIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5ib296YWxsZW4uY29tL2xvY2F0aW9ucy9Kb2JEZXRhaWwvQ2hhbnRpbGx5LURhdGEtQ2xvdWQtRW5naW5lZXItU2VuaW9yLVIwMTYwNzY5LzcyMzI4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Architect, Big Data, Cloud Technologies",
+            "company_name": "Elevance Health",
+            "location": "  Chicago, IL   ",
+            "via": "via Karkidi",
+            "description": "Data Architect, Big Data, Cloud Technologies\n\nBuild the Possibilities. Make an extraordinary impact...\n\nThe Data Architect will create architectural solutions that articulate the business context, conceptual design, and component-level logical design.\n\nHow you will make an impact:\n\nPrimary duties may include, but are not limited to:\n\u2022 Recommends new technologies based upon business value drivers and return on investment.\n\u2022 Drives new technologies towards implementation and exploitation.\n\u2022 Establishes overall systems architecture vision and ensures specific components are appropriately designed and leveraged\n\u2022 Contributes to the holistic vision of Enterprise Architecture.\n\u2022 Defines architecture standards and anticipate areas where architecture standards may need to be developed that are in-line with customer, IT and industry standards.\n\u2022 Directs the construction of architecture components (e.g., data architecture, application architecture, technical architecture).\n\u2022 Works with business units to translate business strategy into discrete requirements compatible with current technical architectures.\n\u2022 Defines systems, technical, and application architectures for new strategic initiatives.\n\u2022 Develops and maintains an architectural blueprint and evolutionary roadmap that defines and communicates the strategic direction for these architectures in support of business and technical strategies.\n\u2022 Explains how the roadmap maintains and delivers cost effectiveness, business value, and competitiveness.\n\u2022 Manage architecture resources and work with other architecture counterpart to deliver architect solutions. Provide leadership and mentorship to the staffs of all development disciplines in addition to the architecture.\n\u2022 Advises and provides guidance to business counterparts, customers, and top management on requirements pertinent to the data and technical capability\n\u2022 Influences key decisions for the technology & infrastructure architecture.\n\u2022 Advises the system and infrastructure configuration from application performance, scalability, and capacity perspective.\n\u2022 Present and communicate the architecture solutions, architecture patterns to technical and non-technical partners, and demonstrate how they will enable business needs\n\u2022 Ensure architecture aligns with business objectives, roadmaps as well as to CarelonRx's architecture principles and standards\n\u2022 Drives architectural decisions for the systems under development\n\u2022 Provide technical consultation to clients and IT management on technologies, architecture solution options with tradeoffs, alignment with standards and roadmaps\n\u2022 Define architecture patterns, architecture project deliverables, including data patterns, architecture decisions, rationale for those decisions and architecture solution.\n\u2022 Define and compare solutions to determine the optimal solutions for business needs.\n\nTen years experience in apply technologies in categories such as:\n\u2022 * Cloud Computing Services (AWS)\n\u2022 Databases (structured, semi-structured (JSON)\n\u2022 Unstructured (images))\n\u2022 Big Data Storage (S3, Snowflake)\n\u2022 Data Modeling (Dimensional)\n\u2022 Data Transformation Technologies (ETL, ELT)\n\u2022 Data Visualization (MicroStrategy, Tableau)\n\u2022 AI/ML Performance and Scaling Techniques Integration Patterns, Microservices and Containers Enabling data consumption thru API\n\nKeys to Success in this Role:\n\u2022 Hands on experience with the latest cloud-based AWS technology and familiarity with the latest industry trends and technology for enterprise data needs.\n\u2022 Data and Architectural leadership with knowledge of both legacy and modern cloud-based data technologies and applications\n\u2022 Strong judgment with excellent decision-making skills and excellent analytical skills\n\u2022 Ability to take care of ambiguity and lead technical solutions.\n\u2022 Ability to lead, collaborate and influence issue resolution across various groups in the organization\n\u2022 Ability to mentor/guide teams on data best practices, design solutions, standards and guidelines.\n\u2022 Excellent verbal and written communication skills and ability to succinctly present subject matter.\n\u2022 Ability to communicate effectively technology problems/solutions to business partners and senior leadership and translate high level directives into technical approaches consumed by technical groups\n\u2022 Highly motivated and upbeat self-starter with proven organizational and time leadership skills;\n\u2022 Demonstrable experience operating at high standards of quality and accuracy within a fast-paced changing environment\n\nMinimum Requirements\n\u2022 Requires an BA/BS degree in Information Technology, Computer Science or related field of study and a minimum of 5 years of experience in architecture/design in relevant technology disciplines; or any combination of education and experience, which would provide an equivalent background.\n\nPreferred Qualifications\n\u2022 5+ years of architecture management experience\n\u2022 10+ years of experience leading solutions architecture for end to end BI/Analytics/Datamart solutions\n\u2022 Top-tier professional with ability to make architecture and design decisions and tradeoffs for solution architecture that looks across the applications landscape and adheres to enterprise standards.\n\u2022 3 + years of AWS Cloud experience working with AWS services EC2, S3, EKS, RDS, Mongo, EMR, Lambda, Snowflake, Okera, Collibra, SNS, SQS\n\u2022 3+ years of large-scale digital transformation & AWS Cloud migration hands on experience with multiple technology areas like API, Microservices, Event Streaming, Logging & Monitoring, Databases (SQL, NOSQL), Containers, Serverless Frameworks, AI & ML etc.), API Platform (Apigee), Kafka, AMQ\n\u2022 10+ years of broad technology experience and knowledge across multiple disciplines such as application development, database SQL/NoSQL, infrastructure platform, security products, ETL products, rule engines, and Business Intelligence (BI) tools\n\u2022 10 years of hands-on experience in solution, data, architecture applied to multiple large-scale enterprise systems.\n\u2022 5 years extensive knowledge and experience in the Data technologies for Data Analytics, Data Warehouse, Data Mart, BI, Big Data (Hadoop, HBase, Hive), Databases SQL/NoSQL (DB2, Oracle, Sybase, Mongo, Postgres, MySQL), ETL (Informatica, Talend, Sqoop), CDC (Attunity), Store procedures, REST API, Integration/EAI technologies like Informatica, BI tools (MicroStrategy/Tableau), Snowflake5 years\u2019 experience with Technologies including Web Service API, Integration/EAI technologies like Informatica, XML, JSON, JDBC, SQL, Java, Python, R,\n\u2022 Knowledge of enterprise data models, information classification, meta-data models, taxonomies and ontologies\n\u2022 Experience in health care industry strongly preferred.\n\nPlease be advised that Elevance Health only accepts resumes from agencies that have a signed agreement with Elevance Health. Accordingly, Elevance Health is not obligated to pay referral fees to any agency that is not a party to an agreement with Elevance Health. Thus, any unsolicited resumes, including those submitted to hiring managers, are deemed to be the property of Elevance Health.\n\nBe part of an Extraordinary Team\n\nElevance Health is a health company dedicated to improving lives and communities \u2013 and making healthcare simpler. Previously known as Anthem, Inc., we have evolved into a company focused on whole health and updated our name to better reflect the direction the company is heading.\n\nWe are looking for leaders at all levels of the organization who are passionate about making an impact on our members and the communities we serve. You will thrive in a complex and collaborative environment where you take action and ownership to solve problems and lead change. Do you want to be part of a larger purpose and an evolving, high-performance culture that empowers you to make an impact?\n\nWe offer a range of market-competitive total rewards that include merit increases, paid holidays, Paid Time Off, and incentive bonus programs (unless covered by a collective bargaining agreement), medical, dental, vision, short and long term disability benefits, 401(k) +match, stock purchase plan, life insurance, wellness programs and financial education resources, to name a few",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ten years experience in apply technologies in categories such as:",
+                        "Cloud Computing Services (AWS)",
+                        "Unstructured (images))",
+                        "Big Data Storage (S3, Snowflake)",
+                        "Data Modeling (Dimensional)",
+                        "Data Visualization (MicroStrategy, Tableau)",
+                        "AI/ML Performance and Scaling Techniques Integration Patterns, Microservices and Containers Enabling data consumption thru API",
+                        "Hands on experience with the latest cloud-based AWS technology and familiarity with the latest industry trends and technology for enterprise data needs",
+                        "Data and Architectural leadership with knowledge of both legacy and modern cloud-based data technologies and applications",
+                        "Strong judgment with excellent decision-making skills and excellent analytical skills",
+                        "Ability to take care of ambiguity and lead technical solutions",
+                        "Ability to lead, collaborate and influence issue resolution across various groups in the organization",
+                        "Ability to mentor/guide teams on data best practices, design solutions, standards and guidelines",
+                        "Excellent verbal and written communication skills and ability to succinctly present subject matter",
+                        "Ability to communicate effectively technology problems/solutions to business partners and senior leadership and translate high level directives into technical approaches consumed by technical groups",
+                        "Highly motivated and upbeat self-starter with proven organizational and time leadership skills;",
+                        "Demonstrable experience operating at high standards of quality and accuracy within a fast-paced changing environment",
+                        "Requires an BA/BS degree in Information Technology, Computer Science or related field of study and a minimum of 5 years of experience in architecture/design in relevant technology disciplines; or any combination of education and experience, which would provide an equivalent background"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Data Architect will create architectural solutions that articulate the business context, conceptual design, and component-level logical design",
+                        "Recommends new technologies based upon business value drivers and return on investment",
+                        "Drives new technologies towards implementation and exploitation",
+                        "Establishes overall systems architecture vision and ensures specific components are appropriately designed and leveraged",
+                        "Contributes to the holistic vision of Enterprise Architecture",
+                        "Defines architecture standards and anticipate areas where architecture standards may need to be developed that are in-line with customer, IT and industry standards",
+                        "Directs the construction of architecture components (e.g., data architecture, application architecture, technical architecture)",
+                        "Works with business units to translate business strategy into discrete requirements compatible with current technical architectures",
+                        "Defines systems, technical, and application architectures for new strategic initiatives",
+                        "Develops and maintains an architectural blueprint and evolutionary roadmap that defines and communicates the strategic direction for these architectures in support of business and technical strategies",
+                        "Explains how the roadmap maintains and delivers cost effectiveness, business value, and competitiveness",
+                        "Manage architecture resources and work with other architecture counterpart to deliver architect solutions",
+                        "Provide leadership and mentorship to the staffs of all development disciplines in addition to the architecture",
+                        "Advises and provides guidance to business counterparts, customers, and top management on requirements pertinent to the data and technical capability",
+                        "Influences key decisions for the technology & infrastructure architecture",
+                        "Advises the system and infrastructure configuration from application performance, scalability, and capacity perspective",
+                        "Present and communicate the architecture solutions, architecture patterns to technical and non-technical partners, and demonstrate how they will enable business needs",
+                        "Ensure architecture aligns with business objectives, roadmaps as well as to CarelonRx's architecture principles and standards",
+                        "Drives architectural decisions for the systems under development",
+                        "Provide technical consultation to clients and IT management on technologies, architecture solution options with tradeoffs, alignment with standards and roadmaps",
+                        "Define architecture patterns, architecture project deliverables, including data patterns, architecture decisions, rationale for those decisions and architecture solution",
+                        "Define and compare solutions to determine the optimal solutions for business needs"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We offer a range of market-competitive total rewards that include merit increases, paid holidays, Paid Time Off, and incentive bonus programs (unless covered by a collective bargaining agreement), medical, dental, vision, short and long term disability benefits, 401(k) +match, stock purchase plan, life insurance, wellness programs and financial education resources, to name a few"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Elevance+Health&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAII0gs",
+                    "text": "See web results for Elevance Health"
+                }
+            ],
+            "extensions": [
+                "120K\u2013190K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "120K\u2013190K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFyY2hpdGVjdCwgQmlnIERhdGEsIENsb3VkIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoibkNDT2l6clhXVWdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UyZGlVV2hEU0hGMWQxQmFORXd6TkRKTVNXUTNkREJRWVZWamJVZ3lVazAwTmpSR2NWQk9iQzFMVHpaTloyWkpibXMxTFhnek0xVlhSMVZoUm0wdE5tWnZVMll4WkhJNWQwSjJhVWxJTjJST1p6RjJWMjlsVXpkT1NVNUpOMGRFWkdoa05qRm1OWEYwYmtSSWQwSjNORVF0U21OMVR6ZEJNblZEUVc5TlUwVXlTbUZGYW1kalVURkVTV1p4Wm5rNFZFbGliSGQ2T1ZsemNrd3RZVzR0VVhwQkxXMUxSbXhFTUdGWVJuVXRXQzFYZDAweWJFZHBhbEJUVTJoTmF6SmZNMkZUZGtsdFFXOW1NV3RNVEV0RGNFdEdRa0pYV0hoVlJEZENkeElYYjJKck9WcE5VR0pNZEdacU1uSnZVREoxUTBacFFUUWFJa0ZQTFRCeWJEUlRjbVIwY1ZaRVJWOTFiM2h5Wm1oaE1YaFFaVmREVUZrMU9WRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gS2Fya2lkaSIsImxpbmsiOiJodHRwczovL3d3dy5rYXJraWRpLmNvbS9qb2ItZGV0YWlscy8zNzU0Ni1kYXRhLWFyY2hpdGVjdC1iaWctZGF0YS1jbG91ZC10ZWNobm9sb2dpZXMtam9iP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "248 Cloud Software Engineer 3 - Security Clearance Required",
+            "company_name": "Arsiem Corporation",
+            "location": "  Annapolis Junction, MD   ",
+            "via": "via WJHL Jobs",
+            "description": "About ARSIEM Corporation\n\nAt ARSIEM Corporation we are committed to fostering a proven and trusted partnership with our government clients. We provide support to multiple agencies across the United States Government. ARSIEM has an experienced workforce of qualified professionals committed to providing the best possible support...\n\nAs demand increases, ARSIEM continues to provide reliable and cutting-edge technical solutions at the best value to our clients. That means a career packed with opportunities to grow and the ability to have an impact on every client you work with.\n\nARSIEM is currently looking for a Cloud Software Engineer. The position will support one of our Government clients in Annapolis Junction, MD.\n\nResponsibilities\n\u2022 Develop, maintain, and enhance complex and diverse Big-Data Cloud systems based upon documented requirements.\n\u2022 Directly contribute to all stages of back-end processing, analyzing, and indexing.\n\u2022 Provide expertise in Cloud Computing, Hadoop Eco-System, including implementing Java applications, Distributed Computing, Information Retrieval (IR), and Object-Oriented Design.\n\u2022 Work individually or as part of a team.\n\u2022 Review and test software components for adherence to the design requirements and documents test results.\n\u2022 Resolve software problem reports. Utilizes software development and software design methodologies appropriate to the development environment.\n\u2022 Provide specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components.\n\nMinimum Qualifications\n\u2022 Twelve (12) years of experience software engineering experience in programs and contracts of similar scope, type, and complexity.\n\u2022 Bachelor's degree in Computer Science or related discipline from an accredited college or university is required\n\u2022 Four (4) years of experience in programs utilizing Big-Data cloud technologies and Distributed Computing.\n\u2022 Four (4) years of cloud software engineering experience on projects with similar Big-Data systems may be substituted for a bachelor's degree.\n\u2022 Master's degree in Computer Science or related discipline from an accredited college or university may be substituted for two (2) years of experience.\n\u2022 Cloudera Certified Hadoop Developer certification may be substituted for one (1) year of Cloud experience.\n\u2022 Two (2) years of Cloud and Distributed Computing Information Retrieval (IR).\n\u2022 One (1) year of experience with implementing code that interacts with implementation of Cloud Big Table.\n\u2022 One (1) year of experience with implementing code that interacts with Cloud Distributed File System implementation.\n\u2022 One (1) year of experience with implementing complex MapReduce analytics.\n\u2022 One (1) year of experience implementing code that interacts with Cloud Distributed Coordination Frameworks.\n\u2022 One (1) year of experience in architecting Cloud Computing solutions\n\u2022 One (1) year of experience in managing multi-node Cloud-based installation\n\u2022 Utility Computing, Network Management, Virtualization (VMWare or VirtualBox), Cloud Computing\n\u2022 Multi-Node Management and Installation: Management and installation of Cloud and Distributed Computing on multiple nodes, Python, CFEngine, Bash, Ruby, or related technologies.\n\u2022 Experience in Information Assurance: Securing Cloud-Based and Distributed applications through industry-standard techniques such as Firewalls, PKI Certificate, and Server Authentication with experience in Corporate authentication service(s)\n\u2022 Experience in Information Technology:\n\u2022 Object-Oriented Design and Programming, Java, Eclipse or similar development environment, MAVEN, RESTful web services.\n\u2022 Cloud and Distributed Computing Technologies: at least one or a combination of the following areas - YARN, J2EE, MapReduce, Zookeeper, HDFS, HBase, JMS, Concurrent Programming, Multi-Node implementation/installation, and other applicable technologies.\n\u2022 Cloud and Distributed Computing Information Retrieval: at least one or a combination of the following areas - HDFS, HBASE, Apache Lucene, Apache Solr, MongoDB\n\u2022 Ingesting, Parsing, and Analysis of Disparate Data sources and formats: XML, JSON, CSV, Binary Formats, Sequence or Map Files, Avro, and related technologies\n\u2022 Aspect-Oriented Design and Development\n\u2022 Debugging and Profiling Cloud and Distributed Installations: Java Virtual Machine (JVM) memory management, Profiling Java Applications\n\u2022 UNIX/LINUX, CentOS, RedHat\n\u2022 Experience with at least one SIGINT collection discipline area (FORNSAT, CABLE, Terrestrial/Microwave, Overhead, and ELINT)\n\u2022 Geolocation, emitter identification, and signal applications.\n\u2022 Joint program collection platforms and dataflow architectures; signals characterization analysis\n\u2022 Configuration management tools such as Subversion, ClearQuest, or Razor.\n\nClearance Requirement: This position requires an active TS/SCI with a polygraph. You must be a US Citizen for consideration.\n\nCandidate Referral: Do you know someone who would be GREAT at this role? If you do, ARSIEM has a way for you to earn a bonus through our referral program for persons presenting NEW (not in our resume database) candidates who are successfully placed on one of our projects. The bonus for this position is $10,000, and the referrer is eligible to receive the sum for any applicant we place within 12 months of referral. The bonus is paid after the referred employee reaches 6 months of employment.\n\nARSIEM is proud to be an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age, or any other federally protected class",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Twelve (12) years of experience software engineering experience in programs and contracts of similar scope, type, and complexity",
+                        "Four (4) years of experience in programs utilizing Big-Data cloud technologies and Distributed Computing",
+                        "Four (4) years of cloud software engineering experience on projects with similar Big-Data systems may be substituted for a bachelor's degree",
+                        "Master's degree in Computer Science or related discipline from an accredited college or university may be substituted for two (2) years of experience",
+                        "Cloudera Certified Hadoop Developer certification may be substituted for one (1) year of Cloud experience",
+                        "Two (2) years of Cloud and Distributed Computing Information Retrieval (IR)",
+                        "One (1) year of experience with implementing code that interacts with Cloud Distributed File System implementation",
+                        "One (1) year of experience with implementing complex MapReduce analytics",
+                        "One (1) year of experience in architecting Cloud Computing solutions",
+                        "One (1) year of experience in managing multi-node Cloud-based installation",
+                        "Utility Computing, Network Management, Virtualization (VMWare or VirtualBox), Cloud Computing",
+                        "Multi-Node Management and Installation: Management and installation of Cloud and Distributed Computing on multiple nodes, Python, CFEngine, Bash, Ruby, or related technologies",
+                        "Experience in Information Assurance: Securing Cloud-Based and Distributed applications through industry-standard techniques such as Firewalls, PKI Certificate, and Server Authentication with experience in Corporate authentication service(s)",
+                        "Experience in Information Technology:",
+                        "Object-Oriented Design and Programming, Java, Eclipse or similar development environment, MAVEN, RESTful web services",
+                        "Cloud and Distributed Computing Technologies: at least one or a combination of the following areas - YARN, J2EE, MapReduce, Zookeeper, HDFS, HBase, JMS, Concurrent Programming, Multi-Node implementation/installation, and other applicable technologies",
+                        "Cloud and Distributed Computing Information Retrieval: at least one or a combination of the following areas - HDFS, HBASE, Apache Lucene, Apache Solr, MongoDB",
+                        "Ingesting, Parsing, and Analysis of Disparate Data sources and formats: XML, JSON, CSV, Binary Formats, Sequence or Map Files, Avro, and related technologies",
+                        "Aspect-Oriented Design and Development",
+                        "Debugging and Profiling Cloud and Distributed Installations: Java Virtual Machine (JVM) memory management, Profiling Java Applications",
+                        "UNIX/LINUX, CentOS, RedHat",
+                        "Experience with at least one SIGINT collection discipline area (FORNSAT, CABLE, Terrestrial/Microwave, Overhead, and ELINT)",
+                        "Geolocation, emitter identification, and signal applications",
+                        "Joint program collection platforms and dataflow architectures; signals characterization analysis",
+                        "Configuration management tools such as Subversion, ClearQuest, or Razor",
+                        "Clearance Requirement: This position requires an active TS/SCI with a polygraph",
+                        "You must be a US Citizen for consideration"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop, maintain, and enhance complex and diverse Big-Data Cloud systems based upon documented requirements",
+                        "Directly contribute to all stages of back-end processing, analyzing, and indexing",
+                        "Provide expertise in Cloud Computing, Hadoop Eco-System, including implementing Java applications, Distributed Computing, Information Retrieval (IR), and Object-Oriented Design",
+                        "Work individually or as part of a team",
+                        "Review and test software components for adherence to the design requirements and documents test results",
+                        "Resolve software problem reports",
+                        "Utilizes software development and software design methodologies appropriate to the development environment",
+                        "Provide specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The bonus for this position is $10,000, and the referrer is eligible to receive the sum for any applicant we place within 12 months of referral"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.arsiem.com/",
+                    "text": "arsiem.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Arsiem+Corporation&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIlQw",
+                    "text": "See web results for Arsiem Corporation"
+                }
+            ],
+            "extensions": [
+                "6 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiIyNDggQ2xvdWQgU29mdHdhcmUgRW5naW5lZXIgMyAtIFNlY3VyaXR5IENsZWFyYW5jZSBSZXF1aXJlZCIsImh0aWRvY2lkIjoiNlBZZUhXOWU5a3NBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3Q0Nvd0NRVVZ6TjJwT1UyazRVRVpZVFRWMlIySk1lbVZsVEVkRmVFOUtkekJITFRoQk5sRnNNVnAxZURJMVJqZHpiamcwUVVWQ1ZpMDRWWEpxVlhsR1ozcHBTMnBXUkdocUxXTkZRWFpPUjBsRVNuUldRamhYVEdWbGRIaGZkMk0wUTNwUVVUaHVSek53V1UxU1dHdFZkR2wxZFdNd1kxRnNiMHcxZDFCRFdscExiMDlOWW5VeE4xZHZlVE50WVRkVk4zbHRVMHh1YlRGMmJGODNVR3hQU1dWb1ZIQlZNMlV0U0Y5Zk1tcEJlVVJ1ZGtGaU5WbDBjMDEzWm1WU1FtTlpMVk5YT1Y5bWFVeDJYMmh6ZDBwS1RreHhOMHRvVm01TWVWSTRaRE5uYVdwamIxVkhYMVJ3VjJWaWNEUjVWMnN4VW5oVVVYWmxSVXhHVlhNemNsTkdaMUpzWTAxclIxWXdPSGN6WjIwd1F4SVhiMkpyT1ZwTlVHSk1kR1pxTW5KdlVESjFRMFpwUVRRYUlrRlBMVEJ5YkRkRlZ6RlVWa3hVZUdsT1pYUkdWbUZKV1VveFlsazNkVXBsZGxFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV0pITCBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy53amhsLmNvbS9qb2JzLzI0OC1jbG91ZC1zb2Z0d2FyZS1lbmdpbmVlci0zLXNlY3VyaXR5LWNsZWFyYW5jZS1yZXF1aXJlZC1hbm5hcG9saXMtanVuY3Rpb24tbWFyeWxhbmQvOTc0MTM4MzkzLTIvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Cybersecurity - Cloud Software Engineer - Hadoop, Big Data",
+            "company_name": "Erias Ventures, LLC",
+            "location": "  Annapolis Junction, MD   ",
+            "via": "via ZipRecruiter",
+            "description": "Erias Ventures was founded to serve its customers with an entrepreneurial mindset. We value creative problem-solving, open communication, and empowering our employees to make decisions and put forth new ideas.\n\nWe are seeking engineers who wish to grow their careers and want to become part of a strong, entrepreneurial-minded, and technical company focused on bringing innovative solutions to the... difficult mission problems facing our customers.\n\nDescription\nWe have an immediate opening for a Cloud Software Engineer to develop, maintain, and enhance complex and diverse Big-Data cloud systems based upon documented requirements. Provide expertise in cloud computing, Eco-System, including implementing applications, distributed Computing, Information Retrieval (IR), and Object Oriented Design.\n\nRequirements\nA current Top-Secret/SCI with FS polygraph security clearance is required. Candidates cannot be sponsored or nominated for a government security clearance under this position.\n\nRequired skills:\n\u2022 Five (5) years experience in software development/engineering, including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution.\n\u2022 Four(4) years of experience developing software with high level languages such as Java, C, C++ .\n\u2022 Three (3) years experience developing software for Windows (2000, 2003, XP, Vista), or UNIX/Linux (Redhat versions 3-5) operating systems\n\u2022 Three (3) years experience in software integration and software testing, to include developing and implementing test plans and test scripts\n\u2022 Ability to work with OpenSource (NoSQL) products that support highly distributed, massively parallel computation needs such as Hbase, CloudBase/Acumulo, Big Table, etc.\n\u2022 Shall have demonstrated work experience with the Map Reduce programming model and technologies such as Hadoop, Hive, Pig, etc\n\u2022 Work experience with the Hadoop Distributed File System (HDFS)\n\u2022 Work experience with Serialization such as JSON and/or BSON\nBenefits\nErias Ventures provides employees with a complete benefits package that includes:\n\u2022 Above Market Hourly Pay that includes Paid Time Off, Birthday Off, Flexible Work Schedules\n\u2022 11% Roth or Traditional 401k with Immediate Vesting and Deposit\n\u2022 Company subsidized Medical Coverage\n\u2022 100% Company Paid Vision and Dental Coverage\n\u2022 100% Company Paid Long Term Disability, Short Term Disability, and Group Life Insurance\n\u2022 Monthly Internet and Wellness Reimbursement\n\u2022 Company Paid Professional Development and Training\n\u2022 Technology and Productivity Allowance for Equipment and Supplies\n\u2022 Bonuses for Assisting with Business Development and Company Growth\n\u2022 Morale Building and Company Events to Celebrate our Successes and Build our Community\nAt Erias Ventures, we are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.\n\nReferrals\nKnow a cleared professional looking for more in their career? Want some extra money for the Summer? If so, drop us a line with their name and contact information and you could be eligible for a referral bonus up to $10,000 for each successful hire.\n\nNot seeing the right position? Drop us a line to be notified as we add new contracts and opportunities!\n\nPlease send referrals and inquiries to:\njobs@eriasventures.com\n\nTo learn more about our company visit our webpage or LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A current Top-Secret/SCI with FS polygraph security clearance is required",
+                        "Candidates cannot be sponsored or nominated for a government security clearance under this position",
+                        "Five (5) years experience in software development/engineering, including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution",
+                        "Four(4) years of experience developing software with high level languages such as Java, C, C++",
+                        "Three (3) years experience developing software for Windows (2000, 2003, XP, Vista), or UNIX/Linux (Redhat versions 3-5) operating systems",
+                        "Three (3) years experience in software integration and software testing, to include developing and implementing test plans and test scripts",
+                        "Ability to work with OpenSource (NoSQL) products that support highly distributed, massively parallel computation needs such as Hbase, CloudBase/Acumulo, Big Table, etc",
+                        "Shall have demonstrated work experience with the Map Reduce programming model and technologies such as Hadoop, Hive, Pig, etc",
+                        "Work experience with the Hadoop Distributed File System (HDFS)",
+                        "Work experience with Serialization such as JSON and/or BSON"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Provide expertise in cloud computing, Eco-System, including implementing applications, distributed Computing, Information Retrieval (IR), and Object Oriented Design"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Erias Ventures provides employees with a complete benefits package that includes:",
+                        "Above Market Hourly Pay that includes Paid Time Off, Birthday Off, Flexible Work Schedules",
+                        "11% Roth or Traditional 401k with Immediate Vesting and Deposit",
+                        "Company subsidized Medical Coverage",
+                        "100% Company Paid Vision and Dental Coverage",
+                        "100% Company Paid Long Term Disability, Short Term Disability, and Group Life Insurance",
+                        "Monthly Internet and Wellness Reimbursement",
+                        "Company Paid Professional Development and Training",
+                        "Technology and Productivity Allowance for Equipment and Supplies",
+                        "Bonuses for Assisting with Business Development and Company Growth"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Erias+Ventures,+LLC&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAII1gw",
+                    "text": "See web results for Erias Ventures, LLC"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJDeWJlcnNlY3VyaXR5IC0gQ2xvdWQgU29mdHdhcmUgRW5naW5lZXIgLSBIYWRvb3AsIEJpZyBEYXRhIiwiaHRpZG9jaWQiOiJmV3pLRlEtcU5vOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVVMxYWFuUlNjV2RTYUhacVlVaERlSEk0WlRsdFowWXpjRUZmWVdwbFZUTnNkbkJ2V0ZaMWNtMW1halZCT1ZoclkwZzFVM0kzWVU1Rk5rcEpkWFJTVEhVMlIxVXdlRVl6Tlhsc09GSmtaVE5DUW1OdE0yOHlVbHBmWVU0d1JGSk9jWFU1ZW5SdmJuSlpOMlpwVTNKcFdHNDJSVzQzZFhwWmJFbFVSRFpZWDA1WE5XOXBhazE2YUROWVgxODJNM000WDJWQ2RHNVliV3hqTkhrMFgzVlhVVFJDV25sZk9VZExjMnczUlVob1luWmtXVm94VDFwbFdIRTJRbFp1UmxoVmFWaHZNVkIzTkdreVdGUnBRbDlpYzBWdmNWcHRjR014TFdoV1FuTnVRV1pLVjNoRFRuSldWV2xTYmxSRFpHWklTUklYYjJKck9WcE5VR0pNZEdacU1uSnZVREoxUTBacFFUUWFJa0ZQTFRCeWJEWjJOM1pQUlhwcVgyMVdTMU51UkVWUldVeDRSM2h5TlZWTlpGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvRXJpYXMtVmVudHVyZXMsLUxMQy9Kb2IvQ3liZXJzZWN1cml0eS1DbG91ZC1Tb2Z0d2FyZS1FbmdpbmVlci1IYWRvb3AsLUJpZy1EYXRhLy1pbi1Bbm5hcG9saXMtSnVuY3Rpb24sTUQ/amlkPWVmNTliNzczNGQ2OTJjMWFcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Big Data Architect",
+            "company_name": "Johnson Technology Systems Inc.",
+            "location": "  Washington, DC   ",
+            "via": "via Ladders",
+            "description": "We are hiring for Big Data Architect candidates to support our Federal project.\nCompany Name: - JTSi (Johnson Technology Systems, Inc.)\nRole: Big Data Architect...\nLocation: Remote\nClient: Federal\nVisa Status: US Citizen\nClearance: Active Clearance (Open for Clearable Candidates)\nJob Description :\n\u00b7 A Big Data Architect is responsible for designing and implementing large-scale Big Data solutions that can process, store, and analyze vast amounts of data in real-time. A job description for a Big Data Architect may include the following responsibilities:\n\u00b7 Design and implement Big Data architectures, frameworks, and platforms that can process, store, and analyze large volumes of data from various sources, such as social media, sensors, and transactional systems.\n\u00b7 Develop data pipelines and ETL workflows that can transform and integrate data from multiple sources into a unified data lake or warehouse.\n\u00b7 Evaluate, select, and integrate Big Data technologies, such as Hadoop, Spark, and Flink, to optimize performance and scalability, including loading from disparate data sets, preprocessing using Hive and Pig\n\u00b7 Develop and deploy machine learning models and algorithms that can extract insights and patterns from Big Data.\n\u00b7 Design and implement data governance and security controls to ensure data quality, accuracy, privacy, and compliance.\n\u00b7 Collaborate with cross-functional teams, such as data scientists, data engineers, and business analysts, to understand their requirements and provide solutions that meet their needs.\n\u00b7 Develop and maintain data models and schema designs that optimize performance and meet business requirements.\n\u00b7 Monitor and tune performance of Big Data systems, including capacity planning and resource optimization.\n\u00b7 Stay up-to-date with emerging trends and best practices in Big Data technologies, such as cloud computing, serverless computing, and edge computing.\n\u00b7 Develop and maintain Big Data standards and guidelines for development, testing, deployment, and maintenance.\nRequirements for a Big Data Architect position:\n\u00b7 Minimum 8-12 years of experience in Data Modeling in Data Warehouse Environment\n\u00b7 U.S Citizens\n\u00b7 Demonstrated experience in various Big data architectures like Lambda / kappa with usage of automation / scheduling tool like Oozie or Cronacle or any other technologies\n\u00b7 Strong understanding of Big Data architectures, frameworks, and platforms, such as Hadoop, Spark, Flink, Cassandra, and Kafka.\n\u00b7 Proven experience in designing and implementing large-scale Big Data solutions for enterprise customers.\n\u00b7 Expertise in one or more programming languages, such as Java, Python, or Scala.\n\u00b7 In-depth knowledge of distributed computing and parallel processing concepts, such as MapReduce, YARN, and Spark RDD.\n\u00b7 Experience in data modeling and schema design for Big Data, including partitioning, clustering, and indexing strategies.\n\u00b7 Familiarity with Big Data monitoring tools, such as Ganglia, Nagios, and Ambari.\n\u00b7 Familiarity with Big Data frameworks and libraries, such as HDFS, Hive, Pig, and MahoutYAR\n\u00b7 Understanding of machine learning concepts and algorithms, such as regression, classification, clustering, and deep learning.\n\u00b7 Experience with cloud computing platforms, such as AWS, GCP, or Azure.\n\u00b7 Knowledge of data governance and security best practices, such as GDPR, HIPAA, and PCI DSS.\n\u00b7 Excellent communication, collaboration, leadership, and problem-solving skills.\nIf you are available, interested, planning to make a change, or know of a friend who might have the required qualifications and interest, please call me ASAP on 571 - 406 - 2272 / If you do respond via e-mail ( jinson.jose (at) jtsusa.com) please include a daytime phone number so I can reach you. In considering candidates, time is of the essence, so please respond ASAP with your updated resume.\nEstablished in 2003, JTSi is a Professional IT & Engineering Services provider with years of documented experience in the Information Technology and Engineering services field. JTSi has a proven track record for successfully delivering mission critical Professional services to the Government and the industry. JTSi SAP team delivers solutions to its clients by clearly understanding their core business problems. We deliver quality services at equitable rates and focus on constant improvement in all areas of our operation, austerely complying to the customer\u2019s desire. We view our-selves more as a business partner than a mere provider of consulting services. At JTSi \u201ccustomer is always first\u201d and partnering is our means to customer satisfaction. We do what we say",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Minimum 8-12 years of experience in Data Modeling in Data Warehouse Environment",
+                        "U.S Citizens",
+                        "Demonstrated experience in various Big data architectures like Lambda / kappa with usage of automation / scheduling tool like Oozie or Cronacle or any other technologies",
+                        "Strong understanding of Big Data architectures, frameworks, and platforms, such as Hadoop, Spark, Flink, Cassandra, and Kafka",
+                        "Proven experience in designing and implementing large-scale Big Data solutions for enterprise customers",
+                        "Expertise in one or more programming languages, such as Java, Python, or Scala",
+                        "In-depth knowledge of distributed computing and parallel processing concepts, such as MapReduce, YARN, and Spark RDD",
+                        "Experience in data modeling and schema design for Big Data, including partitioning, clustering, and indexing strategies",
+                        "Familiarity with Big Data monitoring tools, such as Ganglia, Nagios, and Ambari",
+                        "Familiarity with Big Data frameworks and libraries, such as HDFS, Hive, Pig, and MahoutYAR",
+                        "Understanding of machine learning concepts and algorithms, such as regression, classification, clustering, and deep learning",
+                        "Experience with cloud computing platforms, such as AWS, GCP, or Azure",
+                        "Knowledge of data governance and security best practices, such as GDPR, HIPAA, and PCI DSS",
+                        "Excellent communication, collaboration, leadership, and problem-solving skills",
+                        "If you are available, interested, planning to make a change, or know of a friend who might have the required qualifications and interest, please call me ASAP on 571 - 406 - 2272 / If you do respond via e-mail ( jinson.jose (at) jtsusa.com) please include a daytime phone number so I can reach you"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "A Big Data Architect is responsible for designing and implementing large-scale Big Data solutions that can process, store, and analyze vast amounts of data in real-time",
+                        "Design and implement Big Data architectures, frameworks, and platforms that can process, store, and analyze large volumes of data from various sources, such as social media, sensors, and transactional systems",
+                        "Develop data pipelines and ETL workflows that can transform and integrate data from multiple sources into a unified data lake or warehouse",
+                        "Evaluate, select, and integrate Big Data technologies, such as Hadoop, Spark, and Flink, to optimize performance and scalability, including loading from disparate data sets, preprocessing using Hive and Pig",
+                        "Develop and deploy machine learning models and algorithms that can extract insights and patterns from Big Data",
+                        "Design and implement data governance and security controls to ensure data quality, accuracy, privacy, and compliance",
+                        "Collaborate with cross-functional teams, such as data scientists, data engineers, and business analysts, to understand their requirements and provide solutions that meet their needs",
+                        "Develop and maintain data models and schema designs that optimize performance and meet business requirements",
+                        "Monitor and tune performance of Big Data systems, including capacity planning and resource optimization",
+                        "Stay up-to-date with emerging trends and best practices in Big Data technologies, such as cloud computing, serverless computing, and edge computing",
+                        "Develop and maintain Big Data standards and guidelines for development, testing, deployment, and maintenance"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.jtsusa.com/",
+                    "text": "jtsusa.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Johnson+Technology+Systems+Inc.&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIng0",
+                    "text": "See web results for Johnson Technology Systems Inc."
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCaWcgRGF0YSBBcmNoaXRlY3QiLCJodGlkb2NpZCI6InJBU1BYUFdkNnpnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9WSGxxTFRCM2MxbDVkVGQxTjNWR1gxaHRNWHBtVjJrdFpEVklVMHQzTFhwM05WUkdka1JCT1RGa2RqQXhXblptV0doRmRGcDBSWGt5TFRkR1JIQXpjbDlGTW1OZk16aHlXak52V1c1U01IUXRhWHBpWkdFMGExbGlaVGhDTW5ad1ZYQjVTR3RwYUZacWVrUk5SVnBaT1VNM0xVMTNSRmxxUnpsaE9WaG5ZMHA1V0d4SWRrdHlORVEyY2xSVFRXaHBUa1l4V0ZBeFNHVm5VVEJWZUVkcGFHRkphR3A1UzNGMmNYWldWVU5qVmpSUFYzWTFSek13Y1dGNGMwMXpXSEZFY0d4eU1rcE1hekE1WkVOblQzbGpha1ZaY0VsSWNtOXhMVmMzVVJJWGIySnJPVnBOVUdKTWRHWnFNbkp2VURKMVEwWnBRVFFhSWtGUExUQnliRFp4YkRSSk1sOVZTSGxIYW5KM1h6VnJVRjloTmpkSVRrTmtjSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMYWRkZXJzIiwibGluayI6Imh0dHBzOi8vd3d3LnRoZWxhZGRlcnMuY29tL2pvYi1saXN0aW5nL2JpZy1kYXRhLWFyY2hpdGVjdC1qb2huc29uLXRlY2hub2xvZ3ktc3lzdGVtcy1pbmMtd2FzaGluZ3Rvbi1kaXN0cmljdC1vZi1jb2x1bWJpYS1fdjJfLTExLTIzOTI4MDYyNTIuaHRtbD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Scrum Master/Business Analyst (Cloud computing / Data integration)",
+            "company_name": "Trigyn",
+            "location": "  White Plains, NY   ",
+            "via": "via Trigyn",
+            "description": "Our client - a major utility firm based out of Westchester County, NY - has an immediate need for Scrum Master/Business Analyst. The particulars of the position are as follows.\n\nJob Functions & Responsibilities...\n\u2022 Manage each project\u2019s scope and timeline Coordinate sprints, retrospective meetings and daily stand-ups Coach team members in Agile frameworks Facilitate internal communication and effective collaboration\n\u2022 Be the point of contact for external communications (e.g. from customers or stakeholders)\n\u2022 Work with product owners to handle backlogs and new requests\n\u2022 Resolve conflicts and remove obstacles that occur\n\u2022 Help teams implement changes effectively\n\u2022 Ensure deliverables are up to quality standards at the end of each sprint\n\u2022 Guide development teams to higher scrum maturity, agile coaching as applicable\n\u2022 Help build a productive environment where team members \u2018own\u2019 the product and enjoy working on it\n\u2022 Create Functional Requirements\n\u2022 Create and maintain and user stories, acceptance criteria, test cases in Azure DevOps\n\u2022 Create business Process flow documents and Business process documents\n\u2022 Create Technical Requirements document\n\u2022 Create Requirements Traceability Matrix\n\u2022 Create data mapping documents and Technical Interface specification for electronic files (e-files)\n\u2022 Create test strategy, scenarios and scripts\n\u2022 Assist team in developing application support RACI and support handover documents.\n\u2022 Assist team with stakeholder communications\n\u2022 Assist team with completion of provided Business Impact Assessment and Technology Impact Assessment forms\n\u2022 Weekly status reports. Meeting agendas, materials, and minutes for weekly meetings.\n\nSkills\n\u2022 Experience in a scrum master role Familiarity with software development\n\u2022 Excellent knowledge of Scrum techniques and artifacts (such as definition of done, user stories, automated testing, backlog refinement)\n\u2022 Good knowledge of other Agile frameworks\n\u2022 Excellent communication and leadership skills\n\u2022 Problem-solving and conflict-resolution ability\n\u2022 Outstanding organizational skills\n\u2022 Degree in Computer Science, Business or similar field\n\u2022 Scrum master certification is a plus\n\u2022 Experience with Azure DevOps is a plus\n\nEducation & Certifications:\n\u2022 BS in Computer Science, Information Systems, or a related field from an accredited school, or equivalent.\n\u2022 5+ years of applicable experience as Scrum Master for IT projects including cloud computing and data integration.\n\n\u2022 Scrum master certification Any of the following BA certifications is a plus:\n\u2022 IIBA Entry Certificate in Business Analysis (ECBA)\n\u2022 IIBA Certification of Competency in Business Analysis (CCBA)\n\u2022 IIBA Certified Business Analysis Professional (CBAP)\n\u2022 IIBA Agile Analysis Certification (AAC)\n\u2022 IQBBA Certified Foundation Level Business Analyst (CFLBA)\n\u2022 IREB Certified Professional for Requirements Engineering (CPRE)\n\u2022 PMI-Professional in Business Analysis (PBA) Certification.\n\nFor an immediate response, please call 732-876-7624, or send your resume to RecruiterLS@Trigyn.com\n\nTRIGYN TECHNOLOGIES, INC. is an EQUAL OPPORTUNITY EMPLOYER and has been in business for 30 years. TRIGYN is an ISO 9001:2015, ISO 27001:2013 (ISMS) and CMMI Level 5 certified company",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience in a scrum master role Familiarity with software development",
+                        "Excellent knowledge of Scrum techniques and artifacts (such as definition of done, user stories, automated testing, backlog refinement)",
+                        "Good knowledge of other Agile frameworks",
+                        "Excellent communication and leadership skills",
+                        "Problem-solving and conflict-resolution ability",
+                        "Outstanding organizational skills",
+                        "Degree in Computer Science, Business or similar field",
+                        "BS in Computer Science, Information Systems, or a related field from an accredited school, or equivalent",
+                        "5+ years of applicable experience as Scrum Master for IT projects including cloud computing and data integration",
+                        "IIBA Entry Certificate in Business Analysis (ECBA)",
+                        "IIBA Certification of Competency in Business Analysis (CCBA)",
+                        "IIBA Certified Business Analysis Professional (CBAP)",
+                        "IIBA Agile Analysis Certification (AAC)",
+                        "IQBBA Certified Foundation Level Business Analyst (CFLBA)",
+                        "IREB Certified Professional for Requirements Engineering (CPRE)",
+                        "PMI-Professional in Business Analysis (PBA) Certification"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Manage each project\u2019s scope and timeline Coordinate sprints, retrospective meetings and daily stand-ups Coach team members in Agile frameworks Facilitate internal communication and effective collaboration",
+                        "Be the point of contact for external communications (e.g. from customers or stakeholders)",
+                        "Work with product owners to handle backlogs and new requests",
+                        "Resolve conflicts and remove obstacles that occur",
+                        "Help teams implement changes effectively",
+                        "Ensure deliverables are up to quality standards at the end of each sprint",
+                        "Guide development teams to higher scrum maturity, agile coaching as applicable",
+                        "Help build a productive environment where team members \u2018own\u2019 the product and enjoy working on it",
+                        "Create Functional Requirements",
+                        "Create and maintain and user stories, acceptance criteria, test cases in Azure DevOps",
+                        "Create business Process flow documents and Business process documents",
+                        "Create Technical Requirements document",
+                        "Create Requirements Traceability Matrix",
+                        "Create data mapping documents and Technical Interface specification for electronic files (e-files)",
+                        "Create test strategy, scenarios and scripts",
+                        "Assist team in developing application support RACI and support handover documents",
+                        "Assist team with stakeholder communications",
+                        "Assist team with completion of provided Business Impact Assessment and Technology Impact Assessment forms",
+                        "Weekly status reports",
+                        "Meeting agendas, materials, and minutes for weekly meetings"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.trigyn.com/",
+                    "text": "trigyn.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Trigyn&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAII4w0",
+                    "text": "See web results for Trigyn"
+                }
+            ],
+            "extensions": [
+                "1 day ago",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Contractor"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTY3J1bSBNYXN0ZXIvQnVzaW5lc3MgQW5hbHlzdCAoQ2xvdWQgY29tcHV0aW5nIC8gRGF0YSBpbnRlZ3JhdGlvbikiLCJodGlkb2NpZCI6InM1YW5nT0lBbHJjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVWek4ycE9VMjFPY1dSNVNFY3pabU5wWkZGdFpYUkVhbHBFWWtacVozWlBZVkphVkVSVlZUZGxlQzFXT0RBeFkwOUtSMFl0V1VscFNGaElUVzB3UkhreWVFeHZMVmRvYUdzeFFtVjZTWE0zWm5SbmVGcFNTR2d6VjB0U01tTmpiMGx2TjJsSlRYSlZabE01WlhwWWMyZEdhVUV3Y2tnelUzRTVUVWxQWnpjNFdrMUdlbTh5ZUZWaGJqTmFNR05NUzFkMWQwdHFabEZoYUdOa00xRkNjMFZYVG14MU1tRnZTMmRYWVdsbmIyaGpSMVJTVFRWVU5IWTRXbTVIT0cxblQxQk1iVXRHVVRRelMzcHhVME5oV21zM05Xa3laRlJKVkVKRlQzQmxiMnhEY20wNFJXaFZSREJ5ZG14NVlXYzFNM0ZxVXpaQmJ4SVhiMkpyT1ZwTlVHSk1kR1pxTW5KdlVESjFRMFpwUVRRYUlrRlBMVEJ5YkRSSFkzUllaREJ0Y0ZGblJFOVNhRloxVUROUFNUTnJiSFl4VDBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gVHJpZ3luIiwibGluayI6Imh0dHBzOi8vd3d3LnRyaWd5bi5jb20vam9iL3NjcnVtLW1hc3RlcmJ1c2luZXNzLWFuYWx5c3QtY2xvdWQtY29tcHV0aW5nLWRhdGEtaW50ZWdyYXRpb24/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Cloud Design Engineer 2 - Security Clearance Required",
+            "company_name": "Raytheon Technologies",
+            "location": "  Annapolis, MD   ",
+            "via": "via FOX44 News Jobs",
+            "description": "Date Posted:2022-11-03-07:00\n\nCountry:United States of America...\n\nLocation:MD233: 420 National Business Parkway 420 National Business Parkway Suite 400, Annapolis Junction, MD, 20701 USA\n\nPosition Role Type:Onsite\n\nRaytheon Technologies' CODEX (Cyber Offense and Defense Experts) division brings together an elite team of mission-focused industry experts who are well known for their ability to overcome the most advanced technical challenges. The team comprises engineers of multiple disciplines including vulnerability research, reverse engineering, CNO/CNE development, hardware emulation, system engineering, and data analytics. Our engineers do more than just work with cutting-edge technology-they ensure the missions succeed for the customers! CODEX offices span the nation and offer its engineers the ability to advance their careers through mentorship, training, and an expansive technical portfolio that covers every side of cyber. If you want to be part of a collaborative team that supports challenging, meaningful work that is vital to our national security, apply today!\n\nJob Overview: Cloud Software Engineer\n\nDevelops, maintains, and enhances complex and diverse Web-Based User Interfaces that interact with Big-Data Cloud systems based upon documented requirements\n\nDirectly contributes to all stages of Web-based User Interfaces that expose data for Big Data Cloud Based infrastructure using Hadoop ecosystem.\n\nProvides expertise in Cloud Computing, Distributed Computing, and how best to display data produced by these technologies.\n\nImplements Graphical Web-Based User Interface with usability, security, and performance in mind.\n\nReviews and tests software components for adherence to the design requirements and documents test results\n\nResolves software problem reports\n\nUtilizes software development and software design methodologies appropriate to the development environment\n\nProvides specific input to the software components of system design to include hardware/software trade-offs, software reuse.\n\nThe Cloud Design Engineer shall possess the following capabilities:\n\nProvide in-depth knowledge of Information Retrieval\n\nAssisting the software development team in designing, developing and testing Cloud Information\n\nPropose new ways of analyzing data stored in Cloud Big Table\n\nPropose new ways of analyzing data stored in Cloud Distributed File System\n\nOversee one or more software development tasks and ensures the work is completed in accordance with the constraints of the software development process being used on any particular project\n\nEnsure quality control of all developed and modified software\n\nMake recommendations for improving documentation and software development process standards.\n\nPosition Requirements:\n\nEight (8) years' experience software engineering experience on programs and contracts of similar scope, type, and complexity is required.\n\nTwo (2) years of which must be in programs utilizing Big-Data Cloud technologies and/or Distributed Computing.\n\nEducation Requirements\n\nTypically requires Bachelor's degree in Computer Science or related discipline from an accredited college or university.\n\nClearance Requirements: This position requires a TS/SCI w/current polygraph.\n\nRelocation Eligible\n\nThis position is not relocation eligible.\n\nReferral Award Eligibility: Only employees currently within RMD and RI&S have the potential to receive a Referral Award for submitting a referral to RMD and RI&S roles. ALL eligibility requirements must be met to receive the Referral Awarding.\n\n#RISTB\n\n#RISCODEX\n\nRaytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Eight (8) years' experience software engineering experience on programs and contracts of similar scope, type, and complexity is required",
+                        "Two (2) years of which must be in programs utilizing Big-Data Cloud technologies and/or Distributed Computing",
+                        "Typically requires Bachelor's degree in Computer Science or related discipline from an accredited college or university",
+                        "Clearance Requirements: This position requires a TS/SCI w/current polygraph"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develops, maintains, and enhances complex and diverse Web-Based User Interfaces that interact with Big-Data Cloud systems based upon documented requirements",
+                        "Directly contributes to all stages of Web-based User Interfaces that expose data for Big Data Cloud Based infrastructure using Hadoop ecosystem",
+                        "Provides expertise in Cloud Computing, Distributed Computing, and how best to display data produced by these technologies",
+                        "Implements Graphical Web-Based User Interface with usability, security, and performance in mind",
+                        "Reviews and tests software components for adherence to the design requirements and documents test results",
+                        "Resolves software problem reports",
+                        "Utilizes software development and software design methodologies appropriate to the development environment",
+                        "Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse",
+                        "Provide in-depth knowledge of Information Retrieval",
+                        "Assisting the software development team in designing, developing and testing Cloud Information",
+                        "Propose new ways of analyzing data stored in Cloud Big Table",
+                        "Propose new ways of analyzing data stored in Cloud Distributed File System",
+                        "Oversee one or more software development tasks and ensures the work is completed in accordance with the constraints of the software development process being used on any particular project",
+                        "Ensure quality control of all developed and modified software",
+                        "Make recommendations for improving documentation and software development process standards"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.rtx.com/",
+                    "text": "rtx.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Raytheon+Technologies&sa=X&ved=0ahUKEwiDsJLO7bH-AhXXsVYBHVpwAeE4ChCYkAIIpA4",
+                    "text": "See web results for Raytheon Technologies"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBEZXNpZ24gRW5naW5lZXIgMiAtIFNlY3VyaXR5IENsZWFyYW5jZSBSZXF1aXJlZCIsImh0aWRvY2lkIjoiOXVnUzltVFpUcUFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1VuRTNOazVPYTNOMUxVcENTMmg0VlhSTlJWTkxObU5QVVc5MlZGOVZRMHBSU0dSNWVWbEtaRXhuU1V0NVdscFFMVVJSTTNSdFF5MTZOR3h0TUVSeWMxQlZaakJXVUUxak5ucE5RMVEzVGpKS1RqQkJWbU5CTVVSeVVqVTBOaTEyU1V0elprZE5OM0IyVEhNd1ZHNVZMWHByU3pSMmNIVkxVM1p3Tms5dGVtbG5jRmR1VnpWU1JYb3lRWEYyYWpkT1RFcFRjMjh5YkRWamIzUmtWbmg0U0ROWGMxTnJZbWhLVWtOVlZXdE5aVUZtTFd3NFdEY3dUakZ5UjJJMk9XZzBaV3RCVTBORWNrVlNkVmN0ZVRGQ05tZHpNRVZSVm1OU2RHVlFkbFJ2VlRsQ1duQmxaMHRxWlhGa2FEWmxiMkZHYXhJWGIySnJPVnBOVUdKTWRHWnFNbkp2VURKMVEwWnBRVFFhSWtGUExUQnliRFl5ZFd0RE4zUkNPR0pOTVU1MmRGVlBhRlZ5Wld3MlFWaDVUMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBGT1g0NCBOZXdzIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmZveDQ0bmV3cy5jb20vam9icy9jbG91ZC1kZXNpZ24tZW5naW5lZXItMi1zZWN1cml0eS1jbGVhcmFuY2UtcmVxdWlyZWQtYW5uYXBvbGlzLW1hcnlsYW5kLzk3NTk2MTA1NS0yLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Design engineer",
+                    "value": "design engineer"
+                },
+                {
+                    "text": "Data architect",
+                    "value": "data architect"
+                },
+                {
+                    "text": "Customer engineer",
+                    "value": "customer engineer"
+                },
+                {
+                    "text": "Support engineer",
+                    "value": "support engineer"
+                },
+                {
+                    "text": "Cloud architect",
+                    "value": "cloud architect"
+                },
+                {
+                    "text": "Data consultant",
+                    "value": "data consultant"
+                },
+                {
+                    "text": "Sales engineer",
+                    "value": "sales engineer"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Cloud consultant",
+                    "value": "cloud consultant"
+                },
+                {
+                    "text": "Cloud engineer",
+                    "value": "cloud engineer"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Engineering",
+                    "value": "engineering"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Solution manager",
+                    "value": "solution manager"
+                },
+                {
+                    "text": "Technical",
+                    "value": "technical"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Annapolis Junction, MD",
+                    "value": "zW-xYyLnt4mqAms5YL-SKQ=="
+                },
+                {
+                    "text": "Annapolis, MD",
+                    "value": "1S9ncGX2t4lLJ6jT_VT4Qw=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Salt Lake City, UT",
+                    "value": "7THRiJQ9UofKMU1IoLdTWw=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Catonsville, MD",
+                    "value": "TYwOyT0cyImNcyTcDrP1IQ=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Reston, VA",
+                    "value": "5WUWJkdAtomfrnGo6K_fYw=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Weehawken, NJ",
+                    "value": "AdCFFTBYwomUmggtWZ9PJQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Chantilly, VA",
+                    "value": "GXJnGVZBtomDrRZD_PBBQA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Columbia, MD",
+                    "value": "UaBpY7Dft4ldY4e2Zb3W8A=="
+                },
+                {
+                    "text": "Crownsville, MD",
+                    "value": "tds0e1_wt4lD8Gl4tkPWrw=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Dearing, KS",
+                    "value": "OfJxMhSCt4eyx6-l5eqDwg=="
+                },
+                {
+                    "text": "Edison, NJ",
+                    "value": "maG-aH_Tw4nq1INvpsUr8g=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Hanover, MD",
+                    "value": "CR8SmSTit4kd1ecDfu3Bcw=="
+                },
+                {
+                    "text": "Laurel, MD",
+                    "value": "0dxJ6BDdt4n8ks39Ll7NmA=="
+                },
+                {
+                    "text": "Los Gatos, CA",
+                    "value": "PwN3UzY0joCmjHSsAVNn7w=="
+                },
+                {
+                    "text": "Moline, IL",
+                    "value": "a0TjeKAw4ocnMg_Pp6fQLg=="
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Ohio, IL",
+                    "value": "4a34ENmeCYiVXj8uMgu1Jg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "San Mateo, CA",
+                    "value": "RVWp72Cej4CnG8wt9PyO_Q=="
+                },
+                {
+                    "text": "White Plains, NY",
+                    "value": "2TWj4iKUwols_FsaEAQUVA=="
+                },
+                {
+                    "text": "Wilmington, DE",
+                    "value": "b69GXBgPx4kAjDB3UNoWhQ=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Rental",
+                    "value": "/business/naics2007/532"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Google",
+                    "value": "/m/045c7b"
+                },
+                {
+                    "text": "ARSIEM",
+                    "value": "/g/11fy22b_1s"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Base-2 Solutions",
+                    "value": "/g/11gxm4c0tt"
+                },
+                {
+                    "text": "NiSUS Technologies Corporation",
+                    "value": "/g/11g705zkln"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "CACI",
+                    "value": "/m/0310bt"
+                },
+                {
+                    "text": "Elevance Health",
+                    "value": "/m/04xtkp"
+                },
+                {
+                    "text": "IntelliGenesis LLC",
+                    "value": "/g/11c73hfqj8"
+                },
+                {
+                    "text": "Raytheon Technologies",
+                    "value": "/g/11c6qvm0kj"
+                },
+                {
+                    "text": "Snowflake Computing",
+                    "value": "/g/11b8krtt2g"
+                },
+                {
+                    "text": "Avid Technology Professionals, LLC",
+                    "value": "/g/11g9n060lk"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "BrainTrust Holdings",
+                    "value": "/g/11fy267mw4"
+                },
+                {
+                    "text": "Castaway Research",
+                    "value": "/g/11jp54p9k7"
+                },
+                {
+                    "text": "JPMorgan Chase",
+                    "value": "/m/01hlwv"
+                },
+                {
+                    "text": "Johnson Technology Systems Inc.",
+                    "value": "/g/11f7p9xc6j"
+                },
+                {
+                    "text": "Keylent",
+                    "value": "/g/11rvbr_y2l"
+                },
+                {
+                    "text": "ManTech International",
+                    "value": "/m/03crmnd"
+                },
+                {
+                    "text": "Netflix",
+                    "value": "/m/017rf_"
+                },
+                {
+                    "text": "Novetta",
+                    "value": "/g/11g9m_jqt2"
+                },
+                {
+                    "text": "Open Systems Technologies",
+                    "value": "/g/11b7c7x3lx"
+                },
+                {
+                    "text": "Orion Consortium",
+                    "value": "/g/11g9mp3gx4"
+                },
+                {
+                    "text": "Rakuten USA, Inc.",
+                    "value": "/g/11f00sztwj"
+                },
+                {
+                    "text": "Super Micro Computer",
+                    "value": "/m/03p3m28"
+                },
+                {
+                    "text": "Synechron Inc.",
+                    "value": "/m/027hdqs"
+                },
+                {
+                    "text": "The DarkStar Group",
+                    "value": "/g/11fy1qp5kx"
+                },
+                {
+                    "text": "Trigyn",
+                    "value": "/m/0cp7t9v"
+                },
+                {
+                    "text": "Triumph Tech",
+                    "value": "/g/11ry5h_t46"
+                },
+                {
+                    "text": "WayUp",
+                    "value": "/g/11gfj67hvn"
+                },
+                {
+                    "text": "Inforeliance",
+                    "value": "/g/1dv3111b"
+                }
+            ]
+        }
+    ]
+}

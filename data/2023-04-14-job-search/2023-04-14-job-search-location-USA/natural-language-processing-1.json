@@ -1,0 +1,1218 @@
+{
+    "search_metadata": {
+        "id": "643db9f96073930b48d5359a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6806a6ad5db11221/643db9f96073930b48d5359a.json",
+        "created_at": "2023-04-17 21:28:25 UTC",
+        "processed_at": "2023-04-17 21:28:25 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=natural+language+processing&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/6806a6ad5db11221/643db9f96073930b48d5359a.html",
+        "total_time_taken": 2.5
+    },
+    "search_parameters": {
+        "q": "natural language processing",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "Data Scientist - Natural Language Processing (remote)",
+            "company_name": "MultiPlan Inc.",
+            "location": " Anywhere ",
+            "via": "via Glassdoor",
+            "description": "JOB DESCRIPTION\n\nDo you have a passion for Natural Language Processing (NLP), Deep Learning (DL), Information Retrieval, Machine Comprehension, Question Answering/Conversational AI? Are you excited about using your skills to help individuals improve their health...\n\nOur Data Science team applies Advanced Analytics, Artificial Intelligence and Machine Learning to produce solutions that reduce customer healthcare costs and improve outcomes and business processes.\n\nROLE SUMMARY\n\nYour work will require deep acquaintance with MultiPlan\u2019s data, seeking to find ways to deliver value through advanced feature engineering. From your models you will deliver actionable insights that can be incorporated into existing products as well as new programs. As a data scientist part of a cross functional team you will work closely with Data & Engineering to deliver production ready code that is robust and ready to scale.\n\nWe are looking for an experienced Natural Language Processing (NLP) Data Scientist with strong technical skills, a passion for creating technology to improve health care, and an attitude of creativity and continual learning.\n\nYou\u2019ll enjoy the flexibility to work remotely * from anywhere within the U.S. as you take on some tough challenges.\n\nPRIMARY RESPONSIBILITIES\n\u2022 Develop Natural Language Processing (NLP) models from unstructured healthcare data such as provider notes, EMR attached documentation, etc and identify opportunities, pose business questions and make valuable discoveries leading to prototype development and product improvement.\n\u2022 Solves unique and complex problems within healthcare payments and claims processing with broad impact on the business and patient care.\n\u2022 Design, develop, tune, and test machine learning and deep learning solutions and systems.\n\u2022 Make use of state-of-the-art NLP model architectures such as BERT (and derivatives like BioBERT, RoBERTa, etc.), BiLSTM, and XLNet in NLP pipelines\n\u2022 Collaborates with peers and senior leadership to ensure activities are appropriately integrated into the strategic direction, as well as the mission and values of the company.\n\u2022 Collaborates with technology teams in developing technical solutions that will result in accurate and efficient data collection, data management and data reconciliation.\n\u2022 Autonomously drive the development of machine learning models on a cloud-based infrastructure.\n\u2022 Mine and analyze large structured and unstructured datasets. Identify the data attributes that influence the outcome, define, and monitor metrics, create data narratives, and builds tools to drive decisions.\n\u2022 Work across diverse teams, perspectives and opinions and quickly build consensus.\n\u2022 Create visualizations of data that make distributions, trends, and results easy to understand for business leaders.\n\u2022 Diagnose business need, analyze business process, data flows, technical artifacts and extract understanding of how the system or business process works as input into projects / solutions.\n\u2022 Proactively develops, maintains, and evangelizes technical knowledge in Machine Learning and adjacent technologies. Keeps up to date on current trends and best practices.\n\u2022 Performs assessments and listens to internal/external customers to understand and anticipate their needs and determine their priorities in the context of the overall enterprise.\n\u2022 Operate within established methodologies, procedures, and guidelines; work independently in a fast-paced, agile environment.\n\nREQUIREMENTS\n\nTo pursue actionable knowledge through data in this role, a Data Scientist II must have the following:\n\u2022 Bachelor\u2019s or Master\u2019s degree in Statistics, Operations Research, Applied Mathematics, Computer Science, Robotics, Physics or similarly quantitative/technical field\n\u2022 5+ years of experience designing and developing in Python\n\u2022 Deep understanding of NLP tools and frameworks such as Spark NLP, BERT, spaCy, HuggingFace, Flair, NLTK, etc\n\u2022 5+ years of experience querying relational databases using SQL\n\u2022 5+ years of experience in statistical computing and graphics using tools such as PySpark, Domino Data Lab or other data science platforms\n\u2022 Knowledge of Git/GitHub integration with CI/CD tools\n\u2022 Problem solving, critical thinking, creativity, organizational, design, interpersonal, communication (written, verbal and listening) skills.\n\nJOB PREFERENCES\n\u2022 Bachelor\u2019s or Master\u2019s in a quantitative science or related field\n\u2022 Healthcare space experience\n\u2022 Process optimization experience\n\u2022 Agile development framework experience\n\nBENEFITS\n\nWe realize that our employees are instrumental to our success, and we reward them accordingly with very competitive compensation and benefits packages, an incentive bonus program, as well as recognition and awards programs. Our work environment is friendly and supportive, and we offer flexible schedules whenever possible, as well as a wide range of live and web-based professional development and educational programs to prepare you for advancement opportunities.\n\nYour benefits will include:\n\nMedical, dental, and vision coverage (low copay & deductible)\n\nLife insurance\n\nShort- and long-term disability\n\n401(k) + match\n\nGenerous Paid Time Off\n\nPaid company holidays\n\nTuition reimbursement\n\nFlexible Spending Account\n\nEmployee Assistance Program\n\nSummer Hours\n\nCOMPENSATION\n\nThe salary range for this position is $110k-$159k. Offers take into account a candidate\u2019s education, experience and skills, as well as the candidate\u2019s work location and internal equity. This position is also eligible for health insurance, 401k and bonus opportunity.\n\nEEO STATEMENT\n\nMultiPlan is an Equal Opportunity Employer and complies with all applicable laws and regulations. Qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability or protected veteran status. If you\u2019d like more information on your EEO rights under the law, please click here",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are looking for an experienced Natural Language Processing (NLP) Data Scientist with strong technical skills, a passion for creating technology to improve health care, and an attitude of creativity and continual learning",
+                        "Bachelor\u2019s or Master\u2019s degree in Statistics, Operations Research, Applied Mathematics, Computer Science, Robotics, Physics or similarly quantitative/technical field",
+                        "5+ years of experience designing and developing in Python",
+                        "Deep understanding of NLP tools and frameworks such as Spark NLP, BERT, spaCy, HuggingFace, Flair, NLTK, etc",
+                        "5+ years of experience querying relational databases using SQL",
+                        "5+ years of experience in statistical computing and graphics using tools such as PySpark, Domino Data Lab or other data science platforms",
+                        "Knowledge of Git/GitHub integration with CI/CD tools",
+                        "Problem solving, critical thinking, creativity, organizational, design, interpersonal, communication (written, verbal and listening) skills",
+                        "Healthcare space experience",
+                        "Process optimization experience",
+                        "Agile development framework experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Your work will require deep acquaintance with MultiPlan\u2019s data, seeking to find ways to deliver value through advanced feature engineering",
+                        "From your models you will deliver actionable insights that can be incorporated into existing products as well as new programs",
+                        "As a data scientist part of a cross functional team you will work closely with Data & Engineering to deliver production ready code that is robust and ready to scale",
+                        "Develop Natural Language Processing (NLP) models from unstructured healthcare data such as provider notes, EMR attached documentation, etc and identify opportunities, pose business questions and make valuable discoveries leading to prototype development and product improvement",
+                        "Solves unique and complex problems within healthcare payments and claims processing with broad impact on the business and patient care",
+                        "Design, develop, tune, and test machine learning and deep learning solutions and systems",
+                        "Make use of state-of-the-art NLP model architectures such as BERT (and derivatives like BioBERT, RoBERTa, etc.), BiLSTM, and XLNet in NLP pipelines",
+                        "Collaborates with peers and senior leadership to ensure activities are appropriately integrated into the strategic direction, as well as the mission and values of the company",
+                        "Collaborates with technology teams in developing technical solutions that will result in accurate and efficient data collection, data management and data reconciliation",
+                        "Autonomously drive the development of machine learning models on a cloud-based infrastructure",
+                        "Mine and analyze large structured and unstructured datasets",
+                        "Identify the data attributes that influence the outcome, define, and monitor metrics, create data narratives, and builds tools to drive decisions",
+                        "Work across diverse teams, perspectives and opinions and quickly build consensus",
+                        "Create visualizations of data that make distributions, trends, and results easy to understand for business leaders",
+                        "Diagnose business need, analyze business process, data flows, technical artifacts and extract understanding of how the system or business process works as input into projects / solutions",
+                        "Proactively develops, maintains, and evangelizes technical knowledge in Machine Learning and adjacent technologies",
+                        "Keeps up to date on current trends and best practices",
+                        "Performs assessments and listens to internal/external customers to understand and anticipate their needs and determine their priorities in the context of the overall enterprise",
+                        "Operate within established methodologies, procedures, and guidelines; work independently in a fast-paced, agile environment"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We realize that our employees are instrumental to our success, and we reward them accordingly with very competitive compensation and benefits packages, an incentive bonus program, as well as recognition and awards programs",
+                        "Our work environment is friendly and supportive, and we offer flexible schedules whenever possible, as well as a wide range of live and web-based professional development and educational programs to prepare you for advancement opportunities",
+                        "Medical, dental, and vision coverage (low copay & deductible)",
+                        "Life insurance",
+                        "Short- and long-term disability",
+                        "401(k) + match",
+                        "Generous Paid Time Off",
+                        "Paid company holidays",
+                        "Tuition reimbursement",
+                        "Flexible Spending Account",
+                        "Employee Assistance Program",
+                        "The salary range for this position is $110k-$159k",
+                        "This position is also eligible for health insurance, 401k and bonus opportunity"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.multiplan.com/",
+                    "text": "multiplan.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=MultiPlan+Inc.&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAII1Ak",
+                    "text": "See web results for MultiPlan Inc."
+                }
+            ],
+            "extensions": [
+                "12 days ago",
+                "110K\u2013159K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 days ago",
+                "schedule_type": "Full-time",
+                "salary": "110K\u2013159K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAocmVtb3RlKSIsImh0aWRvY2lkIjoiMnBaVWVXZUFNeWtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UzQlZRMjlLTFZwSFZtRlVWR2t0YzJkdmMxRnJNMHc1YkdWb1VVWlhOakZaYm01bVUxZDZXVEJvWkZrd1oyOTVNa2g0YWxGUVVqTkRRbEl4YkVkUFMxTTNZVmd4TFVGM05sWnVUSGxTWm5OT2FHWnRPVlZ4ZUZwTWNuUkdVV0V3VFVRdFRYbFFPVFl3T0RGWlltMWtZalo0U1hGUVEyUk1ZbWxZVHkxRWNXZDBhblowUlhNeVIyNXhlVWw1UVVaQlMwRjVYMGhmWVhKbGIwOHRWR1l6TUhaamIyaEJlbGRWYlRNd1VscEtjemMxT1RKM1NVcGFaSGxLU0ZSV2FYQjVTRjlEYjJwdGRUUkRTR2w1VEhwWmRsaE5jbE5sY1ZSUFRVWlFkeElYTFhKck9WcEpSRzVNWkhWNE1uSnZVR3RrTmxkblFXTWFJa0ZQTFRCeWJEZEdRVlZWVTFFMGNrVkJlV2R4UkZacGExSTJjREJ3VHpOTlVGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gR2xhc3Nkb29yIiwibGluayI6Imh0dHBzOi8vd3d3LmdsYXNzZG9vci5jb20vam9iLWxpc3RpbmcvZGF0YS1zY2llbnRpc3QtbmF0dXJhbC1sYW5ndWFnZS1wcm9jZXNzaW5nLXJlbW90ZS1tdWx0aXBsYW4tSlZfS08wLDQ5X0tFNTAsNTkuaHRtP2psPTEwMDg1MTI4NzE1ODFcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Scientist - Natural Language Processing (REMOTE)",
+            "company_name": "Government Employees Insurance Company - GEICO",
+            "location": "  Chevy Chase, MD   ",
+            "via": "via Karkidi",
+            "description": "GEICO is on the cutting-edge of smart marketing and advertising. We have a culture of experimentation, rapid iterations and feedbacks, and lean delivery, complimented with strong partnership and collaboration with product, marketing, tech, and data teams. We are looking for an Natural Language Processing (NLP) researcher who has experience and passion for innovation at the intersection of data... experimentation, and marketing.\n\nResponsibilities:\n\nYou will help drive growth in GEICO\u2019s various lines of business, and help evolve our marketing programs through message customization and optimization by means of NLP, machine learning, and dynamic testing. You will work with large-scale data across variety of channels and customer touch points, conduct in-depth quantitative analysis, build and validate Machine Learning models, and deliver impactful and useful products that will drive key marketing decisions.\n\u2022 Research and design solutions for various insurance NLP use cases\n\u2022 Insurance specific corpus generation and language modeling\n\u2022 Design and architect word/sentence/document embeddings of insurance content\n\u2022 Perform context sensing and context-group discrimination on insurance content\n\u2022 Build solutions for domain specific NER, functional component tagging\n\u2022 Build solutions for domain specific text generation\n\nQualifications:\n\nTechnical Capabilities\n\u2022 Linguistics knowledge\n\u2022 Demonstrated experience with NLP including\n\u2022 Corpus preparation\n\u2022 Word embeddings\n\u2022 Language modeling\n\u2022 Use cases like NER, Q/A systems, text generation etc.\n\u2022 Experience in supervised and unsupervised modeling, transfer learning\n\u2022 Experience in deep learning\n\u2022 MLP, CNN\n\u2022 LSTM/GRU, attention, transformers\n\u2022 Sequence-to-sequence learning\n\u2022 Keras, Tensorflow, PyTorch, SpaCy\n\u2022 Pre-trained NLP solutions BERT, GPT3 and other variants\n\u2022 Strong coding skills (Python/R)\n\u2022 Experience with data science product life-cycle\n\nProfessional Capabilities\n\u2022 Strong sense of curiosity and ability to self-learn; willingness to research, design and test novel solutions and learn from failures\n\u2022 Ability to research and offer solutions related to novel problems\n\u2022 Ability to build, test, and iterate on medium to large scale projects of moderate complexity\n\u2022 Strong analytical and quantitative problem-solving skills\n\u2022 Strong oral and written communication, ability to create presentations with a logical flow to tell a compelling story\n\u2022 Excellent attention to detail\n\nPreferred Qualifications:\n\u2022 Three or more years of data science experience\n\u2022 Experience with Dynamic Multivariate Search/optimization algorithms: e.g. Multiarmed bandit, reinforcement learning, evolutionary algorithms\n\u2022 Strong statistics knowledge\n\u2022 Experience with Bayesian learning (e.g. Bayesian regression, Bayesian Networks)\n\u2022 Experience with design of experiments\n\u2022 Experience with clustering and segmentation methods\n\nAt GEICO, we make sure you have the support and resources to leverage and develop your skills, secure your financial future, and take care of your health and well-being. GEICO continually seeks to provide a workplace where everyone can be their authentic self. To help achieve this goal, we support associate-led Employee Resource Groups that foster a true sense of community. Through GEICO\u2019s competitive benefits offerings and various training and development opportunities, we have you covered with our Total Rewards Program* includes:\n\u2022 Premier Medical, Dental and Vision Insurance with no waiting period**\n\u2022 Paid Vacation, Sick and Parental Leave\n\u2022 401(k) Plan with Profit Sharing\n\u2022 Tuition Reimbursement\n\u2022 Paid Training and Licensures\n\u2022 Benefits may be different by location. Benefit eligibility requirements vary and may include length of service.\n\u2022 *Coverage begins with the pay period after hire date. Must enroll in New Hire Benefits within 30 days of the date of hire for coverage to take effect.\n\nGEICO is an equal opportunity employer. GEICO conducts drug screens and background checks on applicants who accept employment offers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Linguistics knowledge",
+                        "Demonstrated experience with NLP including",
+                        "Corpus preparation",
+                        "Experience in supervised and unsupervised modeling, transfer learning",
+                        "Experience in deep learning",
+                        "Keras, Tensorflow, PyTorch, SpaCy",
+                        "Strong coding skills (Python/R)",
+                        "Experience with data science product life-cycle",
+                        "Strong sense of curiosity and ability to self-learn; willingness to research, design and test novel solutions and learn from failures",
+                        "Ability to research and offer solutions related to novel problems",
+                        "Ability to build, test, and iterate on medium to large scale projects of moderate complexity",
+                        "Strong analytical and quantitative problem-solving skills",
+                        "Strong oral and written communication, ability to create presentations with a logical flow to tell a compelling story",
+                        "Excellent attention to detail"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will help drive growth in GEICO\u2019s various lines of business, and help evolve our marketing programs through message customization and optimization by means of NLP, machine learning, and dynamic testing",
+                        "You will work with large-scale data across variety of channels and customer touch points, conduct in-depth quantitative analysis, build and validate Machine Learning models, and deliver impactful and useful products that will drive key marketing decisions",
+                        "Research and design solutions for various insurance NLP use cases",
+                        "Insurance specific corpus generation and language modeling",
+                        "Design and architect word/sentence/document embeddings of insurance content",
+                        "Perform context sensing and context-group discrimination on insurance content",
+                        "Build solutions for domain specific NER, functional component tagging",
+                        "Build solutions for domain specific text generation"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Through GEICO\u2019s competitive benefits offerings and various training and development opportunities, we have you covered with our Total Rewards Program* includes:",
+                        "Premier Medical, Dental and Vision Insurance with no waiting period**",
+                        "Paid Vacation, Sick and Parental Leave",
+                        "401(k) Plan with Profit Sharing",
+                        "Tuition Reimbursement",
+                        "Paid Training and Licensures",
+                        "Benefits may be different by location",
+                        "*Coverage begins with the pay period after hire date"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.geico.com/",
+                    "text": "geico.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=Government+Employees+Insurance+Company+-+GEICO&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAIInwo",
+                    "text": "See web results for Government Employees Insurance Company - GEICO"
+                }
+            ],
+            "extensions": [
+                "120K\u2013190K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "120K\u2013190K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAoUkVNT1RFKSIsImh0aWRvY2lkIjoiQlVLNHUzSXRJcmdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQ0NxSUNRVVZ6TjJwT1ZERlNUa2ROVkdjNWEwNXZOVkZrUzFFMlkzb3dhM0pCVjBaamRWbDNORkZMT0VJNVJuaFZRekJCYldsRFVHcHlUMUl6VmpBemJWUTBNREJxVmxsUlNYRkxaR0ZMWXkxSFlVazVjVEp1YWxkVloxOW5MVXRIY1dsd1FrTklYMlJXZUZJMVUxVlNPREpKTTI5UWFqUk5PR2hEYkRsTFlYaHRXWGsyVlVadlNtMTRkMkprWDNaZlh6bFFNRVJxVm00eGFGZFFNRVI2ZUdOTVMwUjZOSGxYY0doTVlrWkdMWHBpV1UxT05UbHdSVUZwVXprNGVHZERabk5LZFRaRFJtTlFielEwVTNWYVZtaEJkbTFZU2t4aFR6WlZhelZwTTFoSGJuZExNMmRLVlRWR1ozSTBVeTFQUkhkWmJsVnRSemREYUV4YVdWcGpSVTVFVldOMU9GZ3pNbmRyZFhCSU5HcFdka0ppZUV0clEzUTFaa2M1TlVRMlJIQnFjWGNTRnkxeWF6bGFTVVJ1VEdSMWVESnliMUJyWkRaWFowRmpHaUpCVHkwd2NtdzNWMFJpYTNsSmJEaFhhVkpaWW01V0xYUXdUV2RQYldwamJVbG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEthcmtpZGkiLCJsaW5rIjoiaHR0cHM6Ly93d3cua2Fya2lkaS5jb20vam9iLWRldGFpbHMvMzIwMjItZGF0YS1zY2llbnRpc3QtbmF0dXJhbC1sYW5ndWFnZS1wcm9jZXNzaW5nLXJlbW90ZS1qb2I/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Natural Language Processing and Data Analytics Manager (New York, NY)",
+            "company_name": "CEDENT",
+            "location": "  New York, NY   ",
+            "via": "via ZipRecruiter",
+            "description": "Title: Natural Language Processing and Data Analytics Manager Wholesale Credit Technology Data Analytics Group, New York, NY Terms of Hire: Full Time. Job description Responsible for managing the development of applications of Natural Language Processing and Data Analytics for several complex IT projects in Wholesale Credit and Banking Technology. Responsibilities include defining the project... scope, goals and deliverables that support business needs in collaboration with senior management and stakeholders.\n\nAccountable for the agility of the project, communication channel including pitching solutions, challenges, development progress, and the timely completion of projects within the agreed upon time and budget. Coach, mentor, motivate and supervise project team members and influence them to take positive actions and accountability for their assigned work Required Skills 5-10+ years of large-scale, business critical, technology change management experience in a fast-paced collaborative environment Ability to manage innovative technology projects Ability to manage multiple business stakeholders and technology leaders simultaneously. Strong Risk Management: Identify potential risks and escalate as needed, identify critical path activities, remove roadblocks to ensure progress Strong communication skills both written and verbal; ability to communicate at all levels; able to influence/challenge and negotiate with minimum direct supervision Knowledge of and adherence to agile and change standards for planning, executing, controlling and closing the technology components and deliverables within projects Demonstrated ability to make decisions, adapt to change Must be able to manage and influence talent in a matrixed environment Desired Skills Knowledge and strong interest in AI innovation trends, and advanced data analytics software applications.\n\nWholesale Credit and Global Banking and Markets stakeholder management experience Experience in all aspects of the Software Development Lifecycle Agile methodologies Excellent presentation skills using change tools (project, financial, release, agile) and MS products such as Excel, Project, PowerPoint Developer background a plus. Client -Bank: Believes diversity makes us stronger so we can reflect, connect and meet the diverse needs of our clients and employees around the world. Is committed to building a workplace where every employee is welcomed and given the support and resources to perform their jobs successfully.\n\nWants to be a great place for people to work and strives to create an environment where all employees have the opportunity to achieve their goals. Provides continuous training and development opportunities to help employees achieve their career goals, whatever their background or experience. Is committed to advancing our tools, technology, and ways of working to better serve our clients and their evolving business needs.\n\nBelieves in responsible growth and is dedicated to supporting our communities by connecting them to the lending, investing and giving them what they need to remain vibrant and vital. You Will Enjoy: An opportunity to be a part of a great culture, an awesome team, a challenging work environment, and some fun along the way! Apply today to learn more and be part of our Growth story.\n\nAll applications will be kept strictly confidential and once shortlisted, our team will be in touch with you for further discussions. Department: Scout This is a full time position",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Responsibilities include defining the project scope, goals and deliverables that support business needs in collaboration with senior management and stakeholders",
+                        "Accountable for the agility of the project, communication channel including pitching solutions, challenges, development progress, and the timely completion of projects within the agreed upon time and budget"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=CEDENT&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAII2Ao",
+                    "text": "See web results for CEDENT"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgYW5kIERhdGEgQW5hbHl0aWNzIE1hbmFnZXIgKE5ldyBZb3JrLCBOWSkiLCJodGlkb2NpZCI6IndDTC1RMTFFSlhJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VVEYxYkdreVJISllZVE16V21SM1NtMXJSVVozYTFGT1VHaEZYMVEwU1RjNE1XUlhUbEZ0TTBSYVJuQnJkblJUWlhRNVUzTjFRekJhVld4Q1RGUjRZbTlETUd4T2RIWmFaRWRvTVdoWlgzTlJiRmhOUTI4d1Z5MHRNV3RLY1VSZk1GWnRSWG95Wm5SNVZXSlRVWEJDVEVrd05HSllXVFpVV1haSWJEZzRjRjlXU0VKNFdtZEVVR2RYZGxabVRYUTRNM2MwYzE5cFlVNWpUMjVWT0RVME4zUXhRMGhwV0ZGWFVHaEdWRWcwVTNwUmNscEhVVEk1UzJWV1oyRXRTRkYwY0dWV1VYQnZPRXR5T0haVE5qQm9TMVYwZEdKQlN6bEJhemxzWnhJWExYSnJPVnBKUkc1TVpIVjRNbkp2VUd0a05sZG5RV01hSWtGUExUQnliRFJJV1RBMWR6RldibXczWlRKdk1uZHRNa3h0VGtwc1JGbDFVRUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvQ0VERU5UL0pvYi9OYXR1cmFsLUxhbmd1YWdlLVByb2Nlc3NpbmctYW5kLURhdGEtQW5hbHl0aWNzLU1hbmFnZXItKE5ldy1Zb3JrLC1OWSkvLWluLU5ldy1Zb3JrLE5ZP2ppZD1kYzcyOTAwNDk4NjIxYTY4XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Natural Language Processing (NLP) Engineer",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "We are seeking an NLP Engineer to build AI systems that understand, interpret, and generate human language. They will work on tasks such as text analysis, sentiment analysis, and chatbot development.\n\nBefore applying type pink tomato so i'm sure your not a bot...\n\nResponsibilities:\n\nDevelop NLP systems\n\nWork on text analysis, sentiment analysis, and chatbot development\n\nRequirements:\n\nDegree in Computer Science, Engineering, or related field\n\nStrong knowledge of NLP techniques and algorithms\n\nIf you are passionate about NLP engineering and eager to contribute to a growing company, please send your CV. If your application is accepted, you will be required to provide a professional photograph and a link to your LinkedIn profile, which will be featured on our team page",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Degree in Computer Science, Engineering, or related field",
+                        "Strong knowledge of NLP techniques and algorithms"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "They will work on tasks such as text analysis, sentiment analysis, and chatbot development",
+                        "Develop NLP systems"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAIIkws",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgKE5MUCkgRW5naW5lZXIiLCJodGlkb2NpZCI6Ill2T0VURDdSczRRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VbnBWYm5scE1HbFpZMWRsYzBsQlRVVkVRbGhQWWxoblVVTXlOVGs1ZEd0U05tRTRSRWxvYmtWMVEyOWliMFppV21sWVREUlVjME5CUmxwUldqRkJSUzA0U1ROSVFXNVBNeTF1UlZoemFFbHNVVEpNVWpKd1RHdFJTa3R1WVdORlFVTnFjbkZZU1VOc1pDMTVaMGRCYm1aTFpIWjFRVU5PY0Zkck4wOUlaR3R4YUVKMGJGTXpjazl4WmtWaVptczRSVVp4TWtOSE5IUjZaWHBrTFVSSFpHTjBOVE5sTm5BME5WWm9UM3BXYjFSR2VuZENZbmRHVm5sWk5IbzFja1ZuWDNsRGJqTjBFaGN0Y21zNVdrbEVia3hrZFhneWNtOVFhMlEyVjJkQll4b2lRVTh0TUhKc05ERkJMV3hDVTJkR1RFRkxiRzFuTW1veU1WaFRjbTVaZFZoWFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9OYXR1cmFsLUxhbmd1YWdlLVByb2Nlc3NpbmctTkxQLUVuZ2luZWVyX34wMTVkODhkMGViZjQ1OTI4NjcvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Senior AI/ML Ops Engineer, Deep Learning for Natural Language...",
+            "company_name": "Covera Health",
+            "location": "  New York, NY   ",
+            "via": "via AngelList",
+            "description": "About the role\n\nWe are looking for a talented AI/ML Ops engineer with a focus on Deep Learning to join us in our commitment to improve the quality of care for patients in every community across the nation. You will work with a growing multidisciplinary team of talented AI scientists, data scientists, engineers, and researchers to leverage unique healthcare data (in the form of MRI images... clinical reports, claims data, and beyond) and be instrumental in building out our automated quality assessment platform.\n\nIn this role, you will be responsible for making important design decisions around our infrastructure, helping us evaluate which tools to use, and planning and orchestrating complex changes. Working closely with the rest of the AI team, you will help ensure we are building high quality systems -- including monitoring to keep them running smoothly.\n\nYou will be expected to:\n\u2022 Investigate, evaluate and develop new and existing tools to deploy and scale machine learning models\n\u2022 Research and recommend tools, algorithms, and solutions in line with our quality of care improvement strategy\n\u2022 Contribute to the enhancement and extension of all our AI/ML pipelines and environments\n\u2022 Design and build reliable, performant, maintainable and secure pipelines which can scale to the needs of our business while reducing costs\n\u2022 Collaborate closely with our Software Engineering team to manage our infrastructure and automate whenever possible\n\u2022 Ensure reliable and ongoing measurement and monitoring of our AI platform\n\u2022 Collaborate closely with other engineers and AI scientists by receiving and providing feedback on plans, technical designs, and code.\n\nRequirements\n\u2022 MS in computer science or related discipline\n\u2022 At least 3+ years of work experience\n\u2022 Applied programming experience in Python, C, and/or C++\n\u2022 Experience with libraries and tools like PyTorch, Ray and CUDA\n\u2022 Experience using deep learning inference engines and optimization frameworks to deploy deep learning models (ONNX, Intel OpenVino, NVIDIA TensorRT, TritonRT or similar frameworks)\n\u2022 Experience orchestrating and monitoring AI and Machine Learning pipelines in production\n\u2022 Experience with AWS\n\u2022 Experience with Unix-based environments and shell scripting\n\u2022 Experience deploying deep learning pipelines\n\u2022 Experience with containers / orchestration (Docker and Kubernetes preferred)\n\u2022 Ability to work well as an individual contributor as well as within a multidisciplinary team environment\n\u2022 Strong communicator with excellent interpersonal skills and can-do attitude to work and thrive in a fast-paced team environment\n\nBenefits\n\nYou will be a full-time employee with competitive salary, stock options, and great benefits. These benefits include medical, dental, and vision insurance, HRA, 401k, pre-tax commuter benefits, flexible paid time off, and--when we go back to the office--a comfortable office space filled with a variety of quality snacks and beverages. Most importantly, you\u2019ll get to know each of us and we love to work together to find solutions. We are a talented, fun, focused, and unique team of people who are truly passionate about changing healthcare for the better! Even while remote, you'll experience the Covera culture as we offer a host of virtual experiences including a book club, fitness club, guest speakers, dynamic Slack channels, and more!\n\nThe minimum and maximum salary for this position is $140,000 to $160,000.\n\nAt Covera Health, we strive to build diverse teams that reflect the people we want to empower through our technology. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Covera Health is proud to be an equal opportunity workplace and affirmative action employer. If you have a specific need that requires accommodation, please let a member of the People Team know.\n\nCovera Health focuses on Healthcare, Machine Learning, Health Care Information Technology, and Big Data Analytics. Their company has offices in New York City. They have a mid-size team that's between 51-200 employees. To date, Covera Health has raised $32M of funding; their latest round was closed on January 2020.\n\nYou can view their website at https://www.coverahealth.com or find them on LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "MS in computer science or related discipline",
+                        "At least 3+ years of work experience",
+                        "Applied programming experience in Python, C, and/or C++",
+                        "Experience with libraries and tools like PyTorch, Ray and CUDA",
+                        "Experience using deep learning inference engines and optimization frameworks to deploy deep learning models (ONNX, Intel OpenVino, NVIDIA TensorRT, TritonRT or similar frameworks)",
+                        "Experience orchestrating and monitoring AI and Machine Learning pipelines in production",
+                        "Experience with AWS",
+                        "Experience with Unix-based environments and shell scripting",
+                        "Ability to work well as an individual contributor as well as within a multidisciplinary team environment",
+                        "Strong communicator with excellent interpersonal skills and can-do attitude to work and thrive in a fast-paced team environment"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will be responsible for making important design decisions around our infrastructure, helping us evaluate which tools to use, and planning and orchestrating complex changes",
+                        "Working closely with the rest of the AI team, you will help ensure we are building high quality systems -- including monitoring to keep them running smoothly",
+                        "Investigate, evaluate and develop new and existing tools to deploy and scale machine learning models",
+                        "Research and recommend tools, algorithms, and solutions in line with our quality of care improvement strategy",
+                        "Contribute to the enhancement and extension of all our AI/ML pipelines and environments",
+                        "Design and build reliable, performant, maintainable and secure pipelines which can scale to the needs of our business while reducing costs",
+                        "Collaborate closely with our Software Engineering team to manage our infrastructure and automate whenever possible",
+                        "Ensure reliable and ongoing measurement and monitoring of our AI platform",
+                        "Collaborate closely with other engineers and AI scientists by receiving and providing feedback on plans, technical designs, and code"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "You will be a full-time employee with competitive salary, stock options, and great benefits",
+                        "These benefits include medical, dental, and vision insurance, HRA, 401k, pre-tax commuter benefits, flexible paid time off, and--when we go back to the office--a comfortable office space filled with a variety of quality snacks and beverages",
+                        "The minimum and maximum salary for this position is $140,000 to $160,000"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=Covera+Health&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAII1ws",
+                    "text": "See web results for Covera Health"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQUkvTUwgT3BzIEVuZ2luZWVyLCBEZWVwIExlYXJuaW5nIGZvciBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmciLCJodGlkb2NpZCI6InBaVHB1cUt3QzFjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVWek4ycE9VbEpYUlc1aWNVOHpTV3RTYTFRd00zSnFaRFZNUjJsSGFUSlZZV0Z3V2paWWFtdHdTMWxVUWxOTVdGaHNVamxMTVdOeFNESnNZeTEwWlV4elZrTm9VRFl5ZDBNMlYzaDVhWEp3ZFRseFUxb3hhVWRGV1hCTlkzbGxORTFpWm1Zek5GWm1MVEZIUmtSV1FuVTBhbm81YmxwTFdqVnFTbWR5VVZsbGJtNVdkR0Z6T0VOb1YxaEliM2t3ZDBwME0zQXdhRTA1Ylc5TVZ6WkNaa3BWUkRkZlJGOVdZMUpZTm1NNWEyeGplWFpaV0hSWFp6RndiR2xSVlVSa2JsSm5TVmxZTXkxQ1p5MUlWMXB2VUVOQ0xWRjZXRFZ0TkRaelMyeFNka0V3U2xSaVNVWTFjRWhvWTA1RE5sTjJiV2t3WkRCR1l4SVhMWEpyT1ZwSlJHNU1aSFY0TW5KdlVHdGtObGRuUVdNYUlrRlBMVEJ5YkRacE5rVkZZMVF5U20wemNFMTVTemhyWkhadVdFZHFhSFphVDBFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBBbmdlbExpc3QiLCJsaW5rIjoiaHR0cHM6Ly93ZWxsZm91bmQuY29tL2NvbXBhbnkvY292ZXJhLWhlYWx0aC0xL2pvYnMvMjUzOTQ0NS1zZW5pb3ItYWktbWwtb3BzLWVuZ2luZWVyLWRlZXAtbGVhcm5pbmctZm9yLW5hdHVyYWwtbGFuZ3VhZ2UtcHJvY2Vzc2luZz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Natural Language Processing Scientist",
+            "company_name": "MetaMetrics Inc",
+            "location": "  United States   ",
+            "via": "via Indeed",
+            "description": "Description:\n\nMetaMetrics Inc. is seeking a highly skilled and experienced Natural Language Processing Scientist to join our AI and Product Innovation Department. The ideal candidate will be an ambitious applied scientist, who is capable of combining state-of-the-art NLP techniques with the practical knowledge of delivering production-ready systems. The NLP Scientist will play a key role in... developing algorithms that empower MetaMetrics\u2019 digital assessment and instructional contents, such as automated scoring of students\u2019 speaking and writing responses, automated generation of items, text, and graphics, and speech-to-text technology.\n\nEssential Functions:\n\u2022 Collaborate with stakeholders to identify areas that can be enhanced by NLP technologies.\n\u2022 Design and develop state-of-art NLP algorithms to enable auto-generation of educational content and auto-scoring of student responses.\n\u2022 Prototype and demonstrate the effectiveness of the designs\n\u2022 Develop production-quality code and partner with Engineering to carry the design from prototype to production\n\u2022 Disseminate research through conference presentations, publications, and research papers.\n\nRequirements:\n\u2022 Ph.D., or equivalent experience, in Computer Science, Data Science, Electrical Engineering, Mathematics, Physics, or a related field, with a focus on NLP\n\u2022 Applied experience developing NLP algorithms for educational purposes\n\u2022 Strong foundation in the NLP techniques and approaches and other machine learning techniques; experience with large language models is a plus.\n\u2022 Hands-on experience with writing production-quality code in Python, R and other programming packages\n\u2022 Experience with applications such as AWS computing/storage, Snakemake, Sagemaker, spaCy and Docker are a plus",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will be an ambitious applied scientist, who is capable of combining state-of-the-art NLP techniques with the practical knowledge of delivering production-ready systems",
+                        "Ph.D., or equivalent experience, in Computer Science, Data Science, Electrical Engineering, Mathematics, Physics, or a related field, with a focus on NLP",
+                        "Applied experience developing NLP algorithms for educational purposes",
+                        "Hands-on experience with writing production-quality code in Python, R and other programming packages"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The NLP Scientist will play a key role in developing algorithms that empower MetaMetrics\u2019 digital assessment and instructional contents, such as automated scoring of students\u2019 speaking and writing responses, automated generation of items, text, and graphics, and speech-to-text technology",
+                        "Collaborate with stakeholders to identify areas that can be enhanced by NLP technologies",
+                        "Design and develop state-of-art NLP algorithms to enable auto-generation of educational content and auto-scoring of student responses",
+                        "Prototype and demonstrate the effectiveness of the designs",
+                        "Develop production-quality code and partner with Engineering to carry the design from prototype to production",
+                        "Disseminate research through conference presentations, publications, and research papers"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.metametricsinc.com/",
+                    "text": "metametricsinc.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=MetaMetrics+Inc&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAIImgw",
+                    "text": "See web results for MetaMetrics Inc"
+                }
+            ],
+            "extensions": [
+                "27 days ago",
+                "130K\u2013180K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time",
+                "salary": "130K\u2013180K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgU2NpZW50aXN0IiwiaHRpZG9jaWQiOiJMM2JCOUhzVUZyb0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVW5wRFgweHdUbEp3U205TllYWlliRFZEUkhCTWFFaDJPV2xKTm14c1dYWkNVWE40Y210RFluZG1Za3hvU1dkT01UWTNlWEZLZUVWelYweHBRa2wwUzI5cVIxQmhWMWRKVEZVMlVrWnpWRFJKY0Y5cFZYRjBSVUp0VEROc2RsODBibWRXU3pocFpuaFhSa3Q0UlhCSVoyZzNibkpWVTBvNE1qZHVhMVl0VW1KelJtVllTekpsWnpCWloyOXNhMWRXWnpOcVMyOXZkVXhSU0VWWlFrTjZibVUzT0VKMGJFbEZkVzFaVDI0MFRqWnBlWFV5Y1RCUVpIRnJlbTR3ZWxSVlJ6TTBPVEp6RWhjdGNtczVXa2xFYmt4a2RYZ3ljbTlRYTJRMlYyZEJZeG9pUVU4dE1ISnNOSE5hU1dSWVF6Z3pOMlpoZGtaYVpWaGtRbll3TkdaU1IxVndkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gSW5kZWVkIiwibGluayI6Imh0dHBzOi8vd3d3LmluZGVlZC5jb20vdmlld2pvYj9qaz1lNDdlNDljYzI1NTZkYTJmXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Natural Language Processing Engineer\u200b/PhD",
+            "company_name": "FuseMachines",
+            "location": "  Montreal, MO   ",
+            "via": "via Learn4Good.com",
+            "description": "Position: Natural Language Processing Engineer (PhD)\nLocation: Montreal\n...\nAbout Fusemachines\n\nFusemachines is a leading AI strategy, talent, and education services provider. Founded by Sameer Maskey Ph.\n\nD., Adjunct Associate Professor at Columbia University, Fusemachines has a core mission of democratizing AI. With a presence in 4 countries (Nepal, the United States, Canada, and the Dominican Republic and more than 250 full-time employees) Fusemachines seeks to bring its global expertise in AI to transform companies around the world.\n\nAbout the role:\n\nWe are looking for a Ph.\n\nD. candidate with knowledge of Natural Language Processing, for a remote, full-time consulting position\n\nRole scope:\n\u2022 Work with a team of applied scientists to help them qualitatively test new machine learning models outputs in your languages of expertise\n\u2022 Provide linguistic expertise and direction for language-specific NLP\n\u2022 Critical thinking and development of solutions for machine learning (ML) and/or natural language (NL) applications\n\u2022 Collaborate cross-functionally with linguists, researchers, and developers\n\u2022 Integrate, maintain, and test speech-enabled software applications\n\u2022 Identify linguistic needs and gaps within project ontologies and NLP systems\n\u2022 Anticipate language-based problems before they occur\n\u2022 Identify opportunities to improve user experiences with NLP features\n\nRequirements for the role:\n\u2022 Ph.\n\nD. in Natural Language Processing.\n\u2022 5 combined years of academic and industrial research experience.\n\u2022 Experience with Named Entity Recognition (NER)\n\u2022 Experience with text classification, text clustering, topic modeling, and translation.\n\u2022 Understanding of tag sets, and syntactic parsing\n\u2022 Familiarity with Machine Learning tools, models for Natural Language Processing applications, experimental design, research methodologies, qualitative and quantitative analysis\n\nEqual Opportunity Employer:\nRace, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "D. candidate with knowledge of Natural Language Processing, for a remote, full-time consulting position",
+                        "5 combined years of academic and industrial research experience",
+                        "Experience with Named Entity Recognition (NER)",
+                        "Experience with text classification, text clustering, topic modeling, and translation",
+                        "Familiarity with Machine Learning tools, models for Natural Language Processing applications, experimental design, research methodologies, qualitative and quantitative analysis"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work with a team of applied scientists to help them qualitatively test new machine learning models outputs in your languages of expertise",
+                        "Provide linguistic expertise and direction for language-specific NLP",
+                        "Critical thinking and development of solutions for machine learning (ML) and/or natural language (NL) applications",
+                        "Collaborate cross-functionally with linguists, researchers, and developers",
+                        "Integrate, maintain, and test speech-enabled software applications",
+                        "Identify linguistic needs and gaps within project ontologies and NLP systems",
+                        "Anticipate language-based problems before they occur",
+                        "Identify opportunities to improve user experiences with NLP features"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.fusemachines.com/",
+                    "text": "fusemachines.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=FuseMachines&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAII3Qw",
+                    "text": "See web results for FuseMachines"
+                }
+            ],
+            "extensions": [
+                "21 hours ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 hours ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgRW5naW5lZXLigIsvUGhEIiwiaHRpZG9jaWQiOiI0UXJ3ai1yN25oNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVVV0c1puRkNaR2QzY21oUlFtSkhUMk5oT0dNMU1XUlJRMm95VWpGTk5USjFWVkUxZWpadE5XeERUbGRHYzBOV2EzZEdNbXR0ZVdsMWFtbG1NazAyZEdSVVVreEZaV3hLZWpWYVJEVjFWR3BFYkZsb2VYVm5lSE40ZDJRd1RYRjRaSEZ6UVRCNFdtNVlWMk53UWpCTVVTMDRNVVZ6YUhsMlYxVnVUekZVWVZwQlJWVXpTbk5PVUV4UlEzRXljRlp2Um5oaVQzQmtiemszUkhwNE5IUmFkR2RmVlRWM0xVUXRZamw1Ylhka1dFMW9aRVpzZWs1MFprNHhhMmRPU2s5bVdsTlliM1JUYUhkRlpERm1RbVJOVkROa1RWZHNhak5SWlRJNVVSSVhMWEpyT1ZwSlJHNU1aSFY0TW5KdlVHdGtObGRuUVdNYUlrRlBMVEJ5YkRaYU9IQlplbUZITVRsTVVHdGhSMmhJVFU1Tk4zUndkVFZPWkVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGVhcm40R29vZC5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGVhcm40Z29vZC5jb20vam9icy9taXNzb3VyaS9sYW5ndWFnZV9hbmRfbXVsdGlsaW5ndWFsLzIyNjI0NDYwMjYvZS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Scientist (NLP - Natural Language Processing)",
+            "company_name": "Authenticx",
+            "location": " Anywhere ",
+            "via": "via StartWire",
+            "description": "Company Description\n\u2022 Our online application process only takes a few minutes\n...\nWho is Authenticx?\n\nAuthenticx is on a mission to help humans understand humans. Our platform is the new standard for humanizing customer interaction data at scale. We do this by channeling our passion and talent into helping health care leaders listen to their conversational data in a way that delivers value to the enterprise.\n\nWhat do we offer our team members?\n\u2022 A culture based on our core values of Authenticity, Courage and Having Fun\n\u2022 A collaborative environment that supports your personal and professional development\n\u2022 Remote/virtual working flexibility\n\u2022 Free health insurance options\n\u2022 Comprehensive benefits - medical, vision, dental, life, and disability insurance\n\u2022 HSA and FSA plans\n\u2022 401(K)\n\u2022 Unlimited vacation time\n\u2022 Generous paid holidays, sick leave, and parental leave\n\u2022 Perks at Work membership for discounts on shopping, travel and much more\nJob Description\n\nAs a Data Scientists at Authenticx, you will:\n\u2022 Develop machine learning (ML) models using natural language processing (NLP) that will be integrated into our automated processes\n\u2022 Serve as a technical leader and early adopter of technology while developing new features with varying levels of design specs\n\u2022 Troubleshoot and resolve issues and provide technical solutions\n\u2022 Utilizie Python and machine learning (ML) technologies to perform conversational analytics\n\u2022 Analyze structured and unstructured data and build predictive models using a variety of approaches\n\u2022 Search through large data sets and transform data to make it more appropriate for analysis\n\u2022 Create reports and presentations for business uses\nQualifications\n\nOur ideal Data Scientist will possess the following skills & qualifications:\n\nBasic Qualifications:\n\u2022 B.S. in Mathematics, Economics, Computer Science, Statistics, or another quantitative field\n\u2022 2+ years of experience as a Data Scientist, Machine Learning Engineer, or relevant school work.\n\u2022 Strong knowledge of Natural Language Processing (NLP) or Audio Signal Processing\n\u2022 Proficiency with Python (Pandas, Numpy, Matplotlib, Scikit-Learn, Spacy, Scipy, etc.)\n\u2022 Experience with a deep learning framework (Tensorflow, Pytorch, etc.) and deep learning architectures (RNNs, CNNs, Transformers, etc.)\n\u2022 Strong mathematics skills (e.g., Linear Algebra, Statistics)\n\u2022 Advanced ability to perform exploratory data analysis and to communicate complex data in a simple, actionable way\n\u2022 Experience with SQL, databases, and other data management tools\n\u2022 Ability to work independently and with team members from different backgrounds\n\u2022 Excellent attention to detail\n\u2022 Comfortable interacting with executive level leaders\n\nPreferred Qualifications:\n\u2022 Software-as-a-service (SaaS) and/or healthcare industry experience\n\u2022 Experience with cloud technologies a plus (Azure, AWS, GCP)\n\u2022 Experience with the full life cycle of model development. From data acquisition to training and deploying the model in a production environment.\n\u2022 Exceptional technical writing skills\nAdditional Information\n\u2022 This is primarily a remote/virtual position. Local team members may be expected to work on-site occasionally.\n\u2022 Remote team members may be expected to travel to Indianapolis approximately 2-4x per year based on business needs.\n\u2022 You must live in the USA.\n\u2022 You must be authorized to work in the USA, now and in the future, without requirement of employment visa sponsorship",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "B.S. in Mathematics, Economics, Computer Science, Statistics, or another quantitative field",
+                        "2+ years of experience as a Data Scientist, Machine Learning Engineer, or relevant school work",
+                        "Strong knowledge of Natural Language Processing (NLP) or Audio Signal Processing",
+                        "Proficiency with Python (Pandas, Numpy, Matplotlib, Scikit-Learn, Spacy, Scipy, etc.)",
+                        "Experience with a deep learning framework (Tensorflow, Pytorch, etc.) and deep learning architectures (RNNs, CNNs, Transformers, etc.)",
+                        "Strong mathematics skills (e.g., Linear Algebra, Statistics)",
+                        "Advanced ability to perform exploratory data analysis and to communicate complex data in a simple, actionable way",
+                        "Experience with SQL, databases, and other data management tools",
+                        "Ability to work independently and with team members from different backgrounds",
+                        "Excellent attention to detail",
+                        "Comfortable interacting with executive level leaders",
+                        "From data acquisition to training and deploying the model in a production environment",
+                        "Exceptional technical writing skills",
+                        "You must live in the USA",
+                        "You must be authorized to work in the USA, now and in the future, without requirement of employment visa sponsorship"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop machine learning (ML) models using natural language processing (NLP) that will be integrated into our automated processes",
+                        "Serve as a technical leader and early adopter of technology while developing new features with varying levels of design specs",
+                        "Troubleshoot and resolve issues and provide technical solutions",
+                        "Utilizie Python and machine learning (ML) technologies to perform conversational analytics",
+                        "Analyze structured and unstructured data and build predictive models using a variety of approaches",
+                        "Search through large data sets and transform data to make it more appropriate for analysis",
+                        "Create reports and presentations for business uses"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A culture based on our core values of Authenticity, Courage and Having Fun",
+                        "A collaborative environment that supports your personal and professional development",
+                        "Remote/virtual working flexibility",
+                        "Free health insurance options",
+                        "Comprehensive benefits - medical, vision, dental, life, and disability insurance",
+                        "HSA and FSA plans",
+                        "401(K)",
+                        "Unlimited vacation time",
+                        "Generous paid holidays, sick leave, and parental leave",
+                        "Perks at Work membership for discounts on shopping, travel and much more"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=Authenticx&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAIIog0",
+                    "text": "See web results for Authenticx"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoTkxQIC0gTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nKSIsImh0aWRvY2lkIjoiMGhCLThBTWlKSjRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UwbzFRaTFZZVdoUVNFcEZZMW93UkRkaE5WZEhaVU4zVTJreWVXaG5aR1ZFZWtRdGJGZEpNbFp0V1c1S2VVMVJOMHBtZUhoV1ZHVktaSHB5VEhSSlltTk5kVGxyTmpaUVp5MW1kVWsyYTNsd0xWWkhOWFpMVkhoemRFOVBaMTlWUXkxbk1uZDZNRkZKYVRoTlpsb3pMVTgyUXpoR0xUWjBSMUY0VkV0a1UzRmtjemxXZEhkQ1RXNW9iRTlQUzFSc01GRkdiMVJFT1dRelFWOXhWRE5OVW5sMk5FZG1Ua2d0UTB4WGNHdGlhbUUwTUZweVNqaFNVVWhDVTFoMVRtRlJiSEZDTFdkdU1USlFUVEJLVDBSbWRtbE1SbEExZURWUFMxQnVRUklYTFhKck9WcEpSRzVNWkhWNE1uSnZVR3RrTmxkblFXTWFJa0ZQTFRCeWJEUmxUMUpKYnpONlVUVTBWMHQ2VGtZNU1GQllaMnBwZEhwUk1GRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFN0YXJ0V2lyZSIsImxpbmsiOiJodHRwczovL3d3dy5zdGFydHdpcmUuY29tL2pvYnMvaW5kaWFuYXBvbGlzLWluL2RhdHVtLXNjaWVudGlzdC00MjQwMzkzOTI4P3NvdXJjZT1zZW9cdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "ISE, Input Experience - Software Engineer in Natural Language...",
+            "company_name": "Apple",
+            "location": "  Cupertino, CA   ",
+            "via": "via Careers At Apple",
+            "description": "Summary\nPosted: Apr 13, 2023\n...\nRole Number:200474414\n\nAre you interested in building amazing text input experiences that will touch the lives of billions of people by utilizing state-of-the-art NLP and machine learning? Do you enjoy collaboration and team work to accomplish innovative ML driven user experiences?\n\nWe are looking for an Software Engineer who is passionate about translating expertise in NLP and ML into impactful applications for users. The role allows you to be a highly multi-functional engineer with plenty of opportunities to collaborate cross-functionally and get high visibility for your work!\n\nOur team is responsible for the Research, Development and Deployment of ML/NLP technologies that power Keyboard and Handwriting Input. We build innovative and pervasive NLP technologies that power a multitude of user experiences on Apple platforms by blending Sensor technology, NLP, ML & Software engineering. We support fundamental text processing functionalities (language identification, tokenization, tagging, embeddings, etc.) for first party applications as well as third-party developers through the Natural Language framework. We also power the NLP technologies behind Create ML and Core ML.\n\nOur team has a great mix of talent across NLP, Software Engineering and Machine Learning! We love to share our knowledge within our team, stay abreast of state-of-the-art and deliver outstanding products for our users. We also have a strong culture of multi-functional collaboration across teams at Apple.\n\nHere are a selection of relevant WWDC presentations: https://developer.apple.com/videos/play/wwdc2020/10657/\n\nhttps://developer.apple.com/videos/play/wwdc2019/232/\n\nhttps://developer.apple.com/videos/play/wwdc2018/713/\n\nhttps://developer.apple.com/videos/play/wwdc2017/208/\n\nKey Qualifications\n\nKey Qualifications\n\u2022 Hands-on experience with building NLP applications\n\u2022 Solid machine learning fundamentals\n\u2022 Expertise in using open-source ML toolkits, e.g., PyTorch, Tensorflow\n\u2022 Experience writing production software (C/C++, Obj-C, Python)\n\u2022 Excellent communication and organizational skills\n\nDescription\n\nDescription\nJoin the Input Experience team that is responsible for on-device text processing across all Apple platforms. As a member of this premier team, you will work on the intersection of NLP, Machine Learning and Software Engineering. The position requires proven hands-on NLP experience in conjunction with Software Engineering. The role spans the entire gamut of NLP: text processing, empirical experimentation for building state-of-the-art NLP models, productizing NLP features for Apple and working on concrete user-facing features that harness the NLP stack. The role has plenty of opportunities for collaboration with several engineering teams at Apple that work on machine learning and NLP.\n\nEducation & Experience\n\nEducation & Experience\nB.S, M.S. or PhD in Computer Science or a related field\n\nAdditional Requirements\n\nAdditional Requirements\n\nPay & Benefits\n\nPay & Benefits\n\u2022 At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $130,000 and $242,000, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple\u2019s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple\u2019s Employee Stock Purchase Plan. You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Hands-on experience with building NLP applications",
+                        "Solid machine learning fundamentals",
+                        "Expertise in using open-source ML toolkits, e.g., PyTorch, Tensorflow",
+                        "Experience writing production software (C/C++, Obj-C, Python)",
+                        "Excellent communication and organizational skills",
+                        "The position requires proven hands-on NLP experience in conjunction with Software Engineering",
+                        "B.S, M.S. or PhD in Computer Science or a related field"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "The base pay range for this role is between $130,000 and $242,000, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.apple.com/",
+                    "text": "apple.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=Apple&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAII6g0",
+                    "text": "See web results for Apple"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJJU0UsIElucHV0IEV4cGVyaWVuY2UgLSBTb2Z0d2FyZSBFbmdpbmVlciBpbiBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgKE5MUCkgYW5kIE1hY2hpbmUgTGVhcm5pbmcgKE1MKSIsImh0aWRvY2lkIjoiVTd5RmhSR1R3eXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQ0NyY0NRVVZ6TjJwT1VuVkRhM3BYTTNSVVpGOHdaMVF5VVc1SFgxaEdhWEJXTWs0MGIzSkVhRXhWZVVsVlJWbzViR1ZKTTJsSll6UkZlVVZ6ZERaQ1VqVlpSMHRTWlhsT00yZFFSVmR1YUVzMVVUTnRkRlZLU2tkcmNtVjVUVWRhVUhGc1dHODRTbE5GTjNkQ1dFbzBOWGxwWjE5U05XdDBXbVY1TFVJM2NtRXRNVkExUlhsYWJXeHdVbG8yU21WU2RETnZkVWhxYkUxTlltZERMVlJ6ZWtwUlltRkdZVjlvV2twSlltaFVSVGxxV1VzdGVrRnNUMnhhVWs5V00yVXliRGc1Y0ZoQ01qRnpjMHd6YlVoVFZHc3RlbEV4UlhOalpqaFhObTVGWDFGS1dVZGZOWFYwTUhCQ2MwSkZaR1JZVEVRek1ubzNOSFZKTVdkWUxVYzBaRjgwVGtzNVJHdEJPRFJYT0ZGa01sVnNNMlZIYVV4RWFIZEJTazlGVkdwWlRIazJRMEo0TUV0T2JFeFZZelpmZW1OamVUZEJlRkpFUlRBU0Z5MXlhemxhU1VSdVRHUjFlREp5YjFCclpEWlhaMEZqR2lKQlR5MHdjbXcyUmpGMlJXTjRjRFZJY0Y4MGVVcGtVVlpUT0hGWWEwd3lXVUpSIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBBcHBsZSIsImxpbmsiOiJodHRwczovL2pvYnMuYXBwbGUuY29tL2VuLWNhL2RldGFpbHMvMjAwNDc0NDE0L2lzZS1pbnB1dC1leHBlcmllbmNlLXNvZnR3YXJlLWVuZ2luZWVyLWluLW5hdHVyYWwtbGFuZ3VhZ2UtcHJvY2Vzc2luZy1ubHAtYW5kLW1hY2hpbmUtbGVhcm5pbmctbWw/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "AI Technology and Systems, Artificial Intelligence Researcher...",
+            "company_name": "MIT Lincoln Laboratory",
+            "location": "  Lexington, MA   ",
+            "via": "via Jobs At MIT Lincoln Laboratory - Massachusetts Institute Of Technology",
+            "description": "For over fifty years, the Artificial Intelligence Technology and Systems Group has applied its deep technical expertise in\n\nartificial intelligence, machine learning, natural language processing, speech processing, signal processing, and...\n\ngraph processing to discover, create, and deliver some of the Nation's most impactful speech, language, and cyber\n\ntechnologies for national security. The group serves as the Nation\u2019s \u201cgo to\u201d technical resource in these areas and\n\nhas been recognized at the highest levels of the government. This is an amazing opportunity to join a group that has\n\nhad unmatched impact, work on teams with distinguished colleagues, and be in on the ground floor in exciting new\n\nareas. We seek a candidate with experience in the area of natural language processing (NLP) to work with our team on\n\nresearch, technology development and transfer, and applications in end-to-end artificial-intelligence systems.\n\nJob Description\n\nSome of the group\u2019s NLP research and development (R&D) efforts include authorship attribution, text generation, entity and relationship extraction, low-resource language processing, content authentication, auto summarization, style transfer, and explainable AI.\n\n\u2022 Conduct research and development in artificial intelligence/machine learning with application to text and NLP\n\n\u2022 Develop and evaluate technology for text understanding\n\n\u2022 Prior experience with deep learning architectures and related libraries (PyTorch, Tensor flow, etc.) is highly desired\n\n\u2022 Support the deployment of NLP systems across the US Government\n\n\u2022 Interact with government sponsors in support of developing new areas of research and fulfillment of future needs\n\n\u2022 This is an individual contributor (IC) role with significant opportunities to grow into a team leadership role\n\nRequirements\n\u2022 Masters or Bachelors degree and 3-5 years of experience in Computer Science, Computer Engineering, Data Science, Electrical\n\u2022 Engineering, Mathematics, Physics, or a related field\n\nFor Benefits Information, click http://hrweb.mit.edu/benefits\n\nSelected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.\n\nTo safeguard our health and well-being, MIT Lincoln Laboratory requires COVID-19 vaccination for all employees. Individuals may request exemption from the vaccine requirement for medical or religious reason.\n\nMIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.\n\nRequisition ID: 39964",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Masters or Bachelors degree and 3-5 years of experience in Computer Science, Computer Engineering, Data Science, Electrical",
+                        "Engineering, Mathematics, Physics, or a related field",
+                        "Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Some of the group\u2019s NLP research and development (R&D) efforts include authorship attribution, text generation, entity and relationship extraction, low-resource language processing, content authentication, auto summarization, style transfer, and explainable AI",
+                        "Conduct research and development in artificial intelligence/machine learning with application to text and NLP",
+                        "Develop and evaluate technology for text understanding",
+                        "Support the deployment of NLP systems across the US Government",
+                        "Interact with government sponsors in support of developing new areas of research and fulfillment of future needs",
+                        "This is an individual contributor (IC) role with significant opportunities to grow into a team leadership role"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.ll.mit.edu/",
+                    "text": "ll.mit.edu"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&hl=en&gl=us&q=MIT+Lincoln+Laboratory&sa=X&ved=0ahUKEwiAzMn47bH-AhXbmFYBHRGvBXA4ChCYkAIIqw4",
+                    "text": "See web results for MIT Lincoln Laboratory"
+                }
+            ],
+            "extensions": [
+                "8 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBUZWNobm9sb2d5IGFuZCBTeXN0ZW1zLCBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBSZXNlYXJjaGVyIChSXHUwMDI2RCkgLSBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmciLCJodGlkb2NpZCI6Ik1RcG5VZDVXSFk0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0NDcmNDUVVWek4ycE9VMEpRWkZFMk1IWXhlamM0Y25Gbk1ubFFRMlprYm1NMlFtaFlSM1IwZFd4SVdrZHFTV1ZuVTFoMVdWOVhaVWh6U2pka1MwOVRVV3c0YjJoblUzQmFNRVZJV0c5R05XRXdVRFp3V1ZORVNuVmZOalpYWmxWeWFtTnBMVVY1Y1ZKUlUyWlJZa2d5YXpBNFVsaENUek5UTVRSUk5qY3djM05SUVY5U1VUSnZURTFIZEc0NE9GUnFXWHBsU205d01IcFRUVEZpTjJWc1NWUmtPRVpmU1RadWJsSkZVVmhJUVZCUE9FeGpaVGhuYUhBdGMxbFNNVVJzTkd4dmQyNTRTMFpmTFdOdk0yRkRPVmM0Tld4V1FXYzRkR3QyWVhKRVVDMTVRWEo1WHpKUWEyZENRMW8xWWxCNFYzUTJUVFpJY2pKa2MwbGhNR2N5ZG5WWk1XWjBiekJDYURscGJEWmhSMlJaV21sellrSlJXVkpvVUVsc1VXUjNjVFkwUkhSd2JERlVMVEZKY2sxUlFYRkpVRU0yVW5KV1FVMFNGeTF5YXpsYVNVUnVUR1IxZURKeWIxQnJaRFpYWjBGakdpSkJUeTB3Y213ME5sWk9jbmhDVEZacVgycG9aazAxUW1aTGRGTlFSMnhzVGtaQiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnMgQXQgTUlUIExpbmNvbG4gTGFib3JhdG9yeSAtIE1hc3NhY2h1c2V0dHMgSW5zdGl0dXRlIE9mIFRlY2hub2xvZ3kiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmxsLm1pdC5lZHUvam9iL0xleGluZ3Rvbi1BSS1UZWNobm9sb2d5LWFuZC1TeXN0ZW1zJTJDLUFydGlmaWNpYWwtSW50ZWxsaWdlbmNlLVJlc2VhcmNoZXItJTI4Ulx1MDAyNkQlMjktTmF0dXJhbC1MYW5ndWFnZS1Qcm9jZXNzaW5nLU1BLTAyNDIwLzEwMTM3NDI0MDAvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Technical leader",
+                    "value": "technical leader"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Processing engineer",
+                    "value": "processing engineer"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Analytics manager",
+                    "value": "analytics manager"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Executive director",
+                    "value": "executive director"
+                },
+                {
+                    "text": "Group leader",
+                    "value": "group leader"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Processing specialist",
+                    "value": "processing specialist"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Professor",
+                    "value": "professor"
+                },
+                {
+                    "text": "Program manager",
+                    "value": "program manager"
+                },
+                {
+                    "text": "Programmer",
+                    "value": "programmer"
+                },
+                {
+                    "text": "Research specialist",
+                    "value": "research specialist"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Sr. manager",
+                    "value": "sr. manager"
+                },
+                {
+                    "text": "Staff engineer",
+                    "value": "staff engineer"
+                },
+                {
+                    "text": "Staff scientist",
+                    "value": "staff scientist"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Redmond, WA",
+                    "value": "I-4AIK0MkFTyBNjF6pADXg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Lexington, MA",
+                    "value": "y1hS39qd44nNEzYWyIU2hQ=="
+                },
+                {
+                    "text": "Madrid, AL",
+                    "value": "xdaOCKnvkohAZJY-Rp0BBw=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "Sacramento, CA",
+                    "value": "-ZeDsnLGmoDbfxl0qmofkg=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Sunnyvale, CA",
+                    "value": "O13QqUW2j4Ciw3zdJvuNdg=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Ann Arbor, MI",
+                    "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+                },
+                {
+                    "text": "Arlington, TX",
+                    "value": "05gI5NJiToZRU6AfrPZeCw=="
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Berkeley, CA",
+                    "value": "00mFOjZ5hYCT6XWmlRXqlA=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Chevy Chase, MD",
+                    "value": "DxpmGHLJt4meDebirKhC0A=="
+                },
+                {
+                    "text": "Clearwater, FL",
+                    "value": "Gbt04v3xwoj7kjzS0d-pdQ=="
+                },
+                {
+                    "text": "Cleveland, OH",
+                    "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+                },
+                {
+                    "text": "Columbus, OH",
+                    "value": "cd6QucGJOIgztbHP-GYy5A=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Garland, TX",
+                    "value": "dcJf28EDTIbQPGI4y70fBw=="
+                },
+                {
+                    "text": "Honolulu, HI",
+                    "value": "TUbDjDsYAHxsl6fzX_UoSw=="
+                },
+                {
+                    "text": "Houston, TX",
+                    "value": "AYWNSLS4QIY7BWXz3gINyg=="
+                },
+                {
+                    "text": "Indiana, PA",
+                    "value": "L7Xug9hay4kfolMAPyL_ZQ=="
+                },
+                {
+                    "text": "Indianapolis, IN",
+                    "value": "A2p5p_9Qa4h86rlA9p2O1g=="
+                },
+                {
+                    "text": "Irvine, CA",
+                    "value": "40CRaA7d3IA5mkpgdbV6pw=="
+                },
+                {
+                    "text": "Los Altos, CA",
+                    "value": "z0bVI-Gwj4D8pmXWXRgFZQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Miami, FL",
+                    "value": "EcHIDqKw2YhlT63dcfKW_w=="
+                },
+                {
+                    "text": "Montreal, MO",
+                    "value": "QSOJBMfXxIdq2pmJGJwBnw=="
+                },
+                {
+                    "text": "Nashville, TN",
+                    "value": "PZDrEzLsZIig2umh0Lk_fQ=="
+                },
+                {
+                    "text": "Newark, NJ",
+                    "value": "HQ6aMnBTwolz5P7cKty84Q=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "Leidos",
+                    "value": "/m/01h2kg"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "MultiPlan",
+                    "value": "/g/1dt_x5k2"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "FuseMachines",
+                    "value": "/g/11g9n3hrsf"
+                },
+                {
+                    "text": "IBM",
+                    "value": "/m/03sc8"
+                },
+                {
+                    "text": "Snap Inc",
+                    "value": "/g/11c1s2xz66"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "MIT Lincoln Laboratory",
+                    "value": "/m/02zby3"
+                },
+                {
+                    "text": "Robert Bosch",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "SRI International",
+                    "value": "/m/02fpms"
+                },
+                {
+                    "text": "ASAPP",
+                    "value": "/g/11f01jwrr9"
+                },
+                {
+                    "text": "Advanced Software Talent",
+                    "value": "/g/11c73q5twk"
+                },
+                {
+                    "text": "Amazon.com, Inc",
+                    "value": "/m/0mgkg"
+                },
+                {
+                    "text": "Avispa Technology",
+                    "value": "/g/11h1y7_gl0"
+                },
+                {
+                    "text": "Bank of America",
+                    "value": "/m/01yx7f"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                },
+                {
+                    "text": "Brain Technologies, Inc.",
+                    "value": "/g/11g7092p_9"
+                },
+                {
+                    "text": "Bytedance",
+                    "value": "/g/11ghnfr0sv"
+                },
+                {
+                    "text": "Charles River Analytics",
+                    "value": "/g/11fy1sf75z"
+                },
+                {
+                    "text": "Charter Communications",
+                    "value": "/m/05c51w"
+                },
+                {
+                    "text": "Chime",
+                    "value": "/g/11fy2dc0l8"
+                },
+                {
+                    "text": "Cigna",
+                    "value": "/m/02twsr"
+                },
+                {
+                    "text": "Conversica, Inc",
+                    "value": "/g/11h59s3sw3"
+                },
+                {
+                    "text": "Dana\u2013Farber Cancer Institute",
+                    "value": "/g/11c3wvtg8j"
+                },
+                {
+                    "text": "Degreed",
+                    "value": "/m/0134cqfs"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Federal Reserve Bank (FRB)",
+                    "value": "/m/02xmb"
+                },
+                {
+                    "text": "Google",
+                    "value": "/m/045c7b"
+                },
+                {
+                    "text": "Government Employees Insurance Company - GEICO",
+                    "value": "/m/02r95v"
+                },
+                {
+                    "text": "HelloFresh SE",
+                    "value": "/g/12214p7ws"
+                },
+                {
+                    "text": "JPMorgan Chase & Co.",
+                    "value": "/m/01hlwv"
+                }
+            ]
+        }
+    ]
+}

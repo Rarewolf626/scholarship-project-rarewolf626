@@ -1,0 +1,1357 @@
+{
+    "search_metadata": {
+        "id": "643db9acf218016c6034aa41",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ab56f5f899b04ad4/643db9acf218016c6034aa41.json",
+        "created_at": "2023-04-17 21:27:08 UTC",
+        "processed_at": "2023-04-17 21:27:08 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=machine+learning&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=0",
+        "raw_html_file": "https://serpapi.com/searches/ab56f5f899b04ad4/643db9acf218016c6034aa41.html",
+        "total_time_taken": 9.96
+    },
+    "search_parameters": {
+        "q": "machine learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 0
+    },
+    "jobs_results": [
+        {
+            "title": "Principal Machine Learning Engineer",
+            "company_name": "Informatica",
+            "location": "  Redwood City, CA   ",
+            "via": "via Careers At Informatica Gr8people",
+            "description": "Build Your Career at Informatica\n\nWe're looking for a diverse group of collaborators who believe data has the power to improve society. Adventurous, work-from-anywhere minds who value solving some of the world's most challenging problems. Here, employees are encouraged to push their boldest ideas forward, united by a passion to create a world where data improves the quality of life for people and... businesses everywhere.\n\nPrincipal Machine Learning Engineer in Redwood City, CA\n\nWe're looking for a Principal Machine Learning Engineer candidate with experience in AI, ML, NLP to join our team in Redwood City, CA (onsite/hybrid)\n\nYou will report to the Senior Director, Development R&D ENG_Platform_CL\n\nYou will work in a fast-paced environment with a keen commitment to customer success and work very closely with architects, product managers and customers to shape the roadmap of the CLAIRE team\n\nTechnology You'll Use\n\u2022 deep learning algorithms\n\u2022 large language models and NLP\n\nYour Role Responsibilities? Here's What You'll Do\n\u2022 Lead the end-to-end\u202fdesign\u202fand development of machine learning solutions for the Informatica Data Management Cloud (IDMC)\u202f\n\u2022 Research and implement machine learning algorithms into services and pipelines to be consumed at web-scale\n\u2022 Help build common AI/ML components such as central discovery service, training frameworks, metadata knowledge graph, data infrastructures for accelerating the development of AI/ML components that could be consumed by various Informatica products\n\u2022 Champion and communicate the value proposition and differentiation of\u202fAI/ML\u202fto internal\u202faudiences\u202f\n\u2022 Build AI/ML expertise in the engineering division\u202f\n\u2022 Collaborate with academia and the research community.\u202f\u202f\n\u2022 Hiring strong and diverse talent to strengthen the team.\u202f\u202f\n\nWhat We'd Like to See\n\u2022 Solid experience designing and developing solutions using Java/python, Cloud platforms like AWS, Azure, GCP\n\u2022 Experience working with distributed processing frameworks.\u202f\n\u2022 Experience working with Kubernetes and cloud-first cloud-native platforms\n\nRole Essentials\n\u2022 Experience with machine learning and deploying machine learning solutions in production\n\u2022 Experience with supervised, unsupervised, deep learning algorithms\n\u2022 Experience with large language models and NLP\n\u2022 Experience with ML development lifecycle, onboarding stakeholders as well as supporting successful adoption of AI/ML services\n\u2022 Experience in delivering large, enterprise-scale, distributed, high performance platforms and developing reusable and common services developed across products.\n\u2022 Some cloud experience including but not limited to multi-tenancy, secured application, high availability, microservices, telemetry\n\u2022 Excellent presentation skills, sharing technical and execution plans with executives and external partners\n\u2022 BA/BS or equivalent educational background, we will consider an equivalent combination of relevant education and experience\n\u2022 Minimum 8+ years of relevant professional experience\n\nPerks & Benefits\n\u2022 Comprehensive health, vision, and wellness benefits (Paid parental leave, adoption benefits, life insurance, disability insurance and 401k plan or international pension/retirement plans\n\u2022 Flexible time-off policy and hybrid working practices\n\u2022 Tuition reimbursement program to support your and personal growth\n\u2022 Equity opportunities and an employee stock purchase program (ESPP)\n\u2022 Comprehensive Mental Health and Employee Assistance Program (EAP) benefit\n\nWe're guided by our DATA values and we are passionate about building and delivering solutions that accelerate data innovations. At Informatica, we know diversity drives innovation. We are proud to be an Equal Opportunity Employer dedicated to maintaining a work environment free from discrimination, one where all employees are treated with dignity.\n\nInformatica (NYSE: INFA), an Enterprise Cloud Data Management leader, brings data to life by empowering businesses to realize the transformative power of their most critical assets. We have pioneered the Informatica Intelligent Data Management Cloud\u2122 (IDMC) that manages data across any multi-cloud, hybrid system, democratizing data to advance business strategies.\u202fCustomers in over 100 countries and 85 of the Fortune 100 rely on Informatica. www.informatica.com. Connect with LinkedIn,\u202fTwitter, and Facebook. Informatica. Where data comes to life",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Solid experience designing and developing solutions using Java/python, Cloud platforms like AWS, Azure, GCP",
+                        "Experience working with distributed processing frameworks.",
+                        "Experience working with Kubernetes and cloud-first cloud-native platforms",
+                        "Experience with machine learning and deploying machine learning solutions in production",
+                        "Experience with supervised, unsupervised, deep learning algorithms",
+                        "Experience with large language models and NLP",
+                        "Experience with ML development lifecycle, onboarding stakeholders as well as supporting successful adoption of AI/ML services",
+                        "Experience in delivering large, enterprise-scale, distributed, high performance platforms and developing reusable and common services developed across products",
+                        "Some cloud experience including but not limited to multi-tenancy, secured application, high availability, microservices, telemetry",
+                        "Excellent presentation skills, sharing technical and execution plans with executives and external partners",
+                        "BA/BS or equivalent educational background, we will consider an equivalent combination of relevant education and experience",
+                        "Minimum 8+ years of relevant professional experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will report to the Senior Director, Development R&D ENG_Platform_CL",
+                        "You will work in a fast-paced environment with a keen commitment to customer success and work very closely with architects, product managers and customers to shape the roadmap of the CLAIRE team",
+                        "Lead the end-to-end design and development of machine learning solutions for the Informatica Data Management Cloud (IDMC)",
+                        "Research and implement machine learning algorithms into services and pipelines to be consumed at web-scale",
+                        "Help build common AI/ML components such as central discovery service, training frameworks, metadata knowledge graph, data infrastructures for accelerating the development of AI/ML components that could be consumed by various Informatica products",
+                        "Champion and communicate the value proposition and differentiation of AI/ML to internal audiences",
+                        "Build AI/ML expertise in the engineering division",
+                        "Collaborate with academia and the research community."
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Comprehensive health, vision, and wellness benefits (Paid parental leave, adoption benefits, life insurance, disability insurance and 401k plan or international pension/retirement plans",
+                        "Flexible time-off policy and hybrid working practices",
+                        "Tuition reimbursement program to support your and personal growth",
+                        "Equity opportunities and an employee stock purchase program (ESPP)",
+                        "Comprehensive Mental Health and Employee Assistance Program (EAP) benefit"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.informatica.com/",
+                    "text": "informatica.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Informatica&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCNEJ",
+                    "text": "See web results for Informatica"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciIsImh0aWRvY2lkIjoiUEJsckhTbHlBaDRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VUQjNOM1pWTlhaTE9VaERVM0EyVlRkQk1WRXdMWFp3ZDB4emIyOUtjbEpRTjB0aFgxaEZhMHd5V2xwYVZVVndkRU00T1doamFFSmlWbDlzWDI1bFFWQnhSVXg2UTIxWlFVazJiMjlWYjNGbVNXMW5VVjlCTmxKeVpuZDVObTEyUkV0YWVFWlVlVEJzYkc1a2NqUnhNVXRIWTFaUVVXUmxjRUU0ZHpGUllrcDFjV2xIT1dweldHdEJiMkpmZEZkVWEzRlVUbkZ2WDFCMWFVSlBObXhOUzFnNVNGVm1RVzQyVURCTE1XNWZjV05zYUhoS05EWmhhMWRXZFRSd1JYZzBaR2hMYVhNNEVoZDBZbXM1V2tsSFFVSk9WRVpyVUVsUWNYSnRTaTFCV1JvaVFVOHRNSEpzTkdaV2FYcHNUVjkxZWtWblZscHJWMGx5YzBaQ1JWUmxZV0ZQUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIENhcmVlcnMgQXQgSW5mb3JtYXRpY2EgR3I4cGVvcGxlIiwibGluayI6Imh0dHBzOi8vaW5mb3JtYXRpY2EuZ3I4cGVvcGxlLmNvbS9qb2JzLzM1NjUwL3ByaW5jaXBhbC1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Principal Machine Learning Engineer (Remote)",
+            "company_name": "ServiceTitan",
+            "location": " Anywhere ",
+            "via": "via Built In LA",
+            "description": "Ready to be a Titan?\nThis is a critical role for the next phase of ServiceTitan's growth. We are sitting on an incredibly rich set of functionality and customer use cases that ServiceTitan will need to continue to enhance, build anew and scale 10X . For this upcoming phase of our continued growth, our data assets (including customer data, transactional logs and externally procured data from... partners and web) will need to be productively harnessed to deliver tremendous incremental value to our customers using Analytics, Recommendations and automation and IoT oriented AI solutions. As an initiation of ServiceTitan's commitment to advancement in data and AI, we recently launched our Analytics and AI products:\nTitan Intelligence (https://www.servicetitan.com/blog/titan-intelligence-announcement)\nAs we continue to build our Data and ML capabilities to deliver the promise of helping our customers unleash the power of their data and bring the trades industry at AI parity with other technology enabled industries, we seek to add an industry leading Principal Machine Learning Engineer with deep technical expertise in Machine Learning, ML Infrastructure, productionalizing ML workflows and expertise in Deep Learning approaches and solutions including Large Language Models and Generative AI. This hands-on role will blend a passion for ML and AI with the engineering rigor required to implement a machine learning platform to enable the data and AI lifecycle at ServiceTitan.\nPrincipal MLE will be a key contributor to the technical vision and product roadmap by enabling ML based product offerings which add significant customer value. This role is for a strong ML practitioner who will build state-of-the-art ML solutions and ML infrastructure @ ServiceTitan.\nWhat you'll do:\n\u2022 Implement Machine Learning algorithms for recommendation systems, Generative AI, Large Language Models, clustering, classification problems, Natural Language Processing, content embedding, models etc.\n\u2022 Collaborate with the product team to discover and develop novel applications of cutting edge Machine Learning algorithms to drive customer value\n\u2022 Develop end-to-end ML workflows for batch, real-time and near real-time usecases\n\u2022 Key contributor to the development of ServiceTitan AI platform including training platform, inference platform and model monitoring systems\n\u2022 Collaborate effectively with cross-functional teams, engineers, Product Managers, customers, and partners\n\nWhat you'll bring:\n\u2022 Advanced knowledge of Machine Learning methods and algorithms across traditional ML methods and Deep Learning theory and techniques.\n\u2022 Experience developing and deploying large scale Machine Learning applications\n\u2022 Expertise in Machine Learning frameworks such as TensorFlow, Keras, PyTorch\n\u2022 Ability to write high quality code in Python, C++ or Java\n\u2022 Experience building ML platform to support ML lifecycle across teams and projects\n\u2022 Ability to empathize with our users and champion their experience.\n\u2022 Strong communication skills\n\u2022 High EQ and a strong inclination to build a highly effective, diverse team where all members feel respected, included and can bring their whole self to the job.\n\u2022 10+ years of relevant experience\n\u2022 BA/BS Computer Science or a related discipline. MS/PhD is highly desirable\n\nThere are positions open for Sr. MLE and Staff MLE levels as well.\nBe Human With Us:\nBeing human isn't about checking every box on a list. It's about the experiences we have, people we meet, and the perspectives we share. So, if you have the skills but are hesitant to apply because of your background, apply anyway. We need amazing people like you to help us challenge the conventional and think differently about the problems that we're solving. We're in this together. Come be human, with us.\nWhat We Offer:\nWhen you join our team, you're not just accepting a job. You're making a career move. Here's how we'll support you in doing some of the most impactful work of your career:\n\u2022 Flextime, recognition, and support for autonomous work: Flexible time off with ample learning and development opportunities to continue growing your career. We offer a comprehensive onboarding program, leadership training for Titans at all levels, and other programs and events. Great work is rewarded through Bonusly, peer-nominated awards, and more.\n\u2022 Holistic health and wellness benefits: Company-paid medical, dental, and vision (with 100% employer paid options and 90% coverage for dependents), FSA and HSA, 401k match, and telehealth options including memberships to Headspace, Galileo, One Medical, Ginger and more.\n\u2022 Support for Titans at all stages of life: Parental leave and support, up to $20k in adoption reimbursement, on demand maternity support through Maven Maternity, free breast milk shipping through Maven Milk, pet insurance, legal advisory services, financial planning tools, and more.\n\nAt ServiceTitan, we celebrate individuality and uniqueness. We believe that the convergence of fresh perspectives and experiences from all walks of life is what makes our product and culture so great. We strongly encourage people from underrepresented groups to apply. We do not discriminate against employees based on race, color, religion, sex, national origin, gender identity or expression, age, disability, pregnancy (including childbirth, breastfeeding, or related medical condition), genetic information, protected military or veteran status, sexual orientation, or any other characteristic protected by applicable federal, state or local laws.\nServiceTitan is committed to fair and equitable compensation for all of our employees. We thoughtfully consider a wide range of factors when determining individual compensation. The expected salary range for this role is between $182,000 - $262,000. Actual compensation for an individual may vary depending on skills, performance over time, qualifications, experience, and location. In addition to the base salary, the total compensation package also includes an annual bonus, equity and a holistic suite of benefits",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Advanced knowledge of Machine Learning methods and algorithms across traditional ML methods and Deep Learning theory and techniques",
+                        "Experience developing and deploying large scale Machine Learning applications",
+                        "Expertise in Machine Learning frameworks such as TensorFlow, Keras, PyTorch",
+                        "Ability to write high quality code in Python, C++ or Java",
+                        "Experience building ML platform to support ML lifecycle across teams and projects",
+                        "Ability to empathize with our users and champion their experience",
+                        "Strong communication skills",
+                        "High EQ and a strong inclination to build a highly effective, diverse team where all members feel respected, included and can bring their whole self to the job",
+                        "10+ years of relevant experience",
+                        "BA/BS Computer Science or a related discipline"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This is a critical role for the next phase of ServiceTitan's growth",
+                        "This hands-on role will blend a passion for ML and AI with the engineering rigor required to implement a machine learning platform to enable the data and AI lifecycle at ServiceTitan",
+                        "Principal MLE will be a key contributor to the technical vision and product roadmap by enabling ML based product offerings which add significant customer value",
+                        "This role is for a strong ML practitioner who will build state-of-the-art ML solutions and ML infrastructure @ ServiceTitan",
+                        "Implement Machine Learning algorithms for recommendation systems, Generative AI, Large Language Models, clustering, classification problems, Natural Language Processing, content embedding, models etc",
+                        "Collaborate with the product team to discover and develop novel applications of cutting edge Machine Learning algorithms to drive customer value",
+                        "Develop end-to-end ML workflows for batch, real-time and near real-time usecases",
+                        "Key contributor to the development of ServiceTitan AI platform including training platform, inference platform and model monitoring systems",
+                        "Collaborate effectively with cross-functional teams, engineers, Product Managers, customers, and partners"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Flextime, recognition, and support for autonomous work: Flexible time off with ample learning and development opportunities to continue growing your career",
+                        "We offer a comprehensive onboarding program, leadership training for Titans at all levels, and other programs and events",
+                        "Holistic health and wellness benefits: Company-paid medical, dental, and vision (with 100% employer paid options and 90% coverage for dependents), FSA and HSA, 401k match, and telehealth options including memberships to Headspace, Galileo, One Medical, Ginger and more",
+                        "Support for Titans at all stages of life: Parental leave and support, up to $20k in adoption reimbursement, on demand maternity support through Maven Maternity, free breast milk shipping through Maven Milk, pet insurance, legal advisory services, financial planning tools, and more",
+                        "The expected salary range for this role is between $182,000 - $262,000",
+                        "Actual compensation for an individual may vary depending on skills, performance over time, qualifications, experience, and location",
+                        "In addition to the base salary, the total compensation package also includes an annual bonus, equity and a holistic suite of benefits"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://servicetitan.com/",
+                    "text": "servicetitan.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=ServiceTitan&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCJoK",
+                    "text": "See web results for ServiceTitan"
+                }
+            ],
+            "extensions": [
+                "15 hours ago",
+                "182K\u2013262K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "15 hours ago",
+                "schedule_type": "Full-time",
+                "salary": "182K\u2013262K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAoUmVtb3RlKSIsImh0aWRvY2lkIjoiUlhRd296ZlE4azRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VtdDRWalpCTm5vellpMUNlblZpYkVOcE5XdEhSSGhXZHpOUWNVYzJaMnBSYVVaUFVXcGtSMk01YlVKaFRWQTFjRVZEZHpndE5uUllTbGN4TWxkT1ZsQk5SR2xCWkhwbmNVOUtOVFZCT1VKWGMycHhUbVoyWmsxQ1VuTjJXWGt3WlRjd1pGbE9VVWxuYWxCUWNVSmZiMlZQZVdRM1RXeHJZWEp0WjFWWWNVZGpjbEZOUm5adVNWQlZZM2ROT0doTmFrWkRiR1poTFhKVFNYUk1UME01V0c0dFRFSkRTV3R3Ym10dVZVTXlObTA0UkVJeGNrNDRiVlE0Y0ZkNVYyUnRRbUoxZFhkSlVEVkJibDlYZUdOMmNFbGZiRE53V0d4NmJFVktaeElYZEdKck9WcEpSMEZDVGxSR2ExQkpVSEZ5YlVvdFFWa2FJa0ZQTFRCeWJEVndVbVZXZDFjNWJYRjRlbFZWUjNGUk4zaGhVVEEzWW1WaE5IYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQnVpbHQgSW4gTEEiLCJsaW5rIjoiaHR0cHM6Ly93d3cuYnVpbHRpbmxhLmNvbS9qb2IvZGF0YS9wcmluY2lwYWwtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci8xMzg5Mzg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Infrastructure Engineer",
+            "company_name": "Snap Inc.",
+            "location": " Anywhere ",
+            "via": "via Wd1.Myworkdaysite.com",
+            "description": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company\u2019s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles. Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We\u2019re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront. We\u2019re looking for a Machine Learning Infrastructure Engineer to join Snap Inc... What you\u2019ll do: Combine strong software engineering principles with machine learning to build scalable, reproducible and easy-to-use end-to-end machine learning workflows for advanced deep learning problems Build backend infrastructure to perform scalable training, evaluation, and inference in the cloud and client-side infrastructure to perform efficient inference on mobile devices Build comprehensive data management systems for scalable data collection, labeling, processing, and evaluation Work with product teams and engineers to make applications of machine learning ubiquitous to Snapchat Knowledge, Skills & Abilities: Ability to collaborate and work well with others Proven track record of operating highly-available systems at significant scale Ability to proactively learn new concepts and apply them at work A passion for Snapchat and creativity Minimum Qualifications: Bachelor\u2019s degree in a technical field such as computer science or equivalent experience 3+ years industry software engineering experience Preferred Qualifications: Masters/PhD in a technical field such as computer science or equivalent industry experience Experience working on online ranking/recommendations systems Experience building large scale production machine learning systems or data pipelines Experience with backend services or distributed systems Experience in at least one of the following areas: Experience with backend services or distributed systems Infrastructure and large-scale system design Experience with key infra technologies like NoSQL solutions, Memcache/Redis, kafka, Kubernetes, Google/AWS services Experience building large scale production data pipelines Familiarity with machine learning frameworks such as TensorFlow, Caffe2, PyTorch, Spark ML, scikit-learn, or related frameworks Compensation In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate\u2019s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future. Zone A (CA, WA, NYC): The base salary range for this position is $175,000 - 250,000 annually Zone B: The base salary range for this position is $166,000 - 238,000 annually Zone C: The base salary range for this position is $149,000 - 213,000 annually This position is eligible for equity in the form of RSUs \"Default Together\" Policy at Snap At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a \u201cdefault together\u201d approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week). Remote team members still are expected to travel for mandatory in-person gatherings and to fulfill business needs, at least 4 to 6 times per year. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don\u2019t be shy and contact us at accommodations-ext@snap.com. Our Benefits: Snap Inc. is its own community, so we\u2019ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid maternity & paternity leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap\u2019s long-term success! A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company\u2019s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles. Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We\u2019re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront. We\u2019re looking for a Machine Learning Infrastructure Engineer to join Snap Inc... What you\u2019ll do: Combine strong software engineering principles with machine learning to build scalable, reproducible and easy-to-use end-to-end machine learning workflows for advanced deep learning problems Build backend infrastructure to perform scalable training, evaluation, and inference in the cloud and client-side infrastructure to perform efficient inference on mobile devices Build comprehensive data management systems for scalable data collection, labeling, processing, and evaluation Work with product teams and engineers to make applications of machine learning ubiquitous to Snapchat Knowledge, Skills & Abilities: Ability to collaborate and work well with others Proven track record of operating highly-available systems at significant scale Ability to proactively learn new concepts and apply them at work A passion for Snapchat and creativity Minimum Qualifications: Bachelor\u2019s degree in a technical field such as computer science or equivalent experience 3+ years industry software engineering experience Preferred Qualifications: Masters/PhD in a technical field such as computer science or equivalent industry experience Experience working on online ranking/recommendations systems Experience building large scale production machine learning systems or data pipelines Experience with backend services or distributed systems Experience in at least one of the following areas: Experience with backend services or distributed systems Infrastructure and large-scale system design Experience with key infra technologies like NoSQL solutions, Memcache/Redis, kafka, Kubernetes, Google/AWS services Experience building large scale production data pipelines Familiarity with machine learning frameworks such as TensorFlow, Caffe2, PyTorch, Spark ML, scikit-learn, or related frameworks Compensation In the United States, work locations are assigned a pay zone which determines the salary range for the position. The successful candidate\u2019s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These pay zones may be modified in the future. Zone A (CA, WA, NYC): The base salary range for this position is $175,000 - 250,000 annually Zone B: The base salary range for this position is $166,000 - 238,000 annually Zone C: The base salary range for this position is $149,000 - 213,000 annually This position is eligible for equity in the form of RSUs \"Default Together\" Policy at Snap At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a \u201cdefault together\u201d approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week). Remote team members still are expected to travel for mandatory in-person gatherings and to fulfill business needs, at least 4 to 6 times per year. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. If you have a disability or special need that requires accommodation, please don\u2019t be shy and contact us at accommodations-ext@snap.com. Our Benefits: Snap Inc. is its own community, so we\u2019ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid maternity & paternity leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap\u2019s long-term success! A Decade of Snap: Learn about our origin story, values, mission, culture of innovation, and more. CitizenSnap: In our third annual CitizenSnap Report, we demonstrate progress towards our environmental, social, and governance (ESG) goals, and we lay out our plans looking forward. The DEI Innovation Summit: Watch highlights from the 2nd annual DEI Innovation Summit, which brings together thought leaders and DEI experts for a day of courageous conversations to enable bold action. Snap News: Stay up to date on the latest and greatest product and innovation news at Snap Applicant and Candidate Privacy Policy"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.snap.com/",
+                    "text": "snap.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Snap+Inc.&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCM4K",
+                    "text": "See web results for Snap Inc."
+                }
+            ],
+            "extensions": [
+                "21 hours ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 hours ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEluZnJhc3RydWN0dXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJYRFIzSkVvODNRZ0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVVVOaWNURmtTMXBxUXkwMFgwMDJSVEZOWkdOaloxaElkbXN3VFdkNWJYTmxZMXBIZFRRNE1qSm1jRkJNWVdOTk9HUkhkRlZ5UzI1UE9GUlNiV3haUVdRM1pVOWpTSFExYTFsaGRVSjNUbFpETlRGYWN6UjRTRUZyT0dWUlMxUmZhR0pyYUhab0xXUjFSbk55VjJkTFFWcHlVV2ROWldaSVMxOTFOblUzV2xSYUxUaGlRazQxZG5SZmJsUndaamhPWjJsbVdHdEpUM2xGYm5kSlRrOVhkbkJLY0ZsUWNrZGlVazh0YmpsR1lUazVVRlpNWmpObU5ETlVTV1JyZUhORFRXZG5ZMU5aRWhkMFltczVXa2xIUVVKT1ZFWnJVRWxRY1hKdFNpMUJXUm9pUVU4dE1ISnNOMWhRWkVKUFduaE1RMUpZTTFsQ2JuVkRVVGRvUkUxSFNuQlFkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV2QxLk15d29ya2RheXNpdGUuY29tIiwibGluayI6Imh0dHBzOi8vd2QxLm15d29ya2RheXNpdGUuY29tL2VuLVVTL3JlY3J1aXRpbmcvc25hcGNoYXQvc25hcC9qb2IvTG9zLUFuZ2VsZXMtQ2FsaWZvcm5pYS9NYWNoaW5lLUxlYXJuaW5nLUluZnJhc3RydWN0dXJlLUVuZ2luZWVyX1EyMjNTV0VNTEkzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Machine Learning Technical Support",
+            "company_name": "Johns Hopkins Applied Physics Laboratory",
+            "location": "  Laurel, MD   ",
+            "via": "via Jobs - Johns Hopkins University Applied Physics Laboratory",
+            "description": "Description\n\nAre you searching for a place to build upon the foundation of your academic work...\n\nAre you searching for engaging work with an employer that prioritizes impact, innovation, and personal development?\n\nAre you looking for meaningful work in a driven intellectual environment?\n\nIf so, we're looking for someone like you to join our team at APL!\n\nIf you have experience in Computer Science, Machine Learning, AI or Computer Engineering, we are seeking enthusiastic problem-solvers to help us to help us tackle the complex research, engineering, and analytical problems that present critical challenges to our nation. Our group is currently making critical contributions in, developing the first truly autonomous UAV, advancing research in computer vision and reasoning systems. We apply artificial intelligence (AI), reasoning, machine learning (ML) operations, data science, systems engineering, and more to solve urgent tactical problems. We support sponsors in defense, homeland security, and health care, conducting research to address critical challenges.\n\nAs a member of our team you will...\n\u2022 Work with dedicated team members charged with developing and delivering solutions that support national priorities\n\u2022 Work within a team environment and apply your skills to projects and tasks in areas such as Machine Perception, Intelligent Systems, Reasoning for Autonomy, Software Engineering, ML Operations, and Data Science\n\nQualifications\n\nYou meet our minimum qualifications for the job if you...\n\u2022 Have a High School Diploma / GED\n\u2022 Have maintained a minimum 3.0/4.0 GPA\n\u2022 Have completed a previous internship in the field of CS/ML/AI/CE\n\u2022 Hold an active Secret level security clearance. If selected, you will be subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include U.S. citizenship.\n\nYou'll go above and beyond our minimum requirements if you...\n\nAre skilled in and/or have knowledge of one or more of the following....\n\u2022 Experience working with state-of-the-art CV techniques\n\u2022 Experience working with CV on full motion video\n\u2022 Programming Languages (Python, C++)\n\u2022 Data analysis / visualization\n\nWhy work at APL?\n\nThe Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation\u2019s most critical defense, security, space and science challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.\n\nAt APL, we celebrate our differences and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL\u2019s campus is located in the Baltimore-Washington metro area. Learn more about our career opportunities at www.jhuapl.edu/careers.\n\nAbout Us\n\nAPL is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political opinion, personal appearance, or any other characteristic protected by applicable law.\n\nAPL is committed to promoting an innovative environment that embraces diversity, encourages creativity, and supports inclusion of new ideas. In doing so, we are committed to providing reasonable accommodation to individuals of all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact Accommodations@jhuapl.edu. Only by ensuring that everyone\u2019s voice is heard are we empowered to be bold, do great things, and make the world a better place",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Have a High School Diploma / GED",
+                        "Have maintained a minimum 3.0/4.0 GPA",
+                        "Have completed a previous internship in the field of CS/ML/AI/CE",
+                        "Hold an active Secret level security clearance",
+                        "Eligibility requirements include U.S. citizenship",
+                        "Are skilled in and/or have knowledge of one or more of the following...",
+                        "Experience working with state-of-the-art CV techniques",
+                        "Experience working with CV on full motion video",
+                        "Programming Languages (Python, C++)",
+                        "Data analysis / visualization"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work with dedicated team members charged with developing and delivering solutions that support national priorities",
+                        "Work within a team environment and apply your skills to projects and tasks in areas such as Machine Perception, Intelligent Systems, Reasoning for Autonomy, Software Engineering, ML Operations, and Data Science"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.jhuapl.edu/",
+                    "text": "jhuapl.edu"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Johns+Hopkins+Applied+Physics+Laboratory&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCJAL",
+                    "text": "See web results for Johns Hopkins Applied Physics Laboratory"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Part-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Part-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIFRlY2huaWNhbCBTdXBwb3J0IiwiaHRpZG9jaWQiOiJVQXJLTm4zM0hOd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVVZSelJrdDVTWE42Y1U1RlpDMVliR2hvYjAxM2JscHNlSFpOVTE5R1VWRmlSVEZxZEd0dWIzZHhUVUppTUZsaVpYVTJTemhwTlVKM1JVNVplVkJZYjJkbllXNVlRMUJPTFRaRkxWUkVhbEUzTFhKUWN6UnpabEJoYlZSdVJrSjZhRlIwVW5kWlMxcG9kRzVZWmw5TVF6ZzJkbGhsTkdaT05sQTNVa05VWm5GcWJUSllhMGx0ZUdVelNVMWFjRmgxYmtsaFJWWm1URzF2ZEU5RWExTTJRME5LWXpWVWVtazFaMmRxZG01V2NVVnhVM1JEZFc5c2NXbEdjemRJZDNsTE1FUm5iVE5pWlhSTlFVcEhhR1F0TUhVdGN6bHlRekZ6TVZWQ1dUUlhVV1phTm5sNmVVWllkVTB0UWtWbVVWUnJUUklYZEdKck9WcEpSMEZDVGxSR2ExQkpVSEZ5YlVvdFFWa2FJa0ZQTFRCeWJEWkNjR2R6Ym1jM1F6RlphMWxrVEdWMlNqWTBWR04xTW5BeWRuYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gSm9icyAtIEpvaG5zIEhvcGtpbnMgVW5pdmVyc2l0eSBBcHBsaWVkIFBoeXNpY3MgTGFib3JhdG9yeSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuamh1YXBsLmVkdS9qb2JzLzUyNDczP2xhbmc9ZW4tdXNcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Staff Machine Learning Engineer",
+            "company_name": "Iterative Health",
+            "location": " Anywhere ",
+            "via": "via AngelList",
+            "description": "Iterative Health is seeking a Machine Learning Engineer. This is a dynamic, fast-paced role that will require creative thinking and strong machine learning, computer vision, and software development fundamentals. The successful candidate will work collaboratively with a diverse team of engineers and scientists in addition to having a track record of developing machine learning and especially deep... learning and computer vision models for solving challenging real-world scientific problems.\n\nWhat you\u2019ll be doing:\n\nThe core responsibilities of this role include designing and implementing advanced and scalable deep-learning models on medical images and videos to analyze various conditions and objects with different spatial, temporal, and resolution constraints using\n\u2022 detection,\n\u2022 classification,\n\u2022 segmentation,\n\u2022 registration.\n\nRequired Skills:\n\u2022 Graduate Degree in computer science or other quantitative fields or Bachelor of Science with similar practical experience in an industrial or research setting.\n\u2022 In-depth knowledge and experience developing, troubleshooting, and validating deep learning models in Python using PyTorch.\n\u2022 Significant professional experience with computer vision libraries such as Pillow, scikit-image, and OpenCV.\n\u2022 Strong written/verbal technical communication and interpersonal skills\n\u2022 Proven working knowledge of Cloud Computing (AWS), PostgreSQL, Docker\n\u2022 Regularly mentored and guided junior engineers.\n\nPreferred Skills:\n\u2022 Ph.D. in computer science or other quantitative fields.\n\u2022 Maintain deep technical and industry knowledge of the state-of-the-art machine learning and computer vision methods\n\u2022 Prior experience leading the development of large projects, including technical design, breakdown of work, estimation, implementation, risk management, and deployment.\n\u2022 Significant experience with developing deep learning models using PyTorch working in the areas of video and image processing.\n\u2022 Knowledge of computer vision tasks, including detection, segmentation, and classification.\n\u2022 Extensive experience with various services of Cloud Computing (AWS)\n\nIterative Health focuses on Healthcare, Diagnostics, Artificial Intelligence, Computer Vision, and Digital Health. Their company has offices in San Francisco, Dallas, and Cambridge. They have a mid-size team that's between 51-200 employees. To date, Iterative Health has raised $180M of funding; their latest round was closed on January 2022.\n\nYou can view their website at https://iterative.health/ or find them on LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Graduate Degree in computer science or other quantitative fields or Bachelor of Science with similar practical experience in an industrial or research setting",
+                        "In-depth knowledge and experience developing, troubleshooting, and validating deep learning models in Python using PyTorch",
+                        "Significant professional experience with computer vision libraries such as Pillow, scikit-image, and OpenCV",
+                        "Strong written/verbal technical communication and interpersonal skills",
+                        "Proven working knowledge of Cloud Computing (AWS), PostgreSQL, Docker",
+                        "Regularly mentored and guided junior engineers"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The successful candidate will work collaboratively with a diverse team of engineers and scientists in addition to having a track record of developing machine learning and especially deep learning and computer vision models for solving challenging real-world scientific problems",
+                        "The core responsibilities of this role include designing and implementing advanced and scalable deep-learning models on medical images and videos to analyze various conditions and objects with different spatial, temporal, and resolution constraints using"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Iterative+Health&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCM8L",
+                    "text": "See web results for Iterative Health"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiI1UUJWd1hJZVJlRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVXpKTlMxWXpOMngxVjJKZlpWZENRVzFtVERCRmJEQjRWRUZDVUdkdmVIVktlV3g0VGxWNVJ6RmpWVVF3WDFCdVZrRnNabDlJV1dkVFQyeFBVWFJTU0VoVmVsQkZVWE5XUm5RemVWVXhNVmxyUkV4ZlFUQTFOblZ1YmxvMVUwdFdSRnBaTUVkUVIyVlhOVWh5TFdWZlJVSllVM1ZaT0VGNGFWVTRjV0p5YTFacU1WaExNRzkwTW5GdFVWOWpiR3BhYmkxT1dVdHlSWFZTVW5CWFlrZDFjbEl5UjBOUWMwbDJNVk15WW5WbFlXVnVMV3Q2UWw5dGJFSnlTMnMxV25GVlgyNU9Rekl3RWhkMFltczVXa2xIUVVKT1ZFWnJVRWxRY1hKdFNpMUJXUm9pUVU4dE1ISnNOR3RoUm0xU1ZraExhRVV6TTJSdWFISktaSGx1TTB0SmFtRnpVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQW5nZWxMaXN0IiwibGluayI6Imh0dHBzOi8vd2VsbGZvdW5kLmNvbS9jb21wYW55L2l0ZXJhdGl2ZS1oZWFsdGgvam9icy8yNjQ0MDA1LXN0YWZmLW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Manager, Product Management - Data Insights, Machine Learning",
+            "company_name": "Capital One - US",
+            "location": "  Plano, TX   ",
+            "via": "via Capital One Careers",
+            "description": "Plano 7 (31067), United States of America, Plano, Texas\n\nManager, Product Management - Data Insights, Machine Learning...\n\nProduct Management\n\nProduct Management at Capital One is a booming, vibrant craft that requires reimagining the status quo, finding value creation opportunities, and driving innovative and sustainable customer experiences through technology.\n\nWe believe our portfolio of businesses and investments in growth and transformation will result in a company with the scale, brand, capabilities, talent, and values to succeed as the digital revolution transforms our society and our industry.\n\nDo you dream of well-designed and intuitive products and customer experiences? Do you want to be the one who introduces change to help tens of millions of customers make smarter financial choices? Do you want to change the way people manage their money? If you answered yes to all of these questions, then product management at Capital One may be a fit for you\n\nIn this role, you\u2019ll be expected to demonstrate proficiency in four key areas\n\u2022 Human Centered\n\u2022 You\u2019ll define clear and actionable problem statements to help teams deliver results while displaying a comprehensive understanding of iterative software delivery, capable of thin-slice MVP grooming\n\u2022 You\u2019ll leverage customer insights to influence priorities and roadmap feature development while advocating for and driving alignment between stakeholders in the development of acceptance criteria\n\u2022 You\u2019ll obsess over UX/UI patterns and seek to create world class, omni-channel experiences\n\u2022 Business Focused\n\u2022 You\u2019ll own and prioritize the near-term product roadmap to deliver on business outcomes, quickly identifying points of leverage in complex problems or systems, and utilizing data effectively to define success metrics and measurable outcomes\n\u2022 You\u2019ll utilize balanced judgment in decisions about risks of both actions taken and not taken while innovating on ways to iterate faster in a well-managed way for the immediate team\n\u2022 Technology Driven\n\u2022 You\u2019ll understand and leverage technology and end-state architecture vision to partner with technology team to drive comprehensive design decisions out of white space technical problems\n\u2022 You\u2019ll share business strategy and roadmap with Tech partners to establish context while also leading and facilitating agile ceremonies alongside Tech Lead\n\u2022 You\u2019ll deliver value by creating reusable, extensible and resilient capabilities and proactively identify opportunities when key metrics on security, resilience and performance are not performing\n\u2022 Transformational Leadership\n\u2022 You\u2019ll develop and communicate a 6-month vision to senior stakeholders and partner teams with accurate details and transparency on risks and impediments, and proactively build relationships with those outside of your immediate team resulting in horizontal influence\n\u2022 You\u2019ll Contribute to team culture and recruiting by leading activities to attract and retain top talent and mentoring and developing junior product associates\n\nWe want you if you are:\n\u2022 Intellectually Curious. You ask why, you explore, you're not afraid to blurt out your crazy idea or follow an email chain for weeks to find someone with an answer. Comfortable with ambiguity, a hunger to learn and a seeker of new challenges.\n\u2022 Communicator & Influencer. You can communicate complex ideas clearly regardless of your audience. Our team knows their priorities and why they\u2019re doing what they\u2019re doing. You always can rally associates to work with you.\n\u2022 Do-er. You\u2019re biased toward action, you try things and sometimes you fail. You can get around roadblocks and stay focused on your goals. You\u2019re well organized, able to multitask and able to prioritize your work.\n\u2022 Passionate & Customer Focus. You care about growing others and bringing them together around what\u2019s possible. You get a thrill from the journey of building and shipping products, and you have a desire and ability to connect with our external or internal customers to fully understand their needs.\n\u2022 Learner. You have an appetite to learn new things or new technologies all while exhibiting humbleness when the time comes to ask for help.\n\u2022 Team Player. You enjoy working with diverse people and driving the team toward a common goal. You have the ability to put the team before yourself and establish long-lasting relationships.\n\nBasic Qualifications:\n\u2022 Bachelor\u2019s Degree or military experience\n\u2022 At least 3 years of product management experience or at least 3 years of experience in product design, agile delivery, business analysis, data science, or software engineering\n\nPreferred Qualifications:\n\u2022 Bachelor\u2019s Degree in Computer Science or Engineering\n\u2022 MBA or Master\u2019s degree\n\u2022 2+ years of experience in Agile product management\n\nAt this time, Capital One will not sponsor a new applicant for employment authorization for this position.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nNo agencies please. Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City\u2019s Fair Chance Act; Philadelphia\u2019s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Intellectually Curious",
+                        "You ask why, you explore, you're not afraid to blurt out your crazy idea or follow an email chain for weeks to find someone with an answer",
+                        "Comfortable with ambiguity, a hunger to learn and a seeker of new challenges",
+                        "Communicator & Influencer",
+                        "You can communicate complex ideas clearly regardless of your audience",
+                        "You\u2019re biased toward action, you try things and sometimes you fail",
+                        "You can get around roadblocks and stay focused on your goals",
+                        "You\u2019re well organized, able to multitask and able to prioritize your work",
+                        "Passionate & Customer Focus",
+                        "You get a thrill from the journey of building and shipping products, and you have a desire and ability to connect with our external or internal customers to fully understand their needs",
+                        "You have an appetite to learn new things or new technologies all while exhibiting humbleness when the time comes to ask for help",
+                        "You enjoy working with diverse people and driving the team toward a common goal",
+                        "You have the ability to put the team before yourself and establish long-lasting relationships",
+                        "Bachelor\u2019s Degree or military experience",
+                        "At least 3 years of product management experience or at least 3 years of experience in product design, agile delivery, business analysis, data science, or software engineering"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Manager, Product Management - Data Insights, Machine Learning",
+                        "In this role, you\u2019ll be expected to demonstrate proficiency in four key areas",
+                        "You\u2019ll define clear and actionable problem statements to help teams deliver results while displaying a comprehensive understanding of iterative software delivery, capable of thin-slice MVP grooming",
+                        "You\u2019ll leverage customer insights to influence priorities and roadmap feature development while advocating for and driving alignment between stakeholders in the development of acceptance criteria",
+                        "You\u2019ll obsess over UX/UI patterns and seek to create world class, omni-channel experiences",
+                        "You\u2019ll own and prioritize the near-term product roadmap to deliver on business outcomes, quickly identifying points of leverage in complex problems or systems, and utilizing data effectively to define success metrics and measurable outcomes",
+                        "You\u2019ll utilize balanced judgment in decisions about risks of both actions taken and not taken while innovating on ways to iterate faster in a well-managed way for the immediate team",
+                        "You\u2019ll understand and leverage technology and end-state architecture vision to partner with technology team to drive comprehensive design decisions out of white space technical problems",
+                        "You\u2019ll share business strategy and roadmap with Tech partners to establish context while also leading and facilitating agile ceremonies alongside Tech Lead",
+                        "You\u2019ll deliver value by creating reusable, extensible and resilient capabilities and proactively identify opportunities when key metrics on security, resilience and performance are not performing",
+                        "Transformational Leadership",
+                        "You\u2019ll develop and communicate a 6-month vision to senior stakeholders and partner teams with accurate details and transparency on risks and impediments, and proactively build relationships with those outside of your immediate team resulting in horizontal influence",
+                        "You\u2019ll Contribute to team culture and recruiting by leading activities to attract and retain top talent and mentoring and developing junior product associates"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.capitalone.com/",
+                    "text": "capitalone.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Capital+One+-+US&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCJIM",
+                    "text": "See web results for Capital One - US"
+                }
+            ],
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyLCBQcm9kdWN0IE1hbmFnZW1lbnQgLSBEYXRhIEluc2lnaHRzLCBNYWNoaW5lIExlYXJuaW5nIiwiaHRpZG9jaWQiOiJMSFRfSHIwemI3Z0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVkZobFYyTnhPV1J1UWxSS2FYbHljMnhqYTFCTFgxTXpZbVZKVGt0TVJGVTJWMW90UlVNMGNFRnJVbEJNZGpWUE5GWjRMWEF4WHpGMVpESkxObUZPVDB0eldWbERja1pGYjNvMVZsZEdMV0p3ZDNsaE9VbzNOV1o2TUhGYWRsTkhURkI1WlhoMk9FNVBNRTFuUzJOd1JHRnRSV1ppYjBGc1oxQjBkblIwTVdKSVdEWmtWRlJ4Tm10SVNFZFlOemxsVjBzNVRtTTNSbFEyTVZCVFUwMUNkMjU2TkVWcVdWZ3hMUzFQT1hWd1VtaEhXSGwyVmpoMlZsVnJZekZSYzA5VldYQnNhM1ZIVFhCRFFUQk5VbWgxTkZaVGVGcHZSRzVTWldwTFZGTlJlbmRITURsWFp6QlJXV1pST0RkR2NEZzBheElYZEdKck9WcEpSMEZDVGxSR2ExQkpVSEZ5YlVvdFFWa2FJa0ZQTFRCeWJEY3pXSFU1Y1dGcVgybHZVSGxuT0RNelVWRXhNVVV0VW5wcVQxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcGl0YWwgT25lIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuY2FwaXRhbG9uZWNhcmVlcnMuY29tL2pvYi9wbGFuby9tYW5hZ2VyLXByb2R1Y3QtbWFuYWdlbWVudC1kYXRhLWluc2lnaHRzLW1hY2hpbmUtbGVhcm5pbmcvMTczMi80NzI5MTY4NzE1Mj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Staff Machine Learning Engineer (San Francisco, CA or Remote)",
+            "company_name": "Iterative Health",
+            "location": " Anywhere ",
+            "via": "via Built In San Francisco",
+            "description": "Iterative Health is pioneering the use of artificial intelligence-based precision medicine in gastroenterology, with the aim of helping to optimize clinical trials investigating the treatment of IBD. We use advanced machine learning and computer vision to interpret endoscopic videos along with other types of data, helping clinicians better assess patients with potential GI problems. Ultimately... the company aims to establish more meaningful endpoints to serve as better predictors of both therapeutic response and disease outcomes.\n\nIterative Health is seeking a Machine Learning Engineer. This is a dynamic, fast-paced role that will require creative thinking and strong machine learning, computer vision, and software development fundamentals. The successful candidate will work collaboratively with a diverse team of engineers and scientists in addition to having a track record of developing machine learning and especially deep learning and computer vision models for solving challenging real-world scientific problems.\n\nWhat you\u2019ll be doing:\n\nThe core responsibilities of this role include designing and implementing advanced and scalable deep-learning models on medical images and videos to analyze various conditions and objects with different spatial, temporal, and resolution constraints using\n\u2022 detection,\n\u2022 classification,\n\u2022 segmentation,\n\u2022 registration.\n\nRequired Skills:\n\u2022 Graduate Degree in computer science or other quantitative fields or Bachelor of Science with similar practical experience in an industrial or research setting.\n\u2022 In-depth knowledge and experience developing, troubleshooting, and validating deep learning models in Python using PyTorch.\n\u2022 Significant professional experience with computer vision libraries such as Pillow, scikit-image, and OpenCV.\n\u2022 Strong written/verbal technical communication and interpersonal skills\n\u2022 Proven working knowledge of Cloud Computing (AWS), PostgreSQL, Docker\n\u2022 Regularly mentored and guided junior engineers.\n\nPreferred Skills:\n\u2022 Ph.D. in computer science or other quantitative fields.\n\u2022 Maintain deep technical and industry knowledge of the state-of-the-art machine learning and computer vision methods\n\u2022 Prior experience leading the development of large projects, including technical design, breakdown of work, estimation, implementation, risk management, and deployment.\n\u2022 Significant experience with developing deep learning models using PyTorch working in the areas of video and image processing.\n\u2022 Knowledge of computer vision tasks, including detection, segmentation, and classification.\n\u2022 Extensive experience with various services of Cloud Computing (AWS)\n\nSome of our benefits include:\n\u2022 Vision/Dental/ Medical Insurance\n\u2022 Life/Disability Insurance\n\u2022 Parental Leave\n\u2022 Stock Options\n\u2022 Flexible Work Hours\n\u2022 Unlimited Paid Time Off\n\nAt Iterative Health, we\u2019re actively working towards creating an environment that is representative of the diversity of patients our technology serves. We are focused on building an equitable and inclusive culture, and by extension, hiring process. If you require any accommodations to make the application process or interviewing experience more accessible to you, please contact CandidateAccommodations@iterative.health",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Graduate Degree in computer science or other quantitative fields or Bachelor of Science with similar practical experience in an industrial or research setting",
+                        "In-depth knowledge and experience developing, troubleshooting, and validating deep learning models in Python using PyTorch",
+                        "Significant professional experience with computer vision libraries such as Pillow, scikit-image, and OpenCV",
+                        "Strong written/verbal technical communication and interpersonal skills",
+                        "Proven working knowledge of Cloud Computing (AWS), PostgreSQL, Docker",
+                        "Regularly mentored and guided junior engineers"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The successful candidate will work collaboratively with a diverse team of engineers and scientists in addition to having a track record of developing machine learning and especially deep learning and computer vision models for solving challenging real-world scientific problems",
+                        "The core responsibilities of this role include designing and implementing advanced and scalable deep-learning models on medical images and videos to analyze various conditions and objects with different spatial, temporal, and resolution constraints using"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Vision/Dental/ Medical Insurance",
+                        "Life/Disability Insurance",
+                        "Parental Leave",
+                        "Stock Options",
+                        "Flexible Work Hours",
+                        "Unlimited Paid Time Off"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Iterative+Health&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCNYM",
+                    "text": "See web results for Iterative Health"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIChTYW4gRnJhbmNpc2NvLCBDQSBvciBSZW1vdGUpIiwiaHRpZG9jaWQiOiJnRjEwcjE0UE9oWUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVWt4dVkzSTViVGxuV1ZaaU0ySjBhREp6WjFoRGRtNXNha2cyUmtjM01YVXRWbEZsTUZVNGFuWjBiV1p5WWtaM2FuTndiVWRsYVRoRk0wdE9kMGMwYmt4NWMycG9NWEI0U1U5emJYaGhOV3BGTWs1d1NIbG1XbGxqYjA5dGRGRkxSRlpGUlhZNGVuRm1iR3N0Vmw5TWFIcDROVkJqVTFWTmJtTkZSVU5YU0hOM1gyNUNTRlpXWW5WS1VGcHFXbXRrY1ZaRmR6azJhV3RJWWpSVVNtaHFkbUpyU1RJMGRGazJYM0JrTFU1dVUyUjNVREU1UzFOaWRFTnJVVU54ZDFKd2N6Um9lSFJKTlRGcFZ6WmxkSGgyTTFWQlZWSkpaV3RmVFhRdFNuVjFjMmxZZGxGR2J6SnhSRWxxZEdveGNYVnhkeElYZEdKck9WcEpSMEZDVGxSR2ExQkpVSEZ5YlVvdFFWa2FJa0ZQTFRCeWJEUlJiSE5GU0cxSGVuQjRaMDl2YUVsVmNuZHlOV0p1U3pkVE4wRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJ1aWx0IEluIFNhbiBGcmFuY2lzY28iLCJsaW5rIjoiaHR0cHM6Ly93d3cuYnVpbHRpbnNmLmNvbS9qb2IvZGF0YS9zdGFmZi1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLzE0ODExND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "company_name": "Oak Ridge National Laboratory",
+            "location": "  Oak Ridge, TN   ",
+            "via": "via ORNL Jobs - Oak Ridge National Laboratory",
+            "description": "Requisition Id 10495\n\nOverview...\n\nThe Advanced Computing in Health Sciences (ACH) section at the Oak Ridge National Laboratory is seeking qualified applicants for a Machine Learning Engineer position for health research projects. The research activities include HIPAA compliant research data that has been entrusted to ORNL. As such, you will have the opportunity to work on some of the most challenging and impactful research and development programs in healthcare informatics, bioinformatics, high performance computing and deep learning.\n\nThe candidate will work in a collaborative research and development environment focusing on designing and implementing robust and high performance applications for biomedical research. The position requires innovative thinking to design and implement machine learning, statistical, probabilistic, or algorithmic solutions to real world problems in the healthcare and biomedical research.\n\nMajor Duties and Responsibilities:\n\nAs a Machine Learning Engineer you will be responsible for:\n\u2022 Developing high-quality code following best practices in the community for documentation, provenance, version control, etc.\n\u2022 Managing, maintaining, and refactoring ML codebases, pipelines, and workflows.\n\u2022 Collaborating closely with research staff to design and implement novel ML approaches.\n\u2022 Implementing scalable ML methods and workflows for high-performance computing (HPC) resources, in close collaboration with research staff and computing technical staff.\n\u2022 Mobilizing and leading data analysis activities on projects with a focus on common deliverables, goals, and timelines.\n\u2022 Troubleshooting data analysis issues, including implementation issues, hyperparameter choices, and modeling decisions.\n\u2022 Contributing to the preparation of manuscripts and dissemination of research results in publications and conferences.\n\u2022 Working on a variety of data analysis assignments in collaboration with scientists and engineers.\n\u2022 Working in secure enclaves and open computing environments on a wide variety of applied areas.\n\u2022 Conducting tasks independently and communicate effectively to team members and stakeholders.\n\u2022 Delivering ORNL\u2019s mission by aligning behaviors, priorities, and interactions with our core values of Impact, Integrity, Teamwork, Safety, and Service. Promote diversity, equity, inclusion, and accessibility by fostering a respectful workplace \u2013 in how we treat one another, work together, and measure success.\n\nBasic Qualifications:\n\u2022 B.S. and 5+ years of relevant experience, or an M.S. and 4+ year of relevant experience, or a Ph.D. and 2+ years of experience in a relevant area.\n\u2022 Degree area should be in Computer Science, Statistics, Information Systems, Engineering, or closely related field.\n\u2022 Significant expertise with the Python ecosystem for data science.\n\u2022 Significant expertise with PyTorch or Tensorflow.\n\nPreferred Qualifications:\n\u2022 Foundational understanding of supervised and unsupervised learning, reinforcement learning, and deep learning.\n\u2022 Experience with large, multimodal datasets.\n\u2022 Experience developing scalable ML algorithms and workflows for HPC resources.\n\u2022 Experience working on Linux/Unix platforms.\n\u2022 Self-disciplined work ethic and eagerness to tackle challenging research problems.\n\u2022 Experience with heath care informatics and clinical data is highly desired.\n\nBenefits at ORNL:\n\nORNL offers competitive pay and benefits programs to attract and retain talented people. The laboratory offers many employee benefits, including medical and retirement plans and flexible work hours, to help you and your family live happy and healthy. Employee amenities such as on-site fitness, banking, and cafeteria facilities are also provided for convenience.\n\nOther benefits include: Prescription Drug Plan, Dental Plan, Vision Plan, 401(k) Retirement Plan, Contributory Pension Plan, Life Insurance, Disability Benefits, Generous Vacation and Holidays, Parental Leave, Legal Insurance with Identity Theft Protection, Employee Assistance Plan, Flexible Spending Accounts, Health Savings Accounts, Wellness Programs, Educational Assistance, Relocation Assistance, and Employee Discounts.\n\n#LI-KC1\n\nThis position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.\n\nWe accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.\n\nIf you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.\n\nORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply. UT-Battelle is an E-Verify employer",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "B.S. and 5+ years of relevant experience, or an M.S. and 4+ year of relevant experience, or a Ph.D. and 2+ years of experience in a relevant area",
+                        "Degree area should be in Computer Science, Statistics, Information Systems, Engineering, or closely related field",
+                        "Significant expertise with the Python ecosystem for data science",
+                        "Significant expertise with PyTorch or Tensorflow"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As such, you will have the opportunity to work on some of the most challenging and impactful research and development programs in healthcare informatics, bioinformatics, high performance computing and deep learning",
+                        "As a Machine Learning Engineer you will be responsible for:",
+                        "Developing high-quality code following best practices in the community for documentation, provenance, version control, etc",
+                        "Managing, maintaining, and refactoring ML codebases, pipelines, and workflows",
+                        "Collaborating closely with research staff to design and implement novel ML approaches",
+                        "Implementing scalable ML methods and workflows for high-performance computing (HPC) resources, in close collaboration with research staff and computing technical staff",
+                        "Mobilizing and leading data analysis activities on projects with a focus on common deliverables, goals, and timelines",
+                        "Troubleshooting data analysis issues, including implementation issues, hyperparameter choices, and modeling decisions",
+                        "Contributing to the preparation of manuscripts and dissemination of research results in publications and conferences",
+                        "Working on a variety of data analysis assignments in collaboration with scientists and engineers",
+                        "Working in secure enclaves and open computing environments on a wide variety of applied areas",
+                        "Conducting tasks independently and communicate effectively to team members and stakeholders",
+                        "Delivering ORNL\u2019s mission by aligning behaviors, priorities, and interactions with our core values of Impact, Integrity, Teamwork, Safety, and Service"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "ORNL offers competitive pay and benefits programs to attract and retain talented people",
+                        "The laboratory offers many employee benefits, including medical and retirement plans and flexible work hours, to help you and your family live happy and healthy",
+                        "Other benefits include: Prescription Drug Plan, Dental Plan, Vision Plan, 401(k) Retirement Plan, Contributory Pension Plan, Life Insurance, Disability Benefits, Generous Vacation and Holidays, Parental Leave, Legal Insurance with Identity Theft Protection, Employee Assistance Plan, Flexible Spending Accounts, Health Savings Accounts, Wellness Programs, Educational Assistance, Relocation Assistance, and Employee Discounts"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Oak+Ridge+National+Laboratory&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCJsN",
+                    "text": "See web results for Oak Ridge National Laboratory"
+                }
+            ],
+            "extensions": [
+                "14 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "14 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJDcE5rN0ZWcTU0Y0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVW1WU2JrZFZZWEp0WTFGalNWVkpjVlpLUzBFMWJrUkVibnBqZFVaUWRGbEVPVkJDVG5aUldFaGFjMmhFWTFGbGNITm1ibHB3WWxCMU4xZDBWRUZxVUZsTFpVdE5kRGhYZWtaMk4xYzNNRTluY3pWZldUQnVRbVo1WWt4NloxaFFUVGhrTUZacVRYVmhjbVJ5TjBOSmJuZ3hPWGhGU0ZSbFNXZzJNRXA0VVhwb04zQjROblkyY25Fd1ZGaEZjVkJQVFRCU2VUVlZiVEY1Y1dJdGRrUnNUV0kzVDI5MWVuRjZRMkUwVERoeFYxUmtPV3MxVld0bVZsWnZaakZIYlVwR1kydFRSVTlxRWhkMFltczVXa2xIUVVKT1ZFWnJVRWxRY1hKdFNpMUJXUm9pUVU4dE1ISnNOalozTFU4dGFqbFlVMFpUUTBVeloyMVhRMUV6ZG5sNk9GOUlRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE9STkwgSm9icyAtIE9hayBSaWRnZSBOYXRpb25hbCBMYWJvcmF0b3J5IiwibGluayI6Imh0dHBzOi8vam9icy5vcm5sLmdvdi9qb2IvT2FrLVJpZGdlLU1hY2hpbmUtTGVhcm5pbmctRW5naW5lZXItVE4tMzc4MzAvMTAxMjE5MjgwMC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Principal Machine Learning Scientist",
+            "company_name": "Barrington James",
+            "location": "  San Francisco, CA   ",
+            "via": "via LinkedIn",
+            "description": "Principal Machine Learning Scientist\n\nWe are seeking a highly experienced and motivated Principal Machine Learning Scientist to lead the development of geometric deep learning models for targeted protein degradation. This is a unique opportunity to be at the forefront of cutting-edge research and development in the field of targeted protein degradation, utilizing your expertise in machine... learning, deep learning and geometric deep learning techniques.\n\nResponsibilities\n\u2022 Develop a graph neural network (GNN) model that can predict the 3D structure of a protein based on its amino acid sequence. Design experiments to evaluate the model's performance on a test dataset and iteratively optimize the model to achieve better results.\n\u2022 Collaborate with biologists and chemists to identify potential drug targets and design small molecules that can selectively bind to these targets. Use convolutional neural networks (CNNs) to predict the binding affinity of different small molecules for a given protein target.\n\u2022 Analyze large and complex datasets of protein structures, small molecules, and binding affinities to identify patterns and correlations that can inform the design of new machine learning models. Use data visualization tools like Matplotlib to create informative plots and diagrams that help communicate your findings to the broader team.\n\u2022 Keep up to date with the latest research in the field of geometric deep learning and adapt new techniques and algorithms to the problem of targeted protein degradation. Attend conferences and workshops to network with other researchers and share your own work with the community.\n\nRequirements\n\u2022 A PhD in Computer Science, Machine Learning, Mathematics, Physics, or a related field\n\u2022 8+ years of industry experience in developing and implementing machine learning models, preferably in the field of drug discovery\n\u2022 Extensive knowledge of deep learning and geometric deep learning techniques, with experience in applying these to real-world problems\n\u2022 Strong programming skills in Python or a similar language, with experience in using relevant machine learning libraries such as TensorFlow, PyTorch, or Keras\n\u2022 Experience with data analysis and visualization tools such as Pandas, NumPy, or Matplotlib\n\u2022 Strong communication skills and ability to work collaboratively in a team environment\n\u2022 Excellent problem-solving skills and ability to think creatively to find solutions to complex problems\n\nIf you are passionate about using machine learning and deep learning to solve real-world problems and are excited about the opportunity to lead the development of novel geometric deep learning models for targeted protein degradation, we encourage you to apply.\n\nFor any further information please contact Liam Polley on LinkedIn or email me via: Lpolley@barrringtonjames.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A PhD in Computer Science, Machine Learning, Mathematics, Physics, or a related field",
+                        "8+ years of industry experience in developing and implementing machine learning models, preferably in the field of drug discovery",
+                        "Extensive knowledge of deep learning and geometric deep learning techniques, with experience in applying these to real-world problems",
+                        "Strong programming skills in Python or a similar language, with experience in using relevant machine learning libraries such as TensorFlow, PyTorch, or Keras",
+                        "Experience with data analysis and visualization tools such as Pandas, NumPy, or Matplotlib",
+                        "Strong communication skills and ability to work collaboratively in a team environment",
+                        "Excellent problem-solving skills and ability to think creatively to find solutions to complex problems",
+                        "If you are passionate about using machine learning and deep learning to solve real-world problems and are excited about the opportunity to lead the development of novel geometric deep learning models for targeted protein degradation, we encourage you to apply"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop a graph neural network (GNN) model that can predict the 3D structure of a protein based on its amino acid sequence",
+                        "Design experiments to evaluate the model's performance on a test dataset and iteratively optimize the model to achieve better results",
+                        "Collaborate with biologists and chemists to identify potential drug targets and design small molecules that can selectively bind to these targets",
+                        "Use convolutional neural networks (CNNs) to predict the binding affinity of different small molecules for a given protein target",
+                        "Analyze large and complex datasets of protein structures, small molecules, and binding affinities to identify patterns and correlations that can inform the design of new machine learning models",
+                        "Use data visualization tools like Matplotlib to create informative plots and diagrams that help communicate your findings to the broader team",
+                        "Keep up to date with the latest research in the field of geometric deep learning and adapt new techniques and algorithms to the problem of targeted protein degradation",
+                        "Attend conferences and workshops to network with other researchers and share your own work with the community"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Barrington+James&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCOEN",
+                    "text": "See web results for Barrington James"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgTWFjaGluZSBMZWFybmluZyBTY2llbnRpc3QiLCJodGlkb2NpZCI6Inc4OTdlLVFPQ1NRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VVWxXYTNkcE9UQmpka2gwVlc1emVXSlZObkZuTjJaQlRsZG5XbVUwWlVaRmVrZGpla2xQTFVZME1VUk5ObGM1VG5KS1UwTmFTV0ZHTW1NelVUZEZZbVEyTm5CVFZ6QkhibEphTlV3MGFHczJNbU5QYm1NMGNuRjRlR294YVdOUlUxOXZWbkZsWVZWSGNtTjZXR1pvTjFOSmRtSjNlazV5UW14a1ZDMVliWE15YmpGaU5VUkljV280TmtsRmNVNUdjVU0yWlZaNWFYTXpVWGd6VXkxaGVrOTRTRlZSUkdaRWMxOVBSa3MwVkdod2VHcHdVR3A0U1ZKU2VFa3RaREZtTUVwWmJXWmtiRFJGUTNKU1VFdERZakpmTVdaM1l6aFdhRmxUZHhJWGRHSnJPVnBKUjBGQ1RsUkdhMUJKVUhGeWJVb3RRVmthSWtGUExUQnliRFpTYVdkU1oweG5ZM05zY0dWWU0wbGlaREY1V1hKQ2VrWXRXR2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3ByaW5jaXBhbC1tYWNoaW5lLWxlYXJuaW5nLXNjaWVudGlzdC1hdC1iYXJyaW5ndG9uLWphbWVzLTM1NjIyODA1Mjg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Lead Data Engineer-Machine Learning",
+            "company_name": "Wells Fargo",
+            "location": "  Irving, TX  (+1 other)    ",
+            "via": "via Wellsfargojobs.com",
+            "description": "About this role:\n\nWells Fargo is seeking a Lead Data Engineer who will join a team that is focused on developing cutting edge solutions to address Cyber Security related puzzles for Wells Fargo by leveraging Artificial Intelligence and Machine Learning. The ideal candidate will need to be experienced with big data environments (Multi-Petabyte), polyglot programmer, excel at data cleaning and... curation, be comfortable working on ambiguous problems that likely have not been solved (or only partially solved), and have the ability to turn business requirements into solutions at high velocity. This position will have a heavy focus on innovation and bringing new ideas to the broader team which will require expert level documentation and the ability to seamlessly transitions solutions to other team members.\n\nAdditionally, the candidate we are seeking leads, designs, develops, test and implements applications and system components, tools and utilities, models, simulation, and analytics to manage complex business functions using sophisticated technologies. Has experience with Artificial Intelligence and Machine Learning and can lead implementation of complex projects/initiatives in this technology area. Resolve coding, testing and escalated platform issues of a technically challenging nature. Responsible for defining opportunities across IT to maximize resource utilization and improve processes while reducing cost. Ensures that systems are monitored to increase operational efficiency and managed to mitigate risk.\n\nIn this role, you will:\n\u2022 Lead solution development for complex technology initiatives including those that are companywide with broad impact\n\u2022 Collaborate and consult with key Cyber Security teams, technical experts, senior technology team, and external industry groups to implement complex projects\n\u2022 Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines\n\u2022 Design, code, test, debug, and document for Cyber Security focused projects and programs\n\u2022 Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in-depth evaluation of multiple factors, including intangibles or unprecedented technical factors\n\u2022 Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives\n\nRequired Qualifications, US:\n\u2022 5+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education\n\u2022 5+ years of Agile experience\n\u2022 5+ years of experience with Software Development Life Cycle (SDLC) tools\n\u2022 5+ years of data engineering experience\n\nDesired Qualifications:\n\u2022 An industry-standard technology certification\n\u2022 Strong verbal, written, and interpersonal communication skills\n\u2022 3+ years of experience delivering ETL, data warehouse and data analytics capabilities on big-data architecture such as Hadoop\n\u2022 2+ year of experience with deploying code to cloud based technologies\n\u2022 Experience with Hadoop, Hive, SQL, Python, Kafka, JAVA and Pig\n\nWe Value Diversity\n\nAt Wells Fargo, we believe in diversity, equity and inclusion in the workplace; accordingly, we welcome applications for employment from all qualified candidates, regardless of race, color, gender, national origin, religion, age, sexual orientation, gender identity, gender expression, genetic information, individuals with disabilities, pregnancy, marital status, status as a protected veteran or any other status protected by applicable law.\n\nEmployees support our focus on building strong customer relationships balanced with a strong risk mitigating and compliance-driven culture which firmly establishes those disciplines as critical to the success of our customers and company. They are accountable for execution of all applicable risk programs (Credit, Market, Financial Crimes, Operational, Regulatory Compliance), which includes effectively following and adhering to applicable Wells Fargo policies and procedures, appropriately fulfilling risk and compliance obligations, timely and effective escalation and remediation of issues, and making sound risk decisions. There is emphasis on proactive monitoring, governance, risk identification and escalation, as well as making sound risk decisions commensurate with the business unit\u2019s risk appetite and all risk and compliance program requirements.\n\nCandidates applying to job openings posted in US: All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nCandidates applying to job openings posted in Canada: Applications for employment are encouraged from all qualified candidates, including women, persons with disabilities, aboriginal peoples and visible minorities. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will need to be experienced with big data environments (Multi-Petabyte), polyglot programmer, excel at data cleaning and curation, be comfortable working on ambiguous problems that likely have not been solved (or only partially solved), and have the ability to turn business requirements into solutions at high velocity",
+                        "5+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education",
+                        "5+ years of Agile experience",
+                        "5+ years of experience with Software Development Life Cycle (SDLC) tools"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Resolve coding, testing and escalated platform issues of a technically challenging nature",
+                        "Responsible for defining opportunities across IT to maximize resource utilization and improve processes while reducing cost",
+                        "Ensures that systems are monitored to increase operational efficiency and managed to mitigate risk",
+                        "Lead solution development for complex technology initiatives including those that are companywide with broad impact",
+                        "Collaborate and consult with key Cyber Security teams, technical experts, senior technology team, and external industry groups to implement complex projects",
+                        "Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines",
+                        "Design, code, test, debug, and document for Cyber Security focused projects and programs",
+                        "Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in-depth evaluation of multiple factors, including intangibles or unprecedented technical factors",
+                        "Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.wellsfargo.com/",
+                    "text": "wellsfargo.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Wells+Fargo&sa=X&ved=0ahUKEwjBrqzX7bH-AhXUIkQIHapcAm8QmJACCKIO",
+                    "text": "See web results for Wells Fargo"
+                }
+            ],
+            "extensions": [
+                "8 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgRW5naW5lZXItTWFjaGluZSBMZWFybmluZyIsImh0aWRvY2lkIjoidnVBOUI3VGhjb0lBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VUQjJia3g0V0ZOMVpVNWpZbTV4VjFveFNHeDRUa1kzY1RGaWJXTm5NVVpzY0RsQk5YaDJRWEZPUjFJd1JFZzVVa3RIZVU1eVkzWmthMDF6VkZsbFlYSlZjVXB1VTI0ME0ya3pUalpwTVRsa1R6WnFkV0ZrTjNsT1RYRkVSR3RxV1V4VGRtWkxiR3RGZFRKT1MzcDFWMjlFVm1JMlFtNVpWWG95Y0VkSWRFczNRakpSTlZBNGJqRnZiRmhtUW1kVFVFbHBhakYzV21KVE4zZFVRbDlhWlVoelQxRkNORzlNUkRCUVZGaExNRlZQVjBSWVdHaHdSakV4WmxSMWJXOWxTSEpNVVdwakVoZDBZbXM1V2tsSFFVSk9WRVpyVUVsUWNYSnRTaTFCV1JvaVFVOHRNSEpzTmpWM09XTkVZazVvTWs5ME1GRkVhVzE1Y1U5ZldVcFpUVzVuWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXZWxsc2Zhcmdvam9icy5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cud2VsbHNmYXJnb2pvYnMuY29tL2VuL2pvYnMvci0yNDU1NDkvbGVhZC1kYXRhLWVuZ2luZWVyLW1hY2hpbmUtbGVhcm5pbmcvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Program manager",
+                    "value": "program manager"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Engineering",
+                    "value": "engineering"
+                },
+                {
+                    "text": "Operations engineer",
+                    "value": "operations engineer"
+                },
+                {
+                    "text": "Sales engineer",
+                    "value": "sales engineer"
+                },
+                {
+                    "text": "Staff engineer",
+                    "value": "staff engineer"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Application engineer",
+                    "value": "application engineer"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Assistant professor",
+                    "value": "assistant professor"
+                },
+                {
+                    "text": "Computer",
+                    "value": "computer"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Devops engineer",
+                    "value": "devops engineer"
+                },
+                {
+                    "text": "Engineer senior",
+                    "value": "engineer senior"
+                },
+                {
+                    "text": "Evangelist",
+                    "value": "evangelist"
+                },
+                {
+                    "text": "Firmware engineer",
+                    "value": "firmware engineer"
+                },
+                {
+                    "text": "Graduate",
+                    "value": "graduate"
+                },
+                {
+                    "text": "Lead architect",
+                    "value": "lead architect"
+                },
+                {
+                    "text": "Lead engineer",
+                    "value": "lead engineer"
+                },
+                {
+                    "text": "Modeling",
+                    "value": "modeling"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Platform engineer",
+                    "value": "platform engineer"
+                },
+                {
+                    "text": "Post doctoral",
+                    "value": "post doctoral"
+                },
+                {
+                    "text": "Principal scientist",
+                    "value": "principal scientist"
+                },
+                {
+                    "text": "Processing engineer",
+                    "value": "processing engineer"
+                },
+                {
+                    "text": "Product engineer",
+                    "value": "product engineer"
+                },
+                {
+                    "text": "Reliability engineer",
+                    "value": "reliability engineer"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Research director",
+                    "value": "research director"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Senior scientist",
+                    "value": "senior scientist"
+                },
+                {
+                    "text": "Senior staff",
+                    "value": "senior staff"
+                },
+                {
+                    "text": "Solution architect",
+                    "value": "solution architect"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Sr principal",
+                    "value": "sr principal"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "McLean, VA",
+                    "value": "O3mKsew1tonx6vqtXrpijg=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Jacksonville, FL",
+                    "value": "66_O8Ra35Yjix_yWOH3NxA=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Atlantic City, NJ",
+                    "value": "IcdcblfdwIliUmfpQ8tvSg=="
+                },
+                {
+                    "text": "Berkeley, CA",
+                    "value": "00mFOjZ5hYCT6XWmlRXqlA=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Emeryville, CA",
+                    "value": "s44f6hR-hYAHcbCoMRgdSA=="
+                },
+                {
+                    "text": "Fremont, CA",
+                    "value": "98rot0a_j4DUiNiJOzHaig=="
+                },
+                {
+                    "text": "Hartford, CT",
+                    "value": "pVER8hFT5omZWX3pqEqOzA=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Laurel, MD",
+                    "value": "0dxJ6BDdt4n8ks39Ll7NmA=="
+                },
+                {
+                    "text": "Littleton, CO",
+                    "value": "Kzvi-z98a4fAPNau6ZcFBw=="
+                },
+                {
+                    "text": "Livermore, CA",
+                    "value": "cSBaOIblj4Bx2GvLMSLTmA=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "Providence, RI",
+                    "value": "XXN-Q-BE5IkntrNITXzfaQ=="
+                },
+                {
+                    "text": "Salt Lake City, UT",
+                    "value": "7THRiJQ9UofKMU1IoLdTWw=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "San Mateo, CA",
+                    "value": "RVWp72Cej4CnG8wt9PyO_Q=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Albany, NY",
+                    "value": "S_tPzDQK3onEKOegEmOh4Q=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Andover Township, NJ",
+                    "value": "qYStXq1xw4mm_aZY8x_bgg=="
+                },
+                {
+                    "text": "Ann Arbor, MI",
+                    "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+                },
+                {
+                    "text": "Auburn Hills, MI",
+                    "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+                },
+                {
+                    "text": "Auburn, AL",
+                    "value": "g_ibsy_xjIhYk9M1kpElyw=="
+                },
+                {
+                    "text": "Beavercreek, OH",
+                    "value": "B-LwKg6bQIiC7xPC5lB3ug=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Bismarck, ND",
+                    "value": "Y-nYVxKD11KTyrv5Er2qzA=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Entertainment",
+                    "value": "/business/naics2007/71"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Travel",
+                    "value": "/business/naics2007/5615"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Capital One",
+                    "value": "/m/04c_q_"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Snap",
+                    "value": "/g/11c1s2xz66"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Bayer",
+                    "value": "/m/01snr1"
+                },
+                {
+                    "text": "Genentech",
+                    "value": "/m/01_lh1"
+                },
+                {
+                    "text": "Google",
+                    "value": "/m/045c7b"
+                },
+                {
+                    "text": "Square",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "Battelle",
+                    "value": "/m/02m9dl"
+                },
+                {
+                    "text": "CarMax",
+                    "value": "/m/08763h"
+                },
+                {
+                    "text": "Comcast",
+                    "value": "/m/01s73z"
+                },
+                {
+                    "text": "Covariant",
+                    "value": "/g/11gxt5gy8c"
+                },
+                {
+                    "text": "Elevance Health",
+                    "value": "/m/04xtkp"
+                },
+                {
+                    "text": "Figma",
+                    "value": "/g/11fy1pwqvr"
+                },
+                {
+                    "text": "GSK",
+                    "value": "/m/01bbm7"
+                },
+                {
+                    "text": "Groq",
+                    "value": "/g/11fy1p1dh4"
+                },
+                {
+                    "text": "Hopper",
+                    "value": "/g/11sdd541ff"
+                },
+                {
+                    "text": "Johns Hopkins Applied Physics Laboratory",
+                    "value": "/m/07qxqz"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "L3Harris",
+                    "value": "/g/11fm6fqq8c"
+                },
+                {
+                    "text": "LLNL",
+                    "value": "/m/09qyt"
+                },
+                {
+                    "text": "Leidos",
+                    "value": "/m/01h2kg"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "ROBLOX",
+                    "value": "/m/0kytjpp"
+                },
+                {
+                    "text": "Recursion",
+                    "value": "/g/11f01c2xdk"
+                },
+                {
+                    "text": "Warner Media Group",
+                    "value": "/m/0l8sx"
+                },
+                {
+                    "text": "Accelirate Inc. -",
+                    "value": "/g/11j3kb0qdr"
+                },
+                {
+                    "text": "Accenture Federal Services",
+                    "value": "/m/09mg6hx"
+                },
+                {
+                    "text": "Adobe",
+                    "value": "/m/0vlf"
+                },
+                {
+                    "text": "Altos Labs",
+                    "value": "/g/11pw122my_"
+                },
+                {
+                    "text": "Amazon",
+                    "value": "/m/0mgkg"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Amentum",
+                    "value": "/g/11j2vydq82"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1144 @@
+{
+    "search_metadata": {
+        "id": "643dbb3624e88ef673940030",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5bb9ed6aaf8304a9/643dbb3624e88ef673940030.json",
+        "created_at": "2023-04-17 21:33:42 UTC",
+        "processed_at": "2023-04-17 21:33:42 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=reinforcement+learning&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=20",
+        "raw_html_file": "https://serpapi.com/searches/5bb9ed6aaf8304a9/643dbb3624e88ef673940030.html",
+        "total_time_taken": 6.75
+    },
+    "search_parameters": {
+        "q": "reinforcement learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 20
+    },
+    "jobs_results": [
+        {
+            "title": "Post Doc Researcher - Machine Learning and Reinforcement Learning...",
+            "company_name": "Microsoft",
+            "location": "  New York, NY   ",
+            "via": "via Microsoft Careers",
+            "description": "Microsoft Research New York City (MSR NYC) is seeking outstanding applicants for multiple postdoctoral researcher positions in machine learning (ML) and AI, especially in the following focus areas: theoretical ML, interactive ML (including reinforcement learning and active learning), and natural language processing (including grounded language understanding and applications of RL to NLP). These... are two-year positions, starting in July 2023.\n\nFor full consideration, all application materials should be submitted by December 9, 2022.\n\nAs a postdoctoral researcher, you will have the opportunity to pursue your own research agenda while interacting with our group's diverse array of researchers and practitioners, and contributing to ongoing research projects. We collaborate extensively with groups at other MSR locations and across Microsoft. Postdoc researchers receive a competitive salary and benefits, and are eligible for relocation benefits.\n\nMicrosoft Research offers an exhilarating and supportive environment for cutting-edge, multidisciplinary research, both theoretical and empirical, with access to an extraordinary diversity of data sources, an open publications policy, and close links to top academic institutions around the world.\n\nWe are seeking candidates in the general area of machine learning, especially those with a demonstrated interest in the following focus areas: theoretical machine learning, interactive machine learning (including theoretical, applied, and empirical reinforcement learning and active learning), and natural language processing (including grounded language understanding and applications of RL to NLP). Applicants should have a well-established research track record, evidenced by conference or journal publications (or equivalent pieces of writing) and broader contributions to the research community.\n\nApplicants must have fulfilled their PhD degree requirements, including submission of their dissertation, prior to joining MSR NYC. We encourage candidates with tenure-track academic job offers to apply (with the option of doing a one-year rather than two-year postdoc), provided they are able to defer their start date by at least one year to accept our position.\n\nMicrosoft\u2019s mission is to empower every person and every organization on the planet to achieve more, and we\u2019re dedicated to this mission across every aspect of our company. Our culture is centered on embracing a growth mindset and encouraging teams and leaders to bring their best each day. Join us and help shape the future of the world.\n\nHow to Apply\n\nTo be assured of full consideration, all application materials, including reference letters, need to be received by December 9, 2022. Applications received after that date may or may not be considered.\n\nTo ensure we receive a complete application from you, please be sure to follow these instructions:\n\u2022 Upload your CV.\n\u2022 When prompted in your application, please provide the names and contact information for at least 3 reference letter writers (in nearly all cases, one will be from your dissertation advisor).\n\u2022 Upload (as separate attachments to your application) 2 conference or journal articles, book chapters, or equivalent (potentially unpublished) writing samples that you are most proud of, and which best demonstrate your expertise.\n\u2022 Upload (as an attachment to your application) an academic statement (no more than 4 pages) that outlines both your research achievements and agenda.\n\nAfter you submit your application, the system will send a request for letters to your list of references on your behalf. Note: The application system will not request reference letters until after you have submitted your application. You may wish to alert your letter writers in advance so that they will be ready to submit your letter by our application deadline of December 9, 2022. While you will not be able to view the letters themselves, you can check the status of individual reference requests within your application",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Applicants must have fulfilled their PhD degree requirements, including submission of their dissertation, prior to joining MSR NYC"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.microsoft.com/",
+                    "text": "microsoft.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Microsoft&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIwwk",
+                    "text": "See web results for Microsoft"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQb3N0IERvYyBSZXNlYXJjaGVyIC0gTWFjaGluZSBMZWFybmluZyBhbmQgUmVpbmZvcmNlbWVudCBMZWFybmluZyAtIE1pY3Jvc29mdCBSZXNlYXJjaCIsImh0aWRvY2lkIjoiX2Q5UHZQZ3VoMXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQ0NxSUNRVVZ6TjJwT1VqTk1kV1JMT0VwSVJEQTRjVzlSV0hkSlRVWnlha3RoVjFWV2JXRjVSRGxmUjBWT04waFdWRzFhYmpFNGNUZGtlRmRTUjFWdFdHaDRZMHBqT1VKUmVYbzFXSEEwUWpSTVdsQllaRUZRVVRKSGMxaGxTVEJzTldGSFMyVmhNSFY2Y0RKNWFXOVpZa0YwV0ZZelNWTkVORzF5TTNWc2JFRkpMVEEwV2xKcU0xUXhURGRtVlRVelpXTkdjbDk2TWtKaGNVOVZja3BSUWpOaldrUnViQzE1YjBsTlRVbERNMHRHV25wVE9FaHlXRjlNTkVOTGRWQm1ibkZ5ZWt3Mk1rTkxiazkwUkU5SlgxZGxPRnBoTVU5NGNUSjBNVXd0YTA5SVFsazVSemd5V0daVlFYaEJVVzl3YVhwU2FXeGplVkZpTVRkVmFtaFlNa2cwV1ZsNVkyOTJSblZtY1VsalZsRTFSRWR4ZEVScFEzaFhkek5EU21OZlNITk5ZVUVTRjA4M2N6bGFTV2xIVEhSNlltdFFTVkIyTmpKdGRVRnpHaUpCVHkwd2NtdzNiSFJOVUVSeVFVMUxiblJTUlRZeVdWUmFTMHQ2VFMxSVYxTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIE1pY3Jvc29mdCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5taWNyb3NvZnQuY29tL3N0dWRlbnRzL3VzL2VuL2pvYi8xNDkwNTA5L1Bvc3QtRG9jLVJlc2VhcmNoZXItTWFjaGluZS1MZWFybmluZy1hbmQtUmVpbmZvcmNlbWVudC1MZWFybmluZy1NaWNyb3NvZnQtUmVzZWFyY2g/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Artificial Intelligence Research Scientist, Reinforcement Learning...",
+            "company_name": "JPMC Candidate Experience page",
+            "location": "  New York, NY   ",
+            "via": "via Jpmc.fa.oraclecloud.com",
+            "description": "The goal of JPMorgan Artificial Intelligence Research is to explore and advance cutting edge research in Artificial Intelligence, including Machine Learning as well as related fields like Cryptography, to develop and discover principles of impact to JPMorgan\u2019s clients and businesses.\n\nJPMorgan Artificial Intelligence Research has assembled a team of experts in many fields of Artificial... Intelligence. They pursue primary research in areas related to our research pillars as well as concrete problems related to financial services. They partner with internal teams to accelerate the adoption of Artificial Intelligence within the firm. They also work with leading academic faculty around the world on areas of mutual interest. The team is headquartered in New York and present in London and the Bay Area. Conducting Artificial Intelligence research in financial services offers unique and exciting opportunities for impact. As a member of this highly visible team, you will have the opportunity to realize significant impact not only within JPMorgan Chase but also to the broader Artificial Intelligence community.\n\nThe Multi-agent Learning and Simulation team within AI Research is focused on the modeling of complex economic systems using multi-agent Reinforcement Learning and discrete-event simulation, and the design of safe, efficient decision-making algorithms for non-stationary environments populated by strategic agents\n\nJob Responsibilities :\n\u2022 As a Research Scientist in the team, you will conduct end-to-end research typically within a specialized focus area. You will work on multiple research projects in collaboration with internal and external researchers and with applied engineering teams.\n\u2022 You will be integral to all aspects of the research lifecycle such as formulating problems, gathering data, generating hypotheses, developing models and algorithms, conducting experiments, synthesizing results, building prototype applications and communicating the significance of your research.\n\u2022 Your output will result in high-impact business applications, open source software, patents and/or publications in security/safety conferences and journals.\n\u2022 As a member of the Artificial Intelligence and security/safety research community, you will also have the opportunity to participate in relevant top-tier academic conferences to broaden the impact of your contributions.\n\nRequired qualifications, capabilities and skills\n\u2022 Master\u2019s degree with 3+ years of relevant work experience or PhD in Computer Science, Statistics, Engineering or related fields. Research publications in prominent AI/ML venues; e.g., conferences, journals\n\u2022 Expertise in a related area e.g. reinforcement learning, online learning, bandits, game theory, mechanism design, agent-based modeling, discrete-event systems.\n\u2022 Experience with building, tuning and evaluating NLP models including text classification, topic modeling, and data extraction.\n\u2022 Practical experience with ML platforms such as Tensorflow/Keras, PyTorch, etc.\n\u2022 Solid understanding of the application of fundamental Artificial Intelligence and Machine Learning techniques to security/safety; e.g, Natural Language Processing based approaches to understanding security content; detecting anomalous activity\n\nPreferred qualifications, capabilities, and skills\n\u2022 Curiosity, creativity, resourcefulness and a collaborative spirit\n\u2022 Clear and effective verbal and written communication skills\n\u2022 Demonstrated ability to work on multi-disciplinary teams with diverse backgrounds\n\u2022 Interest in problems related to the financial services domain (specific past experience in the domain is not required",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Master\u2019s degree with 3+ years of relevant work experience or PhD in Computer Science, Statistics, Engineering or related fields",
+                        "Research publications in prominent AI/ML venues; e.g., conferences, journals",
+                        "Expertise in a related area e.g. reinforcement learning, online learning, bandits, game theory, mechanism design, agent-based modeling, discrete-event systems",
+                        "Experience with building, tuning and evaluating NLP models including text classification, topic modeling, and data extraction",
+                        "Practical experience with ML platforms such as Tensorflow/Keras, PyTorch, etc",
+                        "Solid understanding of the application of fundamental Artificial Intelligence and Machine Learning techniques to security/safety; e.g, Natural Language Processing based approaches to understanding security content; detecting anomalous activity"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "They partner with internal teams to accelerate the adoption of Artificial Intelligence within the firm",
+                        "As a Research Scientist in the team, you will conduct end-to-end research typically within a specialized focus area",
+                        "You will work on multiple research projects in collaboration with internal and external researchers and with applied engineering teams",
+                        "You will be integral to all aspects of the research lifecycle such as formulating problems, gathering data, generating hypotheses, developing models and algorithms, conducting experiments, synthesizing results, building prototype applications and communicating the significance of your research",
+                        "Your output will result in high-impact business applications, open source software, patents and/or publications in security/safety conferences and journals",
+                        "As a member of the Artificial Intelligence and security/safety research community, you will also have the opportunity to participate in relevant top-tier academic conferences to broaden the impact of your contributions"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=JPMC+Candidate+Experience+page&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIggo",
+                    "text": "See web results for JPMC Candidate Experience page"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSBSZXNlYXJjaCBTY2llbnRpc3QsIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmcgYW5kIE11bHRpLUFnZW50IExlYXJuaW5nL1NpbXVsYXRpb24tIFNlbmlvciBBc3NvY2lhdGUvIFZpY2UgUHJlc2lkZW50IiwiaHRpZG9jaWQiOiI2REc5SUw4UTVvb0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNEQ3ZjQ1FVVnpOMnBPVW1KaGRsQnVjVTFpUWxGdVpqTnlhVTFHVFZseWIzSjRVMnN0U1hSaGFtaEZZVTVvY0RkRlRXaE1Sa3BEUVhWclNVTlpPQzFUTUdSNmRFbzNSRkp5UjJRd01WQmFkVUZ0VG1wVFpHVXlNV3M1VFZGNVptUkVMVVZXT1dvMVpWTlBXVzFTVGs5eWIxVnJNM0ZKU1hZeWVVeHFXVzVJT0MwMGRWSlBRVXg1YmpsTVlsaEhiM0YzWDFCQ05VaGlWVU5UTmxOc04zSjFjSEJUWjE5R2FIaDNWa1pOUTFCamQxUlhPVlZGVldnNFpuRjVTMGRLYlZKeFZHcHFRV015V25Cb0xYcENSMUZMZUZFdFoxRjBRMHBYTjNocGFub3RXV05vU25wd1VIZDNPV2d5TlVWb1pDMTRjMk5XTlRVNE1DMVJWRnBIUkU1ZlJscFBTSEJmU1hWeVVHWnlZbU5OUTFoeWFYRm9SRTl0TkY5aVFrSmlXWEZUZDFweWFGVmtVbWhXVXpSVlJGUm1UemhGUXkwMmVUVlRaMjVaU21KWVRFeGFWV3R4U2tKb1dEWlpMV0l6TURsaWRIRk5XSEJGTUVwaVUzbHlSMjVRU1dwMFVtSkZibTFIVEVONVZ6WnRRVEJwTVc5b1prMVNPVTlKRWhkUE4zTTVXa2xwUjB4MGVtSnJVRWxRZGpZeWJYVkJjeG9pUVU4dE1ISnNOM2RqZEdaQ1FXTm9RamxxVTBOaVR6VnlPWFk0V1dJNVEwdHpkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSnBtYy5mYS5vcmFjbGVjbG91ZC5jb20iLCJsaW5rIjoiaHR0cHM6Ly9qcG1jLmZhLm9yYWNsZWNsb3VkLmNvbS9oY21VSS9DYW5kaWRhdGVFeHBlcmllbmNlL2VuL3NpdGVzL0NYXzEwMDEvcmVxdWlzaXRpb25zL3ByZXZpZXcvMjEwMjI3NTA5Lz9rZXl3b3JkPUFJK3Jlc2VhcmNoXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Lead, Creativity Apps",
+            "company_name": "Apple",
+            "location": "  New York, NY   ",
+            "via": "via Careers At Apple",
+            "description": "Summary\nPosted: Nov 8, 2022\n...\nRole Number:200442544\n\nAt Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly!\n\nThe Creativity Apps team needs your help shaping the next generation of creative editing tools by working on pioneering technologies to surprise and delight creative pros and enthusiasts alike. You\u2019ll be working with the world-class teams behind Final Cut Pro, Logic Pro, iMovie, and GarageBand to create next-generation tools for creators.\n\nYou\u2019ll have the opportunity to work with world class creatives, designers, and engineers to help innovate in the creative space in ways that only Apple can. This is a highly visible, highly impactful opportunity!\n\nKey Qualifications\n\nKey Qualifications\n\u2022 Extensive knowledge in machine learning and deep learning techniques.\n\u2022 Experience in building end-to-end ML pipeline from data ingestion to feature engineering to model training to deploying and scaling the model in production.\n\u2022 Experience delivering high quality software at scale\n\u2022 Experience as a technical lead; demonstrating strong communication, collaboration, and project management skills\n\u2022 Willing to take responsibility and ownership of features and drive key architectural decisions\n\u2022 Committed to encouraging an open and inclusive work environment\n\u2022 Ability to communicate effectively, collaborate, and build long-term relationships across the organization\n\u2022 Ability and desire to mentor others in achieving engineering excellence and to be a catalyst on the team\n\nDescription\n\nDescription\nAre you ready to be one of the founding members of a new engineering team focused on building pioneering creative editing tools? You will take ownership around defining, planning, and crafting the overall system architectures for key product areas and driving end-to-end feature development. You will be responsible for developing the state-of-the-art algorithms to power the next-generation tools for creators. This is a highly collaborative role with the opportunity to evolve in many directions.\n\nEducation & Experience\n\nEducation & Experience\nPhD in computer vision, machine learning, computational photography or related areas; alternatively a comparable industry career, with significant experiences on delivering products using state-of-the-art computer vision and machine learning technologies.\n\nAdditional Requirements\n\nAdditional Requirements\n\nPay & Benefits\n\nPay & Benefits\n\u2022 At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $161,000 and $278,000, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple\u2019s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple\u2019s Employee Stock Purchase Plan. You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Extensive knowledge in machine learning and deep learning techniques",
+                        "Experience in building end-to-end ML pipeline from data ingestion to feature engineering to model training to deploying and scaling the model in production",
+                        "Experience delivering high quality software at scale",
+                        "Experience as a technical lead; demonstrating strong communication, collaboration, and project management skills",
+                        "Willing to take responsibility and ownership of features and drive key architectural decisions",
+                        "Committed to encouraging an open and inclusive work environment",
+                        "Ability to communicate effectively, collaborate, and build long-term relationships across the organization",
+                        "Ability and desire to mentor others in achieving engineering excellence and to be a catalyst on the team",
+                        "PhD in computer vision, machine learning, computational photography or related areas; alternatively a comparable industry career, with significant experiences on delivering products using state-of-the-art computer vision and machine learning technologies"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will take ownership around defining, planning, and crafting the overall system architectures for key product areas and driving end-to-end feature development",
+                        "You will be responsible for developing the state-of-the-art algorithms to power the next-generation tools for creators"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "The base pay range for this role is between $161,000 and $278,000, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.apple.com/",
+                    "text": "apple.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Apple&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIxAo",
+                    "text": "See web results for Apple"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIExlYWQsIENyZWF0aXZpdHkgQXBwcyIsImh0aWRvY2lkIjoiMkpZYV9mSXh3ck1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZHbE5OSGx6TjA1M2NXUmlNMUF6UVVsUk5rODFiVlF6YkdscWNFbDBOVlp5TkdkdFVIUktXblJJZUcxeGNXaFVVSEZGWkVSbFFuSnpXWEJ3YVVkNWNHSk9SR2R4TVZGcFZtWkpaekZzTFRCaFMyeHBRalIyTmkxMVpFbHlValY2WW1oSlptNVZTRk5PVFU5RFoyZFlXVEJFUWt0NFlVeGpSbVpITFZCb2NtVnRRMmhuVFRGZlVrMW5jVW93VW5GdFNGQnVUMlY2Y0ZwWE5XVnZNM0k1ZURGMWNURnRSV1pWYkY5NU5rdGxZWGh6ZFhOVVFVdFBjRXhGWjNoM1NEaEtWa2hVZFdab0VoZFBOM001V2tscFIweDBlbUpyVUVsUWRqWXliWFZCY3hvaVFVOHRNSEpzTmtobk1IcHNVbXR4ZFhkU1V6YzJaRmxpTUVWcmIwMUtPV0kxZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY180IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnMgQXQgQXBwbGUiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmFwcGxlLmNvbS9lbi11cy9kZXRhaWxzLzIwMDQ0MjU0NC9tYWNoaW5lLWxlYXJuaW5nLWxlYWQtY3JlYXRpdml0eS1hcHBzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Senior Machine Learning Engineer - Ads (Remote)",
+            "company_name": "Quora",
+            "location": " Anywhere ",
+            "via": "via Jobs",
+            "description": "[Quora is a \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.]\n\nAbout Quora...\n\nQuora is on a quest to democratize access to knowledge of all kinds, empowering individuals to learn anything they desire. We\u2019re a passionate group of unique individuals. We celebrate success and enable our people the space for personal growth, providing opportunities to do meaningful work that maximize their potential. Our culture is deeply rooted in our tenets of transparency, idea-sharing, and experimentation, which fuel collaboration and innovation. We take pride in engaging with a high-performing, global team \u2013 and that is why people love what they do here. We have taken up an ambitious mission: to share and grow the world\u2019s knowledge and we are driven by our unwavering commitment to excellence. As we build a team of exceptional individuals who share our passion, we invite you to join us on this journey and create a positive change that makes a significant impact in the world.\n\nAbout the Team:\n\nOur Monetization team works on challenging problems every day. Our Machine Learning Engineers are tasked with optimizing the advertising product at Quora. The team covers the entire Machine Learning Ads lifecycle from end-to-end, including ads targeting, ranking and auction dynamics, and quality measurement. Engrained in our culture is the desire to constantly learn and improve, and our engineers are encouraged to think big and experiment with new ideas. Using continuous deployment, we quickly see our changes in the product and make fast iterations. Our engineers focus on creating polished products and writing high-quality code by designing APIs and abstractions that are extensible and maintainable. As a remote-first company, our engineers have a high degree of flexibility and autonomy. Everyone on the engineering team has a huge impact on our product and our company.\n\nAbout the Role:\n\nSince we first launched our advertising platform, we've grown to support thousands of advertisers who are reaching over 300 million+ monthly unique visitors on Quora. Our journey is just beginning as we continue to build new products from the ground up and tackle exciting challenges at scale. Today, we're working on a broad range of areas to grow our ads product to drive more value to our users and advertisers. As a member of the Ads Machine Learning team, you will have a chance to work with a diverse and talented global team of engineers and collaborate closely with cross-functional partners to help advertisers reach their performance goals through next-generation targeting and bidding products and to build a stronger connection between Quora users and its business products.\n\nResponsibilities:\n\u2022 Improve our existing machine learning systems using your core coding skills and ML knowledge\n\u2022 Take end to end ownership of machine learning systems - from data pipelines, feature engineering, candidate extraction, model training, as well as integration into our production systems\n\u2022 Apply state-of-the-art machine learning algorithms at scale and serving for next-generation targeting and bidding products that directly impact the company\u2019s top line metrics\n\u2022 Collaborate with ML platform and product engineers to build scalable and efficient machine learning systems in the production environment\n\u2022 Work with product and business teams on new innovative features for ad targeting and bidding to optimize advertisement performance\n\u2022 Identify new opportunities to apply machine learning to different parts of the Ads product to drive value for our users and advertisers\n\nMinimum Requirements:\n\u2022 Ability to be available for meetings and impromptu communication during Quora's \"coordination hours\" (Mon-Fri: 9am-3pm Pacific Time)\n\u2022 3+ years of professional software development experience in machine learning\n\u2022 Previous experience working in Adtech, developing ad targeting/retrieval/recommender systems\n\u2022 Previous experience building large scale ranking/recommendation systems\n\u2022 Good understanding of mathematical foundations of machine learning algorithms\n\u2022 Highly proficient coding ability writing Python, C++ or Golang code\n\u2022 BS, MS or PhD in Computer Science, Engineering or a related technical field\n\nPreferred Requirements:\n\u2022 Experience with leading large-scale multi-engineer projects\n\u2022 Experience in productized reinforcement learning\n\u2022 Experience with privacy-preserving modeling techniques\n\u2022 Flexible and positive team player with outstanding interpersonal skills\n\u2022 Passion for Quora's mission and goals\n\nWe value your unique perspective. Even if you don't meet all the requirements, we want to learn more about you. Every point of view can make an impact. Apply today!\n\nAdditional Information:\n\nUS candidates only: For Colorado based applicants, the minimum base salary range is $128,000 - $156,000 + equity + benefits. For California, New Jersey, New York, and Washington based applicants, the minimum salary range is $151,000 - $184,000 + equity + benefits.\n\nThere are many factors that will determine the starting pay, including but not limited to experience, location, education, and business needs. Quora offers a wide range of benefits including medical/dental/vision coverage, equity refreshers, remote work reimbursement, paid time off, employee assistance programs, and more. Benefits are country-specific and may vary.\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nJob Applicant Privacy Notice: https://www.careers.quora.com/applicant-privacy-notice\n\n#LI-RJ1\n#LI-REMOTE",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ability to be available for meetings and impromptu communication during Quora's \"coordination hours\" (Mon-Fri: 9am-3pm Pacific Time)",
+                        "3+ years of professional software development experience in machine learning",
+                        "Previous experience working in Adtech, developing ad targeting/retrieval/recommender systems",
+                        "Previous experience building large scale ranking/recommendation systems",
+                        "Good understanding of mathematical foundations of machine learning algorithms",
+                        "Highly proficient coding ability writing Python, C++ or Golang code",
+                        "BS, MS or PhD in Computer Science, Engineering or a related technical field"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Improve our existing machine learning systems using your core coding skills and ML knowledge",
+                        "Take end to end ownership of machine learning systems - from data pipelines, feature engineering, candidate extraction, model training, as well as integration into our production systems",
+                        "Apply state-of-the-art machine learning algorithms at scale and serving for next-generation targeting and bidding products that directly impact the company\u2019s top line metrics",
+                        "Collaborate with ML platform and product engineers to build scalable and efficient machine learning systems in the production environment",
+                        "Work with product and business teams on new innovative features for ad targeting and bidding to optimize advertisement performance",
+                        "Identify new opportunities to apply machine learning to different parts of the Ads product to drive value for our users and advertisers"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "For California, New Jersey, New York, and Washington based applicants, the minimum salary range is $151,000 - $184,000 + equity + benefits",
+                        "Quora offers a wide range of benefits including medical/dental/vision coverage, equity refreshers, remote work reimbursement, paid time off, employee assistance programs, and more",
+                        "Benefits are country-specific and may vary"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.quora.com/",
+                    "text": "quora.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Quora&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIiws",
+                    "text": "See web results for Quora"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFjaGluZSBMZWFybmluZyBFbmdpbmVlciAtIEFkcyAoUmVtb3RlKSIsImh0aWRvY2lkIjoiZmVkVUVoRTdyaGNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VWUXhkbWR1Um1oVFdWaG1halJITlVOWFRHeDNTMkp4VFZabk5raHFVM1ZuUXpSVVprdHVTR2RDWjNOdlQzSkRObWhKT0Rod2QzRkdTSGxRWTBKclREUmpkMjVKYVRKaVJXaHliWEpLYW10amNsTTFZM2x4YWw5Sk1GQm9iWHBSWVRGNlRVZFZjSEZtV2xVd00wRTViaTFFWlZoV1RtSlFjVTh4YzI5SlZFd3RaMEU0TVZFeE1VdDRhV0k0TWpOSFVsOWpVMk5hU0ZsbWVXUnllRGxJZEUxVGVIbHVWazVGYkVaWVJsZDBZWE5CZDAxSk1VUjZjMHAyY1dGdWFua3hkSGhoTW5sREVoZFBOM001V2tscFIweDBlbUpyVUVsUWRqWXliWFZCY3hvaVFVOHRNSEpzTjBkRlZqRkJXamREUTJKc1EzZGxYM2RXWW10YVpEbFRkMHRMWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmFzaGJ5aHEuY29tL3F1b3JhLzJjODdkMjI5LWM4MDctNDBkMy1iMzY5LWM0YjIxNmVkNmI1ND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Research Scientist in Reinforcement Learning",
+            "company_name": "InstaDeep Ltd",
+            "location": "  Boston, MA   ",
+            "via": "via LinkedIn",
+            "description": "Founded in 2014, InstaDeep is today an EMEA leader in decision-making AI products for the Enterprise, with headquarters in London, and offices in Paris, Berlin, Tunis, Lagos, Dubai, Cape Town and the USA. InstaDeep has been named among the Top 100 global AI startups for three consecutive years by CB Insights, as well as one of the 100 most promising B2B companies in Europe, by Sifted. We have... created an environment that ensures a challenge by working closely with a broad spectrum of high-quality clients, pushing you to thrive in an environment that\u2019s rarely tedious and always looking to push you to come up with outside-the-box solutions using cutting-edge technologies. In our mission to stay ahead of the curve, we are proud to partner with firms such as BioNTech SE, Google DeepMind, NVIDIA and Intel, and world-class universities as MIT, Oxford, UCL, and Imperial College London. We are also an NVIDIA Elite Service Delivery Partner and Google Cloud Partner .\n\nAre you a Research Scientist in Reinforcement Learning\n\nIf so then keep reading\u2026.\n\nAs a Research Scientist in Reinforcement Learning, you\u2019ll be a part of the Research,\n\nWho You Are\n\u2022 Develop novel algorithms and research ideas in the fields of machine learning, deep learning and reinforcement learning.\n\u2022 Contribute to team research and publications.\n\u2022 Suggest and engage in team collaborations to meet Research Dept. goals.\n\u2022 Bridge the gap between the research and engineering teams by contributing research that can be applied to InstaDeep\u2019s products and solutions.\n\u2022 Report and present experimental results and research findings, both internally and externally, verbally and in writing.\n\u2022 Upon request, collaborate with other groups\u2019 activities, including but not limited to presenting the company to new prospective clients, participating in calls and meetings, and representing Instadeep in conferences/events.\n\nRequirements\n\u2022 Ph.D./Postgraduate degree in Computer Science or a related scientific field.\n\u2022 Experience leading a team in solving analytical problems using quantitative approaches.\n\u2022 Experience using deep learning frameworks such as Tensorflow, Pytorch, and/or Jax.\n\u2022 Proven ability to contribute to research communities and/or efforts, including publishing scientific papers at conferences (JMLR, ICLR, NeurIPS, ICML, GECCO, etc.).\n\nOur Diversity, Equity, and Inclusion commitments\n\nWe empower individuals to celebrate their uniqueness here at InstaDeep. Our team comes from all walks of life, and we\u2019re proud to continue to encourage and support applicants from underrepresented groups across the globe. Our commitment to creating an authentic environment comes from our ability to learn and grow from our diversity, and how better to experience this by other than by joining our team?\n\nAt present we operate in a hybrid way allowing work from home or work from the office as per each individual\u2019s preferences. We are continuing to review the situation with the well-being of InstaDeepers at the forefront of our minds.\n\nRight to work: Please note you will require the legal right to work in the location you are applying for.\n\nAny further questions please do not hesitate to contact us at: talent@instadeep.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ph.D./Postgraduate degree in Computer Science or a related scientific field",
+                        "Experience leading a team in solving analytical problems using quantitative approaches",
+                        "Experience using deep learning frameworks such as Tensorflow, Pytorch, and/or Jax",
+                        "Proven ability to contribute to research communities and/or efforts, including publishing scientific papers at conferences (JMLR, ICLR, NeurIPS, ICML, GECCO, etc.)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop novel algorithms and research ideas in the fields of machine learning, deep learning and reinforcement learning",
+                        "Contribute to team research and publications",
+                        "Suggest and engage in team collaborations to meet Research Dept",
+                        "Bridge the gap between the research and engineering teams by contributing research that can be applied to InstaDeep\u2019s products and solutions",
+                        "Report and present experimental results and research findings, both internally and externally, verbally and in writing",
+                        "Upon request, collaborate with other groups\u2019 activities, including but not limited to presenting the company to new prospective clients, participating in calls and meetings, and representing Instadeep in conferences/events"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.instadeep.com/",
+                    "text": "instadeep.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=InstaDeep+Ltd&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIzQs",
+                    "text": "See web results for InstaDeep Ltd"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QgaW4gUmVpbmZvcmNlbWVudCBMZWFybmluZyIsImh0aWRvY2lkIjoiekx4N2JvQlkxcVVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1ZHNVFUMHhqZGxoMWNuQnlWME0xYWxCaWVVRlljMWd4VUVWWGMydDRNa3MwU1dGb1dtUnZXa05sZFhORU1XMTZlamhNUTAxaFVWTjRjbmRsTW1sQ05HcDNXbWRsY1hwVmR6bFZSVTVmT1ZGRVprSkJMV3RGZEROMFJtTkZWWFp2ZVVWWmRVeFZOVVl3VEZKNlVVZGZMV2xKTUd0WlRUSmFRM2xVTmxkT1VsWktZWFJSU3pacWNXbHllRU41T1c1U1FYcE9TVmR0UWpodlkyRnllV0ZGZW10QmJ6WkdhVUk0ZW5KM1owZEhTVzA0V0RCb2VEUktVVk5zVjNGMGFtaG9TSFZEU0d0T1dEbFVhMFZyYkZRMWJHRkJVRWg1TjAxcmNXeGxaeElYVHpkek9WcEphVWRNZEhwaWExQkpVSFkyTW0xMVFYTWFJa0ZQTFRCeWJEZHpNMDEyUVdsb1lWTm9kako0YzJaa2ExQkxlR3BxZDNGb1IxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9yZXNlYXJjaC1zY2llbnRpc3QtaW4tcmVpbmZvcmNlbWVudC1sZWFybmluZy1hdC1pbnN0YWRlZXAtbHRkLTM1MzQ4MzE2Mzc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Research Scientist, Machine Learning",
+            "company_name": "OpenAI",
+            "location": "  San Francisco, CA   ",
+            "via": "via Greenhouse",
+            "description": "About the team\n\nThe Deployment Planning team\u2019s mandate is to build tools and conduct research that equip OpenAI to prepare for safe and successful deployment of increasingly advanced AI...\n\nAbout the role\n\nWe\u2019re seeking an experienced machine learning researcher to shape and lead the Deployment Planning team\u2019s ML research agenda.\n\nThis is an opportunity to pioneer and prototype new approaches for testing and evaluating the most advanced AI systems \u2013 and to harness the most advanced AI systems to do so. The role will include research on the development of novel evaluation methods and interventions for things like dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior.\n\nIf you enjoy tackling deep questions in ML research, thrive in roles where ambitious entrepreneurial pursuit of open-ended goals is rewarded, and are strongly motivated to contribute to the roll-out of advanced general AI systems going well, you will find our work here uniquely challenging and rewarding. This role reports to our Deployment Planning lead.\n\nThis role is based in our San Francisco HQ. We offer relocation assistance to new employees.\n\nIn addition, you\u2019ll:\n\u2022 Research upstream interventions at the level of training data, pre-training, and training\n\u2022 Research and prototype novel evaluation methods in areas such as dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior.\n\u2022 Work with downstream product and infrastructure teams to build and scale effective tools for responsible deployment\n\u2022 Develop and mentor ML Researchers on the Deployment Planning team\n\u2022 Architect and develop interventions that improve real world impact\n\nWe Expect You To:\n\u2022 Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects\n\u2022 Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects\n\u2022 Have experience developing novel techniques for ML model measurement and mitigation\n\u2022 Have experience in research mentorship, leading project teams, and setting technical direction\n\u2022 Be comfortable working cross functionally across both research and product teams\n\nNice to Haves:\n\u2022 Past experience in interdisciplinary research collaborations\n\u2022 Past experience in creating high-performance implementations of deep learning algorithms\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.\n\nCompensation, Benefits and Perks\n\nThe annual salary range for this role is $200,000 \u2013 $370,000. Total compensation also includes generous equity and benefits.\n\u2022 Medical, dental, and vision insurance for you and your family\n\u2022 Mental health and wellness support\n\u2022 401(k) plan with 4% matching\n\u2022 Unlimited time off and 18+ company holidays per year\n\u2022 Paid parental leave (20 weeks) and family-planning support\n\u2022 Annual learning & development stipend ($1,500 per year)\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.\n\nOpenAI US Applicant Privacy Policy",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Have experience developing novel techniques for ML model measurement and mitigation",
+                        "Have experience in research mentorship, leading project teams, and setting technical direction",
+                        "Be comfortable working cross functionally across both research and product teams",
+                        "Past experience in interdisciplinary research collaborations",
+                        "Past experience in creating high-performance implementations of deep learning algorithms"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Research upstream interventions at the level of training data, pre-training, and training",
+                        "Research and prototype novel evaluation methods in areas such as dangerous model capabilities and existential risks, fairness and representation, as well as untruthful, hallucinatory, or otherwise undesired model behavior",
+                        "Work with downstream product and infrastructure teams to build and scale effective tools for responsible deployment",
+                        "Develop and mentor ML Researchers on the Deployment Planning team",
+                        "Architect and develop interventions that improve real world impact"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The annual salary range for this role is $200,000 \u2013 $370,000",
+                        "Total compensation also includes generous equity and benefits",
+                        "Medical, dental, and vision insurance for you and your family",
+                        "Mental health and wellness support",
+                        "401(k) plan with 4% matching",
+                        "Unlimited time off and 18+ company holidays per year",
+                        "Paid parental leave (20 weeks) and family-planning support",
+                        "Annual learning & development stipend ($1,500 per year)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://openai.com/",
+                    "text": "openai.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=OpenAI&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIjww",
+                    "text": "See web results for OpenAI"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QsIE1hY2hpbmUgTGVhcm5pbmciLCJodGlkb2NpZCI6IlFtemRock9GZF9zQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VVGRJTjFCQ1FWa3pValpaVmpSeU4wOUxlbmxVY2xVMkxUaEVSVE5ZVjNCTWJXZ3pkVlpyZW1OUGRsVkNMWEZRTnpSYVF6ZExUWGhMTW5aRGFsOXBia3hoVm1vNE1YTnBSWFZsVGxGRE0zSmpjV0ppUm5SNE4zbEROalpMTW1kUGMydzFTRlJpYm5GcFVIcE5jRWd0UTNwcmVXVkRlazlWVmxwYVJHNTFPR3hrU1RKNlNqYzVaWEZrWjNJdGVVTlFkR2haVm1SWU4zSlhkVmd6ZERWb1pIQlBMVEEwVGs1aFdGbDRVV2hJTkRoTll6RktURUZaWTBSellqSTRaVWhGTUdkSGFsUnZFaGRQTjNNNVdrbHBSMHgwZW1KclVFbFFkall5YlhWQmN4b2lRVTh0TUhKc05rb3pNVjkyWDBKdlFuWk1VbFJOVlc4NGJUSkJiMlpMVG5WbWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR3JlZW5ob3VzZSIsImxpbmsiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL29wZW5haS9qb2JzLzQ3MzkwNTAwMDQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "python or Matlab developer to help develop a deep reinforcement...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "implement a Deep Reinforcement Learning in Colab or Jupiter Notebooks environment (Python Programming Language) or MATLAB with application to Recommendation systems. Use a suitable dataset and evaluate the performances. Extend the work to the case of Advertising and marketing by using a suitable dataset to validate the concept.",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "implement a Deep Reinforcement Learning in Colab or Jupiter Notebooks environment (Python Programming Language) or MATLAB with application to Recommendation systems",
+                        "Use a suitable dataset and evaluate the performances",
+                        "Extend the work to the case of Advertising and marketing by using a suitable dataset to validate the concept"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIyQw",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJweXRob24gb3IgTWF0bGFiIGRldmVsb3BlciB0byBoZWxwIGRldmVsb3AgYSBkZWVwIHJlaW5mb3JjZW1lbnQgbGVhcm5pbmctYmFzZWQgcmVjb21tZW5kZXIgc3lzdGVtIiwiaHRpZG9jaWQiOiI3ZmRwMnFCdlRDOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlDQ3FJQ1FVVnpOMnBPVVdJeFMzRjBaVWhxY1VWaFRUVmZSbVpMVVdSUGRuSllZMUZIYmxNeFpVazFNWHBPUTBoYWMwcHpha3h4ZEZSZlIwbGpVbU01VjNaVlowOHhjRU53T0ZaSGVVNDJRVkZQVFhJMFdUQlBZM0pmTldSVE5FTTBMV0Z1WVhGdU5GVmljelJoYVRob1EzZFRiMnhQZFZOcWRWUkNPRlJQZEZZMFgzQm5iMHhWU2xWS1F6ZEVZWGxMVDE5U00xaFFXSEF4WVhoSk0yMUxTazgwVHpoQ2VrMDRWVlZQZUdOcFZrTmtTSGxTUjJ4T2QybDFSMUJUWm5GVFZFTlllRFZvZWtjMVJqTXpUR0V0VFY5cE5YaGllRzB5VERabFRWVjRZWEZtYlhSMVdGQm9WVk5uTlVnMU5rZGtVVlZFUVhKb1R6bGhTbEppWlZnM1dFRjFVWFZ6UVUxTFJtRnlRa05aZFZoTVp6RTROazR6WW5GeVQxVkRaVmQxYkZKelNtY1NGMDgzY3psYVNXbEhUSFI2WW10UVNWQjJOakp0ZFVGekdpSkJUeTB3Y213MFFubEROa2s0VkdwMU9FdFpTMGxTYUc1WWFXdEhORVpLUlZWbiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L3B5dGhvbi1NYXRsYWItZGV2ZWxvcGVyLWhlbHAtZGV2ZWxvcC1kZWVwLXJlaW5mb3JjZW1lbnQtbGVhcm5pbmctYmFzZWQtcmVjb21tZW5kZXItc3lzdGVtX34wMTY5YmY2YzAxNzU5NDcwZTQvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Reinforcement Learning Researcher",
+            "company_name": "STR",
+            "location": "  Dayton, OH   ",
+            "via": "via Jobs By Workable",
+            "description": "Reinforcement Learning Researcher\n\nSTR\u2019s Analytics Division is seeking a reinforcement learning researcher to join our team of scientists and engineers, who develop and apply cutting edge reinforcement learning approaches for many problems, including swarm/drone deployment, fighter-jet dogfighting and tactical wargaming. Our projects integrate algorithmic research and software engineering to... address challenging national security problems. We actively collaborate with research engineers across STR, as well as with academic researchers and industry partners to develop practical and powerful solutions to applying autonomy in the real world.\n\nOur ideal candidate possesses knowledge of the state-of-the-art in reinforcement learning (RL), understands how to implement RL algorithms in software, and is only satisfied when their innovations become a reality by integrating them into real autonomous systems. Because we have a highly-collaborative, multi-disciplinary team, our perfect candidate also has a strong desire to learn about new, interesting problem domains to identify where RL would have the greatest impact. We prioritize collaboration and team culture in addition to being results-oriented, and therefore we always seek researchers and scientists with excellent written and verbal communication skills.\n\nThe Role:\n\u2022 Apply and improve cutting-edge academic research in RL to defense-domain problems (wargames, flight, naval) to train autonomous agents that surpass the performance of existing algorithms\n\u2022 Build large-scale, real-world autonomous systems by collaborating with STR\u2019s world-class team of engineers and researchers in the machine learning community, our academic partners and our customers\n\u2022 Analyze data and agent behavior by both replaying simulated scenarios as well as examining real-world data to identify performance improvement strategies\n\u2022 Interact with national security customers and users to determine and assess unmet needs and evolving requirements\n\u2022 Transition algorithms to prototype and/or real-time systems demonstrations\n\u2022 Position may involve travel to customer meetings and/or data collections and experiments\n\nWho You Are:\n\u2022 BS, MS or PhD degree in Computer Science.\n\u2022 Academic and/or industry experience training agents to optimize criterion in simulated environments\n\u2022 Experience with scientific software development and algorithm implementation\n\u2022 Proficient in Python, Docker, PyTorch, TensorFlow\n\u2022 Motivated collaborator with internal and external teams\n\nSome Other Relevant Skills You May Have:\n\u2022 Published work in academic conferences\n\u2022 Experience with cloud computing (AWS, GCloud, Azure)\n\u2022 Experience with RLlib, Unity\n\u2022 Familiar with Agile Development Workflow\n\nSTR is a rapidly growing technology company with locations north of Boston, MA, Arlington, VA and near Dayton, OH. We specialize in advanced research and development for defense, intelligence, and national security, trying to understand how to protect our society: from stopping malicious botnet attacks, to understanding cyber vulnerabilities, providing next generation sensors, radar, sonar, communications, and electronic warfare to developing artificial intelligence algorithms and analytics to make sense of the complexity that is exploding around us. Visit us at www.str.us for more info.\n\nSTR is committed to creating a collaborative learning environment that supports deep technical understanding and recognizes the contributions and achievements of all team members. Our work is challenging, but you go home at night knowing that you pushed the forefront of technology and made the world a little safer. We recognize that the world is changing, that it is becoming more connected than ever before, making things change faster than before, and reshaping society in the process. We all want to understand this changing world and leave it better for our work.\n\nSTR is an equal opportunity employer. We are fully dedicated to hiring the most qualified candidate regardless of race, color, religion, sex (including gender identity, sexual orientation and pregnancy), marital status, national origin, age, veteran status, disability, genetic information or any other characteristic protected by federal, state or local laws.\n\nIf you need a reasonable accommodation for any portion of the employment process, email us at appassist@str.us and provide your contact info.\n\nPursuant to applicable federal law and regulations, positions at STR require employees to obtain national security clearances and satisfy the requirements for compliance with export control and other applicable laws",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS, MS or PhD degree in Computer Science",
+                        "Academic and/or industry experience training agents to optimize criterion in simulated environments",
+                        "Experience with scientific software development and algorithm implementation",
+                        "Proficient in Python, Docker, PyTorch, TensorFlow",
+                        "Motivated collaborator with internal and external teams",
+                        "Published work in academic conferences",
+                        "Experience with cloud computing (AWS, GCloud, Azure)",
+                        "Experience with RLlib, Unity",
+                        "Familiar with Agile Development Workflow"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Apply and improve cutting-edge academic research in RL to defense-domain problems (wargames, flight, naval) to train autonomous agents that surpass the performance of existing algorithms",
+                        "Build large-scale, real-world autonomous systems by collaborating with STR\u2019s world-class team of engineers and researchers in the machine learning community, our academic partners and our customers",
+                        "Analyze data and agent behavior by both replaying simulated scenarios as well as examining real-world data to identify performance improvement strategies",
+                        "Interact with national security customers and users to determine and assess unmet needs and evolving requirements",
+                        "Transition algorithms to prototype and/or real-time systems demonstrations",
+                        "Position may involve travel to customer meetings and/or data collections and experiments"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=STR&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIig0",
+                    "text": "See web results for STR"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWluZm9yY2VtZW50IExlYXJuaW5nIFJlc2VhcmNoZXIiLCJodGlkb2NpZCI6ImxiamtoUEl4bUZzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9WRlJxYmtobVdWUXhXa2xJYm1kclJrdHdTVmhMTW5odU5Fb3haRFUwVG5CVlIzTXpNVTQzVG1WZllUUXphSHBwYTE5SGRtVTVWRzFSY0RKalRXeE1ZVzl4ZVVsS2JERlJWVlJqYVdKblVUWlVSMlJMZUZGeWNtaGhhMVZIWVVGUFJVNVpUV2RuVERWRkxUWjFhVGRTUnpOeU1tUnNjRXRtTFhVek9VVXpjbE5qTURoaVEzSTBUVmR5WDJWMFEyZFdSVjl3U1daelIyWjVURFUwUW5ONFFWQmZkM1pYZGpkcWFtVk1hM1EyVnpsSkVoZFBOM001V2tscFIweDBlbUpyVUVsUWRqWXliWFZCY3hvaVFVOHRNSEpzTmxOTGRYbzVRVmRpYldveFYzZ3piVXRuZWpWbFNuSjRXRzFxZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBKb2JzIEJ5IFdvcmthYmxlIiwibGluayI6Imh0dHBzOi8vYXBwbHkud29ya2FibGUuY29tL3N0ci9qL0NDRDcwQ0QzNTYvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Staff Machine Learning Software Engineer - Behavior Planning",
+            "company_name": "Aurora Innovation",
+            "location": "  Seattle, WA   ",
+            "via": "via Aurora Innovation",
+            "description": "Aurora hires talented people with diverse backgrounds who are ready to help build a transportation ecosystem that will make our roads safer, get crucial goods where they need to go, and make mobility more efficient and accessible for all. We\u2019re searching for a Staff Machine Learning Software Engineer for our Motion Planning Behavior Planning Team.\n\nIn this role, you will...\n\u2022 Build machine learning approaches for motion planning for creating, generating, and selecting comfortable and safe trajectories for a self-driving vehicle\n\u2022 Develop policies and plans to manage multi-actor interactions and plans under uncertainty\n\u2022 Develop approaches that interleave motion planning with forecasting of other agents\n\u2022 Develop and implement scalable production-grade algorithms for the Aurora Driver\n\u2022 Lead design and development of architectural components of the decision making system of Aurora\n\nRequired Qualifications\n\u2022 BS, MS, or PhD in Robotics, Machine Learning, Applied Mathematics, Computer Science or related field\n\u2022 7+ years of strong programming and software design skills ideally in C++ and/or Python\n\u2022 Knowledge of classical and modern ML approaches such as linear models, recurrent models, convolutional neural networks, transformer networks\n\u2022 Expertise with modern ML and GPU toolkits such as PyTorch, TensorFlow, JAX, TensorRT, and/or CUDA\n\u2022 Expertise with deployment of production ML models for self driving, computer vision, or natural language processing at scale\n\nDesirable Qualifications\n\u2022 Experience with imitation and reinforcement learning\n\u2022 Experience in designing, building, and productionizing motion planning algorithms, state estimation algorithms, probabilistic modeling, or statistical techniques\n\nThe base salary range for this position is $189k-$302K per year. Aurora\u2019s pay ranges are determined by role, level, and location. Within the range, the successful candidate\u2019s starting base pay will be determined based on factors including job-related skills, experience, qualifications, relevant education or training, and market conditions. These ranges may be modified in the future. The successful candidate will also be eligible for an annual bonus, equity compensation, and benefits.\n\n#LI-JL261\n\n#Mid-Senior",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS, MS, or PhD in Robotics, Machine Learning, Applied Mathematics, Computer Science or related field",
+                        "7+ years of strong programming and software design skills ideally in C++ and/or Python",
+                        "Knowledge of classical and modern ML approaches such as linear models, recurrent models, convolutional neural networks, transformer networks",
+                        "Expertise with modern ML and GPU toolkits such as PyTorch, TensorFlow, JAX, TensorRT, and/or CUDA",
+                        "Expertise with deployment of production ML models for self driving, computer vision, or natural language processing at scale",
+                        "Experience with imitation and reinforcement learning",
+                        "Experience in designing, building, and productionizing motion planning algorithms, state estimation algorithms, probabilistic modeling, or statistical techniques"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Build machine learning approaches for motion planning for creating, generating, and selecting comfortable and safe trajectories for a self-driving vehicle",
+                        "Develop policies and plans to manage multi-actor interactions and plans under uncertainty",
+                        "Develop approaches that interleave motion planning with forecasting of other agents",
+                        "Develop and implement scalable production-grade algorithms for the Aurora Driver",
+                        "Lead design and development of architectural components of the decision making system of Aurora"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary range for this position is $189k-$302K per year",
+                        "The successful candidate will also be eligible for an annual bonus, equity compensation, and benefits"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://y.reinventtechnologypartners.com/about",
+                    "text": "y.reinventtechnologypartners.com/about"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Aurora+Innovation&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIyw0",
+                    "text": "See web results for Aurora Innovation"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBNYWNoaW5lIExlYXJuaW5nIFNvZnR3YXJlIEVuZ2luZWVyIC0gQmVoYXZpb3IgUGxhbm5pbmciLCJodGlkb2NpZCI6InFfZENsdFNxVWJ3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9VbTloTjFSNGNEbEtOemhmWVdoNFYzTjNRalYwYURkcGMyZEVNRFZOY0U4NFVVUmlXWGxhVWpsQ015MU5hMHh5ZFRaQlpuUmljV2RWVlZKYWNHeHhjRXByYTNScGVVdHFlR2hPWlVaUWJEa3pXRGRxYzNoUmQzcDZaRkpmYXpNd1ozRlpObkkyZGxoSGR6aFJWMnAyVkhoWGNuaEtObFJ1YlZkc1FVZG9PRVp4Wmxad2VETk1PWFpSTVdOTFJIVkdUbnB3UldVM1ZVSTJhREJ3YkVKblFuWmFlV042ZVdkTVRqaHdRelZDWDBSMFdYZGFPR3h1V2xCSGJXNXRUMDFDWDJKNGJIZHljbTFuU2xkVlFURTFiMVZNWW5CQmNYaHRORmROUlRGUlREVkNWMDVTVDB4VFFUQkhhSFZWVUdNelpISnZUbUpZWlVKaFdGVjZlblo1VEVOVlZGTk9XUklYVHpkek9WcEphVWRNZEhwaWExQkpVSFkyTW0xMVFYTWFJa0ZQTFRCeWJEZDBlVVpKT1hsbFIyOVlkM1pzWVU5aGJXaHJURlJIUmtGYVIxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEF1cm9yYSBJbm5vdmF0aW9uIiwibGluayI6Imh0dHBzOi8vYXVyb3JhLnRlY2gvam9icy9zdGFmZi1tYWNoaW5lLWxlYXJuaW5nLXNvZnR3YXJlLWVuZ2luZWVyLWJlaGF2aW9yLXBsYW5uaW5nLTY2MTIzMDkwMDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Research Scientist/Engineer L4/L5, Algorithm Engineering",
+            "company_name": "Netflix",
+            "location": "  California  (+1 other)    ",
+            "via": "via AngelList",
+            "description": "\u2022 NOTE: This job posting is inclusive of a variety of positions within our Algorithms Engineering group. Based on your background, expertise and interests, we will route you to the appropriate team(s). *\n\nNetflix is the world's leading internet entertainment service with over 220 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and games across a... wide variety of genres and languages. Members can watch videos and play games as much as they want, anytime, anywhere, on any internet-connected screen.\n\nTo achieve our mission of entertaining the world, we are reinventing entertainment from end to end. We are revolutionizing how shows, movies, and games are produced, pushing technological boundaries to efficiently deliver streaming video at massive scale over the internet, and continuously improving the discovery and personalization of our offerings to our global user base using Machine Learning and data analytics.\n\nApplied Machine Learning Research at Netflix improves various aspects of our business, including personalization, recommendations, search, content understanding, messaging, targeting, new member acquisition etc. As such, our research spans many Machine Learning areas, including deep learning, search and recommender systems, causal inference, reinforcement learning and bandits, computer vision, computer graphics, natural language processing, and computational advertising.\n\nWe are looking for exceptional individuals to work full time with us as research scientists. In this role, you will conduct applied research by conceptualizing, designing, implementing, and validating potential algorithmic improvements. This includes researching and applying cutting edge machine learning algorithms, running offline experiments, and building online A/B tests to run in production systems. To be successful in this role, you need a strong machine learning background, solid software development skills, a love of learning, a passion for solving end-user problems and to collaborate well in multi-disciplinary teams. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.\n\nWhat we are looking for:\n\u2022 A burning desire to solve real world problems at scale by applying Machine Learning\n\u2022 PhD or Masters in Computer Science, Statistics, or any of the related fields\n\u2022 5+ years of research experience with a track record of delivering quality results\n\u2022 Expertise in machine learning spanning supervised and unsupervised learning methods\n\u2022 Experience in successfully applying machine learning to real-world problems\n\u2022 Exceptional problem solving skills\n\u2022 Strong mathematical skills with knowledge of statistical methods\n\u2022 Excellent software engineering skills in languages such as Scala, Java, Python, C++ or C#\n\u2022 Great interpersonal skills\n\u2022 Strong written and verbal communication skills\n\nPreferred, but not required:\n\u2022 Experience as a technical leader\n\u2022 Experience working with cross functional teams\n\u2022 Experience in Search, Recommendations, Natural Language Processing, Knowledge Graphs, Conversational Agents, and Personalization, etc\n\u2022 Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real world applications\n\u2022 Experience with Spark, TensorFlow, Keras, and PyTorch\n\u2022 Experience with cloud computing platforms and large web-scale distributed systems\n\u2022 Experience in applied research in industrial settings\n\u2022 Open source contributions\n\u2022 Research publications at peer reviewed journals and conferences on relevant topics\n\nLinks:\n\u2022 Netflix Research site\n\u2022 Our culture\n\u2022 Our long term business view\nAreas:\n### Page Personalization:\n\u2022 Our team is responsible for research and development of the machine learning algorithms that create the Netflix homepage for all our over members around the world across all the devices. This is primarily focused on deciding which rows of recommendations produced by our many ranking algorithms to show, so that members can easily find something great to watch and enjoy, but also includes work on in general what all our algorithms should optimize for and how to personalize additional aspects of the user experience. There is very little processing done on the output of our algorithms, so the work we do has a large impact on how people use Netflix. This means that we take on the responsibility for understanding and predicting all of the different reasons that someone may want to visit Netflix and help them find what they need. When we do our jobs well, we help people all over the world find a bit more joy.\n\nExperience Personalization:\n\u2022 Our team works at the intersection of UX design and machine learning. We research and develop algorithms that decide which information about a movie to show to our members. For example, we are responsible for selecting the best artwork and synopsis for each show on a Netflix homepage. We also explain why a member should care about a new movie, TV show, or game. The goal is to help our members make great decisions on the next title to watch. A lot of our work involves contextual bandit algorithms including deploying models, investigating and improving state-of-the art-algorithms, and evaluation metrics. When we do our jobs well, we help people to select the best entertainment on the planet.\n\nPersonalization Rankers:\n\u2022 Our core team works on the core recommendations and personalization algorithms. These algorithms (alongside Page Personalization) are responsible for most of what\u2019s shown on the Netflix homepage (which drives 80% of what members in Netflix play).\n\nSome areas you\u2019ll be working in:- Recommender Systems and Personalization. Almost every aspect of the Netflix experience is personalized, and much of that personalization is driven by our various flavors of recommendation algorithms.\n\u2022 Causal Inference And Reinforcement Learning. As we\u2019re ever seeking to align our recommendations with what titles members love, it\u2019s important to tease apart the cause-and-effect of what we\u2019re doing. You\u2019ll work with large scale CI and RL algorithms to achieve this.\n\u2022 Large Scale Machine Learning. Netflix is available in over 190 countries, with over 200+ million members. This gives us a unique dataset to work with, but also unique challenges in how we scale our models. You\u2019ll work on cutting edge techniques to scale your models for use in our production systems.\n\nSearch and Recommendations:\n- This applied ML team is responsible for improving our member experience by innovating on algorithms for all aspects of Search and other discovery canvases where members express their entertainment needs explicitly. Such mechanisms are a primary way for our members to discover and engage with content on our service. Algorithms innovation in this area, hence is critical, as our content offerings scale and become diverse.\n- Our work is a mixture of applied research and engineering to do end-to-end machine learning i.e. from inception of an idea to its productization via online and offline experiments. We work in a highly cross-functional environment, collaborating very closely with PMs, back end and front end engineers, data scientists and engineers, UX Designers, editors, etc.\n\u2022 Typically we require experience and expertise in Applied ML, Search, Recommendations, Personalization, NLP, KG, HCI, as well as proficiency in software engineering, familiarity with distributed computing and Deep Learning frameworks.\n\nFollowing are some of our recent publications:- Augmenting Netflix Search with In-Session Adapted Recommendations - RecSys 2022\n\u2022 Query Facet Mapping and its Applications in Streaming Services: The Netflix Case Study - SIGIR 2022\n\u2022 Recommendations and Results Organization in Netflix Search, RecSys 2021\n\u2022 Improving Search Results Ranking Using a Knowledge Graph at KINN-CIMK 2021\n\u2022 Challenges in Search on Streaming Services: Netflix Case Study SIGIR 2019\n\nGrowth and Notifications:\n\u2022 Our team focuses on personalization of the end-to-end user lifecycle at Netflix.\n\u2022 For example, we work on a better personalized experience for signup (e.g. personalize the signup flow), optimize the payment experience (increase the success of a transaction going through, detect fraud), and personalize the messaging experience (when and what to send via emails, push notifications and pop-ups).\n\u2022 As Netflix shifts to commerce and ads, we also started shifting our focus to monetization such as detecting sharing and making better predictions of life-time value.\n\u2022 Functionally, we go from prototyping all the way to launching experiments and productionization. We often leverage causal inference and context bandits in a lot of our problem formulations. We care deeply about both research and scientific rigor, as well as product impact. We are looking for folk who can act both as a scientist and an engineer.\n\nNetflix focuses on Digital Entertainment. Their company has offices in Los Gatos. They have a very large team that's 5000+ employees. To date, Netflix has raised $3.102B of funding; their latest round was closed on April 2018.\n\nYou can view their website at https://www.netflix.com/in/ or find them on LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "To be successful in this role, you need a strong machine learning background, solid software development skills, a love of learning, a passion for solving end-user problems and to collaborate well in multi-disciplinary teams",
+                        "You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment",
+                        "A burning desire to solve real world problems at scale by applying Machine Learning",
+                        "PhD or Masters in Computer Science, Statistics, or any of the related fields",
+                        "5+ years of research experience with a track record of delivering quality results",
+                        "Expertise in machine learning spanning supervised and unsupervised learning methods",
+                        "Experience in successfully applying machine learning to real-world problems",
+                        "Exceptional problem solving skills",
+                        "Strong mathematical skills with knowledge of statistical methods",
+                        "Excellent software engineering skills in languages such as Scala, Java, Python, C++ or C#",
+                        "Great interpersonal skills",
+                        "Strong written and verbal communication skills",
+                        "Our team works at the intersection of UX design and machine learning",
+                        "Large Scale Machine Learning",
+                        "Typically we require experience and expertise in Applied ML, Search, Recommendations, Personalization, NLP, KG, HCI, as well as proficiency in software engineering, familiarity with distributed computing and Deep Learning frameworks"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will conduct applied research by conceptualizing, designing, implementing, and validating potential algorithmic improvements",
+                        "This includes researching and applying cutting edge machine learning algorithms, running offline experiments, and building online A/B tests to run in production systems"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.netflix.com/",
+                    "text": "netflix.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Netflix&sa=X&ved=0ahUKEwjIj9KR77H-AhXcLUQIHb-WCbc4FBCYkAIIiQ4",
+                    "text": "See web results for Netflix"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QvRW5naW5lZXIgTDQvTDUsIEFsZ29yaXRobSBFbmdpbmVlcmluZyIsImh0aWRvY2lkIjoiQnRyMmNsRWdoSU1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UwMDVXRTVITjBKNFFsZHdaRWx0Wnpkak9WQldjV1JUTUhVeUxYVkRkVlpsZGtGRFZWZFNiMGhKUmxwSmF6UndSM1ZpUlVOSWJ6SmxkblJwZWxabGJFbFVNVUpPVVd4TFJsSklVbk53YTFFNU9YcHdNbEJKYjFWM1IyaGhjRXBrYW1sak16aHpkWFJtTkVvNFptRXlSMnhCZGs0d1owaFpha0ZCT1ZCT2JucHdZbEphYUdwS1dUaFRWbFpGU2xSclZ6QnpURGRvVUdjNFFrRnhUak4zWlRSMVVscHFSVFpaV25SeVVqZG5TbDlYU0hnemN6STFYMU4yTkV4NVdFdHVTazEwYmxORE1VaHBWa295ZVhRNGNqQnRMWFYxTUU5RVlUSTFkeElYVHpkek9WcEphVWRNZEhwaWExQkpVSFkyTW0xMVFYTWFJa0ZQTFRCeWJEWkRTRWxaUmsxVlJXNTBZVGcwZFRSVGQzVjNUVWxxVkZkV1NtYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEFuZ2VsTGlzdCIsImxpbmsiOiJodHRwczovL3dlbGxmb3VuZC5jb20vY29tcGFueS9uZXRmbGl4L2pvYnMvMjQ3ODA2Ny1yZXNlYXJjaC1zY2llbnRpc3QtZW5naW5lZXItbDQtbDUtYWxnb3JpdGhtLWVuZ2luZWVyaW5nP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Graduate",
+                    "value": "graduate"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Senior manager",
+                    "value": "senior manager"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Application engineer",
+                    "value": "application engineer"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Computer",
+                    "value": "computer"
+                },
+                {
+                    "text": "Implementation engineer",
+                    "value": "implementation engineer"
+                },
+                {
+                    "text": "Learning specialist",
+                    "value": "learning specialist"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Solutions engineer",
+                    "value": "solutions engineer"
+                },
+                {
+                    "text": "System",
+                    "value": "system"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Philadelphia, PA",
+                    "value": "60u11Ni3xonBWD6M2BT1iQ=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Sunnyvale, CA",
+                    "value": "O13QqUW2j4Ciw3zdJvuNdg=="
+                },
+                {
+                    "text": "Waltham, MA",
+                    "value": "3eQad-F344nEWv4aYofa3g=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Livermore, CA",
+                    "value": "cSBaOIblj4Bx2GvLMSLTmA=="
+                },
+                {
+                    "text": "Milpitas, CA",
+                    "value": "XyrmOufRj4AnpTqtwOFjeA=="
+                },
+                {
+                    "text": "Natick, MA",
+                    "value": "dSAbXrOH44kno1zsiT-M3w=="
+                },
+                {
+                    "text": "Princeton, NJ",
+                    "value": "8VnQcsHmw4nC1hNKk0nNPw=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Woburn, MA",
+                    "value": "p-rYSQZ144mJiPkYCvjXMg=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Aurora, CO",
+                    "value": "myu6IoZYbId45qKLaOBBhA=="
+                },
+                {
+                    "text": "Beavercreek, OH",
+                    "value": "B-LwKg6bQIiC7xPC5lB3ug=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Berkeley, CA",
+                    "value": "00mFOjZ5hYCT6XWmlRXqlA=="
+                },
+                {
+                    "text": "Birmingham, AL",
+                    "value": "07-FWN8RiYjOVLrqCXRQJQ=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Carlsbad, CA",
+                    "value": "We47P0Vz3IAvXfb8klXLpA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Destin, FL",
+                    "value": "t_RAyXlDkYgyTFhG24ukFw=="
+                },
+                {
+                    "text": "Hawthorne, CA",
+                    "value": "8S7MWiu0woABszjMHXHBYg=="
+                },
+                {
+                    "text": "Hillsboro, OR",
+                    "value": "eeW8Vl8FlVSG7TNqhv8pfQ=="
+                },
+                {
+                    "text": "Irving, TX",
+                    "value": "j_UJHVyCToYJ84eGVm8wPA=="
+                },
+                {
+                    "text": "Kirkland, WA",
+                    "value": "e85SKMASkFRXKHhwqmp3eg=="
+                },
+                {
+                    "text": "Littleton, CO",
+                    "value": "Kzvi-z98a4fAPNau6ZcFBw=="
+                },
+                {
+                    "text": "Los Altos, CA",
+                    "value": "z0bVI-Gwj4D8pmXWXRgFZQ=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Los Gatos, CA",
+                    "value": "PwN3UzY0joCmjHSsAVNn7w=="
+                },
+                {
+                    "text": "Louisville, CO",
+                    "value": "uckRZU-La4dI4s8gMjW_oA=="
+                },
+                {
+                    "text": "Marlborough, MA",
+                    "value": "be5haA6L44nEr_VVS6rpxw=="
+                },
+                {
+                    "text": "McLean, VA",
+                    "value": "O3mKsew1tonx6vqtXrpijg=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Rental",
+                    "value": "/business/naics2007/532"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Unify Consulting",
+                    "value": "/g/11f012zzdh"
+                },
+                {
+                    "text": "MathWorks",
+                    "value": "/m/02q9vb"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "System1",
+                    "value": "/g/11f00s4_71"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Hugging Face",
+                    "value": "/g/11s0fn67cr"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Bosch Group",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "Comcast",
+                    "value": "/m/01s73z"
+                },
+                {
+                    "text": "Exponent",
+                    "value": "/m/03p239c"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "MultiPlan",
+                    "value": "/g/1dt_x5k2"
+                },
+                {
+                    "text": "The Home Depot",
+                    "value": "/m/01zj1t"
+                },
+                {
+                    "text": "Ansys",
+                    "value": "/m/06dplm"
+                },
+                {
+                    "text": "InstaDeep",
+                    "value": "/g/11g700cw6r"
+                },
+                {
+                    "text": "Intel",
+                    "value": "/m/03s7h"
+                },
+                {
+                    "text": "LLNL",
+                    "value": "/m/09qyt"
+                },
+                {
+                    "text": "Netflix",
+                    "value": "/m/017rf_"
+                },
+                {
+                    "text": "OfferFit",
+                    "value": "/g/11rkcxxgxj"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Scale AI",
+                    "value": "/g/11fdlzs5lc"
+                },
+                {
+                    "text": "Teladoc",
+                    "value": "/g/11c3krgywp"
+                },
+                {
+                    "text": "Tubi",
+                    "value": "/m/0136zt46"
+                },
+                {
+                    "text": "Wayfair",
+                    "value": "/m/02x44_z"
+                },
+                {
+                    "text": "AICrete Corp.",
+                    "value": "/g/11s8xycz93"
+                },
+                {
+                    "text": "AMP Robotics",
+                    "value": "/g/11g9n7yx0l"
+                },
+                {
+                    "text": "Altana Technologies",
+                    "value": "/g/11q32l889s"
+                },
+                {
+                    "text": "Armorblox",
+                    "value": "/g/11fm487hmh"
+                },
+                {
+                    "text": "Aurora Innovation",
+                    "value": "/g/11g9m_n626"
+                },
+                {
+                    "text": "Avail Medsystems",
+                    "value": "/g/11fhqkvqkh"
+                },
+                {
+                    "text": "Best Buy Co, Inc",
+                    "value": "/m/01zrdx"
+                },
+                {
+                    "text": "Block",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                }
+            ]
+        }
+    ]
+}

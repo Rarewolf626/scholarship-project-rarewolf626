@@ -1,0 +1,1320 @@
+{
+    "search_metadata": {
+        "id": "643db827224db1217c14e94a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0ca0cbdf7ed76405/643db827224db1217c14e94a.json",
+        "created_at": "2023-04-17 21:20:39 UTC",
+        "processed_at": "2023-04-17 21:20:39 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=data+scientist&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/0ca0cbdf7ed76405/643db827224db1217c14e94a.html",
+        "total_time_taken": 1.76
+    },
+    "search_parameters": {
+        "q": "data scientist",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "Bioinformatics Data Scientist",
+            "company_name": "LandOLakes",
+            "location": "  Arden Hills, MN   ",
+            "via": "via Land O Lakes Careers - Land O'Lakes Inc.",
+            "description": "Join Land O\u2019Lakes, Inc., and help us bring food from farmer to fork. We\u2019re a global, Fortune 250 company and a farmer-owned cooperative. While benefits can vary by location and role, most offer:\n\n\u2022 Medical, dental, vision, life and AD&D; short- and long-term disability insurance...\n\u2022 Retirement savings plan and profit-sharing plan, both with company match\n\u2022 Paid time off and paid holidays, plus paid benefits for maternity and parental leaves\n\nBioinformatics Data Scientist\n\nBioinformatics Data Scientist\n\nAs a Bioinformatics Data Scientist, you will work closely with a multi-functional team made up of animal science experts and researchers who collaborate and develop innovative products by using cutting-edge bioinformatics, machine learning, and microbiome engineering technology.\n\nLocation: This role is remote (virtual) and can work anywhere in the United States.\n\nROLES AND RESPONSIBILITIES:\n\u2022 Own and drive bioinformatics roadmap, vision, and strategy for the Purina\n\u2022 Extensive analysis of microbiome data\n\u2022 Contribute to the development of the existing bioinformatics pipeline for managing, and statistical analysis of microbiome data\n\u2022 Design, develop and implement data pipelines, AI/ML algorithms to provide end-to-end bioinformatics solutions for researchers\n\u2022 Develop innovative and advanced statistical models to interpret diverse microbiome studies\n\u2022 Collaborate with scientists doing microbiome research in diverse areas of animal science\n\u2022 Stay abreast with advances in the bioinformatics field related to microbiome and other -omics analysis\n\nSKILLS AND EXPERIENCE:\n\u2022 Ph.D. in Bioinformatics, Computational Biology or related scientific field\n\u2022 Fluent in Python, R, and Perl or similar languages\n\u2022 Extensive understanding of NGS data analysis including RNA-seq and GWAS\n\u2022 Experience analyzing microbiome and -omics data\n\u2022 Good understanding of bioinformatics packages/platforms such as Qiime2, Pycrust and Mothur\n\u2022 Experience with genomic pipeline development\n\u2022 Strong statistical background\n\u2022 Familiar with cloud computing\n\u2022 Ability to work independently and collaboratively\n\nSalary $99,520-$149,280\n\nLand O'Lakes, Inc. is an Equal Opportunity Employer (EOE) M/F/Vets/Disabled. The company maintains a drug-free workforce, including pre- and post-employment substance abuse testing pursuant to a Drug and Alcohol Policy.\n\nNeither Land O\u2019Lakes, nor its search firms, will ever contact you and ask for confidential information over the phone or in email. If you receive a call or email like this, please do not provide the information being requested.\n\nLand O'Lakes endeavors to make Landolakesinc.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact the HR Solution Center at 844-LOL-HR4U (844-565-4748) M-F 8:00am-4:30pm CT",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ph.D. in Bioinformatics, Computational Biology or related scientific field",
+                        "Fluent in Python, R, and Perl or similar languages",
+                        "Extensive understanding of NGS data analysis including RNA-seq and GWAS",
+                        "Experience analyzing microbiome and -omics data",
+                        "Good understanding of bioinformatics packages/platforms such as Qiime2, Pycrust and Mothur",
+                        "Experience with genomic pipeline development",
+                        "Strong statistical background",
+                        "Familiar with cloud computing",
+                        "Ability to work independently and collaboratively"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Own and drive bioinformatics roadmap, vision, and strategy for the Purina",
+                        "Extensive analysis of microbiome data",
+                        "Contribute to the development of the existing bioinformatics pipeline for managing, and statistical analysis of microbiome data",
+                        "Design, develop and implement data pipelines, AI/ML algorithms to provide end-to-end bioinformatics solutions for researchers",
+                        "Develop innovative and advanced statistical models to interpret diverse microbiome studies",
+                        "Collaborate with scientists doing microbiome research in diverse areas of animal science",
+                        "Stay abreast with advances in the bioinformatics field related to microbiome and other -omics analysis"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Medical, dental, vision, life and AD&D; short- and long-term disability insurance",
+                        "Retirement savings plan and profit-sharing plan, both with company match",
+                        "Paid time off and paid holidays, plus paid benefits for maternity and parental leaves",
+                        "Salary $99,520-$149,280"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.landolakesinc.com/",
+                    "text": "landolakesinc.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=LandOLakes&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAII0gk",
+                    "text": "See web results for LandOLakes"
+                }
+            ],
+            "extensions": [
+                "21 hours ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 hours ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCaW9pbmZvcm1hdGljcyBEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoieTBqM21MS1psU2tBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VVNDFVM0JJU25kNlUxWXpWSEoxYW5OUFIxQlRUbHBMUmxBeVNIWkRaRlJUTUdjelVrZHViRTF5TTBsRFNHWllhazVmTm1jMWVWRkVjemh3TlVrNFNGZHdORFpyU3pRNWVITkxla1p3V21WcWFWRmZjRzFCTTJOMGRtZHhjVWhYZDFwRlF6WkJUV2xmUTIxV2JqQlZlVWg0ZVZKVGJXTXRPVVZ3ZUdkVlNTMVZXWEJTU1ZNMlQyOUtUVkE0T0RRek4zZDBSSEUwTlhKaWNtWmZlR2g1UVhCU1ozVnNTM05yZVZsQ1ZGWjVTa2xzUkZGd2VqZGlPSFJqWkd0cU5qY3djbWx2Y1ROTEVoZExUR2M1V2twUFVrNWtXR3cxVG05UWQzVmhUaTFCTkJvaVFVOHRNSEpzTmxwclZWTTVYM0JsY205eGRFa3hhR0V0TlRCaE1tSlRWalJGWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIExhbmQgTyBMYWtlcyBDYXJlZXJzIC0gTGFuZCBPJ0xha2VzIEluYy4iLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmxhbmRvbGFrZXNpbmMuY29tL3VzL2VuL2pvYi9SLTI2NTc4L0Jpb2luZm9ybWF0aWNzLURhdGEtU2NpZW50aXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist",
+            "company_name": "Global IDEAS, Michigan State University",
+            "location": "  United States   ",
+            "via": "via Devex",
+            "description": "Michigan State University Global IDEAS of International Studies and Programs supports international engagement under the MSU strategic plan, communicates key data to university leadership and the public, and acts as a campus wide analytical resource. Global IDEAS values individual and group differences and encourage applicants who will contribute to a culture of inclusion on campus.\n\nGlobal IDEAS... manages MSU\u2019s International Data Portal. This portal currently provides visualizations of or MSU\u2019s Externally Funded International Projects, International Student Enrollment, Education Abroad, International Agreements Data and International Research Collaboration. The process used to display this data currently uses a laborious and incomplete method to access and display the data. Recent conversations with the data managers at MSU have shown a path forward that will allow for direct access and visualization of the data. This access will also allow the construction of personalized dashboards in Tableau for data analysis and display. In addition, there are many ways that MSU\u2019s international work can be analyzed and presented to decision-makers for more complete and thorough use of the data. Global IDEAS seeks a Data Scientist to lead this work and deepen and broaden the collaborations with decision-makers and other Data Scientists across MSU to provide timely analysis and insights.\n\nGlobal IDEAS seeks a Data Scientist who is curious, creative, and can both see the big picture and work with attention to detail. The successful candidate will have strong interpersonal and communication skills to convey findings to a variety of audiences and positively influence university leadership. The Data Scientist will need to articulate complex issues to non-technical audience clearly and effectively. Daily activities may include development of data representations and visualizations, advising on predictive models and creating easy to understand reports and dashboards.\n\nPrimary responsibilities include:\n\u2022 Analysis and decision support for university international initiatives and projects;\n\u2022 Consult with units or groups working through specialized data needs and analytics, working as a resource from the beginning to end of the project;\n\u2022 Analyze, interpret, summarize, and present data and findings in a clear, comprehensive, and effective manner to all levels of the university community;\n\u2022 Liaise with ISP Directors and leadership to determine data and analytic needs and provide solutions and provide targeted training of tools and platforms when necessary;\n\u2022 Represent ISP on university wide committees;\n\u2022 Keep apprised of trends and conversations about higher education;\n\u2022 Conduct internal and external benchmarking analysis;\n\u2022 Organize and prioritize a variety of projects in a timely manner, manage own work and priorities;\n\u2022 Builds custom SQL to meet reporting requirements and ISP International Data Portal;\n\u2022 Performs query tuning and root cause analysis to optimize performance and fix errors in existing database objects, ensure the quality of the ISP International Data Portal; works with ISP leaders to further enhance data access and presentation in International Data Portal;\n\u2022 Develop SQL to create database tables, views, and stored procedures to support data storage and report development;\n\u2022 Develop and design reports and dashboards in Tableau; and\n\u2022 Consult with and support ISP centers and units with strategic international data analyses and, on a priority basis, collaborate with other units on campus on evaluating and acquiring data tools and streamlining data reporting, use research findings to make recommendations to administrators to contribute to decision making for short- and long-term planning.\n\nEqual Employment Opportunity Statement\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, citizenship, age, disability or protected veteran status.\n\nRequired Degree\n\nDoctorate -statistics, computational science or related\n\nMinimum Requirements\n\u2022 Doctorate degree in statistics, computational science, a social science discipline, GIS, data analytics or related field including other degrees with a strong quantitative emphasis;\n\u2022 Five or more years of experience in statistical consulting, research, data mining, data science, data management and analysis; or an equivalent combination of education and experience;\n\u2022 Strong track record demonstrating success in collaborative research projects;\n\u2022 Excellent communication skills including: presenting, editing, and writing as well as accuracy and attention to detail required;\n\u2022 Three to five years of related experience in data analysis, SQL development, data warehousing and data visualization; and\n\u2022 Experience writing advanced SQL queries; expertise with Oracle PL/SQL, expertise with Tableau.\n\nDesired Qualifications\n\u2022 In depth knowledge of University administrative organization, policies, procedures, and practices for institutional research-oriented roles;\n\u2022 Ability to use data retrieval and manipulation, and expertise in statistical tools such as SAS, SQL, STATA, R, D3, Python, and data visualization tools such as Tableau;\n\u2022 Proven excellence in program management and project management;\n\u2022 Experience building and leading teams across a wide variety of domains;\n\u2022 Prior experience working in a university setting and with higher education related data (student, research, business support systems). An understanding of data warehouse technologies (Oracle preferred); familiarity with data integration processes using enterprise ETL tools (DataStage preferred) and the role of data stewardship;\n\u2022 Experience creating data flow diagrams and data dictionaries. The ability to model and analyze data in statistical tools (SPSS, R, SAS, Python, or similar) combined with experience integrating large datasets from a variety of sources. Experience with ETL tools (DataStage, Informatica);\n\u2022 Ability to use data retrieval and manipulation, and expertise in statistical tools such as SAS, SQL, STATA, R, D3, Python, and data visualization tools such as Tableau; and\n\u2022 Experience in development and design of reports and dashboards in Tableau and ability to work closely with clients to build custom dashboards and provide support for data analysis to support ISP centers and other units in developing and streamlining data reporting; use research findings to make recommendations to administrators to contribute to decision making for short- and long-term planning.\n\nRequired Application Materials\n\u2022 CV,\n\u2022 cover letter, and\n\u2022 sample of work\n\nRemote Work Statement\n\nMSU strives to provide a flexible work environment and this position has been designated as remote-friendly. Remote-friendly means some or all of the duties can be performed remotely as mutually agreed upon.\n\nWebsite\n\nhttps://globalideas.isp.msu.edu/\n\nDepartment Statement\n\nOur Mission\n\nGlobal Innovations in Development, Engagement, and Scholarship (Global IDEAS) catalyzes interdisciplinary thought, research, and action to solve global/grand challenges in an international development context. We facilitate communities of practice; collaborate and engage with external partners and donors; enhance opportunities for faculty and staff to conduct research, education, and engagement; and provide proposal development and project management to support MSU\u2019s international objectives.\n\nOur Vision\n\nMSU faculty and staff:\n\u2022 are sought after by partners around the world for collaborative endeavors;\n\u2022 have increased access to funding sources to support their engagement in international development projects;\n\u2022 develop competitive and high-quality proposals for impactful projects; and\n\u2022 are recognized as thought leaders in the international development space and help shape dialogue",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Doctorate degree in statistics, computational science, a social science discipline, GIS, data analytics or related field including other degrees with a strong quantitative emphasis;",
+                        "Five or more years of experience in statistical consulting, research, data mining, data science, data management and analysis; or an equivalent combination of education and experience;",
+                        "Strong track record demonstrating success in collaborative research projects;",
+                        "Excellent communication skills including: presenting, editing, and writing as well as accuracy and attention to detail required;",
+                        "Three to five years of related experience in data analysis, SQL development, data warehousing and data visualization; and",
+                        "Experience writing advanced SQL queries; expertise with Oracle PL/SQL, expertise with Tableau",
+                        "The ability to model and analyze data in statistical tools (SPSS, R, SAS, Python, or similar) combined with experience integrating large datasets from a variety of sources",
+                        "Experience with ETL tools (DataStage, Informatica);",
+                        "Ability to use data retrieval and manipulation, and expertise in statistical tools such as SAS, SQL, STATA, R, D3, Python, and data visualization tools such as Tableau; and",
+                        "Experience in development and design of reports and dashboards in Tableau and ability to work closely with clients to build custom dashboards and provide support for data analysis to support ISP centers and other units in developing and streamlining data reporting; use research findings to make recommendations to administrators to contribute to decision making for short- and long-term planning"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This portal currently provides visualizations of or MSU\u2019s Externally Funded International Projects, International Student Enrollment, Education Abroad, International Agreements Data and International Research Collaboration",
+                        "This access will also allow the construction of personalized dashboards in Tableau for data analysis and display",
+                        "Global IDEAS seeks a Data Scientist who is curious, creative, and can both see the big picture and work with attention to detail",
+                        "The Data Scientist will need to articulate complex issues to non-technical audience clearly and effectively",
+                        "Daily activities may include development of data representations and visualizations, advising on predictive models and creating easy to understand reports and dashboards",
+                        "Analysis and decision support for university international initiatives and projects;",
+                        "Consult with units or groups working through specialized data needs and analytics, working as a resource from the beginning to end of the project;",
+                        "Analyze, interpret, summarize, and present data and findings in a clear, comprehensive, and effective manner to all levels of the university community;",
+                        "Liaise with ISP Directors and leadership to determine data and analytic needs and provide solutions and provide targeted training of tools and platforms when necessary;",
+                        "Represent ISP on university wide committees;",
+                        "Keep apprised of trends and conversations about higher education;",
+                        "Conduct internal and external benchmarking analysis;",
+                        "Organize and prioritize a variety of projects in a timely manner, manage own work and priorities;",
+                        "Builds custom SQL to meet reporting requirements and ISP International Data Portal;",
+                        "Performs query tuning and root cause analysis to optimize performance and fix errors in existing database objects, ensure the quality of the ISP International Data Portal; works with ISP leaders to further enhance data access and presentation in International Data Portal;",
+                        "Develop SQL to create database tables, views, and stored procedures to support data storage and report development;",
+                        "Develop and design reports and dashboards in Tableau; and",
+                        "Consult with and support ISP centers and units with strategic international data analyses and, on a priority basis, collaborate with other units on campus on evaluating and acquiring data tools and streamlining data reporting, use research findings to make recommendations to administrators to contribute to decision making for short- and long-term planning",
+                        "have increased access to funding sources to support their engagement in international development projects;",
+                        "develop competitive and high-quality proposals for impactful projects; and",
+                        "are recognized as thought leaders in the international development space and help shape dialogue"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Global+IDEAS,+Michigan+State+University&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAIIlwo",
+                    "text": "See web results for Global IDEAS, Michigan State University"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoidEV5LVR3cUh0aXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1UzSk5jbmRaUms5bWVrWkRPWE5UYldOU01FSkhZVU5GTjFSTFRXVk9UbWx1YW5SUFVsRnpZMUZqVWxwWWEwVTJZWFZ0TjJodllrRlBkV0YwY1VWdU9WUlNlVnBHTFRKS2FuSjZkMDlCZG5neVNYTmtlRkpSV0hNNWFWTmFPRUZVT1RKWWQwUkdOR296YlRodGRXVldVbm90UzBsTllXdENkREJPTkVZeWRUbG1aaTF3ZEhoNGFrSkdlV3RSYm1Oa2FXOUdSbmhQUm5GTmRVUlJZVGQxY0MxcE9UWnVjemh2YXkxR1ZreFllbFpaRWhkTFRHYzVXa3BQVWs1a1dHdzFUbTlRZDNWaFRpMUJOQm9pUVU4dE1ISnNORWMzU0RFNE5HaG1NMWt0VTI1TFlsZElkR1kzUlVoR1lWVkdadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRGV2ZXgiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZGV2ZXguY29tL2pvYnMvZGF0YS1zY2llbnRpc3QtMTEwNzEwNT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senor Data Scientist",
+            "company_name": "Blue Cross Blue Shield of Minnesota",
+            "location": "  Eagan, MN   ",
+            "via": "via Blue Cross Blue Shield Of Minnesota",
+            "description": "About Blue Cross\n\nBlue Cross and Blue Shield of Minnesota is one of the most recognized and trusted health care brands in the world with 2.5 million members. We\u2019re committed to reinventing health care to improve health for our members and the community. We hope you'll join us...\n\nHow is this Role Important to Our Work?\n\nThis position works across the Enterprise to evaluate programs, identify areas of opportunities to build process efficiencies, innovate and contribute using sophisticated analytics and data science. The position will handle sophisticated data and information to provide meaningful results, which influence strategic decision-making at Blue Cross. Responsibilities include understanding sophisticated business requirements, data management and stewardship for a variety of sophisticated data sources, data analysis and the application of sophisticated analytical techniques, and building predictive models to bring value for the organization and evaluate health programs' outcomes.\n\nA Day in the Life:\n\u2022 Take lead on evaluation and data science projects to craft and implement appropriate methods, models and experiments from end to end, including data ingestion and preparation, analysis, modeling, feature engineering, model deployment, performance tracking and documentation.\n\u2022 Work with business partners to convert ambiguous business problems in clear evaluation and/or data science/ML specifications. Use contextual eye for business to convert analysis findings and model predictions/results into impactful insights and provide practical mentorship on risks and limitations.\n\u2022 Collaborate with clinical, population health and sustainability business partners to identify and support key performance indicator development, monitoring and reporting for program evaluation.\n\u2022 Lead-by-example junior data scientists and analysts around program evaluation and mature data science practices e.g., enlightening logic models, readable code, detailed documentation, comprehensive experimentation.\n\u2022 Drive conversations with product managers, data engineers, and subject matter authorities to ship new models, algorithms and improvements continuously and collaboratively into production.\n\u2022 Write narrative documents for model specification and performance analysis to communicate findings and recommendations to teammates, collaborators and executive leadership.\n\nNice to Have:\n\u2022 Bachelor's degree.\n\u2022 Experience with health care data\n\u2022 Experience with SAS, SQL, R, Python\n\u2022 Experience with public health program evaluation\n\u2022 Experience with AWS tools\n\u2022 Experience with version control (for example Git Version Control system)\n\nRequired Skills & Experience:\n\u2022 5+ years of related professional experience. All proven experience including work, education, transferable skills, and military experience will be considered.\n\u2022 Hands-on experience in analytics and data science (specific areas of interest include classification/regression, unsupervised learning, time-series/sequence models, NLP, explainability methods, deep learning).\n\u2022 Solid proven proficiency in data science tools such as Python, R, Spark, SQL.\n\u2022 Experience implementing predictive algorithms and associated statistical analysis/inference in a data science/ML workflow manipulating both structured and unstructured data.\n\u2022 Experience crafting and presenting highly technical results to a diverse audience.\n\u2022 Comfortable working as part of a team and taking the lead.\n\nMake A Difference\n\nBlue Cross is an Equal Opportunity and Affirmative Action employer that values diversity. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on race, color, creed, religion, sex, national origin, genetic information, marital status, status with regard to public assistance, disability, age, veteran status, sexual orientation, gender identity, gender expression, or any other legally protected characteristic.\n\nReasonable Accommodation for Job Seekers with a Disability: If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to talent.acquisition@bluecrossmn.com.\n\nAll roles require a high school diploma (or equivalency) and legal authorization to work in the U.S.\n\nBlue Cross\u00ae and Blue Shield\u00ae of Minnesota and Blue Plus\u00ae are nonprofit independent licensees of the Blue Cross and Blue Shield Association",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree",
+                        "Experience with health care data",
+                        "Experience with SAS, SQL, R, Python",
+                        "Experience with public health program evaluation",
+                        "Experience with AWS tools",
+                        "Experience with version control (for example Git Version Control system)",
+                        "5+ years of related professional experience",
+                        "All proven experience including work, education, transferable skills, and military experience will be considered",
+                        "Hands-on experience in analytics and data science (specific areas of interest include classification/regression, unsupervised learning, time-series/sequence models, NLP, explainability methods, deep learning)",
+                        "Solid proven proficiency in data science tools such as Python, R, Spark, SQL",
+                        "Experience implementing predictive algorithms and associated statistical analysis/inference in a data science/ML workflow manipulating both structured and unstructured data",
+                        "Experience crafting and presenting highly technical results to a diverse audience",
+                        "Comfortable working as part of a team and taking the lead",
+                        "All roles require a high school diploma (or equivalency) and legal authorization to work in the U.S"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The position will handle sophisticated data and information to provide meaningful results, which influence strategic decision-making at Blue Cross",
+                        "Responsibilities include understanding sophisticated business requirements, data management and stewardship for a variety of sophisticated data sources, data analysis and the application of sophisticated analytical techniques, and building predictive models to bring value for the organization and evaluate health programs' outcomes",
+                        "Take lead on evaluation and data science projects to craft and implement appropriate methods, models and experiments from end to end, including data ingestion and preparation, analysis, modeling, feature engineering, model deployment, performance tracking and documentation",
+                        "Work with business partners to convert ambiguous business problems in clear evaluation and/or data science/ML specifications",
+                        "Use contextual eye for business to convert analysis findings and model predictions/results into impactful insights and provide practical mentorship on risks and limitations",
+                        "Collaborate with clinical, population health and sustainability business partners to identify and support key performance indicator development, monitoring and reporting for program evaluation",
+                        "Lead-by-example junior data scientists and analysts around program evaluation and mature data science practices e.g., enlightening logic models, readable code, detailed documentation, comprehensive experimentation",
+                        "Drive conversations with product managers, data engineers, and subject matter authorities to ship new models, algorithms and improvements continuously and collaboratively into production",
+                        "Write narrative documents for model specification and performance analysis to communicate findings and recommendations to teammates, collaborators and executive leadership"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.bluecrossmn.com/",
+                    "text": "bluecrossmn.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Blue+Cross+Blue+Shield+of+Minnesota&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAII2wo",
+                    "text": "See web results for Blue Cross Blue Shield of Minnesota"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5vciBEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiVi00MUlQamFBUElBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VrWnlRV2h2Vm1WQmNsaDZUSE0zTmxOWlRsSTVZVEIzWDBkclRIZEZhMmd5TFdwT1VWaFJVRmg2TlUxeWJpMUtURlZQU0c1b1kwUnVkbWh3VUdrNGJ6aEVVRXBvZDBGeFJqUk9jVTFqZEV0MVJXVklZbkkwYVZwVlVVaFNMVFJpTWpkdmJrNW1OMFZsZUd0SlFXSXliRWR5VURselNHMWZlWEZhZW14cmQyeHJkSGQ2VURkM1YyVTFjVEZoWW1SamJWY3pOMEp2WlRkVWJVVnVPSEJMUVRkSVQyaHJUekZaZUUxdFRsZFBiRTB6VG1OdllVRkZSRTVpV2xKNmRYZzJiVFZhVDE5NVVIQmZPRE5WTlV0SE5qUlpjbE5rU2toM1FXUlNVUklYUzB4bk9WcEtUMUpPWkZoc05VNXZVSGQxWVU0dFFUUWFJa0ZQTFRCeWJEZG1lbE0xTkhCeWNsRk9MV0ZUY1Zsa1ZIWXlia2hPVkhkd09VRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQmx1ZSBDcm9zcyBCbHVlIFNoaWVsZCBPZiBNaW5uZXNvdGEiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmJsdWVjcm9zc21uLmNvbS9qb2IvZWFnYW4vc2Vub3ItZGF0YS1zY2llbnRpc3QvNDIzNTQvNDc0NTE2ODYwNjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Scientist II, Associate",
+            "company_name": "AbbVie",
+            "location": "  North Chicago, IL   ",
+            "via": "via BioSpace",
+            "description": "AbbVie\u2019s Operations Business Insights (OBI) group is continuously innovating to transform AbbVie operations organization to enable the use of data and analytics to drive world-class innovation, performance, and agility across many functional areas.\n\nWe are looking for an Associate Data Scientist with entry-level experience in Software Engineering and Data Engineering who aspire to further advance... in Data Science skills.\n\nThe Associate Data Scientist will assist in bringing machine learning solutions to life by translating business requirements into deployable applications, using complex SQL queries for data query and writing efficient R/Python codes.\n\nResponsibilities:\n\u2022 Assist the team with the analysis of business requirements and developing solution recommendations to create positive impact on the team\n\u2022 Apply software engineering concepts to production-grade code development and machine learning application deployment\n\u2022 Apply data engineering concepts to aggregate disparate data sources into standardized formats such as STAR schema, normalized and de-normalized forms, for analytical usage\n\u2022 Utilize analytical, statistical, and programming skills to collect, clean, analyze, and interpret large data sets and apply principles of data science to data analysis and model development\n\u2022 In collaboration with more senior team members, generate reports with findings and help to communicate these effectively via written, oral, and visual dashboard/presentation methods\n\nQUALIFICATIONS:\n\u2022 Bachelor\u2019s Degree with 1+ year of experience or Master\u2019s Degree in Statistics, Computer Science, or a related quantitative field\n\u2022 Self-starter and should be able to align, adapt and manage to changing requirements.\n\u2022 Comfortable working in a fast paced, highly collaborative, dynamic environment\n\nRequired Skills (Note: professional experience preferred for all the below):\n\u2022 Academic experience (at minimum) with a variety statistical languages and packages, such as R, Python, etc. Expectation is proficiency in at least one of Python or R\n\u2022 Academic experience (at minimum) with applying software engineering concepts, such as Operating System principles, Design Patterns, and Data Structures for production-grade code development\n\u2022 Experience with data cleaning and transformation techniques, such as consolidation, normalization, standardization, imputation, aggregation, and performing exploratory analysis prior to statistical analysis or machine learning\n\u2022 Academic experience (at minimum) working with modern relational databases and writing complex SQL queries\n\u2022 Academic experience (at minimum) using visualization techniques for presenting data and analysis as dashboard in tools such as R/Shiny, ggplot, Tableau, Qlik and Custom web-based solutions\n\nAdditional useful Experience:\n\u2022 Professional Experiences in Software Engineering, Data Engineering, Machine Learning\n\u2022 Knowledge of Agile Project management processes\n\u2022 Working knowledge of Data Science tools like Dataiku, AWS SageMaker etc.\n\nAbbVie is an equal opportunity employer including disability/vets. It is AbbVie\u2019s policy to employ qualified persons of the greatest ability without discrimination against any employee or applicant for employment because of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information, gender identity or expression, sexual orientation, marital status, status as a disabled veteran, recently separated veteran, Armed Forces service medal veteran or active duty wartime or campaign badge veteran or a person\u2019s relationship or association with a protected veteran, including spouses and other family members, or any other protected group status. We will take affirmative action to employ and advance in employment qualified minorities, women, individuals with a disability, disabled veterans, recently separated veterans, Armed Forces service medal veterans or active-duty wartime or campaign badge veterans. The Affirmative Action Plan is available for viewing in the Human Resources office during regular business hours",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s Degree with 1+ year of experience or Master\u2019s Degree in Statistics, Computer Science, or a related quantitative field",
+                        "Self-starter and should be able to align, adapt and manage to changing requirements",
+                        "Comfortable working in a fast paced, highly collaborative, dynamic environment",
+                        "Expectation is proficiency in at least one of Python or R",
+                        "Academic experience (at minimum) with applying software engineering concepts, such as Operating System principles, Design Patterns, and Data Structures for production-grade code development",
+                        "Experience with data cleaning and transformation techniques, such as consolidation, normalization, standardization, imputation, aggregation, and performing exploratory analysis prior to statistical analysis or machine learning",
+                        "Academic experience (at minimum) working with modern relational databases and writing complex SQL queries",
+                        "Academic experience (at minimum) using visualization techniques for presenting data and analysis as dashboard in tools such as R/Shiny, ggplot, Tableau, Qlik and Custom web-based solutions",
+                        "Professional Experiences in Software Engineering, Data Engineering, Machine Learning",
+                        "Knowledge of Agile Project management processes",
+                        "Working knowledge of Data Science tools like Dataiku, AWS SageMaker etc"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Associate Data Scientist will assist in bringing machine learning solutions to life by translating business requirements into deployable applications, using complex SQL queries for data query and writing efficient R/Python codes",
+                        "Assist the team with the analysis of business requirements and developing solution recommendations to create positive impact on the team",
+                        "Apply software engineering concepts to production-grade code development and machine learning application deployment",
+                        "Apply data engineering concepts to aggregate disparate data sources into standardized formats such as STAR schema, normalized and de-normalized forms, for analytical usage",
+                        "Utilize analytical, statistical, and programming skills to collect, clean, analyze, and interpret large data sets and apply principles of data science to data analysis and model development",
+                        "In collaboration with more senior team members, generate reports with findings and help to communicate these effectively via written, oral, and visual dashboard/presentation methods"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.abbvie.com/",
+                    "text": "abbvie.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=AbbVie&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAIIngs",
+                    "text": "See web results for AbbVie"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBJSSwgQXNzb2NpYXRlIiwiaHRpZG9jaWQiOiJlbzNnZHhLZ19oSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVVZCVExXVlVaVmxxZFU1RFpHMURSMlJLVUhKUlJXbzNiMUl5WTFBNVlqRmFaM05mYW5WZk1EaHBWMjl4V25wR2VHeG9aSGRFVURObmJUUTRhM0ZZVDJWa1EwYzBiMmxXT0hjNFRISmpkR3hoUTFoRmJsUlZhSEZ1Y0Mxa1lWTXphelJIYzFGVFdWUkhabUV6TURGWVprdG5UMDF0ZVZZeWVGVjFjbWh6TW05d05sUndlakJtTTBaa2RXczJjM2xpVmxsblNXOTFPV3AxZVVWTlNYRktNazFtU1RsR1RWZ3hRbHB2ZVVsbGRISTFVa2xqY1dreVVFUkhSRWgwVkZnMFptZFNUVTFtRWhkTFRHYzVXa3BQVWs1a1dHdzFUbTlRZDNWaFRpMUJOQm9pUVU4dE1ISnNOR1JRWDJJMGIxQnVSR3hGY0VacFZEVjNiRFJVY1Zka01YTk9kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQmlvU3BhY2UiLCJsaW5rIjoiaHR0cHM6Ly93d3cuYmlvc3BhY2UuY29tL2pvYi8yNzMzODA3L2RhdGEtc2NpZW50aXN0LWlpLWFzc29jaWF0ZS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior Data Scientist",
+            "company_name": "Sam's Club",
+            "location": "  Bentonville, AR   ",
+            "via": "via Walmart Careers",
+            "description": "Position Summary...\n\nWhat you'll do...\n\nWe seek a highly motivated and experienced Supply Chain Data Scientist to join our team. The successful candidate will be responsible for developing data-driven solutions to optimize our supply chain operations, increase efficiency, and reduce costs. The candidate should have a strong background in supply chain modeling, decision support tool development, written/spoken communication, and e-commerce/retail industry experience.\n\nAbout Team: Sam's Club Supply Chain Data Science\n\nWhat you'll do:\n\nKey Responsibilities:\n\u2022 Develop and implement predictive models to optimize retail supply chain operations and reduce costs.\n\u2022 Analyze supply chain data and identify areas for improvement.\n\u2022 Develop optimization models for inventory management, procurement, and logistics.\n\u2022 Collaborate with cross-functional teams to develop supply chain strategies and drive operational excellence.\n\u2022 Provide decision support to the supply chain management team and senior leadership.\n\u2022 Develop and maintain dashboards and reports to track KPIs and provide insights to management.\n\u2022 Monitor and analyze industry trends and best practices to identify new opportunities for improvement.\n\u2022 Develop compelling business cases for capital projects, including construction of new fulfillment and distribution centers.\n\nWhat you'll bring:\n\nQualifications:\n\u2022 Master's degree in a STEM field (Statistics, Mathematics, Analytics, Engineering, or related field).\n\u2022 6+ years of experience in developing quantitative models in a supply chain context.\n\u2022 4+ years of E-commerce or retail industry experience.\n\u2022 Strong programming skills in Python, R, or other languages for data manipulation, statistical modeling, and machine learning.\n\u2022 Strong problem-solving skills, including the ability to analyze complex data sets, identify patterns and develop solutions.\n\u2022 Excellent written and spoken communication skills and ability to present complex data to non-technical stakeholders.\n\u2022 Experience working with big data tools and distributed computing platforms such as Hadoop, Spark, or AWS EMR.\n\nIf you are passionate about retail, supply chain optimization, and enjoy working in a fast-paced, data-driven environment, we would like to hear from you.\n\nAbout Walmart General/Not Function Specific\nSam Walton opened the first Sam's Club in 1983 to meet a growing need among customers who wanted to buy merchandise in bulk. Since then, Sam's Club has grown rapidly, opening more than 600 clubs in the U.S. and 100 clubs internationally. By offering affordable, wholesale merchandise to members, Sam's Club helps make saving simple for families and small business owners. Sam's Club employs about 110,000 associates in the U.S. The average club is 134,000 square feet and offers bulk groceries and general merchandise. Most clubs also have specialty services, such as a pharmacy, an optical department, a photo center, or a tire and battery center.\n\n\u200b\u200b\u200b\u200bFuture Ways of Working:\n\nOur company's success can be attributed to our employees. While technology has allowed us to be effective while working remotely, there is no substitute for being in the office together; it helps to shape our culture, collaborate, innovate, build relationships, and move more quickly. We strive to provide flexibility in order to promote a healthy work-life balance but recognize that in-person interactions are important to our culture and shared success. We'll meet in person on a regular and purposeful basis.\n\nBenefits:\nBeyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.\n\nEqual Opportunity Employer:\nSam\u2019s Club is an Equal Opportunity Employer- By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing diversity- unique styles, experiences, identities, abilities, ideas and opinions- while being inclusive of all people.\n\nThe above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\n\nAt Sam's Club, we offer competitive pay as well as performance-based incentive awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices .\n\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms. For information about benefits and eligibility, see One.Walmart at https://bit.ly/3iOOb1J .\n\nThe annual salary range for this position is $112,000.00-$192,000.00\n\nAdditional compensation includes annual or quarterly performance incentives.\n\nAdditional compensation for certain positions may also include:\n\n- Regional Pay Zone (RPZ) (based on location)\n\n- Stock equity incentives\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1- Bachelor\u2019s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master\u2019s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, Master\u2019s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)\n\nPrimary Location...\n2101 SE SIMPLE SAVINGS DR., BENTONVILLE, AR 72716-0000, United States of America",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "6+ years of experience in developing quantitative models in a supply chain context",
+                        "4+ years of E-commerce or retail industry experience",
+                        "Strong programming skills in Python, R, or other languages for data manipulation, statistical modeling, and machine learning",
+                        "Strong problem-solving skills, including the ability to analyze complex data sets, identify patterns and develop solutions",
+                        "Excellent written and spoken communication skills and ability to present complex data to non-technical stakeholders",
+                        "Experience working with big data tools and distributed computing platforms such as Hadoop, Spark, or AWS EMR",
+                        "Option 1- Bachelor\u2019s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field",
+                        "Data science, machine learning, optimization models, Master\u2019s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop and implement predictive models to optimize retail supply chain operations and reduce costs",
+                        "Analyze supply chain data and identify areas for improvement",
+                        "Develop optimization models for inventory management, procurement, and logistics",
+                        "Collaborate with cross-functional teams to develop supply chain strategies and drive operational excellence",
+                        "Provide decision support to the supply chain management team and senior leadership",
+                        "Develop and maintain dashboards and reports to track KPIs and provide insights to management",
+                        "Monitor and analyze industry trends and best practices to identify new opportunities for improvement",
+                        "Develop compelling business cases for capital projects, including construction of new fulfillment and distribution centers"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Beyond our great compensation package, you can receive incentive awards for your performance",
+                        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+                        "Health benefits include medical, vision and dental coverage",
+                        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+                        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+                        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+                        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+                        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+                        "Tuition, books, and fees are completely paid for by Walmart",
+                        "The annual salary range for this position is $112,000.00-$192,000.00",
+                        "Additional compensation includes annual or quarterly performance incentives",
+                        "Additional compensation for certain positions may also include:",
+                        "Regional Pay Zone (RPZ) (based on location)",
+                        "Stock equity incentives"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.samsclub.com/",
+                    "text": "samsclub.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Sam%27s+Club&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAII5As",
+                    "text": "See web results for Sam's Club"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IjJ3NFJDelAyT1QwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VMlZtY0VvdGFERkJUbXRuT0VFNGNYWmhNVGh1VGpSSGRteFlha0pCVlZsWmVEQnJZMFpTZWtvMVptNU1iMGMyYm1wMWIyaEpRMU10TXpWRGNXNVNURkZIWTA1SWJIQlhNRWxVUjBONFJIVTVjWFpNY1ZGQ05pMWtkVWRKYWxkYVlteFdhRWhhU21ZMlJrdHBNMFp5VnpScVpHVkRTRUpyUmpNdFdrMDFjV2xWTWs5cE16Wm9SbVJhWTJSWWJYWnJkR2RtYzFkcWJUUk5TVEZMVGxrNWRXeHZObTgzUWxNd2FFb3hZalZMVVhwWkVoZExUR2M1V2twUFVrNWtXR3cxVG05UWQzVmhUaTFCTkJvaVFVOHRNSEpzTjBwTmFFZE1TVmhrV21FNE5pMXJMV2h3WVcxQ2F6SlpialJmZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFdhbG1hcnQgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMud2FsbWFydC5jb20vdXMvam9icy9XRDEzNjc2MTMtc2VuaW9yLWRhdGEtc2NpZW50aXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist II, Associate",
+            "company_name": "ABBVIE",
+            "location": "  Illinois   ",
+            "via": "via AbbVie Careers",
+            "description": "AbbVie\u2019s Operations Business Insights (OBI) group is continuously innovating to transform AbbVie operations organization to enable the use of data and analytics to drive world-class innovation, performance, and agility across many functional areas.\n\nWe are looking for an Associate Data Scientist with entry-level experience in Software Engineering and Data Engineering who aspire to further advance... in Data Science skills.\n\nThe Associate Data Scientist will assist in bringing machine learning solutions to life by translating business requirements into deployable applications, using complex SQL queries for data query and writing efficient R/Python codes.\n\nResponsibilities:\n\u2022 Assist the team with the analysis of business requirements and developing solution recommendations to create positive impact on the team\n\u2022 Apply software engineering concepts to production-grade code development and machine learning application deployment\n\u2022 Apply data engineering concepts to aggregate disparate data sources into standardized formats such as STAR schema, normalized and de-normalized forms, for analytical usage\n\u2022 Utilize analytical, statistical, and programming skills to collect, clean, analyze, and interpret large data sets and apply principles of data science to data analysis and model development\n\u2022 In collaboration with more senior team members, generate reports with findings and help to communicate these effectively via written, oral, and visual dashboard/presentation methods\n\nQUALIFICATIONS:\n\u2022 Bachelor\u2019s Degree with 1+ year of experience or Master\u2019s Degree in Statistics, Computer Science, or a related quantitative field\n\u2022 Self-starter and should be able to align, adapt and manage to changing requirements.\n\u2022 Comfortable working in a fast paced, highly collaborative, dynamic environment\n\nRequired Skills (Note: professional experience preferred for all the below):\n\u2022 Academic experience (at minimum) with a variety statistical languages and packages, such as R, Python, etc. Expectation is proficiency in at least one of Python or R\n\u2022 Academic experience (at minimum) with applying software engineering concepts, such as Operating System principles, Design Patterns, and Data Structures for production-grade code development\n\u2022 Experience with data cleaning and transformation techniques, such as consolidation, normalization, standardization, imputation, aggregation, and performing exploratory analysis prior to statistical analysis or machine learning\n\u2022 Academic experience (at minimum) working with modern relational databases and writing complex SQL queries\n\u2022 Academic experience (at minimum) using visualization techniques for presenting data and analysis as dashboard in tools such as R/Shiny, ggplot, Tableau, Qlik and Custom web-based solutions\n\nAdditional useful Experience:\n\u2022 Professional Experiences in Software Engineering, Data Engineering, Machine Learning\n\u2022 Knowledge of Agile Project management processes\n\u2022 Working knowledge of Data Science tools like Dataiku, AWS SageMaker etc.\n\nAbbVie is an equal opportunity employer including disability/vets. It is AbbVie\u2019s policy to employ qualified persons of the greatest ability without discrimination against any employee or applicant for employment because of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information, gender identity or expression, sexual orientation, marital status, status as a disabled veteran, recently separated veteran, Armed Forces service medal veteran or active duty wartime or campaign badge veteran or a person\u2019s relationship or association with a protected veteran, including spouses and other family members, or any other protected group status. We will take affirmative action to employ and advance in employment qualified minorities, women, individuals with a disability, disabled veterans, recently separated veterans, Armed Forces service medal veterans or active-duty wartime or campaign badge veterans. The Affirmative Action Plan is available for viewing in the Human Resources office during regular business hours",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s Degree with 1+ year of experience or Master\u2019s Degree in Statistics, Computer Science, or a related quantitative field",
+                        "Self-starter and should be able to align, adapt and manage to changing requirements",
+                        "Comfortable working in a fast paced, highly collaborative, dynamic environment",
+                        "Expectation is proficiency in at least one of Python or R",
+                        "Academic experience (at minimum) with applying software engineering concepts, such as Operating System principles, Design Patterns, and Data Structures for production-grade code development",
+                        "Experience with data cleaning and transformation techniques, such as consolidation, normalization, standardization, imputation, aggregation, and performing exploratory analysis prior to statistical analysis or machine learning",
+                        "Academic experience (at minimum) working with modern relational databases and writing complex SQL queries",
+                        "Academic experience (at minimum) using visualization techniques for presenting data and analysis as dashboard in tools such as R/Shiny, ggplot, Tableau, Qlik and Custom web-based solutions",
+                        "Professional Experiences in Software Engineering, Data Engineering, Machine Learning",
+                        "Knowledge of Agile Project management processes",
+                        "Working knowledge of Data Science tools like Dataiku, AWS SageMaker etc"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Associate Data Scientist will assist in bringing machine learning solutions to life by translating business requirements into deployable applications, using complex SQL queries for data query and writing efficient R/Python codes",
+                        "Assist the team with the analysis of business requirements and developing solution recommendations to create positive impact on the team",
+                        "Apply software engineering concepts to production-grade code development and machine learning application deployment",
+                        "Apply data engineering concepts to aggregate disparate data sources into standardized formats such as STAR schema, normalized and de-normalized forms, for analytical usage",
+                        "Utilize analytical, statistical, and programming skills to collect, clean, analyze, and interpret large data sets and apply principles of data science to data analysis and model development",
+                        "In collaboration with more senior team members, generate reports with findings and help to communicate these effectively via written, oral, and visual dashboard/presentation methods"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.abbvie.com/",
+                    "text": "abbvie.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=ABBVIE&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAIIqgw",
+                    "text": "See web results for ABBVIE"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBJSSwgQXNzb2NpYXRlIiwiaHRpZG9jaWQiOiJtd0ZvblNmUDFGRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVVY5ZmNTMWtZVnBzYzFsVGFtVm1ibVV3YmpWamJ6UnRXV0ZaUjFKaVpuTmpZWFJQUkVFM1QxZElhalExWmpnd1UwcHFUVmszU21Ob09VZFBkV1JPVWtoWlZqQmtjVlo0UWpNeVVsZE9aamRUY1VoMU5VZzBaMnRUWVZneFozVldRVmxwT0c1U1MyeDFiMHBpTFZsNFZHTnplbXRSZVZSQ1lsSTJYMGhwVTNsMFZXSnpSRkpCVERsR1pqaGZaMkp5V2pKMlJ6UldRbmhQUlhwWlJETmpSa0pPWVZOeVoxOURObGxrYTFWQ2RtOVZFaGRMVEdjNVdrcFBVazVrV0d3MVRtOVFkM1ZoVGkxQk5Cb2lRVTh0TUhKc05GOVNXazB5T0haRFlVRkxVMEZRVjNvMlFtYzJZbnBoVTNWalFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQWJiVmllIENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmFiYnZpZS5jb20vZW4vam9iL2xha2UtY291bnR5L2RhdGEtc2NpZW50aXN0LWlpLWFzc29jaWF0ZS8xNC80NzM5MzMxNzU2OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Scientist - Ads Measurement - Chicago, IL",
+            "company_name": "Walmart",
+            "location": "  Schererville, IN   ",
+            "via": "via ZipRecruiter",
+            "description": "In addition to base salary, Walmart total compensation may also include bonus incentives, stock options, and more.\n\nPosition Summary...\n\nWhat you'll do...\n\nwww.walmartconnect.com\n\nWalmart Connect is building industry defining omni-channel retail analytics capabilities that enable brand advertisers to invest strategically, confidently, and effectively. If you are motivated by complex, purposeful challenges; Walmart Connect has the stability and fit you are looking for.\n\nOur Measurements Data Scientist have years of professional experience in Advertising and Marketing Measurements determining the impact of our clients marketing efforts and ad campaigns. They lead communications and interactions with our clients and stakeholders. They present their findings and make recommendations that have a direct impact on our clients and stakeholders ROAS and ROI. They partner with cross-functional team to streamline data science solutions.\n\nLOCATION: Chicago, IL. This position requires a hybrid in-office schedule.\n\nYou'll sweep us off our feet if...\n\u2022 You're proficient in modeling algorithms and programming languages\n\u2022 Must have professional experience in Digital Advertising, Retail Media, and Ads measurement\n\u2022 You're comfortable influencing others, communicating clearly with clients and working with cross functional stakeholders\n\u2022 You're customer-centric in spirit and in execution\n\u2022 You have a test and learn mentality and an agile way of working to improve your solutions\n\u2022 You are adaptable and don't miss a beat with changing asks\n\nTo be considered you must have ALL of this:\n\n2-4 years current professional experience as a Data Scientist with Marketing Mix Modeling (MMM)\n\n2-4 years current professional experience as a Data Scientist with Machine Learning, Predictive Modeling, and Optimization\n\n2-4 years current professional experience as a Data Scientist with Hands on with SQL and Python\n\n2-4 years current professional experience as a Data Scientist Presenting to Client, Stakeholder, Internal and External Teams about Measurements, ROAS, ROI, KPI, and similar metrics.\n\nPreferred Qualifications\n\nMasters degree or higher in Statistics, Economics, Operations Research, or related field\n\nExperience with advertising technology platforms Ad servers, DSPs, DMPs, etc.\n\n#WMC #datasciencejobs #datascientist #walmartconnect #LI-DJ4\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field. Option 3: 4 years' experience in an analytics or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)\n\nPrimary Location...\n125 S CLARK STREET, CHICAGO, IL 60603-0000, United States of America",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You're proficient in modeling algorithms and programming languages",
+                        "Must have professional experience in Digital Advertising, Retail Media, and Ads measurement",
+                        "You're comfortable influencing others, communicating clearly with clients and working with cross functional stakeholders",
+                        "You're customer-centric in spirit and in execution",
+                        "You have a test and learn mentality and an agile way of working to improve your solutions",
+                        "You are adaptable and don't miss a beat with changing asks",
+                        "2-4 years current professional experience as a Data Scientist with Marketing Mix Modeling (MMM)",
+                        "2-4 years current professional experience as a Data Scientist with Machine Learning, Predictive Modeling, and Optimization",
+                        "2-4 years current professional experience as a Data Scientist with Hands on with SQL and Python",
+                        "2-4 years current professional experience as a Data Scientist Presenting to Client, Stakeholder, Internal and External Teams about Measurements, ROAS, ROI, KPI, and similar metrics",
+                        "Masters degree or higher in Statistics, Economics, Operations Research, or related field",
+                        "Experience with advertising technology platforms Ad servers, DSPs, DMPs, etc",
+                        "Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics or related field",
+                        "Option 3: 4 years' experience in an analytics or related field",
+                        "Data science, machine learning, optimization models, Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "They lead communications and interactions with our clients and stakeholders",
+                        "They present their findings and make recommendations that have a direct impact on our clients and stakeholders ROAS and ROI"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "In addition to base salary, Walmart total compensation may also include bonus incentives, stock options, and more"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.walmart.com/",
+                    "text": "walmart.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Walmart&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAII6gw",
+                    "text": "See web results for Walmart"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIEFkcyBNZWFzdXJlbWVudCAtIENoaWNhZ28sIElMIiwiaHRpZG9jaWQiOiJFUXdWTUNWVF9sc0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVW01NFMxQnhSV0ZQT0c5M2NXcERhekJaY0dodVpUTlFOVWRLWkZOM1VUZzJURlpPYlhSaVpUaFhVRWh3U1ROT1ExcHZRVGM1UTBoWGJHRkhSekZ2YlhaSVVuTjFkMGsyYUU1UVNXaFVlbGg0VkVwemNVcFFVM05rZVVsUVowSjNjVFp0VFZOM05WTlFaVTVtYWtGdlYweDRlVGxrYUVKNFlUQnVkMDFQWjBwVmFIZzBhM2hUVDJOMGNsSmtaMnBLU1ZSYVpVSjRSVVo0YmxaM1VIZDJOa0p5TFhjemFGRk5TVmN3ZEd4TVJIRmpiRXBvZFdkNloxbFRWbGt3YjNCNVZFTnVkbXBRZVZCMFdEZzVUekZDVlc5Q1pWQmpjMnBuUXpSa1p4SVhTMHhuT1ZwS1QxSk9aRmhzTlU1dlVIZDFZVTR0UVRRYUlrRlBMVEJ5YkRkTmVrZHVRVEZyVTAxd2VUSllSM0oxVVVOb1JtSnVVVmRqZGtFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9XYWxtYXJ0L0pvYi9EYXRhLVNjaWVudGlzdC1BZHMtTWVhc3VyZW1lbnQtQ2hpY2FnbywtSUwvLWluLVNjaGVyZXJ2aWxsZSxJTj9qaWQ9NzhlYTVmMWE2YWY5ZjVhMlx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist",
+            "company_name": "ISSAC LLC",
+            "location": "  Huntsville, AL   ",
+            "via": "via DataYoshi",
+            "description": "Category: Engineering Location: Huntsville, AL Citizenship Required: United States Citizenship Clearance Type Required: Ability to obtain and maintain a Secret level Telecommute: On-site Travel Required: Minimal Experience and Education: 5+ years' experience plus bachelor's or master's degree in a related engineering field Salary Range: $100,000 - $125,000 Top Benefits: ISSAC offers competitive... salaries, Medical, Dental, Vision and Life Insurance. We also have generous PTO, federal holidays off, education assistance, 401K program and profit sharing. Job Description: Seeking a mid-level data scientist to help develop and deploy a new type of database to aid a large-scale data fabric effort. You will be supporting the development of new machine learning and machine reasoning algorithms and software for AI. You will be helping customers exploit their data in novel ways by producing novel algorithms, software, and solutions. Duties and Responsibilities: Helping develop and deploy a new type of database to aid a large-scale data fabric effort Develop new machine learning and machine reasoning algorithms and software for AI Helping customers exploit their data in novel ways Produce novel algorithms, software, and solutions Experience and Certifications: A Bachelor of Science degree in Science or Engineering with five (5) or more years' practical experience with software development. Required Skills: Be excited to solve some of the world's hardest problems and make a difference globally Be someone who can lead and inspire others to achieve the vision To synthesize knowledge from multiple disciplines into a meaningful solution. Experience in data science Have BIG data experience - actual experience not academic or theoretical VERY Strong math skills Data structures/architectures exposure Able to interface professionally with customers Desired Qualifications: Software development experience - read, write and communicate (C++, Java, Python) Machine learning experience Experience in data visualization Proficient in conducting trouble shooting and software debugging Experience in Big Data analytics and statistical analysis Graph data structure experience Cloud deployment experience Deep learning experience Artificial Intelligence experience Software development skills Ability to travel occasionally Company Description ISSAC is a Systems Engineering and Advanced Data Analytics company. We support clients across a wide range of industries, including federal/defense, bioscience/healthcare, and commercial.\n\nISSAC is a Systems Engineering and Advanced Data Analytics company. We support clients across a wide range of industries, including federal/defense, bioscience/healthcare, and commercial",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Required Skills: Be excited to solve some of the world's hardest problems and make a difference globally Be someone who can lead and inspire others to achieve the vision To synthesize knowledge from multiple disciplines into a meaningful solution"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will be supporting the development of new machine learning and machine reasoning algorithms and software for AI",
+                        "Duties and Responsibilities: Helping develop and deploy a new type of database to aid a large-scale data fabric effort Develop new machine learning and machine reasoning algorithms and software for AI Helping customers exploit their data in novel ways Produce novel algorithms, software, and solutions Experience and Certifications: A Bachelor of Science degree in Science or Engineering with five (5) or more years' practical experience with software development"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Category: Engineering Location: Huntsville, AL Citizenship Required: United States Citizenship Clearance Type Required: Ability to obtain and maintain a Secret level Telecommute: On-site Travel Required: Minimal Experience and Education: 5+ years' experience plus bachelor's or master's degree in a related engineering field Salary Range: $100,000 - $125,000 Top Benefits: ISSAC offers competitive salaries, Medical, Dental, Vision and Life Insurance",
+                        "We also have generous PTO, federal holidays off, education assistance, 401K program and profit sharing"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=ISSAC+LLC&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAIIpg0",
+                    "text": "See web results for ISSAC LLC"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoianllMWcyS1ZnRWNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQkNxSUJRVVZ6TjJwT1UwbEtZWGhzTFhKTFEwVmtTVXR1WlU1dGVHMDRNMU5JTjJndE1VRjBNa3RuVEU5QlgwVXRiV0puYlZSRlJFTnFValJOYWxreVozWlhRazk2ZVZKVlZsVjFVMGhNYUhOVFUwSndUbFpWT0RKWFJIRmFlV1pCU21OTFpUWmhibXR2ZWt0UFgzUk5VM1ZTWjFwS1dVaEliRU5qY2tWbWVHNDBNRTF0VkdGUmVWVjRMVlJzVURVMGJuZEdUVWRWT0ZWZlQyOWxOakJHZDNsd01tTjNFaGRMVEdjNVdrcFBVazVrV0d3MVRtOVFkM1ZoVGkxQk5Cb2lRVTh0TUhKc05YSkJTMnRXTUVJMU5XeHdhV042YVdsblMwRjNOMEpGYVRkc1VRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRGF0YVlvc2hpIiwibGluayI6Imh0dHBzOi8vd3d3LmRhdGF5b3NoaS5jb20vb2ZmZXIvNTkyNDE3L2RhdGEtc2NpZW50aXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist - Credit Risk",
+            "company_name": "Cottonwood Financial",
+            "location": "  Irving, TX   ",
+            "via": "via LinkedIn",
+            "description": "Job Description\nReporting to our Director of Credit Risk Management, you will play a key role in increasing our profits through advanced statistical analytics, traditional risk management, machine learning and data science techniques. You will be an analyst, on a fast-paced and growing team of data science analysts, making an immediate impact across the entire customer lifecycle (prospecting... acquisitions, customer management, and collections). This is a wonderful opportunity for you to broaden your analytics skill set through exposure to a wide variety of business problems and challenge yourself with FinTech projects that can span from tactical to strategic nature. As a Data Scientist - Credit Risk (aka Credit Risk Analyst) you will have the flexibility of a hybrid work schedule, working remotely from your home office in the Dallas-Fort Worth area and on-site at our Administrative Office (HQ) in Irving (Las Colinas), Texas.\nKey Responsibilities\n\u2022 Develop and implement effective scoring models to be used in decisioning across all aspects of the customer lifecycle\n\u2022 Proactively collaborate with Information Technology (Database Engineers, Application Development, Business Intelligence), Product Development, Marketing, Compliance, Marketing Analytics, and other internal groups to implement credit risk policies and underwriting criteria for new products and business opportunities\n\u2022 Profitably manage credit risk for all prospects and customers by monitoring trends, identifying opportunities, developing and presenting recommendations, implementing the strategies and measuring the impact\n\u2022 Successfully manage and complete multiple concurrent projects without losing focus\n\u2022 Provide timely and justified recommendations in response to ad hoc analysis requests by internal groups\n\u2022 Act as an internal resource for SAS best practices\n\u2022 Develop actionable reports for use by the senior leadership team\n\nRequired Qualifications\n\u2022 BS in an analytical field such as Statistics, Econometrics, Applied Mathematics, or highly quantitative engineering (e.g., Chemical Engineering, Mechanical Engineering)\n\u2022 1+ years of coding experience in SAS (merge and mold datasets using BASE and STAT) or in open source programming languages such as Python or R\n\u2022 Results-oriented self-starter who is confident in defending his/her critical thinking abilities\n\u2022 Proven track record of developing successful predictive analytics (i.e. statistical modeling)\n\u2022 Capitalistic mindset supported by a strong business acumen and work ethic\n\u2022 Demonstrated ability to communicate ideas and analysis results effectively both verbally and in writing to a non-technical audience\n\u2022 Local (Dallas/Fort Worth area) candidates only \u2013 no relocation\n\u2022 Must be currently authorized to work in the United States without sponsorship and not require sponsorship in the future\n\nPreferred Qualifications\n\u2022 Master\u2019s degree in Statistics strongly preferred\n\u2022 Previous experience as a Data Scientist, Statistician, Risk Analyst, Quantitative Analyst, or Marketing Analyst\n\u2022 Risk modeling and strategy development for decisions such as initial approve/decline, credit limits, and credit limit increases/decreases is a plus\n\u2022 Work experience in consumer credit\n\nCompensation\n\u2022 Starting annual salary of $121,000\n\nWorkplace\n\u2022 Flexibility of a hybrid work schedule, working remotely from your home office in the Dallas-Fort Worth area and on-site at our Administrative Office (HQ) in Irving (Las Colinas), TX\n\nBenefits\n\u2022 Medical, dental, and vision\n\u2022 Voluntary life/ AD&D\n\u2022 Short-term & long-term disability\n\u2022 401K with company match\n\u2022 Paid vacation, holidays, and sick time\n\u2022 Paid maternity, paternity, bereavement, extended medical leave, and jury duty\n\u2022 Corporate discount program on \u201cpersonal cell phone accounts\u201d with select providers\n\u2022 Corporate discount program on Microsoft 365 \u201cHome Use Program\u201d\n\u2022 Business casual work environment\n\u2022 On-site fitness center\n\u2022 On site \u201cgrab-n-go\u201d deli\n\nAbout Cottonwood\nFounded in 1996, Cottonwood Financial is one of the largest privately held retail consumer finance companies in the United States. With our customer-centric focus, we offer an innovative mix of financial products and services through our FinTech (online/digital) lending portal, Cashstore.com, as well as through our 230+ brick-and-mortar retail locations in multiple states, under our Cash Store brand.\nWe are positioned to grow, our locations are 100% company-owned (no franchises), and we have been named multiple times to the Inc. 5000 list of America\u2019s\u202f fastest-growing private companies , as well as to the Dallas 100 list of the fastest-growing private companies in North Texas.\nCottonwood Financial is proud to be an equal opportunity employer",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS in an analytical field such as Statistics, Econometrics, Applied Mathematics, or highly quantitative engineering (e.g., Chemical Engineering, Mechanical Engineering)",
+                        "1+ years of coding experience in SAS (merge and mold datasets using BASE and STAT) or in open source programming languages such as Python or R",
+                        "Results-oriented self-starter who is confident in defending his/her critical thinking abilities",
+                        "Proven track record of developing successful predictive analytics (i.e. statistical modeling)",
+                        "Capitalistic mindset supported by a strong business acumen and work ethic",
+                        "Demonstrated ability to communicate ideas and analysis results effectively both verbally and in writing to a non-technical audience",
+                        "Local (Dallas/Fort Worth area) candidates only \u2013 no relocation",
+                        "Must be currently authorized to work in the United States without sponsorship and not require sponsorship in the future"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Reporting to our Director of Credit Risk Management, you will play a key role in increasing our profits through advanced statistical analytics, traditional risk management, machine learning and data science techniques",
+                        "You will be an analyst, on a fast-paced and growing team of data science analysts, making an immediate impact across the entire customer lifecycle (prospecting, acquisitions, customer management, and collections)",
+                        "This is a wonderful opportunity for you to broaden your analytics skill set through exposure to a wide variety of business problems and challenge yourself with FinTech projects that can span from tactical to strategic nature",
+                        "Develop and implement effective scoring models to be used in decisioning across all aspects of the customer lifecycle",
+                        "Proactively collaborate with Information Technology (Database Engineers, Application Development, Business Intelligence), Product Development, Marketing, Compliance, Marketing Analytics, and other internal groups to implement credit risk policies and underwriting criteria for new products and business opportunities",
+                        "Profitably manage credit risk for all prospects and customers by monitoring trends, identifying opportunities, developing and presenting recommendations, implementing the strategies and measuring the impact",
+                        "Successfully manage and complete multiple concurrent projects without losing focus",
+                        "Provide timely and justified recommendations in response to ad hoc analysis requests by internal groups",
+                        "Act as an internal resource for SAS best practices",
+                        "Develop actionable reports for use by the senior leadership team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Starting annual salary of $121,000",
+                        "Medical, dental, and vision",
+                        "Voluntary life/ AD&D",
+                        "Short-term & long-term disability",
+                        "401K with company match",
+                        "Paid vacation, holidays, and sick time",
+                        "Paid maternity, paternity, bereavement, extended medical leave, and jury duty",
+                        "Corporate discount program on \u201cpersonal cell phone accounts\u201d with select providers",
+                        "Corporate discount program on Microsoft 365 \u201cHome Use Program\u201d",
+                        "Business casual work environment",
+                        "On-site fitness center"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Cottonwood+Financial&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAII7Q0",
+                    "text": "See web results for Cottonwood Financial"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "121K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "salary": "121K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIENyZWRpdCBSaXNrIiwiaHRpZG9jaWQiOiJJMUZ0M3NneDdYa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVVdrM1l6UlRXRzU1YzBWTFNHdGtaVzlRWWxsS1drbHJRVWRQTldGeWRHUlNMWFZaYUV4RFJVTlRaRzUzVVRsVFVrOWphWGxzTnpsbGFXMVNVamt3VjFsbWVuZGlWbG8wV1doR2VXaDVObUpOUzJGT05YZHBlbkZ1VWw5Q04zbGxaRll0YzA5blUwd3dUbXBrUzBkUmN6RXpkVUpSVWtGNFdYQmlOWGRuV1RVMFVqSXlRazQwYjFveFNYZEJWMlF3TFVOelIydGpWRlEwVkhkb04wTm1kamhyYTJSelkwdEliWFJLTUhSemJ6QjNFaGRMVEdjNVdrcFBVazVrV0d3MVRtOVFkM1ZoVGkxQk5Cb2lRVTh0TUhKc05YTTRaR0pYZW1ReGNWcGtla2swVkRSVFgyNDFaMHRaYTFkRlp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLXNjaWVudGlzdC1jcmVkaXQtcmlzay1hdC1jb3R0b253b29kLWZpbmFuY2lhbC0zNTY4ODMxOTY1P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Staff Data Scientist, Ad Formats & Optimization Analytics (Remote)",
+            "company_name": "Reddit",
+            "location": " Anywhere ",
+            "via": "via Built In",
+            "description": "Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories, and discussions about the topics they care about the most. From pets to parenting, there\u2019s a community... for everybody on Reddit and with over 50 million daily active users, it is home to the most open and authentic conversations on the internet. For more information, visit redditinc.com.\n\nLocation: US remote friendly\n\nReddit is continuing to grow our teams with the best talent. This role is completely remote friendly and will continue to be after the pandemic.\n\nAdvertising is Reddit\u2019s primary revenue driver and we have an ambitious goal to turn it into a massive business. Although several large digital ad platforms already exist, advertisers are being increasingly drawn to Reddit because of our passionate communities. We believe our community-centric platform has created the opportunity for Reddit to build a highly differentiated ads business.\n\nWe are looking for a results-oriented and strategically minded Product Data Scientist to work with our Ads Formats & Optimization product team on launching new products to improve the Ads user experience and launch new innovative formats to draw more advertisers to the Reddit ads platform. You will partner closely with cross functional team members such as Product Managers, Engineers, Designers, etc. in utilizing data to drive product strategy and unlock novel ways to improve the advertiser experience.\n\nIf helping Reddit\u2019s advertising business reach the next level excites you, then you\u2019ve found the right place. We\u2019re a company with one of the highest employee : user ratios in the industry, giving you a tremendous opportunity for both scope & impact.\n\nHow You'll Have Impact:\n\u2022 Partner with the product engineering team working on Reddit\u2019s Ads Formats & Optimization team. Providing thought partnership on projects ranging from\u2026\n\u2022 Identifying and opportunity sizing new, innovative ad formats\n\u2022 Improving existing ad formats through rapid experimentation\n\u2022 Researching new product surfaces ready for ads monetization\n\u2022 Collaborate with product teams on all aspects of development - everything from product ideation to experiment analysis to KPI reporting\n\u2022 Drive product-oriented research projects to identify new opportunities for the Ads Platform team to pursue\n\u2022 Organize data by designing table schemas, data pipelines, aggregations, alerts and general data infrastructure for the ads organization.\n\u2022 Be an integral part of the Data Org (consisting of Data Science, Data Engineering, Experimentation, and Core ML), leveraging and contributing to the vibrant knowledge base, shared across a community of world-class data experts.\n\nResponsibilities:\n\u2022 Act as an owner by partnering with the Ads Formats & Optimization team on product development\n\u2022 Become an expert on users\u2019 ads experiences on Reddit - designing & analyzing experiments to test improvements to our platform\n\u2022 Build KPI reporting & ETLs to track the performance of Reddit\u2019s Ads Formats & Optimizations team\n\u2022 Learn how Advertisers interact with the Reddit platform and research how their experience could be improved\n\u2022 Collaborate with Product Marketing Managers to develop go to market strategies and drive product adoption\n\u2022 Partner with the Ads Engineering team to understand new data & schemas and ensure the data we log in new products is accurate\n\nRequired Qualifications:\n\u2022 5+ years of experience in data analytics or related quantitative role\n\u2022 Influence and guide product strategy with data\n\u2022 Able to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way\n\u2022 Desire to mentor other data scientists and share best practices to elevate the data science practice at Reddit\n\u2022 Strong ability to communicate and discuss complex topics with technical & non-technical audiences\n\u2022 Proficiency with relational database (e.g., SQL) and statistical analysis/programming languages (e.g., R / Python)\n\u2022 Proficiency with dashboarding tools (e.g. Mode Analytics, Tableau, Looker)\n\u2022 Experience in online advertising & ads marketplaces or in UX experimentation\n\nBenefits:\n\u2022 Comprehensive Health benefits\n\u2022 401k Matching\n\u2022 Workspace benefits for your home office\n\u2022 Personal & Professional development funds\n\u2022 Family Planning Support\n\u2022 Flexible Vacation & Reddit Global Days Off\n\u2022 4+ months paid Parental Leave\n\u2022 Paid Volunteer time off\n\nPay Transparency:\n\nThis job posting may span more than one career level.\n\nIn addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.\n\nTo provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.\n\nThe base pay range for this position is: $183,500 - $275,300.\n\n#LI-Remote #LI-NH1\n\nReddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of experience in data analytics or related quantitative role",
+                        "Influence and guide product strategy with data",
+                        "Able to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way",
+                        "Desire to mentor other data scientists and share best practices to elevate the data science practice at Reddit",
+                        "Strong ability to communicate and discuss complex topics with technical & non-technical audiences",
+                        "Proficiency with relational database (e.g., SQL) and statistical analysis/programming languages (e.g., R / Python)",
+                        "Proficiency with dashboarding tools (e.g. Mode Analytics, Tableau, Looker)",
+                        "Experience in online advertising & ads marketplaces or in UX experimentation"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will partner closely with cross functional team members such as Product Managers, Engineers, Designers, etc. in utilizing data to drive product strategy and unlock novel ways to improve the advertiser experience",
+                        "Partner with the product engineering team working on Reddit\u2019s Ads Formats & Optimization team",
+                        "Providing thought partnership on projects ranging from\u2026",
+                        "Identifying and opportunity sizing new, innovative ad formats",
+                        "Improving existing ad formats through rapid experimentation",
+                        "Researching new product surfaces ready for ads monetization",
+                        "Collaborate with product teams on all aspects of development - everything from product ideation to experiment analysis to KPI reporting",
+                        "Drive product-oriented research projects to identify new opportunities for the Ads Platform team to pursue",
+                        "Organize data by designing table schemas, data pipelines, aggregations, alerts and general data infrastructure for the ads organization",
+                        "Be an integral part of the Data Org (consisting of Data Science, Data Engineering, Experimentation, and Core ML), leveraging and contributing to the vibrant knowledge base, shared across a community of world-class data experts",
+                        "Act as an owner by partnering with the Ads Formats & Optimization team on product development",
+                        "Become an expert on users\u2019 ads experiences on Reddit - designing & analyzing experiments to test improvements to our platform",
+                        "Build KPI reporting & ETLs to track the performance of Reddit\u2019s Ads Formats & Optimizations team",
+                        "Learn how Advertisers interact with the Reddit platform and research how their experience could be improved",
+                        "Collaborate with Product Marketing Managers to develop go to market strategies and drive product adoption",
+                        "Partner with the Ads Engineering team to understand new data & schemas and ensure the data we log in new products is accurate"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Comprehensive Health benefits",
+                        "401k Matching",
+                        "Workspace benefits for your home office",
+                        "Personal & Professional development funds",
+                        "Family Planning Support",
+                        "Flexible Vacation & Reddit Global Days Off",
+                        "4+ months paid Parental Leave",
+                        "Paid Volunteer time off",
+                        "Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave",
+                        "The base pay range for this position is: $183,500 - $275,300"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.reddit.com/",
+                    "text": "reddit.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Reddit&sa=X&ved=0ahUKEwiTxbaa7LH-AhXVMlkFHUJzA-84ChCYkAIIug4",
+                    "text": "See web results for Reddit"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "184K\u2013275K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "salary": "184K\u2013275K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBEYXRhIFNjaWVudGlzdCwgQWQgRm9ybWF0cyBcdTAwMjYgT3B0aW1pemF0aW9uIEFuYWx5dGljcyAoUmVtb3RlKSIsImh0aWRvY2lkIjoieU1QTzhSMUVyLWdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1UzTktTbXhFVjIwNGRHMUxTVGhNUjFvd2EwSnpRVXhVWWs1eWRYRk1ObFZGZEZGT1JFUjJYMlV6Wm14Q2Frb3dSRlkzY2xaWWVXeEZTRWxWWldJM1NEUlNibGd3VkhSUWNrTlpSWFJmTkhaeGNIcHdRVzR3TkhkMlJYQldZa3BqWVRCUFpWOUpZa3N3UVhKNGRVdDFZazVSWW01R2QxZFdSVTFxY21ab1VrcHJTMjh4T0ZWdE55MUVja28wWm1SVWRucEhWMWRGVjFoamVqQlZSa1JSTnkxblFXNXpNVEJYVVUxcGMyRm1TMGcwTjNKaFRqSjRSV1kyTVdWZmRtSm9kRE5PUTFkSlMxZEhkMHhPUjNwdWRtNUdiVnBCYVhWeWFWcGZaeElYUzB4bk9WcEtUMUpPWkZoc05VNXZVSGQxWVU0dFFUUWFJa0ZQTFRCeWJEWktZM1JZYVVWck5sYzFNamN0ZUhGQ2NrTjZUMm94V0VWNlRVRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEJ1aWx0IEluIiwibGluayI6Imh0dHBzOi8vYnVpbHRpbi5jb20vam9iL2RhdGEvc3RhZmYtZGF0YS1zY2llbnRpc3QtYWQtZm9ybWF0cy1vcHRpbWl6YXRpb24tYW5hbHl0aWNzLzE3NDgwMjI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior associate",
+                    "value": "senior associate"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Advisor",
+                    "value": "advisor"
+                },
+                {
+                    "text": "Analytics consultant",
+                    "value": "analytics consultant"
+                },
+                {
+                    "text": "Consultant",
+                    "value": "consultant"
+                },
+                {
+                    "text": "Design engineer",
+                    "value": "design engineer"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Principal",
+                    "value": "principal"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Senior advisor",
+                    "value": "senior advisor"
+                },
+                {
+                    "text": "Senior manager",
+                    "value": "senior manager"
+                },
+                {
+                    "text": "Staff scientist",
+                    "value": "staff scientist"
+                },
+                {
+                    "text": "Technical specialist",
+                    "value": "technical specialist"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Houston, TX",
+                    "value": "AYWNSLS4QIY7BWXz3gINyg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Irving, TX",
+                    "value": "j_UJHVyCToYJ84eGVm8wPA=="
+                },
+                {
+                    "text": "Nashville, TN",
+                    "value": "PZDrEzLsZIig2umh0Lk_fQ=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "Anderson, MO",
+                    "value": "xZJyU_xWyIeLkG_wPNh9sw=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Huntsville, AL",
+                    "value": "jYmizWdrYohrVgTIiX4smg=="
+                },
+                {
+                    "text": "Memphis, TN",
+                    "value": "RZdD6h5-1Yf-thpgFfOT0Q=="
+                },
+                {
+                    "text": "Richardson, TX",
+                    "value": "Z6e-eekeTIaVBCdGwCnbLA=="
+                },
+                {
+                    "text": "Saint Paul, MN",
+                    "value": "nzfp5M7UslIpLto_0pFyyA=="
+                },
+                {
+                    "text": "Bella Vista, AR",
+                    "value": "Z0n6p3ADyYdTNdi6WXymSQ=="
+                },
+                {
+                    "text": "Deerfield, IL",
+                    "value": "4SbNkAm_D4gpTtHtiNMnPQ=="
+                },
+                {
+                    "text": "Milwaukee, WI",
+                    "value": "50eLV9cCBYiEe0G1IhlfRA=="
+                },
+                {
+                    "text": "Aurora, CO",
+                    "value": "myu6IoZYbId45qKLaOBBhA=="
+                },
+                {
+                    "text": "Colorado Springs, CO",
+                    "value": "K9LmoS5BE4cTa-j1kuuOQQ=="
+                },
+                {
+                    "text": "Fayetteville, AR",
+                    "value": "nT61L3tvyYfPyLT8afAZRQ=="
+                },
+                {
+                    "text": "Greenland, AR",
+                    "value": "mYDB0JhlyYcwPNpDzC4CBw=="
+                },
+                {
+                    "text": "Lewisville, TX",
+                    "value": "ZVAMwXUsTIaNGSvKXRqi8Q=="
+                },
+                {
+                    "text": "Littleton, CO",
+                    "value": "Kzvi-z98a4fAPNau6ZcFBw=="
+                },
+                {
+                    "text": "Madison, WI",
+                    "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+                },
+                {
+                    "text": "Mesquite, TX",
+                    "value": "dasrZQOlToalzpSJbMVSng=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "North Chicago, IL",
+                    "value": "0bSMFzSTD4gl6Jj6acIz-g=="
+                },
+                {
+                    "text": "Oklahoma City, OK",
+                    "value": "gdL4flSKrYedOk_RdBKiMw=="
+                },
+                {
+                    "text": "Pea Ridge, AR",
+                    "value": "6xf8mywZyYe6kgw_pTHC3w=="
+                },
+                {
+                    "text": "San Antonio, TX",
+                    "value": "rw7QBK9YXIa8FqAQO-FWCA=="
+                },
+                {
+                    "text": "St. Louis, MO",
+                    "value": "-Y7t-qm02Idb4Lsiyuo5vg=="
+                },
+                {
+                    "text": "Topeka, KS",
+                    "value": "KXrs2uQCv4fwp-Nq0Ocrvg=="
+                },
+                {
+                    "text": "Addison, IL",
+                    "value": "PdxtHX6tD4hjjn7SBPWPvQ=="
+                },
+                {
+                    "text": "Allen, TX",
+                    "value": "vXmUTS4XTIbVLN6SqSroyg=="
+                },
+                {
+                    "text": "America, IL",
+                    "value": "u2p_piTdeYi5vdHDktVBLQ=="
+                },
+                {
+                    "text": "Arden Hills, MN",
+                    "value": "U8fmleQos1JEe2v0HnMmbQ=="
+                },
+                {
+                    "text": "Arlington, TX",
+                    "value": "05gI5NJiToZRU6AfrPZeCw=="
+                },
+                {
+                    "text": "Baton Rouge, LA",
+                    "value": "y3RfMmc4JIYdmleR2_EjIQ=="
+                },
+                {
+                    "text": "Bloomington, IL",
+                    "value": "wZoIOXAIC4gevCNKpUpCLg=="
+                },
+                {
+                    "text": "Bloomington, IN",
+                    "value": "59iDtPZdbIjZM62LLZEa6Q=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Brentwood, TN",
+                    "value": "41xJuq57ZIiQ3_aDOEB9NQ=="
+                },
+                {
+                    "text": "Brookfield, WI",
+                    "value": "a1sLUd0GBYhrwYeU1udw8w=="
+                },
+                {
+                    "text": "Champaign, IL",
+                    "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+                },
+                {
+                    "text": "Chattanooga, TN",
+                    "value": "heeDikBgYIiqKIeJHyZxJA=="
+                },
+                {
+                    "text": "Clayton, IN",
+                    "value": "5UyD3za5bIisQO1r28J3Nw=="
+                },
+                {
+                    "text": "College Station, TX",
+                    "value": "ozxGGYaERobJar-2TcdpyQ=="
+                },
+                {
+                    "text": "Decatur, AR",
+                    "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+                },
+                {
+                    "text": "Decatur, IL",
+                    "value": "px0M7kuudIgwOHq2GkcLBw=="
+                },
+                {
+                    "text": "Des Moines, IA",
+                    "value": "5x5hwaSZ7oey5JEmUSgAcQ=="
+                },
+                {
+                    "text": "Des Plaines, IL",
+                    "value": "bR3nekSwD4i6yEZueiFd6Q=="
+                },
+                {
+                    "text": "Eagan, MN",
+                    "value": "B9w7qzos9ocS6xx4_keq2w=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Foods & Beverages",
+                    "value": "/business/naics2007/311"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Construction",
+                    "value": "/business/naics2007/23"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Restaurant",
+                    "value": "/business/naics2007/722"
+                },
+                {
+                    "text": "Accommodation",
+                    "value": "/business/naics2007/721"
+                },
+                {
+                    "text": "Design Services",
+                    "value": "/business/naics2007/5414"
+                },
+                {
+                    "text": "Professional Services",
+                    "value": "/business/naics2007/5419"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Utilities",
+                    "value": "/business/naics2007/22"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Diverse Lynx",
+                    "value": "/g/11dxp_49r_"
+                },
+                {
+                    "text": "Sedgwick",
+                    "value": "/g/11byczcfwk"
+                },
+                {
+                    "text": "AbbVie",
+                    "value": "/m/0rzs09c"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Cardinal Health",
+                    "value": "/m/040vzx"
+                },
+                {
+                    "text": "Honeywell",
+                    "value": "/m/01gx66"
+                },
+                {
+                    "text": "John Deere",
+                    "value": "/m/027v3x"
+                },
+                {
+                    "text": "Xylem",
+                    "value": "/m/0j42pwf"
+                },
+                {
+                    "text": "Belcan",
+                    "value": "/m/0kqjj_"
+                },
+                {
+                    "text": "Brooksource",
+                    "value": "/g/11b7chl8b4"
+                },
+                {
+                    "text": "CME Group",
+                    "value": "/m/03m3r_f"
+                },
+                {
+                    "text": "Citi",
+                    "value": "/m/01hlzm"
+                },
+                {
+                    "text": "CoreLogic",
+                    "value": "/m/0ds1xrz"
+                },
+                {
+                    "text": "FedEx",
+                    "value": "/m/0k9s1"
+                },
+                {
+                    "text": "Frontier Airlines",
+                    "value": "/m/015q60"
+                },
+                {
+                    "text": "General Dynamics Information Technology",
+                    "value": "/m/09msylq"
+                },
+                {
+                    "text": "Health Care Service Corporation",
+                    "value": "/m/02864z7"
+                },
+                {
+                    "text": "Humana",
+                    "value": "/m/033th4"
+                },
+                {
+                    "text": "LandOLakes",
+                    "value": "/m/02r78m"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Reddit",
+                    "value": "/m/0bx7cy_"
+                },
+                {
+                    "text": "Robert Half",
+                    "value": "/m/07k98m"
+                },
+                {
+                    "text": "Slack",
+                    "value": "/m/0dd97nr"
+                },
+                {
+                    "text": "State Farm",
+                    "value": "/m/03dnbx"
+                },
+                {
+                    "text": "The Kraft Heinz Company",
+                    "value": "/m/01311njn"
+                },
+                {
+                    "text": "Topgolf",
+                    "value": "/m/06w2nzz"
+                },
+                {
+                    "text": "University of Wisconsin-Madison",
+                    "value": "/m/01yx1b"
+                },
+                {
+                    "text": "Verizon",
+                    "value": "/m/07_dn"
+                },
+                {
+                    "text": "Walgreens",
+                    "value": "/m/02rx2k"
+                },
+                {
+                    "text": "84.51\u02da",
+                    "value": "/g/11jykwpjl5"
+                },
+                {
+                    "text": "ADM",
+                    "value": "/m/01qg42"
+                },
+                {
+                    "text": "Abbott Laboratories",
+                    "value": "/m/02gkg4"
+                },
+                {
+                    "text": "Acxiom LLC",
+                    "value": "/g/11h3kzwkqb"
+                },
+                {
+                    "text": "Addison Group",
+                    "value": "/m/011qdhv9"
+                },
+                {
+                    "text": "Alderson Loop",
+                    "value": "/g/11dxq2t780"
+                },
+                {
+                    "text": "Allstate Insurance Company",
+                    "value": "/m/03ct7b"
+                },
+                {
+                    "text": "Altus Group",
+                    "value": "/g/11gxssct18"
+                },
+                {
+                    "text": "Amazon",
+                    "value": "/m/0mgkg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,549 @@
+{
+    "search_metadata": {
+        "id": "643db9e13bea7b8c1c51dd9f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/17e629e2e581a3ed/643db9e13bea7b8c1c51dd9f.json",
+        "created_at": "2023-04-17 21:28:01 UTC",
+        "processed_at": "2023-04-17 21:28:01 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=time+series+analysis&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=0",
+        "raw_html_file": "https://serpapi.com/searches/17e629e2e581a3ed/643db9e13bea7b8c1c51dd9f.html",
+        "total_time_taken": 4.75
+    },
+    "search_parameters": {
+        "q": "time series analysis",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 0
+    },
+    "jobs_results": [
+        {
+            "title": "Data Scientist (Time Series Analysis and Forecasting) at Experfy...",
+            "company_name": "Experfy",
+            "location": "  Westborough, MA   ",
+            "via": "via Westborough, MA - Geebo",
+            "description": "Cloud Description TalentCloud members should be able to use mathematical and statistical models to analyze time series data and recommend useful solutions. This TalentCloud requires you to have extensive knowledge of time series models that are used for large-scale data sets. Experience with signal processing is desired. Required Skills Proficient in R, Python, or Julia Proficient in SAS, Stata... or MATLAB/ Mathematica 8\nyears of experience with time series analysis and forecasting Experience with vector autoregression and panel vector autoregression Experience with dynamic regression models Proficient in moving average, exponential smoothing, AR, MA, ARIMA, ARCH, GARCH, apARCH models Expert in the evaluation of time series models and back-testing Experience with time series packages in R such as zoo, forecast, tsibble, lubridate, xts, timeSeries, smooth, tseries, and rugarch Experience with Python packages such as scikit-learn, statsmodels, sktime, tslearn Extensive experience with statistical methods to solve complex real-world problems Excellent communication and storytelling skills Preferred Skills Experience with signal processing Experience with Python 5\nyears of experience as a statistician or mathematician Graduate degree in math, stats, or a related field Experience with large scale time series and forecasting models such Prophet Experience with using deep learning models for time series analysis and forecasting Experience with TensorFlow\nSalary Range:\n$80K -- $100K\nMinimum Qualification\nData Science & Machine LearningEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This TalentCloud requires you to have extensive knowledge of time series models that are used for large-scale data sets",
+                        "Required Skills Proficient in R, Python, or Julia Proficient in SAS, Stata, or MATLAB/ Mathematica 8",
+                        "years of experience with time series analysis and forecasting Experience with vector autoregression and panel vector autoregression Experience with dynamic regression models Proficient in moving average, exponential smoothing, AR, MA, ARIMA, ARCH, GARCH, apARCH models Expert in the evaluation of time series models and back-testing Experience with time series packages in R such as zoo, forecast, tsibble, lubridate, xts, time",
+                        "years of experience as a statistician or mathematician Graduate degree in math, stats, or a related field Experience with large scale time series and forecasting models such Prophet Experience with using deep learning models for time series analysis and forecasting Experience with TensorFlow",
+                        "Data Science & Machine LearningEstimated Salary: $20 to $28 per hour based on qualifications"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$80K -- $100K"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Experfy&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCMcJ",
+                    "text": "See web results for Experfy"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoVGltZSBTZXJpZXMgQW5hbHlzaXMgYW5kIEZvcmVjYXN0aW5nKSBhdCBFeHBlcmZ5IGluIFdlc3Rib3JvdWdoLCBNQSIsImh0aWRvY2lkIjoib0phNUh1czRzaHNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3Q0Nvd0NRVVZ6TjJwT1UxWlpUWFZ3VWpKSmFHOWpSWFkzVUROSmVUWlplV1pYTFhrdFEwNW5ibHBaYkdsU1oxOVNiRjlTYTBwMk0xVlpOVkJsTldwNmExQnllRjlWVHkxNlkyZ3RUVVpUZWxNMExUQm1ObWwxY3pSdVgyeDNTRzFJYm5KWE1rRmxPRGxaUlZKS1RtVnNRbk4yUTFsaVRUQnpORVZYWVVWa2JVVTRhR1F0UkdWWlVuRlpka0o1WDJScWFYbE5TbFJuTUdGemRXWTVaeTE0Y1Y5S2JWWjJVV0Y2V0RCVE9YRm1TbEJ5WDJwU2FVaGpXVFEzTWxNeFRuWllUMmhFZGxSbFExUXdUbEpQY3paclUySkRVVU42T0hoS1RHVTBZVmhtU0c5cFZERTBlRXR5V0dGRWRIRlJUbVZZVEV4aVUyRlZlVEkyTFRkT2NGVTFhMW8xWjBSUWJtRnpiRjh3UjBONVdCSVhOV0pyT1ZwTlZHRkRjM0pzTlU1dlVHZzFlVkk0UVVrYUlrRlBMVEJ5YkRSWFkyVmlka2M1V0d0VVVVbDBRVFY2Y1ZaWlFsbEpkakJOV2xFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBkaXJlY3RseSBvbiBXZXN0Ym9yb3VnaCwgTUEgLSBHZWVibyIsImxpbmsiOiJodHRwczovL3dlc3Rib3JvdWdoLW1hLmdlZWJvLmNvbS9qb2JzLW9ubGluZS92aWV3L2lkLzEwNjUyNTgwNTYtZGF0YS1zY2llbnRpc3QtdGltZS1zZXJpZXMtLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Time Series Analyst",
+            "company_name": "Planet Pharma",
+            "location": "  South San Francisco, CA   ",
+            "via": "via LinkedIn",
+            "description": "Major Responsibilities:\n\u2022 The Time Series Analyst will lead AI projects that find insights from the large quantity of diverse scientific data that Development Sciences generate in alignment with scientific objectives in Development Sciences. You will lead all the processes from data collection, cleaning, preprocessing, and training of the machine learning model. The ideal candidate will be... passionate about AI and stay up-to-date with the latest developments in the field on time series/longitudinal dataLead small to medium size projects to identify and define problems, find relevant data sets, and prototype AI/ML/DL and analytics methods for time series/longitudinal data\n\u2022 Analyze the ML algorithms that could be used to solve a given problem and rank them by their success probability.\n\u2022 Explore and visualize data to gain an understanding of it, then identify differences in data distribution that could affect performance when deploying the model in the real world.\n\u2022 Develop the preprocessing or feature engineering to be done on a given dataset, build data augmentation pipelines, train models and tune their hyperparameters, analyze the errors of the model and design strategies to overcome them, and finally deploy models to production\n\u2022 Lead the collaboration with data management teams to ensure the right data is collected in the optimal format.\n\u2022 Work with scientists, research associates and clinical scientists, statisticians, and database specialists across the company.\n\u2022 Contribute to best practices on the application of AI/ML/DL and analytical techniques.\n\u2022 Maintain expert knowledge in AI/ML/DL and analytics technologies trends in our industry.\n\u2022 Assess and identify new AI/ML/DL opportunities to further business objectives.\n\nCompetencies and Qualifications:\n\u2022 Advanced understanding of key AI/ML/DL concepts/algorithms and experience with applying them toward time series/longitudinal data\n\u2022 2-6 years experience with AI/ML/DL in time series/longitudinal data\n\u2022 Publication on forecasting using in-time series/longitudinal data\n\u2022 Knowledge of current dynamical systems modeling such as ordinary differential equations (ODE), Neural ODE, Stochastic ODE, or similar for time series/longitudinal data\n\u2022 Familiarity with software for scientific machine learning SciML is plus\n\u2022 Proficiency with Python and basic libraries for machine learning such as scikit-learn. Pandas\n\u2022 Proficiency with a deep learning framework such as TensorFlow or PyTorch or Keras\n\u2022 Expertise in visualizing and manipulating time series/longitudinal data\n\u2022 Familiarity with Linux, cloud computing, Docker, and high-performance computing\n\u2022 Strong analytical and problem-solving skills\n\u2022 Able to lead teams and collaborate with others to solve challenging business problems\n\u2022 MS/Ph.D/Post-Doc in Mathematics, Bioinformatics, Computer Science, Statistics, or related disciplines with at least 4 years of relevant experience in an academic institution or industry",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Advanced understanding of key AI/ML/DL concepts/algorithms and experience with applying them toward time series/longitudinal data",
+                        "Publication on forecasting using in-time series/longitudinal data",
+                        "Knowledge of current dynamical systems modeling such as ordinary differential equations (ODE), Neural ODE, Stochastic ODE, or similar for time series/longitudinal data",
+                        "Familiarity with software for scientific machine learning SciML is plus",
+                        "Proficiency with Python and basic libraries for machine learning such as scikit-learn",
+                        "Proficiency with a deep learning framework such as TensorFlow or PyTorch or Keras",
+                        "Expertise in visualizing and manipulating time series/longitudinal data",
+                        "Familiarity with Linux, cloud computing, Docker, and high-performance computing",
+                        "Strong analytical and problem-solving skills",
+                        "Able to lead teams and collaborate with others to solve challenging business problems",
+                        "MS/Ph.D/Post-Doc in Mathematics, Bioinformatics, Computer Science, Statistics, or related disciplines with at least 4 years of relevant experience in an academic institution or industry"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Time Series Analyst will lead AI projects that find insights from the large quantity of diverse scientific data that Development Sciences generate in alignment with scientific objectives in Development Sciences",
+                        "You will lead all the processes from data collection, cleaning, preprocessing, and training of the machine learning model",
+                        "The ideal candidate will be passionate about AI and stay up-to-date with the latest developments in the field on time series/longitudinal data",
+                        "Lead small to medium size projects to identify and define problems, find relevant data sets, and prototype AI/ML/DL and analytics methods for time series/longitudinal data",
+                        "Analyze the ML algorithms that could be used to solve a given problem and rank them by their success probability",
+                        "Explore and visualize data to gain an understanding of it, then identify differences in data distribution that could affect performance when deploying the model in the real world",
+                        "Develop the preprocessing or feature engineering to be done on a given dataset, build data augmentation pipelines, train models and tune their hyperparameters, analyze the errors of the model and design strategies to overcome them, and finally deploy models to production",
+                        "Lead the collaboration with data management teams to ensure the right data is collected in the optimal format",
+                        "Work with scientists, research associates and clinical scientists, statisticians, and database specialists across the company",
+                        "Contribute to best practices on the application of AI/ML/DL and analytical techniques",
+                        "Maintain expert knowledge in AI/ML/DL and analytics technologies trends in our industry",
+                        "Assess and identify new AI/ML/DL opportunities to further business objectives"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Planet+Pharma&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCIsK",
+                    "text": "See web results for Planet Pharma"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "60\u201380 an hour",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Contractor",
+                "salary": "60\u201380 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJUaW1lIFNlcmllcyBBbmFseXN0IiwiaHRpZG9jaWQiOiJXQThaNFZHMGx0Z0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVTJsTGEzUm1Ubk0zVlZSWFFuTmFkRUpOYzFsV1VXZEpWMFpETXpBdGEydElVbVpSYUUxTFMxUkliMk0xVW10dFdFMXFaMDVyWTJOS1ZqWkRUVzVRU0VaZlUwdGtOM0JzYlVGSlgzWnJSVkpqUzJJd1dXMUpTbUZOWDFaSFQzaGljVmMzWXpJemFFVTBha3hsUzNSbk4xRmZiM2szUVdGUE1WSlRXREpwY1d4ek1YbHVTRzloUldsVGJFRkRTREIyY3pSYWJsQklMVVJVTkhWSWFtcDFOMjFNY2tGa1RuUkJObUoyVW1WWGRFZFpFaGMxWW1zNVdrMVVZVU56Y213MVRtOVFhRFY1VWpoQlNSb2lRVTh0TUhKc05VdEZPV3RQTlhWU1NEUXlWakJFVTNwR1IwNVJNR3BETkU5TVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L3RpbWUtc2VyaWVzLWFuYWx5c3QtYXQtcGxhbmV0LXBoYXJtYS0zNTU3MzE4ODI4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Ionosphere Phase Estimation for InSAR Time Series Analyses",
+            "company_name": "NASA Jet Propulsion Laboratory California Institut",
+            "location": "  Pasadena, CA   ",
+            "via": "via Ladders",
+            "description": "Job Details\n\nNew ideas are all around us, but only a few will change the world. That\u2019s our focus at JPL. We ask the biggest questions, then search the universe for answers\u2014literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission\u2014your opportunity\u2014is to seek out the answers that bring us one step closer. If you\u2019re driven to... discover, create, and inspire something that lasts a lifetime and beyond, you\u2019re ready for JPL.\n\nLocated in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.\n\nJPL is unique among NASA Centers in that its staff are Caltech employees, yet can access NASA technical resources. Cross-discipline teamwork is standard here: colleagues across JPL's science and engineering organizations and Caltech's academic campus often work together. Learning to speak and understand other disciplines' languages is a doorway to the creativity needed to do what has not been done before. JPL staff are encouraged to create mission concepts that address humanity's core questions through a combination of science and technology. They are supported in developing ideas into proposals and hardware, and communicating funded missions' results to the scientific community and the broader public. JPL seeks to employ scientists and engineers who are passionate about lifelong learning and excited to contribute to and lead team efforts. We emphasize the importance of partnering across discipline boundaries and creating a friendly, constructive work environment to overcome space exploration's challenges. The postdocs at JPL benefit from an informal mentoring network, an annual conference showcasing their results, a dedicated seminar series, exposure to diverse career paths, and social connections across the JPL and Caltech community for advice on housing, childcare, and other aspects of living in southern California.\n\nThe Radar Science and Engineering section at JPL is looking for a postdoc to develop, implement, and test new algorithms to be adopted by the Observational Products for End-users using Remote sensing Analysis (OPERA) project to generate surface displacement products over North America.\n\nThe postdoc will help develop new ionosphere phase estimation and phase unwrapping algorithms to correct and improve the accuracy of remote sensing products derived from Interferometric Synthetic Aperture Radar (InSAR) time series analysis. The suitable candidate will also contribute to the verification of the displacement time-series algorithm over representative regions in North America covered by the OPERA displacement product.\n\nThe postdoc will contribute to:\n\n\u2022 Develop and implement a new algorithm for correcting the ionosphere phase screen affecting InSAR time-series data using Total Electron Content maps derived from dual-frequency GNSS data.\n\n\u2022 Test and quantify the accuracy of the newly developed algorithm on time series of C-band (e.g., Sentinel-1A/B) and L-band (e.g., NISAR) InSAR data and compare its performance with that from state-of-the-art methods (e.g., split-spectrum).\n\n\u2022 Improve state-of-the-art phase unwrapping algorithms to reduce unwrapping errors and computational runtime for fine resolution wrapped interferograms.\n\n\u2022 Verify the selected OPERA\u2019s surface displacement algorithm over North America with a focus on regions affected by significant temporal decorrelation changes (e.g., areas with snowfall).\n\n\u2022 Publish outcomes in high-impact peer-reviewed journals.\n\nThe outcome of this investigation will inform the OPERA project algorithm development team on the ionosphere phase correction algorithm to adopt for generating OPERA displacement products.\n\nQualifications:\n\nApplicants may have a PhD in:\n\n\u2022 Electrical or telecommunication engineering\n\n\u2022 Geomatics or environmental engineering\n\n\u2022 Geophysics or related field\n\nWe seek a creative and highly motivated candidate with a strong background in SAR interferometry and SAR algorithm development, particularly in the field of repeat-pass and time-series interferometry. The candidate should have excellent oral and written communication skills.\n\nThe candidate must be detail-oriented and capable of working both independently and in close collaboration with others, and should have excellent abilities in programming with Python and preferably also C++.\n\nPrior experience working with InSAR time series analysis, repeat-pass interferometry, and publication record in these fields are regarded as merits.\n\nThe appointee will be advised, and will collaborate with OPERA\u2019s algorithm development team and OPERA\u2019s project science team.\n\nApplicants may be subject to additional program requirements by NASA. Postdoc positions are awarded for a minimum of one-year period and may be renewed up to a maximum of three years. Candidates should submit the following to this site: CV, representative publications, contact information for three references, and a cover letter stating their research accomplishments and interests.\n\nJPL has a catalog of benefits and perks that span from the traditional to the unique. This includes a variety of health, dental, vision, wellbeing, and retirement plans, paid time off, learning, rideshare, childcare, flexible schedule, parental leave and many more. Our focus is on work-life balance, and living healthy, fulfilling lives as we Dare Mighty Things Together. For benefits eligible positions, benefits are effective the first day of the month coincident with or immediately following the employee\u2019s start date.\n\nThe hiring range displayed below is specifically for those who will work in or reside in the location listed. In extending an offer, Jet Propulsion Laboratory considers factors including, but not limited to, the candidate\u2019s job related skills, experience, knowledge, and relevant education/training. Hiring range for this job may be adjusted based on primary work location outside of Pasadena, California. This adjusted range will be provided to candidates by the Recruiter when applicable.\n\nThe typical full time equivalent annual hiring range for this job in Pasadena, California.\n\n$82,180 - $82,180\n\nJPL is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, marital status, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity, gender expression, sexual orientation, protected military or veteran status or any other characteristic or condition protected by Federal, state or local law.\n\nIn addition, JPL is a VEVRAA Federal Contractor.\n\nEEO is the Law.\n\nEEO is the Law Supplement\n\nPay Transparency Nondiscrimination Provision\n\nThe Jet Propulsion Laboratory is a federal facility. Due to rules imposed by NASA, JPL will not accept applications from citizens of designated countries or those born in a designated country unless they are Legal Permanent Residents of the U.S or have other protected status under 8 U.S.C. 1324b(a)(3). The Designated Countries List is available here",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Applicants may have a PhD in:",
+                        "Electrical or telecommunication engineering",
+                        "Geomatics or environmental engineering",
+                        "Geophysics or related field",
+                        "We seek a creative and highly motivated candidate with a strong background in SAR interferometry and SAR algorithm development, particularly in the field of repeat-pass and time-series interferometry",
+                        "The candidate should have excellent oral and written communication skills",
+                        "The candidate must be detail-oriented and capable of working both independently and in close collaboration with others, and should have excellent abilities in programming with Python and preferably also C++",
+                        "Prior experience working with InSAR time series analysis, repeat-pass interferometry, and publication record in these fields are regarded as merits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "JPL seeks to employ scientists and engineers who are passionate about lifelong learning and excited to contribute to and lead team efforts",
+                        "The postdoc will help develop new ionosphere phase estimation and phase unwrapping algorithms to correct and improve the accuracy of remote sensing products derived from Interferometric Synthetic Aperture Radar (InSAR) time series analysis",
+                        "The suitable candidate will also contribute to the verification of the displacement time-series algorithm over representative regions in North America covered by the OPERA displacement product",
+                        "Develop and implement a new algorithm for correcting the ionosphere phase screen affecting InSAR time-series data using Total Electron Content maps derived from dual-frequency GNSS data",
+                        "Test and quantify the accuracy of the newly developed algorithm on time series of C-band (e.g., Sentinel-1A/B) and L-band (e.g., NISAR) InSAR data and compare its performance with that from state-of-the-art methods (e.g., split-spectrum)",
+                        "Improve state-of-the-art phase unwrapping algorithms to reduce unwrapping errors and computational runtime for fine resolution wrapped interferograms",
+                        "Verify the selected OPERA\u2019s surface displacement algorithm over North America with a focus on regions affected by significant temporal decorrelation changes (e.g., areas with snowfall)",
+                        "Publish outcomes in high-impact peer-reviewed journals",
+                        "The outcome of this investigation will inform the OPERA project algorithm development team on the ionosphere phase correction algorithm to adopt for generating OPERA displacement products",
+                        "The appointee will be advised, and will collaborate with OPERA\u2019s algorithm development team and OPERA\u2019s project science team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This includes a variety of health, dental, vision, wellbeing, and retirement plans, paid time off, learning, rideshare, childcare, flexible schedule, parental leave and many more"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.jpl.nasa.gov/",
+                    "text": "jpl.nasa.gov"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=NASA+Jet+Propulsion+Laboratory+California+Institut&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCM8K",
+                    "text": "See web results for NASA Jet Propulsion Laboratory California Institut"
+                }
+            ],
+            "extensions": [
+                "80K\u2013100K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "80K\u2013100K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJJb25vc3BoZXJlIFBoYXNlIEVzdGltYXRpb24gZm9yIEluU0FSIFRpbWUgU2VyaWVzIEFuYWx5c2VzIiwiaHRpZG9jaWQiOiJLUG84TFh1b0p3NEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNDQ3JjQ1FVVnpOMnBPVWxoT2R6QmZTREZETlVKcmVtVkpiSFEyV1VGR1MxVkVVblZHU2s5NVlVdEJibU5uVEVGYU4wbDRTWFpoWjBNMFJUTldSV1ZoZW5oNVowcHJNVnAwT1VabFNVZHJjalJZTTNsVlNITXlSVzFHVTFGbVNGZEpTRWMwZVhsV1VGQmhhMVJvT0VGeVl5MXNPR0oyT1ZSSllXYzRkMFpLUVcxT1VVZHphMVpXYUhKUFoyTm1NR05vVDJoalFsOWlVbkZMWVZCbExUaElRVVJXTUdJM2NUTnllV0ZLT1Y5ZldWcEhORW8yWTFGWllVVXpOa2RqVjJ0SFgyOUVla2MwT0RoeWEwWTRSVzFxTlhWWFVHVlFlbFZrVlZaWmMzSkNZVWQxTWxSR1VWWlJPVGxTTkRFd1Jqa3lkblJmVFMxYVMyNURSV3N5ZUZKNlNYZHhRVUl4TkdJNWRGZDVWRTF6TTBjeVNITkNRMEZpTkdkM1VWaDVPRXBZU1c1SVltTXdORVUwTWxKcVQwRnVXR1p6TFZWeVlYZG9RMGtTRnpWaWF6bGFUVlJoUTNOeWJEVk9iMUJvTlhsU09FRkpHaUpCVHkwd2NtdzJWVGxhVDNWeFNrdG5VSEJtU0hjemRGbFVTMGxXTkZrd2EzaEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExhZGRlcnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cudGhlbGFkZGVycy5jb20vam9iL2lvbm9zcGhlcmUtcGhhc2UtZXN0aW1hdGlvbi1mb3ItaW5zYXItdGltZS1zZXJpZXMtYW5hbHlzZXMtbmFzYS1qZXQtcHJvcHVsc2lvbi1sYWJvcmF0b3J5LWNhbGlmb3JuaWEtaW5zdGl0dXQtcGFzYWRlbmEtY2FfNjIzMDY0MTk/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Sr. Data Scientist (Time Series Forecasting for Advanced IoT...",
+            "company_name": "Caterpillar, Inc",
+            "location": "  Chicago, IL   ",
+            "via": "via Chicago, IL - Geebo",
+            "description": "Career Area:\nInformation Analytics\nJob Description...\nThe Cat Digital group is the digital and technology arm of Caterpillar Inc., responsible for bringing world class capabilities to our products and services. With over one million connected assets worldwide, we're focused on using data, technology, advanced analytics, and AI capabilities to help our customers build a better world. To accomplish this, we're deploying analytics that generate insights, recommend optimized decisions, and improve products by intelligently integrating massive quantities of telematics information, transactional records, images, unstructured documents, and other data sources. Join a group of world-class data scientists who are applying deep learning to remote sensor data to diagnose potential issues and schedule proactive repairs before the issues ever arise. Or improving products and product recommendations by developing a detailed understanding of how customers use their Cat products. Or by using the insights gained from such efforts to design customized customer services that maximize the value of their fleet of Cat equipment. The opportunity to make an enormous impact is truly remarkable! Job Purpose:\nThe Machine Data Insights team within Advanced IoT Analytics is seeking a talented and motivated Senior Data Scientist to lead important projects in product development analytics, aftermarket analytics, demand forecasting analytics, and other strategic analytics areas of focus. Our team's mission is to understand our customers where their work gets done. Our analyses reveal machine usage insights that help our customers work safer and more productively and help our enterprise understand the market trends that shape our future business. This role will require a skillset in advanced statistical modeling and machine learning techniques for time series forecasting as well as domain knowledge of industrial equipment. Job Duties:\nThe Senior Data Scientist bears primary responsibility for solving the business problem presented through applied analytics and acting as the technical lead for analytics teams. He or she will participate on cross-functional project teams, provide overall guidance to the technical direction of the project, and mentor Jr Information Scientists on the technical approaches being used in order to solve a problem presented by a Caterpillar Business Unit or Service Organization, a Caterpillar Dealer, or a Caterpillar Customer. The Senior Data Scientist will:\n- Demonstrate a breadth of knowledge in the application of statistical methods and/or digital methods to solve business problems Coach and mentor other Information Scientists in the creation, validation, and application of statistical models, machine learning models, as well as in implementing digital solutions; Participate on 2-3 projects concurrently Demonstrate thorough knowledge of Caterpillar Inc.; its products and services; its internal systems, processes, and procedures; and its relevant external influences (competitors, laws and regulations, market conditions, etc.) to meet or exceed customer expectations. Demonstrate strong initiative to research and apply new methods to exceed customer expectations. Have a strong focus on continual learning in the Analytics field Significant challenges of this position are working with people; enhancing the team's creativity; maintaining knowledge of approaches used in similar projects; and pushing the technical bounds of experimentation while meeting customer commitments. The Senior Data Scientist acts as overall technical lead for the team in establishing a sound analytic approach for solving the problem at hand. The Senior Data Scientist will develop good networks within the technical community to enable them to collaborate on technical solutions, obtain resources and cooperation needed, and remove roadblocks so that they can ensure the success of their team. The Senior Data Scientist demonstrates thorough statistical and/or digital technology knowledge and the ability to solve complex problems. He or she demonstrates very good communication skills, being able to explain conclusions to customers with limited knowledge and experience with quantitative analytical methods. As the first Senior technical analytic position, they are not expected to have previous experience leading teams, but they should exhibit strong communications, a penchant for innovation, and excellent initiative, people development, and interpersonal skills. The Senior Data Scientist should also have a comprehensive knowledge of Caterpillar Inc.; its products and services; its internal systems, processes, and procedures; and a general understanding of Caterpillar's external customers, competitors, and market influencers. Basic\nQualifications:\nTypically requires a Bachelor's degree, preferably in engineering, computer science, statistics, economics, mathematics, or a similar field with quantitative coursework, and 7-10 years of professional experience utilizing quantitative analysis is required, or a Master's degree and 4-6 years of experience, or a PhD and 1-3 years of experience in relevant experience. Must be comfortable working in industry standard statistics, analytics, and data visualization packages. Must demonstrate strong leadership, initiative, interpersonal skills, and the ability to communicate effectively. Top Candidates Will Also Have:\nBachelors, Masters, or PhD degree in Applied Statistics, Data Science, Business Analytics, Business Intelligence & Analytics, Computer Science, Computer Science\nX, Engineering (Aerospace, Electrical, Mechanical, Computer, Industrial, Agricultural, etc.), Informatics, Information Systems Management, Mathematics, MBA with Technical Undergrad, Predictive Analytics, Statistics, or equivalent technical degree. Practical applications of statistical modeling (ex. Conditional probability, likelihood, independence, regression, regularization, and statistical analysis methods such as ANOVA, hypothesis testing, statistical process control, etc) Practical applications of classical statistical methods for time series forecasting such as ARIMA, SARIMAX, ETS, etc Practical applications of machine learning techniques for time series forecasting such as MLP, CART regression trees, etc. Experience in design / development of heavy equipment (ex. automotive, aerospace, engine, transmission, construction, mining, industrial, etc) Strong technical and problem-solving skills and evidence of continuous learning in the analytics field Breadth and depth of knowledge in the application of statistical and/or digital methods to solve business problems Competency in coaching and mentoring Jr. Data Scientists in the creation, validation, and application of statistical models as well as in implementing digital solutions Experience leading analytics projects connecting data from various business domains and providing forecasts and insights to run the business profitably 3\nyears of experience applying python (NumPy, SciPy, pandas, etc) programming to solve business challenges Experience with cloud technologies (AWS, Azure, Google Cloud, etc) Strong initiative to research and apply new methods and digital technologies to exceed customer expectations. Good communication, interpersonal, and collaboration skills This position has the option to be based out of either our Chicago, IL; Peoria, IL or Champaign, IL offices with flexibility for partial remote work from home when we return to office. Visa sponsorship available for eligible applicants. EEO/AA Employer. All qualified individuals - Including minorities, females, veterans and individuals with disabilities - are encouraged to apply. Not ready to apply? Submit your information to our Talent Network here.\nSalary Range:\n$100K -- $150K\nMinimum Qualification\nData Science & Machine LearningEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "He or she demonstrates very good communication skills, being able to explain conclusions to customers with limited knowledge and experience with quantitative analytical methods",
+                        "As the first Senior technical analytic position, they are not expected to have previous experience leading teams, but they should exhibit strong communications, a penchant for innovation, and excellent initiative, people development, and interpersonal skills",
+                        "The Senior Data Scientist should also have a comprehensive knowledge of Caterpillar Inc.; its products and services; its internal systems, processes, and procedures; and a general understanding of Caterpillar's external customers, competitors, and market influencers",
+                        "Typically requires a Bachelor's degree, preferably in engineering, computer science, statistics, economics, mathematics, or a similar field with quantitative coursework, and 7-10 years of professional experience utilizing quantitative analysis is required, or a Master's degree and 4-6 years of experience, or a PhD and 1-3 years of experience in relevant experience",
+                        "Must be comfortable working in industry standard statistics, analytics, and data visualization packages",
+                        "Must demonstrate strong leadership, initiative, interpersonal skills, and the ability to communicate effectively",
+                        "Bachelors, Masters, or PhD degree in Applied Statistics, Data Science, Business Analytics, Business Intelligence & Analytics, Computer Science, Computer Science",
+                        "X, Engineering (Aerospace, Electrical, Mechanical, Computer, Industrial, Agricultural, etc.), Informatics, Information Systems Management, Mathematics, MBA with Technical Undergrad, Predictive Analytics, Statistics, or equivalent technical degree",
+                        "Practical applications of statistical modeling (ex",
+                        "Conditional probability, likelihood, independence, regression, regularization, and statistical analysis methods such as ANOVA, hypothesis testing, statistical process control, etc) Practical applications of classical statistical methods for time series forecasting such as ARIMA, SARIMAX, ETS, etc Practical applications of machine learning techniques for time series forecasting such as MLP, CART regression trees, etc",
+                        "Experience in design / development of heavy equipment (ex",
+                        "automotive, aerospace, engine, transmission, construction, mining, industrial, etc) Strong technical and problem-solving skills and evidence of continuous learning in the analytics field Breadth and depth of knowledge in the application of statistical and/or digital methods to solve business problems Competency in coaching and mentoring Jr",
+                        "Data Scientists in the creation, validation, and application of statistical models as well as in implementing digital solutions Experience leading analytics projects connecting data from various business domains and providing forecasts and insights to run the business profitably 3",
+                        "years of experience applying python (NumPy, SciPy, pandas, etc) programming to solve business challenges Experience with cloud technologies (AWS, Azure, Google Cloud, etc) Strong initiative to research and apply new methods and digital technologies to exceed customer expectations",
+                        "Good communication, interpersonal, and collaboration skills This position has the option to be based out of either our Chicago, IL; Peoria, IL or Champaign, IL offices with flexibility for partial remote work from home when we return to office",
+                        "Data Science & Machine LearningEstimated Salary: $20 to $28 per hour based on qualifications"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Join a group of world-class data scientists who are applying deep learning to remote sensor data to diagnose potential issues and schedule proactive repairs before the issues ever arise",
+                        "Or improving products and product recommendations by developing a detailed understanding of how customers use their Cat products",
+                        "The Machine Data Insights team within Advanced IoT Analytics is seeking a talented and motivated Senior Data Scientist to lead important projects in product development analytics, aftermarket analytics, demand forecasting analytics, and other strategic analytics areas of focus",
+                        "This role will require a skillset in advanced statistical modeling and machine learning techniques for time series forecasting as well as domain knowledge of industrial equipment",
+                        "The Senior Data Scientist bears primary responsibility for solving the business problem presented through applied analytics and acting as the technical lead for analytics teams",
+                        "He or she will participate on cross-functional project teams, provide overall guidance to the technical direction of the project, and mentor Jr Information Scientists on the technical approaches being used in order to solve a problem presented by a Caterpillar Business Unit or Service Organization, a Caterpillar Dealer, or a Caterpillar Customer",
+                        "Demonstrate a breadth of knowledge in the application of statistical methods and/or digital methods to solve business problems Coach and mentor other Information Scientists in the creation, validation, and application of statistical models, machine learning models, as well as in implementing digital solutions; Participate on 2-3 projects concurrently Demonstrate thorough knowledge of Caterpillar Inc.; its products and services; its internal systems, processes, and procedures; and its relevant external influences (competitors, laws and regulations, market conditions, etc.)",
+                        "to meet or exceed customer expectations",
+                        "Demonstrate strong initiative to research and apply new methods to exceed customer expectations",
+                        "Have a strong focus on continual learning in the Analytics field Significant challenges of this position are working with people; enhancing the team's creativity; maintaining knowledge of approaches used in similar projects; and pushing the technical bounds of experimentation while meeting customer commitments",
+                        "The Senior Data Scientist acts as overall technical lead for the team in establishing a sound analytic approach for solving the problem at hand",
+                        "The Senior Data Scientist will develop good networks within the technical community to enable them to collaborate on technical solutions, obtain resources and cooperation needed, and remove roadblocks so that they can ensure the success of their team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$100K -- $150K"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.caterpillar.com/",
+                    "text": "caterpillar.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Caterpillar,+Inc&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCJML",
+                    "text": "See web results for Caterpillar, Inc"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBTY2llbnRpc3QgKFRpbWUgU2VyaWVzIEZvcmVjYXN0aW5nIGZvciBBZHZhbmNlZCBJb1QgQW5hbHl0aWNzKSBhdCBDYXRlcnBpbGxhciwgSW5jIGluIENoaWNhZ28sIElMIiwiaHRpZG9jaWQiOiJEc1ZxV2VSUVlPSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNDQ3JjQ1FVVnpOMnBPVTI1SFRVNWFOR2h4U3poV1JIRlNZVXBqYjNvd1IzZEJjRzlCTlcxSFJtTmFaRmxVTWxCWGQzcEhTRlZrWTJKRFpHWkxNamRIYTNCT09YaEdhV2R2VXkxVU4wZzRXa3g0V1hONGJtOXlkbTVOVUV4Q2RWWTRReTFaWlVOWk5EVkdjWGw0WTNGMVkxZFNkRzg0VEZwSlFpMTNXa0p6Wm1Gd05FWnRlRzFYVlhwVGJYWkliV1JDUVdOS2JVRXhZMU5OTlc0d1JXZEtTMDFLWVhCdmJtVjNRVmg1VFUxS1NreFBabDlUY1d4clpqaFFkR0p5Ym1SQldXaDJSM0EyVlV0Q00zTlZkbDlpTVRaWGVuWmlhbXhCUkdadFRGOXRZV1ppTUZoa1RVSmplVXhqUm5oVFZVZEpiRGRGUm0xSU9HNUZWbEl6U1Y5cWVuVlhURTF4WjBsRU5GTnlkRVI0ZW1wclIxWmhhMEZYTUhwdWFqTlBPVFZZYTFvNWFtaFNaWEZWWm5oa2IybEtlRTAzWkRGb2J6Rk1OM01TRnpWaWF6bGFUVlJoUTNOeWJEVk9iMUJvTlhsU09FRkpHaUpCVHkwd2NtdzFlVGgwV21ZNE5uWkpkVWRJVlZOMFRYVllZVFpuVkhvd2JWZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIENoaWNhZ28sIElMIC0gR2VlYm8iLCJsaW5rIjoiaHR0cHM6Ly9jaGljYWdvLWlsLmdlZWJvLmNvbS9qb2JzLW9ubGluZS92aWV3L2lkLzEwNDQwNjU5MDEtc3ItZGF0YS1zY2llbnRpc3QtdGltZS0vP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Business Analyst (Time Series Modeling)",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Important Points:\n\n(1) Attachment: Raw Excel Data...\n\n(2) Main Objective: Predict the Domestic Market (Contract) Blow Molding, Low price.\n\n(3) Build a univariate ARIMA, LSTM, and Lazy Predict with thoughtful features from the list.\n\nIf you can add any other models that would be great. For the final model please highlight\n\ntime period where the confidence level went down for historic forecasts.\n\n(a) Use a combination of models of your choice to benchmark the accuracy, you can\n\nuse both classification (up or down), or time series models. Our preferred models\n\nare MLP, RNN, LSTM, or GRU - for time series, and Logistic, Random Forest,\n\nNaive Bayes Classifier for classification. You are free to use other models\n\n(4) Evaluation table. Show RMSE, MSE, R2, and also convert directional accuracy\n\nmeasure. Present a comprehensive model reliability matrix with error and classification\n\nmetrics.\n\n(a) final model performance benchmarking table, show the results and performance\n\nmetrics for all your models for t+1, 2, 3, etc.. Determine which model is better or\n\nworse based on RMSE, MSE, Directional accuracy, etc..\n\n(5) Last but not least use the features space, correlation or other analysis (like XGBoost) to\n\nhighlight from point one which feature space indicator might help explain from point 1\n\ntime periods when confidence level went down historically.\n\n(4) Provide a report with succinct visualization of results and all your different .py scripts (class\n\nobject oriented good scripting practices) and final Python notebook.\n\nhttps://drive.google.com/file/d/1EQ7JBhWLAhhrX2wSOTONB9MvOoKMbcoE/view\n\nhttps://docs.google.com/spreadsheets/d/1BSO9_52GLGwe2WrtB3TpS9QqXGk3mM0L/edit?usp=sharing&ouid=109654441412058597015&rtpof=true&sd=true",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "(2) Main Objective: Predict the Domestic Market (Contract) Blow Molding, Low price",
+                        "(3) Build a univariate ARIMA, LSTM, and Lazy Predict with thoughtful features from the list",
+                        "Show RMSE, MSE, R2, and also convert directional accuracy",
+                        "Present a comprehensive model reliability matrix with error and classification",
+                        "(a) final model performance benchmarking table, show the results and performance",
+                        "metrics for all your models for t+1, 2, 3, etc.",
+                        "(4) Provide a report with succinct visualization of results and all your different .py scripts (class"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCNIL",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBBbmFseXN0IChUaW1lIFNlcmllcyBNb2RlbGluZykiLCJodGlkb2NpZCI6IkUwLVNpQ1BFbllVQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VVFZSVGtGalVFTmZiWHBsUW1kNWNXTk9ObEJXTmt0aFZEQjFaa1pOZUVwak5sOWlha0ZEY0VocVNGTjZRMFZoVTJ4eWJFUk5ZekJaY0RSamVUVndUakpFY25sUmJuUXdOa2RxY2pGT1NsQmpSblpwVG1FeWVWbHBTMlJCUkhkUWRWTllTVGg0TVZOUVNHRTJkRFZ1TkdWMlRqSjJhbDl0VVUxdGQwZDROa2xCTWxoNGJGaGhUelpmYjI0dFFXVmtTMnhDYWpKSmVqZ3ljbVoxYUZrNWNDMU5ibUZOVFdFNFNtVkZVRWRaY0UxdFJXSmxORUpHZVhaelRVNVJVMFpMVjNCRFNpMTVFaGMxWW1zNVdrMVVZVU56Y213MVRtOVFhRFY1VWpoQlNSb2lRVTh0TUhKc05tSjJla3B0VURZMUxUTTRNbGRUV2xGVlJUTjZVRmw2WTBwSGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9CdXNpbmVzcy1BbmFseXN0LVRpbWUtU2VyaWVzLU1vZGVsaW5nX34wMWM2NDBhZTliOGI2YzZlOTMvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Simulate simple Mathematical model for nonlinear dynamical time...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "- implement mathematical model which can capture dynamics of nonlinear the system.\n\n-need to modify the model structure mentioned in the article which is involvement of memory inside the model...\n\n-plots the required graphs\n\n-Need validation results to show the effectiveness of model structure.\n\n",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "implement mathematical model which can capture dynamics of nonlinear the system",
+                        "need to modify the model structure mentioned in the article which is involvement of memory inside the model",
+                        "plots the required graphs",
+                        "Need validation results to show the effectiveness of model structure"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCI0M",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTaW11bGF0ZSBzaW1wbGUgTWF0aGVtYXRpY2FsIG1vZGVsIGZvciBub25saW5lYXIgZHluYW1pY2FsIHRpbWUgc2VyaWVzIGRhdGEuICAgLSBDb250cmFjdCB0byBIaXJlIiwiaHRpZG9jaWQiOiJ0d1dpN0NQYUtlSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlDQ3FJQ1FVVnpOMnBPVkhNeVNWZHJRakkyUmtobGFVVjZjbFoxVEU1aFFXeHlSMFJZUkVoTk9VSnBOVlZxUTNOMmNHdHpjRmRRU0Rsa0xVOVhia3h3Wmt0blZtSlJhSFJKTFU5TmIzcEZTMWhJTVdKcmVtMVZWMVJpU0ZGNlptRnhWRkpIUmpGa1ZYbExURVZZWWpNd1pYUmxSRVo1V0Rkak0yVkhlR0pHV2xkbmNtSktXVnBqYkhOTGRtZEtlbmxqYW1KbFZ6aEhVR3hmY201M1dFWnRkQzFMY21Obk9XSnplVEZrV2t0UmNVbFBlblp2YmxkR2FIbDFVMU5sYjFndGVEVnFOMVZ6TW1GNlozQnlYMFZHVURCblQzQTFZbGxyVEZwT1JsUTJkbTVhUzB4WlJISkpaR2h6VWxSR1pIaFRVbGh6ZG0xVFdVNHphR2hUTlV4TWQxWldTRFozWVVkcldtSjJVWGRXVUMxaE5tMWhaV0ZZTVhrMFpXRjFUR0YyWWtkTFUxRVNGelZpYXpsYVRWUmhRM055YkRWT2IxQm9OWGxTT0VGSkdpSkJUeTB3Y213MFMwWjNiMFZQU0RkUlVVeE9ZblJWTlRWeFdVMTVSMlV5WDNCUiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gVXB3b3JrIiwibGluayI6Imh0dHBzOi8vd3d3LnVwd29yay5jb20vZnJlZWxhbmNlLWpvYnMvYXBwbHkvU2ltdWxhdGUtc2ltcGxlLU1hdGhlbWF0aWNhbC1tb2RlbC1mb3Itbm9ubGluZWFyLWR5bmFtaWNhbC10aW1lLXNlcmllcy1kYXRhX34wMWNlYWYzMDc0OWMzM2EyYjEvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Timseseries ML Expert",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "We are looking for an experienced Time Series expert, Your role involves carrying out data analysis, developing time series predictive models, and designing dashboards to represent and convey insights from the models. You must have expertise in Python programming and experience with time series modeling techniques. If you are a motivated individual with a passion for time series analysis, we... would love to hear from you.\n\nResponsibilities:\n\n-Conduct exploratory data analysis on time series data to identify trends and patterns.\n\n-Develop and implement predictive models for time series data using Python, including but not limited to ARIMA, LSTM, Prophet, and other time series modeling techniques.\n\n- Evaluate model performance and iteratively refine models to improve accuracy and reliability.\n\n-Create visualizations to communicate insights derived from time series modeling",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You must have expertise in Python programming and experience with time series modeling techniques"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We are looking for an experienced Time Series expert, Your role involves carrying out data analysis, developing time series predictive models, and designing dashboards to represent and convey insights from the models",
+                        "Conduct exploratory data analysis on time series data to identify trends and patterns",
+                        "Develop and implement predictive models for time series data using Python, including but not limited to ARIMA, LSTM, Prophet, and other time series modeling techniques",
+                        "Evaluate model performance and iteratively refine models to improve accuracy and reliability",
+                        "Create visualizations to communicate insights derived from time series modeling"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwiE4aTu7bH-AhXKMlkFHQdOBC4QmJACCMoM",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "6 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJUaW1zZXNlcmllcyBNTCBFeHBlcnQiLCJodGlkb2NpZCI6IlRQNjNvd2ItRUNFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9Vemh6Wm1SbFFuSnZWR05WY2s0d2VGOUhkakpYYzFodk5XRmtNRVl6ZFRReU1tSkRieTF2WkU5U1kzaDNaVUZRTW5aTk9FUmxZbmhGU3pOTVJFTnBibGhMYUVOMU1rODBiMmR3UjFocVdtWnZZVE0zZERVNWJWSnFWVWhRY2pobVZtY3hjVmhQYzJvd1Z6SkNUM1ExVld0MVluVlVVRTV4UmxkR1FrbzJkemREVEhSYVlXSm5UVlZsY2tnNFdGRnZWM1l6WDFKWWIyaDJia3RJT1Y5WmVGcElUazl2VDBsdVQybGFNbkF0UmxCSkVoYzFZbXM1V2sxVVlVTnpjbXcxVG05UWFEVjVVamhCU1JvaVFVOHRNSEpzTlcxTWVHOU9OR3RVVmpGcmVrbHhMVWxuTXpsNVRsRjRPSHBrZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9UaW1zZXNlcmllcy1FeHBlcnRffjAxZGU3YzQ0ZDM5YTAwZWYzOS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Business analyst",
+                    "value": "business analyst"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Pasadena, CA",
+                    "value": "UQszONzCwoBKj9EaFkErBQ=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Westborough, MA",
+                    "value": "2VmVM-4K5Imq6wnVZ6zvFg=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Caterpillar, Inc",
+                    "value": "/m/0319hp"
+                },
+                {
+                    "text": "NASA Jet Propulsion Laboratory California Institut",
+                    "value": "/m/0467p"
+                }
+            ]
+        }
+    ]
+}

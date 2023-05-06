@@ -1,0 +1,1304 @@
+{
+    "search_metadata": {
+        "id": "643db9df2fe3026efeedbe97",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/58c28b022fab06b5/643db9df2fe3026efeedbe97.json",
+        "created_at": "2023-04-17 21:27:59 UTC",
+        "processed_at": "2023-04-17 21:27:59 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=deep+learning&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=40",
+        "raw_html_file": "https://serpapi.com/searches/58c28b022fab06b5/643db9df2fe3026efeedbe97.html",
+        "total_time_taken": 1.68
+    },
+    "search_parameters": {
+        "q": "deep learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 40
+    },
+    "jobs_results": [
+        {
+            "title": "Senior machine learning engineer needed for technical interview",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "I am looking for a Senior machine learning engineer to help with the technical interview stage, preparation and verification of test tasks. Hourly payment.",
+            "job_highlights": [
+                {
+                    "items": [
+                        "I am looking for a Senior machine learning engineer to help with the technical interview stage, preparation and verification of test tasks. Hourly payment."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIuwk",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "35\u201370 an hour",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Contractor",
+                "salary": "35\u201370 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgbWFjaGluZSBsZWFybmluZyBlbmdpbmVlciBuZWVkZWQgZm9yIHRlY2huaWNhbCBpbnRlcnZpZXciLCJodGlkb2NpZCI6IjVvaGN6YmFyMlNBQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9WR0pKWTFORWJGbGFiazl6VEdOVVZUTmtXVlZXYjFaclgwZEtaSEZOU0U4NGRHMHliVWQxTVVwc1IxTjZlbE5VU1RsNE55MVZUakJLTFdreVQzUXhUV0prWjJwMWFIcEpXR1F6Vm5sVFUxWm5NRU41UXpBeGRHbGhZWGhVVTJKa00zVkVlSFpOVGt3NFIwSTJaVWt0YzFOeFYybG5SR3QwYzNsWVVuQldNMFF3VUc5VFdXWlBUVUZtVUVGalVGTndOM05WWVZSMFNGOXlMWFY2TkhkNU5sSktaVmR1VkdSUVkwbHRja052Y1hZdFVtbFZiMmhHY0RsNllURXRabFF3TlZJeE0yVnBXWEpDVUZWR2IweFdZVFZaUzA5eGFUZzRXVlpZVVJJWE16ZHJPVnBPVjBOTlQybFNjMlZOVUd4YWVYTnBRVEFhSWtGUExUQnliRFZ5TjFWcmRXTmpRMmRaVmpSS2JTMXhWbTE1ZUdWWldteERiMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L1Nlbmlvci1tYWNoaW5lLWxlYXJuaW5nLWVuZ2luZWVyLW5lZWRlZC1mb3ItdGVjaG5pY2FsLWludGVydmlld19+MDE4NzQ3ZTVjZTViMzUyM2NhLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Sr. Deep Learning Optimization Engineer",
+            "company_name": "Rivian",
+            "location": "  California   ",
+            "via": "via Goodgigs",
+            "description": "Role Summary\n\nAs a Deep Learning Optimization Engineer you will be a member of the Deep Learning team at Rivian, which develops advanced machine learning algorithms that directly impact safety and self-driving features of our vehicles. One of the core responsibilities of the team is to create the infrastructure needed to support CI/CD of Deep learning algorithms and enable large scale distributed... training.\n\nResponsibilities\n\u2022 Develop and support Deep learning/ Machine Learning algorithms such as optimization in large scale distributed training, Neural Architecture Search, domain adaptation, multitask learning, intelligent sampling, and active learning\n\u2022 Resource-aware optimizations for Deep learning Models to improve latency and memory utilization\n\u2022 Identify and resolve DL model inference bottlenecks on embedded platform by evenly distribution of compute across layers\n\u2022 Support mixed precision DL model training/development and deployment of the model on embedded system.\n\u2022 Collaborate with Infra team to support CI/CD tooling and interfaces to support rapid benchmarking, analysis and optimization of our inference models, hyper-parameter tuning, and data visualization.\n\nQualifications\n\u2022 MS. or Ph.D. in Electrical, Mechanical, or Aerospace Engineering, Computer Science, or a related field\n\u2022 3+ years of experience\n\u2022 Research and development experience in one or more of the following areas:\n\u2022 AutoML, NAS, Evolutionary Architecture Search\n\u2022 Optimizing and deploying inference on embedded processors\n\u2022 Experience working on GPU clusters/ training at scale on cloud\n\u2022 Experience defining compute architecture for efficient Deep learning inferencing\n\u2022 Strong Python programming background\n\u2022 Good Understand the fundamentals of Deep learning with industrial experience\n\u2022 Experience with frameworks such as TensorFlow, MxNet, PyTorch.\n\u2022 Familiarity with DL model optimization strategies such as pruning, quantization, AutoML for model compression, Neural Architecture Search\n\u2022 Ability to work in a fast-paced development environment\n\u2022 Good team player with great communication skills\n\u2022 Passionately motivated to take ideas from R&D phase to a product\n\nPreferred Skills\n\u2022 Productization of inference models on embedded platforms\n\u2022 Experience with training and network optimization\n\u2022 Experience in automotive applications\n\u2022 Prototyping real-time applications\n\u2022 Software development for safety critical systems (ISO 26262",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "MS",
+                        "or Ph.D. in Electrical, Mechanical, or Aerospace Engineering, Computer Science, or a related field",
+                        "3+ years of experience",
+                        "Research and development experience in one or more of the following areas:",
+                        "AutoML, NAS, Evolutionary Architecture Search",
+                        "Experience working on GPU clusters/ training at scale on cloud",
+                        "Experience defining compute architecture for efficient Deep learning inferencing",
+                        "Strong Python programming background",
+                        "Good Understand the fundamentals of Deep learning with industrial experience",
+                        "Experience with frameworks such as TensorFlow, MxNet, PyTorch",
+                        "Familiarity with DL model optimization strategies such as pruning, quantization, AutoML for model compression, Neural Architecture Search",
+                        "Ability to work in a fast-paced development environment",
+                        "Good team player with great communication skills",
+                        "Passionately motivated to take ideas from R&D phase to a product"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Deep Learning Optimization Engineer you will be a member of the Deep Learning team at Rivian, which develops advanced machine learning algorithms that directly impact safety and self-driving features of our vehicles",
+                        "Develop and support Deep learning/ Machine Learning algorithms such as optimization in large scale distributed training, Neural Architecture Search, domain adaptation, multitask learning, intelligent sampling, and active learning",
+                        "Resource-aware optimizations for Deep learning Models to improve latency and memory utilization",
+                        "Identify and resolve DL model inference bottlenecks on embedded platform by evenly distribution of compute across layers",
+                        "Support mixed precision DL model training/development and deployment of the model on embedded system",
+                        "Collaborate with Infra team to support CI/CD tooling and interfaces to support rapid benchmarking, analysis and optimization of our inference models, hyper-parameter tuning, and data visualization",
+                        "Optimizing and deploying inference on embedded processors"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.rivian.com/",
+                    "text": "rivian.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Rivian&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIgQo",
+                    "text": "See web results for Rivian"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGVlcCBMZWFybmluZyBPcHRpbWl6YXRpb24gRW5naW5lZXIiLCJodGlkb2NpZCI6Ii1wSGllMWQ5dXRFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VM2cyVm1GR1lXWnBVbGd6ZUdkdVlrMXFhRE4yVkhaeE4za3lPVkZQYUcxSGFuVTJRbGxKU1hKTk1YcFRkRTF3YVRWVlMxcFFUVEZZYkdKcVRrdGZWVzEwWTNSak4yaFRNV3RtWkVvM09XUnhkMWhWZDBFdGREbFJkRWxCTW5GV1ZUQTRVREkwUzFwSFZGZEVUalU0WjJsbFRuZFROREkwU1VKSE1sZ3hha1pGVlV4aFZFdGZZWE42ZVZOT1YwOU9NSEJuYUcxSlNYaEJiV1ZOYmxGRlEyRjFNV1ZQWnpkQ1kxSlhjMFo2TVdaemVWZE5ibTlCU0UxQ1dXaERWelpUUkhFd1ZVeHFFaGN6TjJzNVdrNVhRMDFQYVZKelpVMVFiRnA1YzJsQk1Cb2lRVTh0TUhKc05ERllhazg1ZG1saGRuZFBTMkU0VW01TExVMXpNemsyYlRkdlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBHb29kZ2lncyIsImxpbmsiOiJodHRwczovL2dvb2RnaWdzLmFwcC9qb2Ivc3ItZGVlcC1sZWFybmluZy1vcHRpbWl6YXRpb24tZW5naW5lZXItYXQtcml2aWFuP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "company_name": "mozee",
+            "location": " Anywhere ",
+            "via": "via AngelList",
+            "description": "The Role:\n\nML is of critical importance to Mozee's mission. It is safer, makes our rides more enjoyable, and will ultimately deliver on the promise of self-driving robo taxis. As a member of Mozee's AI Simulation team, you will be in a unique position to accelerate the pace at which our AI improves over time. The main ways in which the simulation team realizes this include...\n\nBuilding tools that enable our software developers to perform virtual test drives instead of real ones.\n\nTesting all code changes and software releases for regressive behavior.\n\nGenerating synthetic data sets and reinforcement learning pipelines for neural network training.\n\nAs an Machine Learning Engineer at mozze, you will contribute to the development of mozze's simulation by enabling and accelerating the creation of photo realistic 3D scenes through neural rendering, neural animation, scene/object reconstruction. More broadly we are looking for experts in these fields:\n\nNeural rendering\n\nNeural animation\n\nObject reconstruction\n\nEnvironment reconstruction\n\nScenario reconstruction\n\nRequirements:\n\nExpert level Python Skills\n\nThe team operates in a production setting. An ideal candidate has strong software engineering practices and is very comfortable with Python programming, debugging/profiling, and version control.\n\nWe train neural networks on a cluster in large-scale distributed settings. An ideal candidate is very comfortable in cluster environments and understands the related computer systems concepts (CPU/GPU interactions/transfers, latency/throughput bottlenecks during training of neural networks, CUDA, pipelining/multiprocessing, etc).\n\nWe are at the cutting edge of deep learning applications. The ideal candidate has a strong understanding of the under the hood fundamentals of deep learning (layer details, backpropagation, etc). Additional requirements include the ability to read and implement related academic literature and experience in applying state of the art deep learning models to computer vision (e.g. segmentation, detection) or a closely related area (speech, NLP).\n\nExperience with PyTorch, or at least another major deep learning framework such as TensorFlow, MXNet.\n\nSome experience with data science tools including Python scripting, numpy, scipy, matplotlib, scikit-learn, jupyter notebooks, bash scripting, Linux environment.\n\nAbout Mozee\n\nMozee is on a mission to develop the first fully autonomous vehicle fleet and the ecosystem needed to bring this technology to market. As a company at the intersection of robotics, machine learning, and design, we aim to provide innovative mobility-as-a-service in urban environments. We are seeking top talent who are passionate about what we do and want to be part of a dynamic and highly-focused team.\n\nmozee focuses on Mobile, Artificial Intelligence, Transportation, Software Engineering, and Artificial Intelligence / Machine Learning. Their company has offices in Texas. They have a small team that's between 11-50 employees. To date, mozee has raised $15M of funding; their latest round was closed on March 2023 at a valuation of $50M.\n\nYou can view their website at https://mozeealong.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "An ideal candidate has strong software engineering practices and is very comfortable with Python programming, debugging/profiling, and version control",
+                        "An ideal candidate is very comfortable in cluster environments and understands the related computer systems concepts (CPU/GPU interactions/transfers, latency/throughput bottlenecks during training of neural networks, CUDA, pipelining/multiprocessing, etc)",
+                        "The ideal candidate has a strong understanding of the under the hood fundamentals of deep learning (layer details, backpropagation, etc)",
+                        "Additional requirements include the ability to read and implement related academic literature and experience in applying state of the art deep learning models to computer vision (e.g. segmentation, detection) or a closely related area (speech, NLP)",
+                        "Experience with PyTorch, or at least another major deep learning framework such as TensorFlow, MXNet",
+                        "Some experience with data science tools including Python scripting, numpy, scipy, matplotlib, scikit-learn, jupyter notebooks, bash scripting, Linux environment"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Building tools that enable our software developers to perform virtual test drives instead of real ones",
+                        "Testing all code changes and software releases for regressive behavior",
+                        "Generating synthetic data sets and reinforcement learning pipelines for neural network training",
+                        "As an Machine Learning Engineer at mozze, you will contribute to the development of mozze's simulation by enabling and accelerating the creation of photo realistic 3D scenes through neural rendering, neural animation, scene/object reconstruction"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=mozee&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIvwo",
+                    "text": "See web results for mozee"
+                }
+            ],
+            "extensions": [
+                "125K\u2013170K a year",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "125K\u2013170K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJJZFJyQ2FncnNtY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVVnpOMnBPVTFKRVdGZFZXblZZZGt0dk1FdDFURTkxVVhkS2JUQnlOa28xT0hSTGR6aGlObVJEU25GSVRFVTBhR1ZhV2xoa1IxVk1RMTlPWVhkQ1lrZzJNbWRvYTNGNWJWWTRaRnBhVGt4WFNqbGlWRFI0TWs5UlZFRjNZemRYUmxoc1NVZHlOR2RIZVZsWlIwOUVWR1JPZVVSdGNEQkNZMVYxTTA1RVpYSmtlR1V0Y0c1NmJqZGlla1ExWjJGV1kxZHZUbXBRYkd4VWRtdENNR05tUTJsQkVoY3pOMnM1V2s1WFEwMVBhVkp6WlUxUWJGcDVjMmxCTUJvaVFVOHRNSEpzTjFaalR6QkNiMUo2Ym5OWWFVMU5VbUZ6Y2xwTk9HZFNVa0Z4UVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEFuZ2VsTGlzdCIsImxpbmsiOiJodHRwczovL3dlbGxmb3VuZC5jb20vY29tcGFueS9tb3plZS9qb2JzLzE5NDA3MjEtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "JUNIOR AND SENIOR DEEP LEARNING ENGINEERS",
+            "company_name": "Innopeak Tech Inc",
+            "location": "  Palo Alto, CA   ",
+            "via": "via International Symposium On Visual Computing",
+            "description": "Key Responsibilities:\n\nWork in a collaborative environment to develop cutting-edge deep learning algorithms and software...\n\nEngage in cutting-edge research in computer vision and deep learning to solve real-world problems for mobile use cases.\n\nIdeate, prototype, test and launch future technologies.\n\nMinimum Qualifications:\n\nSenior Engineers: PhD degree in Electrical Engineering, Computer Engineering, Computer Science, with 3 to 5 years of industry experience or masters degree with additional equivalent industry experience.\n\nJunior Engineers: PhD degree in Electrical Engineering, Computer Engineering, Computer Science, fresh graduates to 3 years of industry experience or masters degree with additional equivalent industry experience.\n\nTrack record of developing demanding deep learning algorithms and applications.\n\nStrong mathematical foundation in machine learning and deep learning.\n\nExperience working with deep learning frameworks like Caffe, TensorFlow, Theano and MxNet.\n\nStrong programming skills in C, C++, Perl, or Python.\n\nStrong background in computer architecture.\n\nExperience with systems-level performance modeling, profiling, and analysis.\n\nExperience in characterizing and modeling of system-level performance, executing comparison studies and documenting and publishing results.\n\nPreferred Qualifications:\n\nFamiliarity with GPU computing (CUDA, OpenCL) and HPC (MPI, OpenMP).\n\nStrong background in smartphone architecture.\n\nStrong track record of Android development.\n\nHands-on experience on developing deep learning neural networks on mobile platforms.\n\nInnoPeak Technology is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Junior Engineers: PhD degree in Electrical Engineering, Computer Engineering, Computer Science, fresh graduates to 3 years of industry experience or masters degree with additional equivalent industry experience",
+                        "Track record of developing demanding deep learning algorithms and applications",
+                        "Strong mathematical foundation in machine learning and deep learning",
+                        "Experience working with deep learning frameworks like Caffe, TensorFlow, Theano and MxNet",
+                        "Strong programming skills in C, C++, Perl, or Python",
+                        "Strong background in computer architecture",
+                        "Experience with systems-level performance modeling, profiling, and analysis",
+                        "Experience in characterizing and modeling of system-level performance, executing comparison studies and documenting and publishing results",
+                        "Familiarity with GPU computing (CUDA, OpenCL) and HPC (MPI, OpenMP)",
+                        "Strong background in smartphone architecture",
+                        "Strong track record of Android development",
+                        "Hands-on experience on developing deep learning neural networks on mobile platforms"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work in a collaborative environment to develop cutting-edge deep learning algorithms and software",
+                        "Engage in cutting-edge research in computer vision and deep learning to solve real-world problems for mobile use cases"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Innopeak+Tech+Inc&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAII_Qo",
+                    "text": "See web results for Innopeak Tech Inc"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJKVU5JT1IgQU5EIFNFTklPUiBERUVQIExFQVJOSU5HIEVOR0lORUVSUyIsImh0aWRvY2lkIjoicG91VUJTc1lEdG9BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VWQjVaVmhvWVZSbVRUbHlVVzFzUzJac2EybFRaVnBaY1RCcGVXb3dZbVoxVlZkWVZHbGFWMVZ5VFhad1ZGcEJOVEJsTjFrMGJqZzJNbmN5UW01TGNsVTJiRmhXWm5aMWRuWktRVXRJWjBkNFVsOXVNRTFhVURnelgydDBlWFZuYkdkaGFsOTZUMVU0TVhCWFZVNDViRVpDZWpKS1R6VkVYMUpzWW5wT2FsWktjMjluVGtSa05XOXRSRkpzZEV0elpXNVphMkZpU1dOVWNHUnBkM2h5VUc1WlNWOU9aVTlJVEMwM1prd3pkbWhYYlVSTWQyazRNRTUxUnpFd1QycGpNakJoUjBWRE1ITTJZbmhCYVhoNmRYZG1VMEZWVDNjelRIRjRaeElYTXpkck9WcE9WME5OVDJsU2MyVk5VR3hhZVhOcFFUQWFJa0ZQTFRCeWJEWXpXSGcwWkZKa2VVaExPRzVSY20xbGNVUnZUWFpsVVZkM1ExRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSW50ZXJuYXRpb25hbCBTeW1wb3NpdW0gT24gVmlzdWFsIENvbXB1dGluZyIsImxpbmsiOiJodHRwczovL3d3dy5pc3ZjLm5ldC9pbmRleC5waHAvam9iL2lubm9wZWFrLXRlY2gtaW5jLXBhbG8tYWx0by1jYS0xMC1qdW5pb3ItYW5kLXNlbmlvci1kZWVwLWxlYXJuaW5nLWVuZ2luZWVycy8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "(Senior) Scientist, Deep Learning",
+            "company_name": "Flagship Pioneering",
+            "location": "  Cambridge, MA   ",
+            "via": "via Flagship Pioneering - Talentify",
+            "description": "At Flagship Pioneering, we conceive, create, resource, and develop first-in-category life sciences companies to transform human health and sustainability. We\u2019ve created over 100 scientific ventures, including the now familiar drug and vaccine innovator, Moderna Therapeutics.\n\nSince its inception in 2000, many of our companies have leveraged advances in computing, big data and AI. In recent years... this trend has accelerated with first-in-category life science companies such as Generate Biomedicines, Cellarity, Valo and many others that are creating breakthrough innovations using AI and ML technologies.\n\nWe are looking for extraordinary computational scientists, engineers, and entrepreneurs to work alongside individuals within the Flagship Ecosystem focused on solving the most impactful challenges in AI and the life sciences.\n\nDescription\n\nThe Deep Learning ML scientist will envision and drive core research directions. They will work closely with an interdisciplinary team to design and implement novel deep learning solutions to problems in the biological sciences. This is an exciting opportunity to be part of a fast-paced, highly dynamic entrepreneurial environment.\n\nKey Responsibilities:\n\u2022 Conduct multidisciplinary research at the intersection of statistics, math, and biology.\n\u2022 Develop cutting-edge DL-based solutions for fundamental problems in biology and human health.\n\u2022 Apply insights from working on an array of biological problems to furthering research in other ML applications and theoretical principles.\n\u2022 Develop clear, intuitive visualizations. Communicate analysis results via presentations to a multi-disciplinary audience.\n\u2022 Cultivate a data-centric and process-oriented company philosophy by creating and maintaining best practices for software development, data management, and infrastructure.\n\u2022 Monitor and evaluate new and emerging technologies and models and identify opportunities for collaboration within Flagship Pioneering companies, academia, and third-parties.\n\nBasic Requirements:\n\u2022 PhD in Machine Learning, Computer Science, Statistics, Math, or other related fields.\n\u2022 Experience in deep learning research.\n\u2022 Experience with efficient prototyping, designing experiments, and planning research projects.\n\u2022 Fluency in Python and standard ML tools and packages.\n\u2022 Strong publication record.\n\u2022 Motivated and team oriented, with an ability to thrive in an entrepreneurial and multidisciplinary environment.\n\u2022 Excellent communication and presentation skills. Must be able to think independently and work collaboratively.\n\nPreferred Requirements:\n\u2022 Familiarity with common tools: Git, cloud/cluster computing, UNIX environments, shell scripting.\n\u2022 Have worked on problems in: representation learning; generative modeling; GNNs and geometric learning; category theory applied to ML; reinforcement learning.\n\nFlagship Pioneering and our ecosystem companies are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.\n\nRecruitment & Staffing Agencies*: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, \u201cFSP\u201d) do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering\u2019s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD in Machine Learning, Computer Science, Statistics, Math, or other related fields",
+                        "Experience in deep learning research",
+                        "Experience with efficient prototyping, designing experiments, and planning research projects",
+                        "Fluency in Python and standard ML tools and packages",
+                        "Strong publication record",
+                        "Motivated and team oriented, with an ability to thrive in an entrepreneurial and multidisciplinary environment",
+                        "Excellent communication and presentation skills",
+                        "Must be able to think independently and work collaboratively"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Deep Learning ML scientist will envision and drive core research directions",
+                        "They will work closely with an interdisciplinary team to design and implement novel deep learning solutions to problems in the biological sciences",
+                        "Conduct multidisciplinary research at the intersection of statistics, math, and biology",
+                        "Develop cutting-edge DL-based solutions for fundamental problems in biology and human health",
+                        "Apply insights from working on an array of biological problems to furthering research in other ML applications and theoretical principles",
+                        "Develop clear, intuitive visualizations",
+                        "Communicate analysis results via presentations to a multi-disciplinary audience",
+                        "Cultivate a data-centric and process-oriented company philosophy by creating and maintaining best practices for software development, data management, and infrastructure",
+                        "Monitor and evaluate new and emerging technologies and models and identify opportunities for collaboration within Flagship Pioneering companies, academia, and third-parties"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.flagshippioneering.com/",
+                    "text": "flagshippioneering.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Flagship+Pioneering&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIvws",
+                    "text": "See web results for Flagship Pioneering"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiIoU2VuaW9yKSBTY2llbnRpc3QsIERlZXAgTGVhcm5pbmciLCJodGlkb2NpZCI6IktaQkFhaG8zdjMwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VWHBYUzBSc1JUQnhSbXQ1TlVSRmRqSmpRazVOU2pOcFNsZFZlWE5wUlhoc1FUQkVkM04zWlZkMVdGcDZOMFp5YkhBNVQybExRbmxwYVVRMFFVUnBiamcyTTFCT1ZHRmZUMHBsZFVKYWVsZzNUSFZSVW5jeWRuaHlkM2xOU1ZsamNHaHlWR1JRVTFjNE1XaFBUMFpFV21oVFRUbFdjbFJYZEhSeVRuUmlRMmxUUlRWRWFtZzJkMjgwU1ZsbU4ycENYMGRTVkMwNVRsQnFUalp5UVdoYWEycG5NREV0VERWWlQyaEpOVFF5YVhsWGVXMDFYMGxtWjBkMVVIWnZXRUZXTWtKc05VWTNXa0oxYkRaUVkyUjJOWG81TTJKS2JHZENOREZzVVJJWE16ZHJPVnBPVjBOTlQybFNjMlZOVUd4YWVYTnBRVEFhSWtGUExUQnliRFZZVkRSQ2VrVm9VRmR1Wlhwd2IxRXhSMU5IWVhwRWQzTm9iMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEZsYWdzaGlwIFBpb25lZXJpbmcgLSBUYWxlbnRpZnkiLCJsaW5rIjoiaHR0cHM6Ly9mbGFnc2hpcC1waW9uZWVyaW5nLnRhbGVudGlmeS5pby9qb2Ivc2VuaW9yLXNjaWVudGlzdC1kZWVwLWxlYXJuaW5nLWNhbWJyaWRnZS1tYXNzYWNodXNldHRzLWZsYWdzaGlwLXBpb25lZXJpbmctNjYwMDkwMDAwMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "company_name": "Unify Consulting",
+            "location": "  San Francisco, CA   ",
+            "via": "via Lever",
+            "description": "We\u2019re not like others, and neither are you. Unify Consulting is a collective of genuine, curious, seasoned consultants who unlock potential and deliver with purpose and excellence. We unify daring leaders to better the world and are always seeking co-creators, community-builders and truth-tellers who strive to multiply our positive impact.\n\nWe are currently seeking experienced Machine Learning... Engineers to join our growing Data Science & Machine Learning Engineering practice in Seattle, San Francisco, Silicon Valley, Dallas, Chicago, Sioux Falls, Fargo, and Salt Lake City. In this role, you will collaborate on the entire lifecycle of infrastructure and custom machine learning solutions delivery. As a senior member of the practice, your experience and expertise will provide mentorship to other consultants and advisement across projects.\n\nIdeal Candidate: You like to stay on the forefront of machine learning, data science and software engineering through novel project execution and development of machine learning pipelines for the deployment of algorithms that improve performance and effectiveness across business domains. This role requires a broad knowledge of Software Development Life Cycle, Machine Learning Life Cycle and DevOps processes.\n\nResponsibilities\n\u2022 Use your experience and communication skills to work across business & technology teams to productionize and deploy innovative data science models and algorithms\n\u2022 Collaborate with data science and engineering teams to deliver end-to-end machine learning solutions for our clients\n\u2022 Collaborate with platform teams and solution architects to evolve big data platforms and evaluate various data science technologies and services\n\u2022 Be a champion for an MLOps Center of Excellence and continuously refine Standard Operating Procedures\n\u2022 Clearly articulate highly technical methods and results to diverse audiences and partners to drive decision-making\n\nYou will be creating and delivering production-grade, machine learning solutions, built with automated, repeatable processes. This includes:\n\u2022 Designing end-to-end machine learning pipelines for building, training, tuning, deploying, and performing model inference\n\u2022 Designing terraform processes to create infrastructure and containers for training, serving, monitoring, and observing production ML\n\u2022 Standardizing repeatable processes for code, data, and pipeline versioning, experiment tracking and model registration\n\u2022 Designing strategies for continuous, adaptive and reinforcement learning\n\u2022 Integrating ML into business applications and build adaptive systems\n\u2022 Building automated orchestrations for the entire MLOps lifecycle\n\u2022 Designing, implementing and maintaining MLOps tools, processes, and platforms\n\nRequired Education\n\u2022 Bachelor\u2019s degree in Computer Science or related STEM program with relevant professional work experience\n\u2022 Additional higher education degree such as a Master\u2019s degree in Data Science is preferred\n\nRequired Experience\n\u2022 You have a proven record of building end-to-end machine learning pipelines and big data solutions using CI/CD, Continuous Training (CT) and MLOps\n\u2022 You have prior experience as a software engineer writing production code and working in the software development life cycle\n\u2022 Experience collaborating with cross-functional teams including Data Engineers, DevOps Engineers, and Data Scientists to deliver end-to-end solutions\n\u2022 Experience building operational pipelines and orchestrations\n\u2022 Experience building model management and monitoring solutions\n\u2022 Experience implementing model retraining and replacement strategies including A/B Testing, Challenger/Champion or Multi-Arm Bandits\n\u2022 Experience implementing feedback loop solutions that include continuous learning, adaptive learning, and reinforcement learning\n\u2022 Deep technical proficiency in Python and SQL working in cloud technology stacks (Azure, AWS, GCP)\n\u2022 Proficiency in PySpark, SparkSQL, Delta Lake and MLFlow\n\u2022 Experience with common data science toolkits and model development\n\u2022 Extensive knowledge of ML frameworks, libraries, data structures, data modeling, feature engineering, and software architecture patterns\n\u2022 Strong working knowledge of machine learning techniques, including linear and logarithmic regression, decision trees, probability networks, association rules, clustering, neural networks, and Bayesian models.\n\u2022 Experience with big data platforms (Hadoop, Spark, Hive), orchestration frameworks (Airflow), Infrastructure technologies (Terraform, Ansible, Kubeflow, Kubernetes, Docker), data science environments and libraries (Jupyter, Anaconda, Databricks, Sagemaker, Azure ML, Vertex AI, Sklearn, MLLib, NumPy) and CI/CD build and version management tools (Jenkins, Git, DVC)\n\u2022 Working knowledge of high velocity high volume streaming data frameworks (Kafka, Event Hubs, Stream Analytics), data transformation technologies (dbt), and deep learning libraries, such as Tensorflow and PyTorch, applications with NLP and computer vision, and geospatial processing\n\n$150,000 - $195,000 a year\n\nUnify Consulting, LCC provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type. Unify considers applicants regardless of race, color, creed, national origin, ancestry, sex, marital status, genetics, disability, religious or political affiliation, age, gender, sexual orientation, medical condition, pregnancy, or any other characteristic protected by federal, state or local laws. We encourage people of all backgrounds to apply",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s degree in Computer Science or related STEM program with relevant professional work experience",
+                        "You have a proven record of building end-to-end machine learning pipelines and big data solutions using CI/CD, Continuous Training (CT) and MLOps",
+                        "You have prior experience as a software engineer writing production code and working in the software development life cycle",
+                        "Experience collaborating with cross-functional teams including Data Engineers, DevOps Engineers, and Data Scientists to deliver end-to-end solutions",
+                        "Experience building operational pipelines and orchestrations",
+                        "Experience building model management and monitoring solutions",
+                        "Experience implementing model retraining and replacement strategies including A/B Testing, Challenger/Champion or Multi-Arm Bandits",
+                        "Experience implementing feedback loop solutions that include continuous learning, adaptive learning, and reinforcement learning",
+                        "Deep technical proficiency in Python and SQL working in cloud technology stacks (Azure, AWS, GCP)",
+                        "Proficiency in PySpark, SparkSQL, Delta Lake and MLFlow",
+                        "Experience with common data science toolkits and model development",
+                        "Extensive knowledge of ML frameworks, libraries, data structures, data modeling, feature engineering, and software architecture patterns",
+                        "Strong working knowledge of machine learning techniques, including linear and logarithmic regression, decision trees, probability networks, association rules, clustering, neural networks, and Bayesian models",
+                        "Experience with big data platforms (Hadoop, Spark, Hive), orchestration frameworks (Airflow), Infrastructure technologies (Terraform, Ansible, Kubeflow, Kubernetes, Docker), data science environments and libraries (Jupyter, Anaconda, Databricks, Sagemaker, Azure ML, Vertex AI, Sklearn, MLLib, NumPy) and CI/CD build and version management tools (Jenkins, Git, DVC)",
+                        "Working knowledge of high velocity high volume streaming data frameworks (Kafka, Event Hubs, Stream Analytics), data transformation technologies (dbt), and deep learning libraries, such as Tensorflow and PyTorch, applications with NLP and computer vision, and geospatial processing"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will collaborate on the entire lifecycle of infrastructure and custom machine learning solutions delivery",
+                        "As a senior member of the practice, your experience and expertise will provide mentorship to other consultants and advisement across projects",
+                        "Ideal Candidate: You like to stay on the forefront of machine learning, data science and software engineering through novel project execution and development of machine learning pipelines for the deployment of algorithms that improve performance and effectiveness across business domains",
+                        "Use your experience and communication skills to work across business & technology teams to productionize and deploy innovative data science models and algorithms",
+                        "Collaborate with data science and engineering teams to deliver end-to-end machine learning solutions for our clients",
+                        "Collaborate with platform teams and solution architects to evolve big data platforms and evaluate various data science technologies and services",
+                        "Be a champion for an MLOps Center of Excellence and continuously refine Standard Operating Procedures",
+                        "Clearly articulate highly technical methods and results to diverse audiences and partners to drive decision-making",
+                        "You will be creating and delivering production-grade, machine learning solutions, built with automated, repeatable processes",
+                        "Designing end-to-end machine learning pipelines for building, training, tuning, deploying, and performing model inference",
+                        "Designing terraform processes to create infrastructure and containers for training, serving, monitoring, and observing production ML",
+                        "Standardizing repeatable processes for code, data, and pipeline versioning, experiment tracking and model registration",
+                        "Designing strategies for continuous, adaptive and reinforcement learning",
+                        "Integrating ML into business applications and build adaptive systems",
+                        "Building automated orchestrations for the entire MLOps lifecycle",
+                        "Designing, implementing and maintaining MLOps tools, processes, and platforms"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$150,000 - $195,000 a year"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.unifyconsulting.com/",
+                    "text": "unifyconsulting.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Unify+Consulting&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAII_gs",
+                    "text": "See web results for Unify Consulting"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJiZ0ljZEwyM3MzNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVTI1cVUwMHlObE00V2xZMlJtTk1XVWxmZHkxNFNFSlNVRmRxWjJOTFpXcHJNVGN0VjB0NVVGbE5UMjh5VjJzeVpHMWpWRmcwUms1ZlZUQklUV00xWmtZNGJYQlRaR3MwWTJwUE5qUldObVowV2xjNU9UQlhiRkpIUlhOUmEyUlJkRFJ5ZG5kMWJrWnNNbUZJT0ROM2RuSlpSVTlYTXpoUlptRkdaMHBqVjNCWWNEQlRVVTlIY21kTFNqazNiVmhRV25WclFub3pPRll3YzNkM2EwdDNWR0ppY2xkNGJsSnZSbmhKYXpNelpVTklkVkZOVmpWMFIwVm1SMkV4VTBGQlUwOURObmRuRWhjek4yczVXazVYUTAxUGFWSnpaVTFRYkZwNWMybEJNQm9pUVU4dE1ISnNOMlozUm1RMVREWmlOSGgwWVZoNE1FRkpNamRqWlZaSVQwZDJRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExldmVyIiwibGluayI6Imh0dHBzOi8vam9icy5sZXZlci5jby91bmlmeWNvbnN1bHRpbmcvYmY5ZDM5OWYtYTUyYy00ZTA5LThjZTUtZGY3ZDA4ZTNiNGM5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Technical Product Owner - Deep Learning",
+            "company_name": "Premier System",
+            "location": "  Lincolnshire, IL   ",
+            "via": "via Indeed",
+            "description": "Technical Product Owner-Deep Learning\n\nPay $75 - $80 based on experience...\n\nPROJECT SCOPE:\nAs a Technical Product Owner (TPO), you will be responsible for translating Product Management requirements into Engineering through the use of Agile practices and common tooling. Specifically, you will author, organize, and groom Themes, Epics and User Stories in Jira and collaborate with Engineering teams on co-authoring functional requirements via child stories. This includes increasing the innovation velocity of all programs while making tradeoff decisions on when technical debt is acceptable in the early incubation periods of developing proofs of concept and when minimum viable product commitments begin to emerge.\n\u2022 Technical solution design skills/problem solving\n\u2022 Functional requirements definition skills\n\u2022 Ability to lead a product definition and delivery, engaging with higher level stakeholders and the technical delivery team\n\u2022 Ideally experience in the Voice of vision/Machine Learning domains\n\nThe Technical Product Owner will be a key linkage between Business Developers as early Product Managers and Engineering staff. Therefore, you will drive the creation of products from existing ideas and help to develop new ideas based on your experience and creativity. This role is both strategic and technical in nature and requires meaningful industry experience.\n\nRESPONSIBILITIES:\nThe position has responsibility for the successful realization of product requirements, managing between Product Management and Engineering in diverse solutions that will include AI/Machine Learning and may span domains such as Cloud Services, IoT Edge devices and more.\nThe Technical Product Owner ensures that they work with the Product Management and Program Management in broader communications of program status and progress.\n\u2022 Work closely with Product Management and Engineering to properly manage, forecast, and deliver on requirements per Agile program increments and sprint plans.\n\u2022 Manage variable and changing requirements via groomed backlogs, engineering commits and quality assurance testing (unit and system).\n\u2022 Manage product related communications to both internal and external associates. In some cases support customer requirements clarification and customer pilot deployments.\n\u2022 Collaboratively manage and own solution technology decisions to balance alignment with wider enterprise architectural guidelines while supporting innovation achieved through new technologies.\n\u2022 Participate in Agile planning, daily stand-ups, demonstrations and retrospectives with engineering teams to structure, drive and support product development and delivery.\n\nThe Technical Product Owner works closely with internal stakeholders throughout the development process in negotiating design trade-offs that may be needed, while preserving the strategies and features intended in the Product Management requirements.\n\nREQUIREMENTS:\nPreferred Education: BS in Computer Science or related field Master\u2019s Degree in related technical field preferred.\nPreferred Work Experience (years): 5+ years\u2019 experience, including at least 3 years as a technical product owner or leader of technical deliveries in related discipline or technology industry.\nThe Technical Product Owner may have had previous job titles such as Solution Architect, Software Development Manager, Software Architect.\n\nKEY SKILLS:\n\u2022 Technical in nature, thrives on complex technical challenges.\n\u2022 Excellent interpersonal skills with strong ability to interact with a wide array of stakeholders: from market, product and business-oriented staff to engineering, QA and Dev Ops.\n\u2022 Strong communication skills including written, verbal and oral presentation skills as well as ability to effectively present information and respond to questions from senior management and other managers.\n\u2022 Ability to assess complex technical landscapes and create focused, integrated product plans.\n\u2022 Experience of specifying and delivering machine learning and cloud platform solutions.\n\u2022 Attention to detail, and strong understanding of complex products and systems.\n\u2022 Multi-task and manage complex programs.\n\u2022 Highly creative with ability to think strategically while focused on executing daily.\n\u2022 Experience and market knowledge in assigned product vertical, category or technology preferred.\n\u2022 The successful candidate will be a self-starter.\n\u2022 Inquisitive with a desire to seek out and learn about new technologies and market trends.\n\u2022 This individual must be adaptable, persuasive, tenacious and perceptive in order to plan and execute a well-developed plan.\n\u2022 Team player with experience of motivating engineering teams to deliver on time.\n\u2022 Strong planning and execution skills. Able to prioritize work to maximize value delivered.\n\u2022 Knowledge and experience of the full software development life cycle and processes.\n\u2022 Excellent skills in Atlassian Suite of tools, namely Jira.\n\nJob Type: Full-time\n\nPay: $75.00 - $80.00 per hour\n\nExperience level:\n\u2022 5 years\n\nSchedule:\n\u2022 8 hour shift\n\u2022 Day shift\n\u2022 Monday to Friday\n\nEducation:\n\u2022 Bachelor's (Required)\n\nExperience:\n\u2022 Technical Product Owner: 5 years (Required)\n\u2022 Technical Deliveries: 3 years (Required)\n\nWork Location: In person",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ability to lead a product definition and delivery, engaging with higher level stakeholders and the technical delivery team",
+                        "Ideally experience in the Voice of vision/Machine Learning domains",
+                        "The Technical Product Owner may have had previous job titles such as Solution Architect, Software Development Manager, Software Architect",
+                        "Technical in nature, thrives on complex technical challenges",
+                        "Excellent interpersonal skills with strong ability to interact with a wide array of stakeholders: from market, product and business-oriented staff to engineering, QA and Dev Ops",
+                        "Strong communication skills including written, verbal and oral presentation skills as well as ability to effectively present information and respond to questions from senior management and other managers",
+                        "Ability to assess complex technical landscapes and create focused, integrated product plans",
+                        "Experience of specifying and delivering machine learning and cloud platform solutions",
+                        "Attention to detail, and strong understanding of complex products and systems",
+                        "Multi-task and manage complex programs",
+                        "Highly creative with ability to think strategically while focused on executing daily",
+                        "The successful candidate will be a self-starter",
+                        "Inquisitive with a desire to seek out and learn about new technologies and market trends",
+                        "This individual must be adaptable, persuasive, tenacious and perceptive in order to plan and execute a well-developed plan",
+                        "Team player with experience of motivating engineering teams to deliver on time",
+                        "Strong planning and execution skills",
+                        "Able to prioritize work to maximize value delivered",
+                        "Knowledge and experience of the full software development life cycle and processes",
+                        "Excellent skills in Atlassian Suite of tools, namely Jira",
+                        "Bachelor's (Required)",
+                        "Technical Product Owner: 5 years (Required)",
+                        "Technical Deliveries: 3 years (Required)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Technical Product Owner (TPO), you will be responsible for translating Product Management requirements into Engineering through the use of Agile practices and common tooling",
+                        "Specifically, you will author, organize, and groom Themes, Epics and User Stories in Jira and collaborate with Engineering teams on co-authoring functional requirements via child stories",
+                        "This includes increasing the innovation velocity of all programs while making tradeoff decisions on when technical debt is acceptable in the early incubation periods of developing proofs of concept and when minimum viable product commitments begin to emerge",
+                        "Technical solution design skills/problem solving",
+                        "Therefore, you will drive the creation of products from existing ideas and help to develop new ideas based on your experience and creativity",
+                        "The position has responsibility for the successful realization of product requirements, managing between Product Management and Engineering in diverse solutions that will include AI/Machine Learning and may span domains such as Cloud Services, IoT Edge devices and more",
+                        "The Technical Product Owner ensures that they work with the Product Management and Program Management in broader communications of program status and progress",
+                        "Work closely with Product Management and Engineering to properly manage, forecast, and deliver on requirements per Agile program increments and sprint plans",
+                        "Manage variable and changing requirements via groomed backlogs, engineering commits and quality assurance testing (unit and system)",
+                        "Manage product related communications to both internal and external associates",
+                        "In some cases support customer requirements clarification and customer pilot deployments",
+                        "Collaboratively manage and own solution technology decisions to balance alignment with wider enterprise architectural guidelines while supporting innovation achieved through new technologies",
+                        "Participate in Agile planning, daily stand-ups, demonstrations and retrospectives with engineering teams to structure, drive and support product development and delivery",
+                        "The Technical Product Owner works closely with internal stakeholders throughout the development process in negotiating design trade-offs that may be needed, while preserving the strategies and features intended in the Product Management requirements"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay $75 - $80 based on experience",
+                        "Pay: $75.00 - $80.00 per hour",
+                        "8 hour shift"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Premier+System&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIvww",
+                    "text": "See web results for Premier System"
+                }
+            ],
+            "extensions": [
+                "75\u201380 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "75\u201380 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJUZWNobmljYWwgUHJvZHVjdCBPd25lciAtIERlZXAgTGVhcm5pbmciLCJodGlkb2NpZCI6ImZkRS1HWmtZUy1FQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VVXRWZG5SemNrMVFjMWc0WWtGYWNtaGtPRU4yVDIxb1RTMUxibTVhYURkNWJGcDFNWEZoTFdSd05IbGZUa2hzYkVaUGRHZzVSRWwzT1dNMmJEaHpaek5qTlhSWFJEZHRaRWR2T0c5alMxcEZlRzlUU3kxeVVqVnlUSFJCVEhaWFIyMHlYMGN5ZFRKR2JrcDZNekJXWkVaWlRVRnZObGg1TFhWS01GZFZkM2h6WTNoU1ZsTjFUMkZOYURkbFYyVTVlRVpsUmpBMFFVZFFNVmhFUjFScVVVTkhNelpUUXpOR2JVMWtOM2hmYlhCM1IyWmhaWFJMV0dOSWIzTjFMVll6WjFsUmFTMVdFaGN6TjJzNVdrNVhRMDFQYVZKelpVMVFiRnA1YzJsQk1Cb2lRVTh0TUhKc05HUklhVW80U0RCVVZHbDNlbE5ZVlRaRlEzbzVWV05XYzBwVGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gSW5kZWVkIiwibGluayI6Imh0dHBzOi8vd3d3LmluZGVlZC5jb20vdmlld2pvYj9qaz1hZGY0NTNlNWJiMmI2OGJkXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Summer 2023 Intern - Machine Learning (Masters/PhD)",
+            "company_name": "Ansys",
+            "location": "  San Jose, CA   ",
+            "via": "via Search Ansys Careers - Ansys",
+            "description": "Ansys is the global leader in engineering simulation, helping the world's most innovative companies deliver radically better products to their customers. By offering the best and broadest portfolio of engineering simulation software, Ansys helps companies solve the most complex design challenges and engineer products limited only by imagination.\n\nSUMMARY...\n\nAnsys empowers the world's most innovative companies to design and deliver transformational products by offering the best and broadest engineering simulation software to solve the most complex design challenges and engineer products limited only by imagination. Thus, through our enriching co-op and intern program, we help develop the next-generation of engineers and technologists. You will develop our industry-leading simulation software while gaining real experience in your field of study. You will support Office of CTO for contributing to researching and implementing new algorithms for machine learning models in context of numerical methods, simulations and 3D understanding using deep learning and other related fields.\n\nThis Internship is a 40-hour per week paid position starting from May 2023 to August 2023.\n\nRESPONSIBILITIES\n\n- Design and develop machine learning algorithms for training using our ANSYS solvers as surrogates for CAE applications\n\n- Create datasets, label data and train machine learning algorithms using deep learning or reinforcement learning techniques.\n\n- Implement solutions in experimental code (Python, TensorFlow, Pytorch) using industry best practices in software development.\n\n- Test the algorithms developed and share results and training curves.\n\n- Design and develop code with Unit Testing and TDD (test driven design) based on specific list of engineering scenarios.\n\nMINIMUM QUALIFICATIONS\n\u2022 Enrolled in a MS or PhD program pursuing degree in engineering, mathematics or computer science.\n\u2022 Experience with machine learning using scripting languages such as Python/R and GPU programming.\n\u2022 Experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, and sampling methods.\n\nPREFERRED QUALIFICATIONS\n\u2022 Preferred experience using machine learning frameworks such as TensorFlow or Pytorch\n\u2022 Preferred experience in machine learning using 3D and geometry\n\u2022 Preferred experience using 3d software for datasets creation\n\u2022 Preferred experience Object-oriented languages such as C++ and/or C#\n\u2022 Preferred experience with source control such as GIT, SVN\n\nCULTURE AND VALUES\n\nCulture and values are incredibly important to Ansys. They inform us of who we are, of how we act. Values aren't posters hanging on a wall or about trite or glib slogans. They aren't about rules and regulations. They can't just be handed down the organization. They are shared beliefs \u2013 guideposts that we all follow when we're facing a challenge or a decision. Our values tell us how we live our lives; how we approach our jobs. Our values are crucial for fostering a culture of winning for our company:\n\u2022 Customer focus\n\u2022 Results and Accountability\n\u2022 Innovation\n\u2022 Transparency and Integrity\n\u2022 Mastery\n\u2022 Inclusiveness\n\u2022 Sense of urgency\n\u2022 Collaboration and Teamwork\n\nWORKING AT ANSYS\n\nAt Ansys, you will find yourself among the sharpest minds and most visionary of leaders, collectively aiming to change the world with innovative technology and remarkable solutions. With the prestigious reputation in servicing well-known, world-class companies, standards at Ansys are high, met by those willing to rise to the occasion and meet those challenges head-on. Because at Ansys, it\u2019s about the learning, the discovery and the collaboration. It\u2019s about the \u201cwhat\u2019s next\u201d as much as the \u201cmission accomplished\u201d. It\u2019s about the melding of disciplined intellect with strategic direction and results that have, can and will impact real people in real ways, forged within a working environment built on respect, autonomy and ethics.\n\nAt Ansys, you will find yourself among those eager to drive the world towards the next best thing with hands planted firmly on the wheel.\n\nOur team is passionate about pushing the limits of world-class simulation technology so our customers can turn their design concepts into successful, innovative products faster and at lower cost. As a measure of our success in attaining these goals, Ansys has been recognized as one of the world's most innovative companies by prestigious publications such as Bloomberg Businessweek and FORTUNE magazines.\n\nAnsys is an S&P 500 company and a component of the NASDAQ-100.\n\nFor more information, please visit us at www.ansys.com\n\nAnsys is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other protected characteristics.\n\nAnsys does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of Ansys. Upon hire, no fee will be owed to the agency, person, or entity",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Enrolled in a MS or PhD program pursuing degree in engineering, mathematics or computer science",
+                        "Experience with machine learning using scripting languages such as Python/R and GPU programming",
+                        "Experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, and sampling methods",
+                        "Transparency and Integrity",
+                        "Mastery",
+                        "Sense of urgency"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will support Office of CTO for contributing to researching and implementing new algorithms for machine learning models in context of numerical methods, simulations and 3D understanding using deep learning and other related fields",
+                        "Design and develop machine learning algorithms for training using our ANSYS solvers as surrogates for CAE applications",
+                        "Create datasets, label data and train machine learning algorithms using deep learning or reinforcement learning techniques",
+                        "Implement solutions in experimental code (Python, TensorFlow, Pytorch) using industry best practices in software development",
+                        "Test the algorithms developed and share results and training curves",
+                        "Design and develop code with Unit Testing and TDD (test driven design) based on specific list of engineering scenarios"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.ansys.com/",
+                    "text": "ansys.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Ansys&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIgQ0",
+                    "text": "See web results for Ansys"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Internship"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Internship"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdW1tZXIgMjAyMyBJbnRlcm4gLSBNYWNoaW5lIExlYXJuaW5nIChNYXN0ZXJzL1BoRCkiLCJodGlkb2NpZCI6Ing5bVQtWGsxejMwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9Vamt5VUdjNFgxaGhZMjFwWkc1T2NsWnZRVmxEZEdreWJuTkJXbVV4ZDAxc09FWlJaRjkxV2xwcGJ5MHdTbGRUZGt4dFpURllNRzVaZFZoUFpHMURjSGwxTlVzMlFUWmxSMHBwYVc5VFduRlJWazFLTkhGck1tcDRjREZvYVhodFRHRjRNR2hvWVY5UGNsQlhNMjVRYkROMldUZHFaRVpJVERScE4xazROVFZJVDBjMlozWmxPVVpGVUhKcFh6WlZMVVpaWm5kQmVsbHBORFZmY1hkcGJIRnNXR04wWVdoMlJraEdWVTlZV1VKbU1VOTNZbEpyWWxOdFIxUTVWbDlJVjJ4MWEwbE9hRUY2VW5JNWFEWXRNazlTWjBKWk1WVXdXbmxNWnhJWE16ZHJPVnBPVjBOTlQybFNjMlZOVUd4YWVYTnBRVEFhSWtGUExUQnliRFpuV0ZaWlFqSnpYM1psUlhGUFZqVm9kSHBsWTBwaU9HaFVWa0UiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTZWFyY2ggQW5zeXMgQ2FyZWVycyAtIEFuc3lzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5hbnN5cy5jb20vam9iL0Nhbm9uc2J1cmctU3VtbWVyLTIwMjMtSW50ZXJuLU1hY2hpbmUtTGVhcm5pbmctJTI4TWFzdGVyc1BoRCUyOS1QQS0xNTMxNy85NzA4Mjg4MDAvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Senior Deep Learning Researcher, Speech",
+            "company_name": "AssemblyAI",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "AssemblyAI is a remote-first AI company building powerful deep learning models for developers, startups, and enterprises to transcribe and understand their audio data.\n\nOur ASR models already outperform companies like Google, AWS, and Microsoft - which is why hundreds of companies and thousands of developers are using our APIs to transcribe and understand millions of videos, podcasts, phone... calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.\n\nAssemblyAI's Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world, with well-known customers including Spotify, Algolia, Dow Jones, Happy Scribe, BBC, The Wall Street Journal, and NBCUniversal. As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.\n\nWe're growing at breakneck speed, and recently announced our Series B round. We've raised $63M in total funding, and are backed by leading investors including Insight Partners, Accel, Y Combinator, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur & Investor in companies including GitHub, Uber & SpaceX)!\n\nOur ambition is to build an iconic AI company, making advanced deep learning technology accessible to everyday developers through a simple API, good docs, and a great developer experience.\n\nJoin our world-class, remote team and help us build an iconic deep learning company!\n\nThe Role\n\nAssemblyAI is growing quickly, and we're searching for a Deep Learning Researcher to join our team. With significant investment and strong leadership to fuel our growth, it's the perfect time to join the AssemblyAI team!\n\nIn this role you'll have the opportunity to:\n\u2022 Continually push the state of the art in speech recognition and NLP. You will conduct cutting edge deep learning research in speech and NLP. Our ASR models already outperform companies like Google, AWS, and Microsoft - and we're looking for the best deep learning engineers and researchers to help us continually push the state of the art in speech recognition to get to human level performance.\n\u2022 Research & train AssemblyAI's deep learning models. You will work with large scale data sets to research and train deep learning models for speech recognition. You will research and develop novel algorithms and techniques to advance the state of the art in natural language understanding. You will conduct research and experiments in order to improve accuracy of our Deep Learning ASR pipeline. You will also dig into weaknesses and failure points of our current ASR models in order to identify further areas for improvement.\n\u2022 Be part of a world-class team of creative researchers & engineers. You will help strengthen the position of AssemblyAI as a leading company in AI research. Our deep learning team is a tight knit group of creative researchers and engineers, who are not afraid to try unconventional ideas. You will also work with the broader speech recognition team as we continually strive to match human level accuracy.\n\nRequirements\n\u2022 1-3+ years of professional experience in Deep Learning research & development\n\u2022 2+ years of experience with PyTorch or TensorFlow\n\u2022 In-depth experience with Asynchronous (async) speech recognition\n\u2022 Wav2Letter++, Wav2vec, CTC, RNNTs, and/or LAS\n\u2022 Track record of publications at Speech Processing/NLP conferences (ACL, EMNLP, ICASSP, INTERSPEECH, ICLR, NeurIPS, and others)\n\nPreferred Experience (any Of The Following)\n\u2022 PhD in computer science, machine learning, or similar field\n\u2022 Experience with Google JAX\n\u2022 Experience with Reinforcement Learning\n\u2022 Experience training large models on multiple GPUs\n\u2022 Speaker diarization\n\u2022 Multilingual speech recognition\n\u2022 Real-time speech recognition\n\nSkills\n\u2022 Detail-oriented, analytical, and creative problem solver with a passion for quality processes\n\u2022 Ability to work independently, raise issues and take corrective action\n\u2022 A keen eye for detail\n\nOur Team\n\nOur team is made up of problem solvers, innovators and top AI researchers with over 20+ years of experience in Machine Learning, NLP, and Speech Recognition from companies like DeepMind, Google Brain, Meta, Apple and Amazon. They conduct cutting edge deep learning research and develop novel algorithms & techniques to continually push the state of the art in speech recognition & NLP!\n\nOur team is fully remote, and our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.\n\nAs a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team. We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.\n\nBenefits (US)\n\u2022 Competitive Salary + Bonus\n\u2022 Equity\n\u2022 401k\n\u2022 100% Remote team\n\u2022 Unlimited PTO\n\u2022 Premium Healthcare (100% Covered for you + dependents)\n\u2022 Vision & Dental Care\n\u2022 $1K budget for your home office setup\n\u2022 New Macbook Pro (or PC if you prefer)\n\u2022 2x/year company paid team retreat",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "1-3+ years of professional experience in Deep Learning research & development",
+                        "2+ years of experience with PyTorch or TensorFlow",
+                        "In-depth experience with Asynchronous (async) speech recognition",
+                        "Wav2Letter++, Wav2vec, CTC, RNNTs, and/or LAS",
+                        "Track record of publications at Speech Processing/NLP conferences (ACL, EMNLP, ICASSP, INTERSPEECH, ICLR, NeurIPS, and others)",
+                        "Detail-oriented, analytical, and creative problem solver with a passion for quality processes",
+                        "Ability to work independently, raise issues and take corrective action",
+                        "A keen eye for detail"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will conduct cutting edge deep learning research in speech and NLP",
+                        "You will work with large scale data sets to research and train deep learning models for speech recognition",
+                        "You will research and develop novel algorithms and techniques to advance the state of the art in natural language understanding",
+                        "You will conduct research and experiments in order to improve accuracy of our Deep Learning ASR pipeline",
+                        "You will also dig into weaknesses and failure points of our current ASR models in order to identify further areas for improvement",
+                        "Be part of a world-class team of creative researchers & engineers"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive Salary + Bonus",
+                        "Equity",
+                        "401k",
+                        "100% Remote team",
+                        "Unlimited PTO",
+                        "Premium Healthcare (100% Covered for you + dependents)",
+                        "Vision & Dental Care",
+                        "$1K budget for your home office setup",
+                        "New Macbook Pro (or PC if you prefer)",
+                        "2x/year company paid team retreat"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=AssemblyAI&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIxQ0",
+                    "text": "See web results for AssemblyAI"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGVlcCBMZWFybmluZyBSZXNlYXJjaGVyLCBTcGVlY2giLCJodGlkb2NpZCI6ImFOcTRYZ0dlUVBzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9WSEJrYURkS2NtdzNhekZSYzAxVk5FbGpRek4zY1U1clNVdFpia2t5YUdoeU5qaEVURGN6TVZkMFRIWXhSV2xSTkUxalJ6VjZRazQwVDNKbWRWcE9PVWxLT1d0SE4xTTBRa1JFV0ZCTWFuWlZPRFp6V21wWlRUaG1abEJzYkZGaU9VaFRTek5VT1dKR1ZHcGljWGhMV0ZCamMxOXFlRzlXTlROM09FOUlVM2RqTm1adVFsVlBURUppZEhwSGJuZGtUMWxoWTJvMFNYcHNlVVJtTUZKcmQwOVdkVmh1ZUhaaVZHeHNjRlJvU1U5Sk16bDFNMGg0ZFVGbVZIWjFTbGh4TFhWT1pFOU9FaGN6TjJzNVdrNVhRMDFQYVZKelpVMVFiRnA1YzJsQk1Cb2lRVTh0TUhKc05rWlNhRjluY3pCUlNFczVVV0YyVEhkeVgzRXhhMUJpVERac1FRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9zZW5pb3ItZGVlcC1sZWFybmluZy1yZXNlYXJjaGVyLXNwZWVjaC1hdC1hc3NlbWJseWFpLTM1MDQ0MzcyODQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "company_name": "RIOS Intelligent Machines",
+            "location": "  Menlo Park, CA   ",
+            "via": "via Greenhouse",
+            "description": "About RIOS\n\nRIOS Intelligent Machines, Inc. (\"RIOS\") is a technology company helping enterprises automate their entire factories, warehouses, or supply chain operations \u2013 by deploying AI-powered end-to-end robotic workcells that integrate within existing workflows. RIOS is the leader of fullstack AI-powered robotic workcells for factory automation and deploys its robotic fleet at scale to... transform labor-intensive factories into \"lights-out\" factories of the future powered by robotics and AI. RIOS was founded by former Xerox PARC engineers and is headquartered in Menlo Park, CA. More information is available at www.rios.ai.\n\nRIOS is looking for a Machine Learning Engineer who can design, prototype, train and deliver machine learning models to revolutionize manufacturing, supply chains, e-commerce, and other industrial applications.\n\nResponsibilities of the role include:\n\u2022 Understand application space and system performance requirements by communicating with application engineers\n\u2022 Work with Data acquisition engineers to collect appropriate data for model training and development\n\u2022 Architect, prototype, test, and help deploy and help maintain modem ML models and algorithms\n\u2022 Work with software engineers to turn prototypes into products\n\u2022 Support deployments by tuning model performance in the field through continual data acquisition\n\u2022 Solve real world robotics problems using ML, participate in bringing forward novel solutions to robotics and perception problems\n\u2022 Work with a multidisciplinary team to solve previously unsolvable problems\n\u2022 Continuous integration/development/training driven development for both codebases and model performance\n\nTechnical attributes of candidates may include:\n\u2022 3 years industry experience (likely with M.S. or Ph.D. in Computer Science, Data Science, Machine Learning, or related field)\n\u2022 Experience training custom/in-house datasets with State-of-the-Art models\n\u2022 Familiarity with State-of-the-Art algorithms and real world performance on GPUs\n\u2022 High degree of familiarity with ML/DL frameworks: TensorFlow, PyTorch, Theano, Keras, MXNet, Scikit Learn, etc.\n\u2022 Familiarity with experiment tracking and management\n\u2022 Attention to details such as documentation, version control and reproducibility\n\u2022 Advanced proficiency working with Python (C++ a plus)\n\u2022 Understanding of data typing and interaction with learning frameworks\n\nNice to Have:\n\u2022 Specialization in applications including computer vision, robotic control\n\u2022 Familiarity with ROS (Robot Operating System)\n\nPerks:\n\u2022 Competitive salary package & Stock options for every employee\n\u2022 Healthcare + dental + vision insurance plans\n\u2022 401(k) plan\n\u2022 Free lunch on-site at headquarters\n\u2022 Flexible time off & paid holidays\n\u2022 Social events + happy hours + team parties\n\u2022 No search firm submissions at this time",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3 years industry experience (likely with M.S. or Ph.D. in Computer Science, Data Science, Machine Learning, or related field)",
+                        "Experience training custom/in-house datasets with State-of-the-Art models",
+                        "Familiarity with State-of-the-Art algorithms and real world performance on GPUs",
+                        "High degree of familiarity with ML/DL frameworks: TensorFlow, PyTorch, Theano, Keras, MXNet, Scikit Learn, etc",
+                        "Familiarity with experiment tracking and management",
+                        "Attention to details such as documentation, version control and reproducibility",
+                        "Understanding of data typing and interaction with learning frameworks",
+                        "Specialization in applications including computer vision, robotic control",
+                        "Familiarity with ROS (Robot Operating System)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Understand application space and system performance requirements by communicating with application engineers",
+                        "Work with Data acquisition engineers to collect appropriate data for model training and development",
+                        "Architect, prototype, test, and help deploy and help maintain modem ML models and algorithms",
+                        "Work with software engineers to turn prototypes into products",
+                        "Support deployments by tuning model performance in the field through continual data acquisition",
+                        "Solve real world robotics problems using ML, participate in bringing forward novel solutions to robotics and perception problems",
+                        "Work with a multidisciplinary team to solve previously unsolvable problems",
+                        "Continuous integration/development/training driven development for both codebases and model performance"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive salary package & Stock options for every employee",
+                        "Healthcare + dental + vision insurance plans",
+                        "401(k) plan",
+                        "Free lunch on-site at headquarters",
+                        "Flexible time off & paid holidays",
+                        "Social events + happy hours + team parties"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.rios.ai/",
+                    "text": "rios.ai"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=RIOS+Intelligent+Machines&sa=X&ved=0ahUKEwiV7tvr7bH-AhXoSGwGHRUOC9E4KBCYkAIIjQ4",
+                    "text": "See web results for RIOS Intelligent Machines"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJodV9SQzRqN3pTb0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVVRCSmNUWjVORmhUYkVsVE1XTkNjMjk2ZGpaNFJFWm1URGxYUlZac2JYWXlTa0UzUzBaeFNuTkdWa3hGUVdGcmJqaGFNMDl0UjJwRFNVMUtRVkpKVTBsNWQyUkxNWFk0TVd4SWFEWlpRMW8yV2xjMk9YSnhlVFZUWjJKb1J6UlJYemxGUTBNeE5ubEdUWE5SUnpkVE9YVXRZelZhTmtGWWRqVkNWMVp4VWxSaE1GTmxZME5KYTBZNU1WZDVkMjF4TFZFM2FsVXlVbGw1UW5kVGVuRlpiVmN6TUZGak5VaHlXa3hKVmpFMlgyRXdaSGxSTVZGNVFYbGhWbGhoWVdWUlNXNTBiSFp4UW1SWlptVnFUV2d5TW1abFUweHRVRFZmYkcxdmR4SVhNemRyT1ZwT1YwTk5UMmxTYzJWTlVHeGFlWE5wUVRBYUlrRlBMVEJ5YkRWMGEzQjJielpGV2swME5WaFJXVEowTURGNE1VeEdhUzFRT1ZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR3JlZW5ob3VzZSIsImxpbmsiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL3Jpb3NpbnRlbGxpZ2VudG1hY2hpbmVzL2pvYnMvNDAxOTkzODAwNT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Solutions architect",
+                    "value": "solutions architect"
+                },
+                {
+                    "text": "Associate director",
+                    "value": "associate director"
+                },
+                {
+                    "text": "Computer",
+                    "value": "computer"
+                },
+                {
+                    "text": "Data analyst",
+                    "value": "data analyst"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Development representative",
+                    "value": "development representative"
+                },
+                {
+                    "text": "Devops engineer",
+                    "value": "devops engineer"
+                },
+                {
+                    "text": "Engineer senior",
+                    "value": "engineer senior"
+                },
+                {
+                    "text": "Engineers",
+                    "value": "engineers"
+                },
+                {
+                    "text": "General",
+                    "value": "general"
+                },
+                {
+                    "text": "Infrastructure",
+                    "value": "infrastructure"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Lead architect",
+                    "value": "lead architect"
+                },
+                {
+                    "text": "Lead engineer",
+                    "value": "lead engineer"
+                },
+                {
+                    "text": "Learning specialist",
+                    "value": "learning specialist"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Performance engineer",
+                    "value": "performance engineer"
+                },
+                {
+                    "text": "Platform engineer",
+                    "value": "platform engineer"
+                },
+                {
+                    "text": "Principal scientist",
+                    "value": "principal scientist"
+                },
+                {
+                    "text": "Product owner",
+                    "value": "product owner"
+                },
+                {
+                    "text": "Reliability engineer",
+                    "value": "reliability engineer"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Sales engineer",
+                    "value": "sales engineer"
+                },
+                {
+                    "text": "Senior scientist",
+                    "value": "senior scientist"
+                },
+                {
+                    "text": "Support engineer",
+                    "value": "support engineer"
+                },
+                {
+                    "text": "Technical writer",
+                    "value": "technical writer"
+                },
+                {
+                    "text": "Test engineer",
+                    "value": "test engineer"
+                },
+                {
+                    "text": "With experience",
+                    "value": "with experience"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "Redmond, WA",
+                    "value": "I-4AIK0MkFTyBNjF6pADXg=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Atlantic City, NJ",
+                    "value": "IcdcblfdwIliUmfpQ8tvSg=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Burlingame, CA",
+                    "value": "WY6bVCV2j4BPjy9TPvq8Cw=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Madison, WI",
+                    "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+                },
+                {
+                    "text": "Natick, MA",
+                    "value": "dSAbXrOH44kno1zsiT-M3w=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "Schaumburg, IL",
+                    "value": "5SRiQ4ivD4hRc49nzTG9Qw=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Arabi, LA",
+                    "value": "gaN3G1kdnogAYxoYxcr7OQ=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Auburn Hills, MI",
+                    "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+                },
+                {
+                    "text": "Auburn, AL",
+                    "value": "g_ibsy_xjIhYk9M1kpElyw=="
+                },
+                {
+                    "text": "Bismarck, ND",
+                    "value": "Y-nYVxKD11KTyrv5Er2qzA=="
+                },
+                {
+                    "text": "Boerne, TX",
+                    "value": "dT7ey6F2XIYrJjlC9reRHA=="
+                },
+                {
+                    "text": "Boise, ID",
+                    "value": "nbRH6XLxrlSbnWc2m5hbmg=="
+                },
+                {
+                    "text": "Bolinas, CA",
+                    "value": "JT1aDFWVhYCFrdiPbqL8sg=="
+                },
+                {
+                    "text": "Bridgeport, WV",
+                    "value": "W-eWWTZmSoh7WJ88dTfN5w=="
+                },
+                {
+                    "text": "California City, CA",
+                    "value": "QwmmE9IpwoAyC_U7tN5YNA=="
+                },
+                {
+                    "text": "Carrboro, NC",
+                    "value": "dW4B92XZrIlFweaZta8IEw=="
+                },
+                {
+                    "text": "Cary, NC",
+                    "value": "Q4tK_1S9rInhS0Ra249WRA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Corte Madera, CA",
+                    "value": "K4ajZAmWhYAScMmUASVIBQ=="
+                },
+                {
+                    "text": "Duluth, GA",
+                    "value": "o3Wlch2Y9Yjj2OI8isAmhQ=="
+                },
+                {
+                    "text": "Emeryville, CA",
+                    "value": "s44f6hR-hYAHcbCoMRgdSA=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fremont, CA",
+                    "value": "98rot0a_j4DUiNiJOzHaig=="
+                },
+                {
+                    "text": "Fresno, CA",
+                    "value": "nU6eVOFdlIARuKNJZEASew=="
+                },
+                {
+                    "text": "Glendale, CA",
+                    "value": "qYPwyDLAwoCmJsn-nqE_5Q=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Rental",
+                    "value": "/business/naics2007/532"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Genentech",
+                    "value": "/m/01_lh1"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Flagship Pioneering",
+                    "value": "/g/11fy29v0zb"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Rivian",
+                    "value": "/m/0gj8vdm"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Absci",
+                    "value": "/g/11f01flq2c"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "Approgence Inc.",
+                    "value": "/g/11c73njm7n"
+                },
+                {
+                    "text": "Battelle",
+                    "value": "/m/02m9dl"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Elevance Health",
+                    "value": "/m/04xtkp"
+                },
+                {
+                    "text": "GSK",
+                    "value": "/m/01bbm7"
+                },
+                {
+                    "text": "GoodRx",
+                    "value": "/g/11df0pkp5v"
+                },
+                {
+                    "text": "Lambda",
+                    "value": "/g/11fv60v44p"
+                },
+                {
+                    "text": "MathWorks",
+                    "value": "/m/02q9vb"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Square",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "TackleAI",
+                    "value": "/g/11km9jypc5"
+                },
+                {
+                    "text": "Trilogy Innovations Inc",
+                    "value": "/g/11scx87bzx"
+                },
+                {
+                    "text": "WayUp",
+                    "value": "/g/11gfj67hvn"
+                },
+                {
+                    "text": "Adobe",
+                    "value": "/m/0vlf"
+                },
+                {
+                    "text": "Advanced Micro Devices, Inc",
+                    "value": "/m/0z64"
+                },
+                {
+                    "text": "Ansys",
+                    "value": "/m/06dplm"
+                },
+                {
+                    "text": "Aurora Flight Sciences",
+                    "value": "/m/076tx9t"
+                },
+                {
+                    "text": "Baker Hughes",
+                    "value": "/m/02yd0p"
+                }
+            ]
+        }
+    ]
+}

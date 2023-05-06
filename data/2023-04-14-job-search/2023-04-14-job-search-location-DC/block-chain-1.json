@@ -1,0 +1,1165 @@
+{
+    "search_metadata": {
+        "id": "643dbb4e437af26fd64ee0cd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bf72feb29111c1c5/643dbb4e437af26fd64ee0cd.json",
+        "created_at": "2023-04-17 21:34:06 UTC",
+        "processed_at": "2023-04-17 21:34:06 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=block+chain&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/bf72feb29111c1c5/643dbb4e437af26fd64ee0cd.html",
+        "total_time_taken": 2.33
+    },
+    "search_parameters": {
+        "q": "block chain",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "Ethereum Blockchain Developer (Remote)",
+            "company_name": "Ex Populus",
+            "location": " Anywhere ",
+            "via": "via Built In",
+            "description": "Company Overview:\nEx Populus is a cutting-edge gaming and entertainment startup focused on building the Metaverse by leveraging web3 technology. Founded by notable executives from PC, Console, Mobile, VR, Esports, Crypto, & Animated film, who are partnering with creative rising stars to publish the world's most compelling games and entertainment\n...\nPurpose & Scope:\nEx Populus is striving to bring joy to people around the globe with the world\u2019s most compelling games and entertainment at the highest level possible. We are determined to work with the next generation of elite content creators and enable their vision by bringing them into a world class studio with some of the industry's most elite talent.\n\nWhat You\u2019ll Do:\n\u2022 Design, maintain and deploy smart contracts for video games and the Ex Populus game marketplace.\n\u2022 Focus on security and best practices for contract development\n\u2022 Configure and deploy nodes in a network\n\u2022 Maintain stored and processed data on the blockchain Develop higher-level APIs on top of blockchain primitives\n\u2022 Manage implications of data on the blockchain and associate costs due to complications Staying current with the latest blockchain developments\n\nWhat You\u2019ll Need:\n\u2022 2-3 years of Software Development experience\n\u2022 1+ years of Solidity experience\n\u2022 Experience designing and developing for large, horizontally scalable, high-transaction volume systems\n\u2022 Excellent problem solving and intuitive debugging skills\n\u2022 Knowledge of ethers.js\n\u2022 Experience working in gaming (a plus)\n\u2022 Hard Hat experience (Optional)\n\nThe company is founded by industry veterans that have collectively received 3 Oscar nominations, 12 Emmy nominations and 7 Annie noms. The staff comes from companies like Ubisoft, Blizzard, Activision, Love Death & Robots, Pixar, Illumination, Wargaming and others. We look forward to speaking with you",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "2-3 years of Software Development experience",
+                        "1+ years of Solidity experience",
+                        "Experience designing and developing for large, horizontally scalable, high-transaction volume systems",
+                        "Excellent problem solving and intuitive debugging skills",
+                        "Knowledge of ethers.js",
+                        "Hard Hat experience (Optional)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design, maintain and deploy smart contracts for video games and the Ex Populus game marketplace",
+                        "Focus on security and best practices for contract development",
+                        "Configure and deploy nodes in a network",
+                        "Maintain stored and processed data on the blockchain Develop higher-level APIs on top of blockchain primitives",
+                        "Manage implications of data on the blockchain and associate costs due to complications Staying current with the latest blockchain developments"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Ex+Populus&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIzAk",
+                    "text": "See web results for Ex Populus"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJFdGhlcmV1bSBCbG9ja2NoYWluIERldmVsb3BlciAoUmVtb3RlKSIsImh0aWRvY2lkIjoidmFPeUFPSTB6cUVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZZQkNyY0JRVVZ6TjJwT1ZGQkxlRWRIWmxwTmIwbFlibFZGTmxaNmRIbFNiek51U1hkV1dqaDBPREZWWkhVNE9IcG9iMVV0Ymt4NGJsUmFhVXh0WW1Ga1pYQXdNV2xsY1hSd2RVZEpVbGhUYW5kRFZrRlZRemt4YVd0NlMwVnJlSFJ2VUVoWFQyNXFUMkkxWmxkeE9HcHJiRkpTUlRaSVZWcGtWeTFDVlRWUkxWQlJXVE5KUzNkUWMwRkZOMDFwZWpVNExYZGFhVTlWWWxKVk4wdEJaMjl1VEV4MWRrcG9RMmxJT0MxSVdVTkdZVkZ2ZUVKcE5EaGhhRUpWRWhaVU4zTTVXa3gyUkVWamNrc3ljbTlRTW5GWGRGbEJHaUpCVHkwd2NtdzJTMnBJV1hKNk9UWjRVVmh1ZVU0eFVEZFNVRk10TXpCS2JXOTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIEJ1aWx0IEluIiwibGluayI6Imh0dHBzOi8vYnVpbHRpbi5jb20vam9iL2VuZ2luZWVyL2V0aGVyZXVtLWJsb2NrY2hhaW4tZGV2ZWxvcGVyLzE0MTY0NzE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Blockchain Engineer",
+            "company_name": "21.co",
+            "location": "  New York, NY   ",
+            "via": "via Greenhouse",
+            "description": "We are seeking a highly motivated and skilled Blockchain Engineer to join our team and help us design, develop, and implement blockchain-based solutions. As a Blockchain Engineer, you will be responsible for developing smart contracts, designing and implementing blockchain protocols, and collaborating with cross-functional teams. The project will be cutting edge and unique to the crypto industry... with exposure to the DeFi space. There will be massive opportunities to learn new technologies and skillsets, as well as the chance to develop, test, and maintain code for our mission-critical products.\n\nOur culture is all about diversity, communication, collaboration and education.\n\nResponsibilities and Scope:\n\u2022 Design, develop and implement blockchain solutions and smart contracts.\n\u2022 Writing and delivering quality code.\n\u2022 Interpret product requirements and provide engineering estimates.\n\u2022 Create and maintain documentation for all blockchain-related processes, procedures, and guidelines.\n\u2022 Conduct code reviews and ensure code quality and security.\n\u2022 Troubleshoot and debug blockchain-based applications and systems.\n\u2022 Work with stakeholders to identify opportunities to leverage blockchain technology to improve business processes.\n\u2022 Research and stay up-to-date with the latest trends, technologies, and best practices in blockchain technology.\n\nWhat You Will Need To Be Great In This Role:\n\u2022 Bachelor's or Master's degree in Computer Science, Engineering, or a related field\n\u2022 A professional understanding of the Ethereum Virtual Machine and its Yellow Paper\n\u2022 Fluency in Solidity, Typescript, and NodeJS\n\u2022 Experience with web3 related libraries and API design\n\u2022 A high level understanding of common cryptographic and smart contract related vulnerabilities\n\u2022 Excellent problem-solving and debugging skills and/or experience with reverse engineering\n\u2022 Proficiency with Git\n\u2022 Must be passionate about working with a growing team in an office environment\n\u2022 Great written communication skills\n\u2022 Efficiency in Rust, a plus\n\u2022 Ability to work in a fast-paced, dynamic environment and meet tight deadlines\n\nOur Stack:\n\u2022 EVM Blockchain networks\n\u2022 Hardhat and Foundry\n\u2022 AWS infrastructure\n\nPreferred:\n\u2022 Experience with decentralized finance (DeFi) protocols and applications.\n\u2022 Contributions to open-source blockchain projects.\n\u2022 Experience with Solana is a plus.\n\nThis role is based in New York City and will be expected to work from our New York office in a hybrid model Monday - Wednesday.\n\n(NYC only) Pursuant to Section 8-102 of title 8 of the New York City administrative code, the base salary range for this role is $170,000.00 - $190,000.00. Total compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years & depth of experience, certifications and specific office location. This may differ in other locations due to cost of labor considerations",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's or Master's degree in Computer Science, Engineering, or a related field",
+                        "A professional understanding of the Ethereum Virtual Machine and its Yellow Paper",
+                        "Fluency in Solidity, Typescript, and NodeJS",
+                        "Experience with web3 related libraries and API design",
+                        "A high level understanding of common cryptographic and smart contract related vulnerabilities",
+                        "Excellent problem-solving and debugging skills and/or experience with reverse engineering",
+                        "Proficiency with Git",
+                        "Must be passionate about working with a growing team in an office environment",
+                        "Great written communication skills",
+                        "Ability to work in a fast-paced, dynamic environment and meet tight deadlines"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Blockchain Engineer, you will be responsible for developing smart contracts, designing and implementing blockchain protocols, and collaborating with cross-functional teams",
+                        "The project will be cutting edge and unique to the crypto industry with exposure to the DeFi space",
+                        "Writing and delivering quality code",
+                        "Interpret product requirements and provide engineering estimates",
+                        "Create and maintain documentation for all blockchain-related processes, procedures, and guidelines",
+                        "Conduct code reviews and ensure code quality and security",
+                        "Troubleshoot and debug blockchain-based applications and systems",
+                        "Work with stakeholders to identify opportunities to leverage blockchain technology to improve business processes",
+                        "Research and stay up-to-date with the latest trends, technologies, and best practices in blockchain technology"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "(NYC only) Pursuant to Section 8-102 of title 8 of the New York City administrative code, the base salary range for this role is $170,000.00 - $190,000.00",
+                        "Total compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years & depth of experience, certifications and specific office location"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=21.co&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIjgo",
+                    "text": "See web results for 21.co"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJOVWpubndaM1dfOEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUVCQ3FJQlFVVnpOMnBPVWxkVU9GTk1RVlZ6VkRkQ2RuTjFWVzFLYld0UFVGb3lYMk5FTkhoaGVHWnliWFpLYlZsSFYwMXBZVlZuZUVsSWNITjBSV3RzU1dNMGRUVXlRV1ZyWjA5WmEwMVhkR1F5YXkxQ2QxUldNWEkzWWxkVWRrMVNjRlpIUjNwaWREVnlMV2xrUWxSbFpuVndVMjFPU0RCalgwRkNSMHhRZGpkTmNFMDJNekpFWmtWMWFGZGxORlpMU3paUVYzcDZNRGRFVTBoNFNYZG1XV1V6VlhCQkVoWlVOM001V2t4MlJFVmpja3N5Y205UU1uRlhkRmxCR2lKQlR5MHdjbXczTW5Fd2VuQkpSbVpyZW5VMVRVRXpkWGhXVHpKb1VEWjBNRXBuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBHcmVlbmhvdXNlIiwibGluayI6Imh0dHBzOi8vYm9hcmRzLmdyZWVuaG91c2UuaW8vYW11bi9qb2JzLzQ4MzAwMTQwMDQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Blockchain Course Instructor",
+            "company_name": "Blockchain Institute of Technology",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "Are you a blockchain, cryptocurrency, NFT, Metaverse, DeFI or Web 3 expert looking to share your knowledge and insights with others?\n\nIf so, Blockchain Institute of Technology (BIT) is seeking experienced instructors like you to create courses on emerging blockchain technologies...\n\nAs a blockchain course instructor at Blockchain Institute of Technology, you'll have the opportunity to shape and expand our learning resources while empowering discussions and encouraging further blockchain education and research.\n\nOur expert technical team will provide the support needed to help you create amazing courses and engage learners with innovative learning resources such as engaging video lectures, course presentations, and demos.\n\nAs a BIT course instructor, you'll:\n\u2022 Develop new courses on blockchain, cryptocurrency, and Web 3 with organized learning resources\n\u2022 Stay up-to-date with new trends in blockchain and related technologies and incorporate them into your learning materials\n\u2022 Participate in discussions about blockchain technology\n\u2022 Collaborate with our technical team to optimize all aspects of your courses for a better learning experience\n\u2022 Manage the content of your courses and update them regularly with new information\n\nTo be considered for this role, you must have:\n\u2022 3+ years of experience in blockchain, cryptocurrency, and Web 3 technologies with over 3 years of professional or industry expertise\n\u2022 A passion for the field of blockchain, NFTs, DeFi, Metaverse, and Web 3\n\u2022 A commitment to promoting blockchain education and research\n\nAbout Blockchain Institute of Technology (BIT)\n\nBlockchain Institute of Technology is the World Standard for Blockchain Education and Certification. \u2122\n\nOur courses and certifications cover new grounds in blockchain and related technologies, and are designed to empower the blockchain workforce. Join our team and be a part of our mission to change the world... one blockchain at a time",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3+ years of experience in blockchain, cryptocurrency, and Web 3 technologies with over 3 years of professional or industry expertise",
+                        "A passion for the field of blockchain, NFTs, DeFi, Metaverse, and Web 3",
+                        "A commitment to promoting blockchain education and research"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Our expert technical team will provide the support needed to help you create amazing courses and engage learners with innovative learning resources such as engaging video lectures, course presentations, and demos",
+                        "Develop new courses on blockchain, cryptocurrency, and Web 3 with organized learning resources",
+                        "Stay up-to-date with new trends in blockchain and related technologies and incorporate them into your learning materials",
+                        "Participate in discussions about blockchain technology",
+                        "Collaborate with our technical team to optimize all aspects of your courses for a better learning experience",
+                        "Manage the content of your courses and update them regularly with new information"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Blockchain+Institute+of+Technology&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIzAo",
+                    "text": "See web results for Blockchain Institute of Technology"
+                }
+            ],
+            "extensions": [
+                "24 hours ago",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "24 hours ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIENvdXJzZSBJbnN0cnVjdG9yIiwiaHRpZG9jaWQiOiJjWlFiZXhSQmtZWUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3NDQ3N3QlFVVnpOMnBPVVRWSFpIZDFWelJyUlRsVldYWmFlR1psVkZaUk1tTTRhWEZ4TVRSTlVGZHpSVkV6T1ZsRFkwWTJaVzlKTWxaeVVFYzNObloyVkhVMVFVUXRiRWx2ZDJodlkyUjFZM3BXWHkxNVdFbHBRMUV0VFZsUmJVUkxWWGxWTFdSakxXTllTMDVXVkRoM1kyRTRORkZvZGpsNWJscEJhV2wxTjJGeU1rdFJlREpITlMxSlRIUmtVbVJrVEhaVk4yaHpXREpJZWt4dVNEbHhSa2xTT0c5alQzZFphREF4WDFWek1scFJOVWRXUXpCU0xUTkVNMVkwWmpWTGNGZHJWRkpwT1daRGEzWmFTRUZmRWhaVU4zTTVXa3gyUkVWamNrc3ljbTlRTW5GWGRGbEJHaUpCVHkwd2NtdzJTbUZaWWxwMlZucEhlVWRRTFVNd2VFcFpVbDlTTVVzNVVITlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvYmxvY2tjaGFpbi1jb3Vyc2UtaW5zdHJ1Y3Rvci1hdC1ibG9ja2NoYWluLWluc3RpdHV0ZS1vZi10ZWNobm9sb2d5LTM1NzMyMTA0MjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Python based - Blockchain developer to join existing blockchain...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Need someone to join our existing team to speed up development process. Will discuss details with the selected candidates.\n\nCandidates must be willing to sign, non-disclosure, non-circumvention, intellectual property release and other legal requirements for the job...\n\nThis is a long term position for the right candidate with various financial options in addition to the hourly compensation",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Candidates must be willing to sign, non-disclosure, non-circumvention, intellectual property release and other legal requirements for the job"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Will discuss details with the selected candidates"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Upwork&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIiQs",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "10\u201330 an hour",
+                "Work from home",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Contractor",
+                "salary": "10\u201330 an hour",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gYmFzZWQgLSBCbG9ja2NoYWluIGRldmVsb3BlciB0byBqb2luIGV4aXN0aW5nIGJsb2NrY2hhaW4gZGV2ZWxvcG1lbnQgdGVhbS4gLSBDb250cmFjdCB0byBIaXJlIiwiaHRpZG9jaWQiOiI0TjRxN1dudVI4Y0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUVDQ3FJQ1FVVnpOMnBPVkhScE5USjBPVmRmVWw4MFltUmpNV2wyVFcxdllrdzNVelpMZWtsWk5WWklSWGsxWTFVM2FXNWtUM2sxTkZWM2FVbEZiamt0UkV3eGFGSXhNVWh3YzIxNVRqQjJUamhJTVhORWRWTkVVMU5OV21Ka1drZG5iM1pGTjJsaVprdG5WVEZFVldGbVZXaGZOWGxqVlhVM04wNXhUWGxwTWt0WFpHSmtaRU10V0ZsbVVucHRVRWhWZVd4cmVWTjNXSEJDZHpsYVdXNVBWazh4YTNCVWVqaDBMVloyUXpKS1FrZ3hRMlV0U2t0U2EwSkhNMVJEZUhGWFZXNXZUVGRXTUdZM2RXeFNUbXc0TlZKUlFXMVVVWGRDY0dOR2NFNDRjVFZ6Y0daa2EyOTNTMlYxVVRWR1JVNDBZbUpRT1VGT1UzQk9RamhFWmpkS05rRlpVMFZDZVd4eVlqSk1RbFpOU0dkSFdGTXlTMGh4WWpaVlVWTXlZbFZ5YVZFelpWRVNGbFEzY3psYVRIWkVSV055U3pKeWIxQXljVmQwV1VFYUlrRlBMVEJ5YkRWbWNqTmlUUzA1V2xaRldYazFSa3d0WVV0YVVVNWtZbDlHU1VFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9QeXRob24tYmFzZWQtQmxvY2tjaGFpbi1kZXZlbG9wZXItam9pbi1leGlzdGluZy1ibG9ja2NoYWluLWRldmVsb3BtZW50LXRlYW1ffjAxZmI0OTczODc1YmM1N2Q5OS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Blockchain DevOps Engineer (Remote)",
+            "company_name": "Telnyx",
+            "location": "  United States   ",
+            "via": "via Startup Jobs",
+            "description": "About Telnyx\n\nAt Telnyx, we\u2019re architecting and amplifying access to global connectivity. We power communications, wireless, networking and storage from our private, global, multi-cloud IP network all the way out to the hyperlocal edge. And we make this edge infrastructure easily available through intuitive APIs housed in one space...\n\nWe\u2019re interested in solving real-world problems, modernizing the antiquated and automating the manual. In building solutions that make connectivity simple and accessible, we\u2019re laying the foundation for a future of endless innovation and interconnected technology. Our shared vision is a future where people, devices and applications can seamlessly connect across the globe.\nAbout You:\n\nYou are a highly motivated and experienced Blockchain DevOps Engineer that will be a critical member responsible for overseeing the development and maintenance of our 6+ active FIL miners on an application and systems level.\n\nThe Opportunity:\n\nTo build a best-in-class Filecoin (FIL) Mining operation. You will be working on projects related to monitoring, alerting, deal making, and smart contracts. You will also be assisting Telnyx with deploying brand new miners in a couple of sites across the US.\n\nYou Will be Responsible For:\n\n\u2022 Ensure the reliability, availability, and scalability of Telnyx\u2019s Filecoin mining infrastructure\n\u2022 Analyze system performance data to identify areas for optimization and improvement\n\u2022 Work closely with other engineers and leaders to specify and develop new tools for monitoring, data ingestion, client engagement, split workloads, and more\n\u2022 Test new experimental features released by the Protocol Labs team to explore new product opportunities with our mining infrastructure\n\u2022 Troubleshoot and resolve any issues with our mining applications and systems\n\nWho We're Looking For:\n\n\u2022 Bachelors or greater, preferably in Computer Science or other engineering discipline\n\u2022 Experience working with blockchain technology and distributed systems. Experience with Filecoin preferred\n\u2022 Have a strong programming background in one (or more) of the following languages: Go, Rust, Javascript\n\u2022 Experience with Docker, Kubernetes, AWS, Terraform\n\u2022 Strong general networking knowledge (DNS, TCP/IP, HTTP, load balancing, QoS)\n\nBonus Points For:\n\n\u2022 Major interest and expertise in Distributed Systems design, development, optimization and operation\n\n#LI-REMOTE#LI-KG1\n\nBring Your Authentic Self to Telnyx\n\nTelnyx is committed to building a team full of diverse perspectives, various backgrounds and different minds. We believe diversity drives innovation. We are committed to building a culture where difference is valued and creating avenues of equity for underserved groups. While we are still a work in progress, we are actively seeking folks who are passionate about building a place of belonging for everyone.\n\nWe're looking for people with passion, grit, and integrity. We believe in transparency, proactivity, and mutual respect. We provide the high-grade tools that help you do your best work, and keep up the collaborative habits that help everyone stay in the loop. No matter where you're based or which team you\u2019re on, you\u2019re plugged in, supported, and helping to shape the future of communications.\n\nYou're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand out\u2014and set you apart\u2014especially if your career has taken some extraordinary twists and turns. At Telnyx, we welcome diverse perspectives, rigorous thinkers and assumption challengers. Are you ready to join us",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You are a highly motivated and experienced Blockchain DevOps Engineer that will be a critical member responsible for overseeing the development and maintenance of our 6+ active FIL miners on an application and systems level",
+                        "Bachelors or greater, preferably in Computer Science or other engineering discipline",
+                        "Experience working with blockchain technology and distributed systems",
+                        "Major interest and expertise in Distributed Systems design, development, optimization and operation"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "To build a best-in-class Filecoin (FIL) Mining operation",
+                        "You will be working on projects related to monitoring, alerting, deal making, and smart contracts",
+                        "You will also be assisting Telnyx with deploying brand new miners in a couple of sites across the US",
+                        "Ensure the reliability, availability, and scalability of Telnyx\u2019s Filecoin mining infrastructure",
+                        "Analyze system performance data to identify areas for optimization and improvement",
+                        "Work closely with other engineers and leaders to specify and develop new tools for monitoring, data ingestion, client engagement, split workloads, and more",
+                        "Test new experimental features released by the Protocol Labs team to explore new product opportunities with our mining infrastructure",
+                        "Troubleshoot and resolve any issues with our mining applications and systems"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://telnyx.com/",
+                    "text": "telnyx.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Telnyx&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIzgs",
+                    "text": "See web results for Telnyx"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIERldk9wcyBFbmdpbmVlciAoUmVtb3RlKSIsImh0aWRvY2lkIjoiOFIzVV9VSVVCV0FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW9zQ0Nzd0JRVVZ6TjJwT1UxZFRkMk56UTNKRVlVcEtUV2gzY1ZoTVdXdEtUMDU2U0c5RGQzbG9ZbkJ6Y1Rsb1MxSjJWR0ZrU0ZwRVRXeG5lbTlEWjNwcVVUWjBWbUV5TWxnNGQydHBjR1V6TnpCVGFVeFdVSE5uT1RVeFkxSlJTRlJ6VW1WV01GVXRZWEJJZEhjNGJuTlJhRkV3TTE5b1lqaGtSVGhOUm1jdFEyVldlQzFzUlRCS1pXcFpaUzB5TmxOSmFYTnFhM05RVFRreGFFOUxkalJvZEZWQkxWcEJkRFIxVEVGbGFHeFBRMDR4UTBZMGVGOUNhV0ZhTFRsdVFtNUNkV3g2U21ONGRWVnliQzFtTVRkd0VoWlVOM001V2t4MlJFVmpja3N5Y205UU1uRlhkRmxCR2lKQlR5MHdjbXcyU0ZwRVh5MWFiM3B5VVV4d2VtUkhjRkZ1UVVkS1lrUTVhRk5CIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTdGFydHVwIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9zdGFydHVwLmpvYnMvYmxvY2tjaGFpbi1kZXZvcHMtZW5naW5lZXItcmVtb3RlLXRlbG55eC00MzQ1MjAzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Ethereum Developer Remote US (Blockchain-DeFi)",
+            "company_name": "Turnblock.io",
+            "location": " Anywhere ",
+            "via": "via ZipRecruiter",
+            "description": "Our client is on crypto\u2019s cutting edge technology, and we\u2019re looking for the right engineers to join them. This is a remote position for any US candidate.\n\nOur client's Blockchain Distribution Network (BDN) allows DeFi (Decentralized Finance) traders to make better trades by being better connected. The key difference is that in the decentralized world of DeFi, you need to be connected to... everyone.\n\nWe\u2019re looking for the right people to join us in building the missing piece in DeFi infrastructure.\n\nResponsibilities\n\nAs a member of an agile engineering team, you will help design, implement, test and deploy new features in very short cycles to an always-on critical-path infrastructure.\n\nRequirements\n\nQualifications\n\u2022 5+ years of development experience\n\u2022 Experience developing Ethereum solutions\n\u2022 Experience running ETH nodes\n\u2022 Experience working with Ethereum transactions\n\u2022 Golang experience \u2013 big advantage\n\u2022 Experience in a Linux working environment\n\u2022 Creative, independent, and hardworking\n\u2022 Team player with great interpersonal communication skills\n\nGreat compensation package.\n\nIf you think you fit the role please apply to join the blockchain journey",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of development experience",
+                        "Experience developing Ethereum solutions",
+                        "Experience running ETH nodes",
+                        "Experience working with Ethereum transactions",
+                        "Golang experience \u2013 big advantage",
+                        "Experience in a Linux working environment",
+                        "Creative, independent, and hardworking",
+                        "Team player with great interpersonal communication skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a member of an agile engineering team, you will help design, implement, test and deploy new features in very short cycles to an always-on critical-path infrastructure"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Great compensation package"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Turnblock.io&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIjAw",
+                    "text": "See web results for Turnblock.io"
+                }
+            ],
+            "extensions": [
+                "100K\u2013200K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "100K\u2013200K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJFdGhlcmV1bSBEZXZlbG9wZXIgUmVtb3RlIFVTIChCbG9ja2NoYWluLURlRmkpIiwiaHRpZG9jaWQiOiI2RW9pMm1ZdW81OEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3NDQ3N3QlFVVnpOMnBPVW1WcmJtODBOVkExWnpaUVZrNXdXRWt6YjNCZk1GWjRNemR3TkdSd1RtVndVakl0WTBKVU1YSnlOR1ZGVGtSS1pYb3dXRVEzVUV0UVRrcHNTMVJrY0ZOellYRmZRbEJ2T1dKaGRWSTVhbGRtTW10SVJVcGpiR2hZV2xOSFgxSTVVMlUzYUVVMU5sQnFRM05HYVc0eVJFOVpUVWR1V1c1UE0wTTJXRlZhUVVScmFsUk1XSFZKWm5aaFprTXRNMkkyWjJ3elZVUnNhbXRLUTJaTVpIUTVOa2hsUVRWYUxXOTFZbmRhYld0eWVEQTNMWGN4Y2toblJqTldjRGcyYzB0b1ltdzVUVzQ0RWhaVU4zTTVXa3gyUkVWamNrc3ljbTlRTW5GWGRGbEJHaUpCVHkwd2NtdzBhV05pYm5WTk4wTmhVMTlxVDJGcVVFUmhUSGxVUzA1c1N6VkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvVHVybmJsb2NrLmlvL0pvYi9FdGhlcmV1bS1EZXZlbG9wZXItUmVtb3RlLVVTLShCbG9ja2NoYWluLURlRmkpLy1pbi1OZXctWW9yayxOWT9qaWQ9ZjNlYzhlNzk4NGY3MzU3MVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Social Media Marketing (Blockchain/Crypto)",
+            "company_name": "Bitquery",
+            "location": " Anywhere ",
+            "via": "via AngelList",
+            "description": "\u2022 Maintain a social media calendar\n\u2022 Build Bitquery Brand Awareness through our Social Media channels\n\u2022 Put our Bitquery updates and educational content on social Media...\n\u2022 Create reports on social media engagements, coversions\n\u2022 Creating Social Media Collateral like images, videos (Our Design team will help)\n\u2022 Monitor narratives and trends and create content\n\u2022 Organise Twitter Spaces and other virtual Meet-ups\n\nRequirements\n\u2022 English Proficiency (Written and Speaking) with Grammar skills\n\u2022 Good understanding of Social media network and related tools (Scheduling, calender)\n\u2022 Awesome writing skills\n\u2022 Very active on Twitter (Must need)\n\u2022 Ability to research and understand complex topic\n\u2022 Computer Science backgound (Must have)\n\u2022 Proven track record of building a web3 community\n\u2022 Good understanding for blockchain concepts (Must have)\n\nBenefits\n\u2022 Opportunity to work & collaborate with a truly global team spread across 5 countries\n\u2022 Work from anywhere in the world\n\u2022 Choose your own work hours\n\u2022 Yearly trip with Bitquery team to any remote destination\n\u2022 A promise to finish the interview processes within 1-2 weeks\n\nBeing a startup we take decisions & move fairly fast, while giving candidates great experience with the interview process. We have a flat hierarchy in the organization where we empower individuals and provide an opportunity to deliver results as per his/her working style. Come and join a great culture and build Bitquery with us.\n\nBitquery focuses on Analytics, Artificial Intelligence, and Blockchain / Cryptocurrency. Their company has offices in New York City. They have a small team that's between 11-50 employees.\n\nYou can view their website at https://bitquery.io or find them on Twitter and LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "English Proficiency (Written and Speaking) with Grammar skills",
+                        "Good understanding of Social media network and related tools (Scheduling, calender)",
+                        "Awesome writing skills",
+                        "Very active on Twitter (Must need)",
+                        "Ability to research and understand complex topic",
+                        "Computer Science backgound (Must have)",
+                        "Proven track record of building a web3 community",
+                        "Good understanding for blockchain concepts (Must have)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Put our Bitquery updates and educational content on social Media",
+                        "Create reports on social media engagements, coversions",
+                        "Creating Social Media Collateral like images, videos (Our Design team will help)",
+                        "Monitor narratives and trends and create content",
+                        "Organise Twitter Spaces and other virtual Meet-ups"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Opportunity to work & collaborate with a truly global team spread across 5 countries",
+                        "Work from anywhere in the world",
+                        "Choose your own work hours",
+                        "Yearly trip with Bitquery team to any remote destination"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Bitquery&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAII0Aw",
+                    "text": "See web results for Bitquery"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2NpYWwgTWVkaWEgTWFya2V0aW5nIChCbG9ja2NoYWluL0NyeXB0bykiLCJodGlkb2NpZCI6Ii1rWmZ1cDdGRFlNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2WUJDcmNCUVVWek4ycE9VbTlNYm01VE1rcHlka3RXU2xCb1JIRjRkV1JoT0VGbmJtOTROMGRUUW5wbVFXazFVMEZaTVZOc0xVbEJTbTF2VlV4NlprOVBjRmRaZWsxc1QyUmZabnB0TjBoVVNUUklaR2xPT0hrelVIUkxVM2xNYjNocVVqRnVUamxTVlRsd2VVNUpkazl5YVhjd1dHTjZkM2REUVdVNU1HaDRkR1J2WTNJMGVYSlNZWFl5ZVZaVmNEUjNTMEZNVFd4aGNHMXZlV3RrTjFGNFpqRkNOVmR6V1dSb2NHTnlYMWs0VG1SdVNVeHdRVVZLTlZGSkVoWlVOM001V2t4MlJFVmpja3N5Y205UU1uRlhkRmxCR2lKQlR5MHdjbXcwVTBsVVZYaExZbFk1U2tobVJucGlXbVp1VjFwRVVVeFFibFpuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBBbmdlbExpc3QiLCJsaW5rIjoiaHR0cHM6Ly93ZWxsZm91bmQuY29tL2NvbXBhbnkvYml0cXVlcnkvam9icy8yNTI0MzQ1LXNvY2lhbC1tZWRpYS1tYXJrZXRpbmctYmxvY2tjaGFpbi1jcnlwdG8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior Software Engineer - Blockchain Network (100% Remote)",
+            "company_name": "Jobot",
+            "location": " Anywhere ",
+            "via": "via Dice",
+            "description": "competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work and more!\n\nThis Jobot Job is hosted by: Karyn Spies...\nAre you a fit? Easy Apply now by clicking the \"Apply Now\" button and sending us your resume.\nSalary: $150,000 - $200,000 per year\n\nA bit about us:\n\nA leader in mempool services, block streaming and anything Defi performance. Our client's DeFi trading tools allow users to win at crypto trading by propagating blockchain transactions and blocks closer to the speed of light and provides traders with the speed and reliability required for crypto transactions.\n\nWhy join us?\n\nJoin a highly skilled team of business and engineering minds who are working on complex and innovative projects. Our client offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more.\n\u2022 Employee medical, dental and vision insurance with 100% premium coverage.\n\u2022 Unlimited paid time off.\n\u2022 Annual trip to celebrate the company's anniversary.\n\u2022 Quarterly team outings and regular happy hours to recharge and reconnect.\n\nAnd if you choose to work in the office in Chicago ...\n\u2022 Onsite yoga classes.\n\u2022 Unlimited beverages and snacks, including cold-brew and green tea on tap.\n\u2022 Rotating breakfast menu served daily.\n\u2022 Dinner if you work past 6pm.\n\u2022 Thursday happy hours with beer, wine, and charcuterie.\n\nJob Details\n\nRequirements\n\u2022 At least 5 years of experience with designing, building, testing and implementing highly scalable and distributed backend systems\n\u2022 3+ years experience in Blockchain\n\u2022 2+ years experience in Blockchain propagation, consensus (one of the following networks: Ethereum, Binance Smart Chain, Polygon and Solana)\n\u2022 Expertise using Go language\n\u2022 Ability to read, modify blockchain core code (geth, bor, prysm, ...)\n\nResponsibilities\n\u2022 Improve (suggest and implement) the speed of the network based on the blockchain protocol, network and consensus model\n\u2022 Create offerings that leverage the speed of the data that passes through the blockchain distribution network\n\u2022 Integrate our core systems with other blockchains such as Ethereum, Binance Smart Chain, Polygon, Solana and other future blockchains on the roadmap\n\nInterested in hearing more? Easy Apply now by clicking the \"Apply Now\" button",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "At least 5 years of experience with designing, building, testing and implementing highly scalable and distributed backend systems",
+                        "3+ years experience in Blockchain",
+                        "2+ years experience in Blockchain propagation, consensus (one of the following networks: Ethereum, Binance Smart Chain, Polygon and Solana)",
+                        "Expertise using Go language",
+                        "Ability to read, modify blockchain core code (geth, bor, prysm, ...)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Rotating breakfast menu served daily",
+                        "Dinner if you work past 6pm",
+                        "Improve (suggest and implement) the speed of the network based on the blockchain protocol, network and consensus model",
+                        "Create offerings that leverage the speed of the data that passes through the blockchain distribution network",
+                        "Integrate our core systems with other blockchains such as Ethereum, Binance Smart Chain, Polygon, Solana and other future blockchains on the roadmap"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary: $150,000 - $200,000 per year",
+                        "Our client offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more",
+                        "Employee medical, dental and vision insurance with 100% premium coverage",
+                        "Unlimited paid time off",
+                        "Annual trip to celebrate the company's anniversary",
+                        "Quarterly team outings and regular happy hours to recharge and reconnect",
+                        "And if you choose to work in the office in Chicago ..",
+                        "Onsite yoga classes",
+                        "Unlimited beverages and snacks, including cold-brew and green tea on tap"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Jobot&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIIlw0",
+                    "text": "See web results for Jobot"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "150K\u2013200K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "salary": "150K\u2013200K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLSBCbG9ja2NoYWluIE5ldHdvcmsgKDEwMCUgUmVtb3RlKSIsImh0aWRvY2lkIjoiZXNlYUdaSEtnWUFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJZQ0N2Y0JRVVZ6TjJwT1UwOVZialF5VDI5U1dGUjBlVjlJWW14NmJ6ZE9PRzlUVldGdlUyNTRVRmxaTVZGNkxVNXVhekU0UzNablNFZE1UWE5yZUd0RWRYVktRMmxvTm5seVpESmFWbWhXTm5aTFprWXdTVXRUTTJWaFdDMWpSR1JIYVhWblkwZDZZakZ5YWpWbWIzTmFRbVZyVTNkVVJEZHhXRkoxY25BeFJ6RlRWRk4xV0ZkSVkzQllabWxvV1RaVFlVbE5kMlV4UjJsVVNHVk9XbVpJTUhOdk5FaFFZVUY2U0RkT1ltZGtVbVV3U2tKVlZrRXljbVpDYnpkbVlYcHJhSE10WlY5c1RHVk9lbUpMVG1wU05WWkpkRGhIVTJ0UGNWQktXa3REUm0xWFlrZFZiVVIxZUVNNGFGOU9lakl3T0dFMlVHUlFXV0ZFTUJJV1ZEZHpPVnBNZGtSRlkzSkxNbkp2VURKeFYzUlpRUm9pUVU4dE1ISnNOa0pJU0ZNNFZHbHFWM1V5WVVwYWJWbzFjalZpYVVaYVl6Vm1adyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIERpY2UiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZGljZS5jb20vam9iLWRldGFpbC82NDRmNzgyNS03MDEyLTQ3NWItOGViZC04NGU3NGFkYWFiMjA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Blockchain Developer",
+            "company_name": "Atechstar",
+            "location": "  United States   ",
+            "via": "via OPTnation",
+            "description": "Requirements: Strong software development background. Experience working with large codebases. Experience working with open-source projects. Proficiency in one of the following languages: C++, Java, JavaScript. Strong knowledge of common algorithms and data structures. Familiarity with basic cryptography. Strong knowledge of bitcoin-like blockchains.\n\nKey Skills: Web design, development, and... programming of apps, All of which will help you in developing better Dapps. Web development is crucial because most organizations. Blockchain developers to create apps that people with no or minimal knowledge of blockchain could use",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Requirements: Strong software development background",
+                        "Experience working with large codebases",
+                        "Experience working with open-source projects",
+                        "Proficiency in one of the following languages: C++, Java, JavaScript",
+                        "Strong knowledge of common algorithms and data structures",
+                        "Familiarity with basic cryptography",
+                        "Strong knowledge of bitcoin-like blockchains",
+                        "Key Skills: Web design, development, and programming of apps, All of which will help you in developing better Dapps",
+                        "Web development is crucial because most organizations"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Atechstar&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAII2Q0",
+                    "text": "See web results for Atechstar"
+                }
+            ],
+            "extensions": [
+                "136K\u2013146K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "136K\u2013146K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIERldmVsb3BlciIsImh0aWRvY2lkIjoiVUx1MGhLNE95a1FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVVZ6TjJwT1UwNUdZalZsUVhscE1IUjVaVkppTlRreGFtbHFiR2RYYW1VNE1uZDBlVWh1VGw4eWQyNTRWbTR6VUhSYWFIaHBabVJwU0ZkTk5qbGhlbkJYU0ZCRVowVk9ZekpHY25aT1ZWcEhNM0kzWWpaNFUwOVhRMDFaVGxOSmFIRkhNREkwWTJGYWRGZGxYMm81U0ZRNVlUZFViQzA0U0habVlrOHdNMk5hVVhKT01FVk9aV0l6YjNsQ1lVVk9OMFJ4VlhoSmVEZHBhSE01WlVwVlprVkJFaFpVTjNNNVdreDJSRVZqY2tzeWNtOVFNbkZYZEZsQkdpSkJUeTB3Y213M1JWcHdiRk5NTUhaVk4wRTJTMHczTW1ScldHNDRlRE5TWmxobiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE9QVG5hdGlvbiIsImxpbmsiOiJodHRwczovL3d3dy5vcHRuYXRpb24uY29tL2Jsb2NrY2hhaW4tZGV2ZWxvcGVyLWpvYi1pbi1hbG9oYS1zdGF0ZS12aWV3LWpvYmlkLTMyNjA5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "DeFi Blockchain Co-Founder",
+            "company_name": "Cryptops Exchange",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "Cryptops is currently looking for a Co-Founder / Chief Executive Officer to help launch a unique innovative DeFi exchange for crypto currency option derivatives using an on blockchain order book.\n\nThe Cryptops Exchange uses asset tokenization to provide an intuitive, secure and censorship resistant method for trading crypto currency option derivatives directly on blockchain. Cryptops is currently... the only decentralized exchange that uses asset tokenization to issue traditional financial derivatives directly to an on-blockchain order book.\n\nOther decentralized derivatives exchanges require users to install web browser plugins in order to \"connect\" to a hybrid off-chain order book to place orders and make trades. This insecure method causes users to constantly lose millions in various \"hacks\", \"exploits\" and \"vulnerabilities\". These problems are solved using Cryptops where trades happen directly on the verifiable blockchain order book with transactions closing on average in under 5 seconds.\n\nSome unique benefits of the Cryptops project.\n\u2022 The most censorship resistant cryptocurrency derivatives DEX available.\n\u2022 The most secure and convenient staking model that does not involve any kind of obscure lending practices or lockups.\n\u2022 The asset token derivatives are exercisable to tokens that are pegged in value and directly transferable to real world native coins on their blockchains.\n\nFor further information, please visit the Cryptops website at: cryptops.exchange\n\nResponsibilities\n\nRaising capital, team building, and scaling the project.\n\nProviding overall strategic direction and take part in decisions on how to best advance the project such as to list the COE coin to centralized exchanges.\n\nPossessing strong understanding of the current DeFi market solutions and limitations.\n\nDeveloping and executing a plan to ensure the launch and growth of the Cryptops project. This will include leading fundraising efforts and managing relationships with investors.\n\nQualifications\n\nCan personally invest or immediately support an initial capital raise of $500,000 in return for a 10% ownership share of the Cryptops project.\n\nEntrepreneur interested in introducing an innovative DeFi platform that uses a direct access blockchain order book.\n\nAble to perform a seed funding of round of $300k to $3 million that will be used to get the project production ready and provide the proof of asset reserves that will be displayed by the public facing dashboard.\n\nDeep network of investors, technologist and blockchain enthusiasts",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Can personally invest or immediately support an initial capital raise of $500,000 in return for a 10% ownership share of the Cryptops project",
+                        "Able to perform a seed funding of round of $300k to $3 million that will be used to get the project production ready and provide the proof of asset reserves that will be displayed by the public facing dashboard"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Other decentralized derivatives exchanges require users to install web browser plugins in order to \"connect\" to a hybrid off-chain order book to place orders and make trades",
+                        "This insecure method causes users to constantly lose millions in various \"hacks\", \"exploits\" and \"vulnerabilities\"",
+                        "Raising capital, team building, and scaling the project",
+                        "Providing overall strategic direction and take part in decisions on how to best advance the project such as to list the COE coin to centralized exchanges",
+                        "Developing and executing a plan to ensure the launch and growth of the Cryptops project",
+                        "This will include leading fundraising efforts and managing relationships with investors"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Cryptops+Exchange&sa=X&ved=0ahUKEwj7pvqa77H-AhVKpVYBHdpSCww4ChCYkAIImA4",
+                    "text": "See web results for Cryptops Exchange"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZUZpIEJsb2NrY2hhaW4gQ28tRm91bmRlciIsImh0aWRvY2lkIjoibmFZY2JhRlVvNG9BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZZQkNyY0JRVVZ6TjJwT1VuYzBTVTVoUTFWV2VqRTVTVk5MZVZWeU1TMTFTV0ptVVRWa1kxazRORkV0UVU1WFNEWkNUamhTYkVVd1NFdDNRak0zT0ZOWWFVY3dRblJQUVdSS2FERm5VRkF5ZUZWWmIyVmxVRzk0Tm5oeU1IVkVUSEptU205dGExZEpWWHBSVFhsVFpXNDRiVkF4TnpoeVoxUlBka2xaYmxCVWJsZHVhMmd5WjI1WlJIcGxRMlZUVUhBMVFVRlVaMFl0UmxNd2VHOUNRVVZoVUcxMmJtdHdVVzFNWkVReVVrUkZNMlJTVkhKT2FqWTFiM1JWRWhaVU4zTTVXa3gyUkVWamNrc3ljbTlRTW5GWGRGbEJHaUpCVHkwd2NtdzNRbEpCZUdsb1UyUkhUbWRXZFdRMmJqaGtSM0ZrTW5GT1gxSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L2RlZmktYmxvY2tjaGFpbi1jby1mb3VuZGVyLWF0LWNyeXB0b3BzLWV4Y2hhbmdlLTM1NjQwMjMyMDQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior manager",
+                    "value": "senior manager"
+                },
+                {
+                    "text": "Tax senior",
+                    "value": "tax senior"
+                },
+                {
+                    "text": "Tax manager",
+                    "value": "tax manager"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Tax consultant",
+                    "value": "tax consultant"
+                },
+                {
+                    "text": "Consultant",
+                    "value": "consultant"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Security engineer",
+                    "value": "security engineer"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                },
+                {
+                    "text": "Writer",
+                    "value": "writer"
+                },
+                {
+                    "text": "Advisor",
+                    "value": "advisor"
+                },
+                {
+                    "text": "Attorney",
+                    "value": "attorney"
+                },
+                {
+                    "text": "Audit",
+                    "value": "audit"
+                },
+                {
+                    "text": "Builder",
+                    "value": "builder"
+                },
+                {
+                    "text": "Business",
+                    "value": "business"
+                },
+                {
+                    "text": "Community manager",
+                    "value": "community manager"
+                },
+                {
+                    "text": "Counsel",
+                    "value": "counsel"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Development engineer",
+                    "value": "development engineer"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Devops engineer",
+                    "value": "devops engineer"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Financial officer",
+                    "value": "financial officer"
+                },
+                {
+                    "text": "Instructor",
+                    "value": "instructor"
+                },
+                {
+                    "text": "Investigator",
+                    "value": "investigator"
+                },
+                {
+                    "text": "Investment manager",
+                    "value": "investment manager"
+                },
+                {
+                    "text": "Marketing specialist",
+                    "value": "marketing specialist"
+                },
+                {
+                    "text": "Media marketing",
+                    "value": "media marketing"
+                },
+                {
+                    "text": "Operations",
+                    "value": "operations"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Platform engineer",
+                    "value": "platform engineer"
+                },
+                {
+                    "text": "Relations manager",
+                    "value": "relations manager"
+                },
+                {
+                    "text": "Research analyst",
+                    "value": "research analyst"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Senior principal",
+                    "value": "senior principal"
+                },
+                {
+                    "text": "Technical architect",
+                    "value": "technical architect"
+                },
+                {
+                    "text": "Technical officer",
+                    "value": "technical officer"
+                },
+                {
+                    "text": "Technology instructor",
+                    "value": "technology instructor"
+                },
+                {
+                    "text": "Tutor",
+                    "value": "tutor"
+                },
+                {
+                    "text": "Ux/ui designer",
+                    "value": "ux/ui designer"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Miami, FL",
+                    "value": "EcHIDqKw2YhlT63dcfKW_w=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Las Vegas, NV",
+                    "value": "0X31pIK3voCjebPV5tXMOg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Irving, TX",
+                    "value": "j_UJHVyCToYJ84eGVm8wPA=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Houston, TX",
+                    "value": "AYWNSLS4QIY7BWXz3gINyg=="
+                },
+                {
+                    "text": "Jersey City, NJ",
+                    "value": "3a-_JdJQwonZJc2iE_BJAg=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "Remote, OR",
+                    "value": "Xd1PcUdfxFT6HfQNXR_RRw=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Albany, NY",
+                    "value": "S_tPzDQK3onEKOegEmOh4Q=="
+                },
+                {
+                    "text": "Albuquerque, NM",
+                    "value": "e4MJ090KIof99tm4zvjTwA=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "BARNESBORO, PA",
+                    "value": "/f2/BARNESBORO, PA"
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Birmingham, AL",
+                    "value": "07-FWN8RiYjOVLrqCXRQJQ=="
+                },
+                {
+                    "text": "Boca Raton, FL",
+                    "value": "J_s278Ij2YjJlWDK7qY-0g=="
+                },
+                {
+                    "text": "Bristol, TN",
+                    "value": "TYnr7iqdWohWh9ja_vJXPw=="
+                },
+                {
+                    "text": "Camp Hill, PA",
+                    "value": "f0rLVyTCyImwE4DZfzdukA=="
+                },
+                {
+                    "text": "Carson City, NV",
+                    "value": "cbTe-KEKmYAoOOK9gmyc9w=="
+                },
+                {
+                    "text": "Cincinnati, OH",
+                    "value": "-SE43rFRQIgXk8Dki377aQ=="
+                },
+                {
+                    "text": "Cleveland, OH",
+                    "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+                },
+                {
+                    "text": "Columbus, OH",
+                    "value": "cd6QucGJOIgztbHP-GYy5A=="
+                },
+                {
+                    "text": "Concord, NH",
+                    "value": "F4lKFZZq4onxKCWmoHGoBQ=="
+                },
+                {
+                    "text": "Costa Mesa, CA",
+                    "value": "eW9X_G_f3IDawAPYEoQB7w=="
+                },
+                {
+                    "text": "Darien, CT",
+                    "value": "YQS6WhqgwokJ49rBf-EKgA=="
+                },
+                {
+                    "text": "Davenport, IA",
+                    "value": "8aIS4MU04oewH1hWYx_q6A=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Des Moines, IA",
+                    "value": "5x5hwaSZ7oey5JEmUSgAcQ=="
+                },
+                {
+                    "text": "Detroit, MI",
+                    "value": "dR3LEAHKJIjSxLk1ToZ2Vw=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Fairfax, VA",
+                    "value": "zZFLOZZOtolAhkSF5yYjBw=="
+                },
+                {
+                    "text": "Falls Church, VA",
+                    "value": "rWNGem5LtolZlz2XiGZTbg=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Foster City, CA",
+                    "value": "MbBm1NCYj4B975CYDB2wrQ=="
+                },
+                {
+                    "text": "Frankfort, KY",
+                    "value": "yVMZi0xzQohcQmeIoBhkUw=="
+                },
+                {
+                    "text": "Frederick, MD",
+                    "value": "4669jAzFyYmZHBG9vUdi2g=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Accounting",
+                    "value": "/business/naics2007/5412"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Travel",
+                    "value": "/business/naics2007/5615"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Jobot",
+                    "value": "/g/11jrq3t_g3"
+                },
+                {
+                    "text": "OAK Network",
+                    "value": "/g/11sq5fg0rt"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "EY",
+                    "value": "/m/0g9jc"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Axelar",
+                    "value": "/g/11lrchngb9"
+                },
+                {
+                    "text": "BNY Mellon",
+                    "value": "/m/02vps5x"
+                },
+                {
+                    "text": "BPM LLP",
+                    "value": "/g/11b8250rm0"
+                },
+                {
+                    "text": "BingX",
+                    "value": "/g/11t5swpwg8"
+                },
+                {
+                    "text": "BitGo",
+                    "value": "/g/11ckr55jr0"
+                },
+                {
+                    "text": "Blockchain",
+                    "value": "/g/11dxpy968n"
+                },
+                {
+                    "text": "CGI Group, Inc.",
+                    "value": "/m/07k7yx"
+                },
+                {
+                    "text": "Chainlink Labs",
+                    "value": "/g/11qn04qyw9"
+                },
+                {
+                    "text": "Crypto.com",
+                    "value": "/g/11mpd28vqp"
+                },
+                {
+                    "text": "Cynet Systems",
+                    "value": "/g/11f01h5mrt"
+                },
+                {
+                    "text": "Dapper Labs",
+                    "value": "/g/11fhql0_yt"
+                },
+                {
+                    "text": "Dice",
+                    "value": "/m/02_3ckm"
+                },
+                {
+                    "text": "DoraHacks",
+                    "value": "/g/11f7pbnr4j"
+                },
+                {
+                    "text": "Fidelity Investments Careers",
+                    "value": "/m/028q26"
+                },
+                {
+                    "text": "Fox Corporation",
+                    "value": "/g/11fkd9nfcb"
+                },
+                {
+                    "text": "Galaxy Digital",
+                    "value": "/g/11dx9g2fxp"
+                }
+            ]
+        }
+    ]
+}

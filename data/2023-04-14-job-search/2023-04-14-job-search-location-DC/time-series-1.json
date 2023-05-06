@@ -1,0 +1,25 @@
+{
+    "search_metadata": {
+        "id": "643dbb4c3d6919891218bca4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/072689a1aae952f2/643dbb4c3d6919891218bca4.json",
+        "created_at": "2023-04-17 21:34:04 UTC",
+        "processed_at": "2023-04-17 21:34:04 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=time+series&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/072689a1aae952f2/643dbb4c3d6919891218bca4.html",
+        "total_time_taken": 0.71
+    },
+    "search_parameters": {
+        "q": "time series",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "search_information": {
+        "jobs_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+}

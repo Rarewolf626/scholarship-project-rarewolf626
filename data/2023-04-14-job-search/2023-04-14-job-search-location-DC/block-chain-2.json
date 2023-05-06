@@ -1,0 +1,1207 @@
+{
+    "search_metadata": {
+        "id": "643dbb51a1b4237f4c8c96df",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5cd17e0d6bf269f5/643dbb51a1b4237f4c8c96df.json",
+        "created_at": "2023-04-17 21:34:09 UTC",
+        "processed_at": "2023-04-17 21:34:09 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=block+chain&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=20",
+        "raw_html_file": "https://serpapi.com/searches/5cd17e0d6bf269f5/643dbb51a1b4237f4c8c96df.html",
+        "total_time_taken": 1.41
+    },
+    "search_parameters": {
+        "q": "block chain",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 20
+    },
+    "jobs_results": [
+        {
+            "title": "Blockchain Engineer",
+            "company_name": "Protochain Research",
+            "location": "  New York, NY   ",
+            "via": "via Jobs",
+            "description": "Protochain is a research-oriented development and trading firm focused on building the future of crypto infrastructure and markets.\n\nWe're a team of both builders and traders who work to unlock the long-term potential of crypto by building a suite of products, contributing to decentralized protocols and open-source codebases, and improving market structure. We are based out of New York City, with... the possibility to be remote depending on the position.\n\nAs a Blockchain Engineer at Protochain, you will partner with project leads, researchers, and other senior developers on strategic efforts to add value to blockchain projects within high value ecosystems. You will build across multiple layer 1 blockchains, writing both on-chain and off-chain logic to build and support new functionality as part of your role. You\u2019ll also contribute to internal and external tooling as part of our effort to make smart contract programming safer and more maintainable.\n\nResponsibilities\n\u2022 Work with smart contracts within multiple layer 1 blockchains.\n\u2022 Collaborate with frontend developers to ensure outstanding UX\n\u2022 Write high-quality, well-tested code that is intended to be open source\n\u2022 Manage fast-moving priorities and help shape product strategy\n\u2022 Manage the priorities, deadlines and deliverables for several blockchain projects\n\u2022 Collaborate with community members via channels such as Slack, Discord, and Telegram\n\u2022 Write clear and concise documentation to facilitate adoption\n\u2022 Manage or train other engineers both internal to Protochain, as well as within the crypto community, to help projects scale\n\u2022 Other duties as assigned or needed\n\nRequirements\n\u2022 Passionate about the crypto industry and eagerly following the fast-evolving landscape\n\u2022 Exposure to developing blockchains and/or Dapps\n\u2022 Strong interest in building logic and applications that will accelerate the adoption of the decentralized future\n\u2022 Familiar with Rust, C++, Solidity, Go, Python development\n\u2022 Have high engineering standards with respect to product usability, code maintainability, and documentation\n\u2022 Excited by the prospect of working in a fast-paced and lean organization with evolving focuses and priorities",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Passionate about the crypto industry and eagerly following the fast-evolving landscape",
+                        "Exposure to developing blockchains and/or Dapps",
+                        "Strong interest in building logic and applications that will accelerate the adoption of the decentralized future",
+                        "Familiar with Rust, C++, Solidity, Go, Python development",
+                        "Have high engineering standards with respect to product usability, code maintainability, and documentation",
+                        "Excited by the prospect of working in a fast-paced and lean organization with evolving focuses and priorities"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Blockchain Engineer at Protochain, you will partner with project leads, researchers, and other senior developers on strategic efforts to add value to blockchain projects within high value ecosystems",
+                        "You will build across multiple layer 1 blockchains, writing both on-chain and off-chain logic to build and support new functionality as part of your role",
+                        "You\u2019ll also contribute to internal and external tooling as part of our effort to make smart contract programming safer and more maintainable",
+                        "Work with smart contracts within multiple layer 1 blockchains",
+                        "Collaborate with frontend developers to ensure outstanding UX",
+                        "Write high-quality, well-tested code that is intended to be open source",
+                        "Manage fast-moving priorities and help shape product strategy",
+                        "Manage the priorities, deadlines and deliverables for several blockchain projects",
+                        "Collaborate with community members via channels such as Slack, Discord, and Telegram",
+                        "Write clear and concise documentation to facilitate adoption",
+                        "Manage or train other engineers both internal to Protochain, as well as within the crypto community, to help projects scale",
+                        "Other duties as assigned or needed"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Protochain+Research&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIzQk",
+                    "text": "See web results for Protochain Research"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJKd1JtY19hcHh3Y0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVVRoTlgxbDZkamRzUzJwQk9VZDFRMkprUjFORE9FMU9RVTg1TkVOc2JWcGFiRzE0WjNaQ2JXeG9aMFJvYm05RFdURkJRVEptZWxaVk1WTlVRVm95Y2tOdU9WcHJiVU5UYzBaRFdsOURSRkZFTTBKWE1uRkxRWE4yUVVKeFUwTXRkazl0VjNKcldrdGZaVGxvTWw5TlJ6WmZjMDVyWjNaamR6bDZSMWsyWlMxUmVIWkZNVlppZEdGUVRFdHRjelpzTFZKTWNYWXpVMkozZERSbWNrdGhSbXBuVGxsNmNsQkNhMUJLWjJONk56bGpFaGRWWW5NNVdrbEVVRWhMV0drMVRtOVFOVTR0UmpKQmR4b2lRVTh0TUhKc05XSjFNRkp0TWpVNGNTMDJhemx4V0MwNFdITlhkV05SWWtWVlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy5hc2hieWhxLmNvbS9wcm90b2NoYWluLzM3ODVkN2JhLTZkYWItNGRkZC05NjEyLTg0OGJhYWVhNWFkZD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senior Principal, Product Manager (Technical, Blockchain/Digital...",
+            "company_name": "BNY Mellon",
+            "location": "  New York, NY   ",
+            "via": "via Eightfold.ai",
+            "description": "Senior Principal, Product Manager (Technical, blockchain/Digital Assets)\n\nBring your ideas. Make history...\nBNY Mellon offers an exciting array of future-forward careers at the intersection of business, finance, and technology. We are one of the world's top asset management and banking firms that manages trillions of dollars in assets, custody and/or administration. Known as the \u201cbank of banks\u201d - 97% of the world\u2019s top banks work with us as we lead and serve our customers into the new era of digital.\n\nWith over 238 years of rich history and industry firsts, BNY Mellon has been built upon our proven ability to evolve, lead, and drive new ideas at every turn. Today, we\u2019re approximately 50,000 employees across 35 countries with a culture that empowers you to grow, take risks, experiment and be yourself. This is what #LifeAtBNYMellon is all about.\n\nWe\u2019re seeking a future team member for the role of Senior Principal, Product Manager (Technical, blockchain/Digital Assets)\n\nto join our Digital Assets team. This role is located in New York, NY HYBRID/REMOTE.\n\nIn this role, you\u2019ll make an impact in the following ways:\n\u2022 Provides solutions/recommendations for complex business initiatives for line of business, where analysis of situations requires an in-depth knowledge of organizational objectives\n\u2022 Utilizes a comprehensive and in-depth knowledge of multiple areas across disciplines to achieve project objectives.\n\u2022 Keeps abreast of contemporary concepts in business strategy and management and applies these to develop innovative solutions and transformation plans and roadmaps.\n\u2022 Partners with business line managers to design short, medium and long-term operational improvements.\n\nTo be successful in this role, we\u2019re seeking the following:\n\u2022 Bachelors degree in business or a related discipline, or equivalent work experience required.\n\u2022 Advanced degree preferred\n\u2022 10-12 years of related experience preferred.\n\u2022 Experience in the securities or financial services industry preferred.\n\nAt BNY Mellon, our inclusive culture speaks for itself. Here\u2019s a few of our awards:\n\u2022 Fortune World\u2019s Most Admired Companies & Top 20 for Diversity and Inclusion\n\u2022 Bloomberg\u2019s Gender Equality Index (GEI)\n\u2022 Best Places to Work for Disability Inclusion, Disability: IN \u2013 100% score\n\u2022 100 Best Workplaces for Innovators, Fast Company\n\u2022 Human Rights Campaign Foundation, 100% score Corporate Equality Index\n\u2022 CDP\u2019s Climate Change \u2018A List\u2019\n\nOur Benefits:\n\nBNY Mellon offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life\u2019s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves that can support you and your family through moments that matter.\n\nBNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer. Minorities/Females/Individuals With Disabilities/Protected Veterans.\n\nOur ambition is to build the best global team \u2013 one that is representative and inclusive of the diverse talent, clients and communities we work with and serve \u2013 and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelors degree in business or a related discipline, or equivalent work experience required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We\u2019re seeking a future team member for the role of Senior Principal, Product Manager (Technical, blockchain/Digital Assets)",
+                        "Provides solutions/recommendations for complex business initiatives for line of business, where analysis of situations requires an in-depth knowledge of organizational objectives",
+                        "Utilizes a comprehensive and in-depth knowledge of multiple areas across disciplines to achieve project objectives",
+                        "Keeps abreast of contemporary concepts in business strategy and management and applies these to develop innovative solutions and transformation plans and roadmaps",
+                        "Partners with business line managers to design short, medium and long-term operational improvements"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We provide access to flexible global resources and tools for your life\u2019s journey"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.bnymellon.com/",
+                    "text": "bnymellon.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=BNY+Mellon&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIiQo",
+                    "text": "See web results for BNY Mellon"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHJpbmNpcGFsLCBQcm9kdWN0IE1hbmFnZXIgKFRlY2huaWNhbCwgQmxvY2tjaGFpbi9EaWdpdGFsIEFzc2V0cykiLCJodGlkb2NpZCI6IkhCWTAxTVJOWEVBQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9VamQzYlhaWFF6QlBaMkpEZGs5M1JHSklaMjVwUVhKQlRXVnRSemRqVjJoV1dHMU1lVjlJTWpOdVJHUXdVMUpwTWxKRE0xOXhaREpyTURZeVdWSlNXRGxYT0hCcmRqSkZURlJxU20xRlUzRm1UV2RRV1hScFJtMW1aVWxwZEhKZmJtaFRTMk5SWVVsa1dHcFZSbGhrY1hnMmRrdE9SRjlOUVdsM1JFdEZWSEJQVjJwSVdEZHFSa3BvWlRCNE9FRkJhbVZyTUVNdGNtSkRVazlFTFhsM1dDMUhjVmRPTUdVMU1pMVdRWEZ1TlVWSlRXcDNWVWw1YjJWcmRFOXZZa0ZXVGxKelVEUm1RbEpQV1RSYVJYUlBWRXRYUjFsdVUxVnVlRFJPTTBRMmFERjNjWEJCVkdWM1Qyc3pYMlZGZGpGbU1UVkxhMUozZVcwNGVuTmxlV1ZoWTA1M2RFUjRiUklYVldKek9WcEpSRkJJUzFocE5VNXZVRFZPTFVZeVFYY2FJa0ZQTFRCeWJEWXRaRU5TU21SdVFYVmZMVGhWY2xOWFpXUlZjRUZsVFVWRWEyYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRWlnaHRmb2xkLmFpIiwibGluayI6Imh0dHBzOi8vYm55bWVsbG9uLmVpZ2h0Zm9sZC5haS9jYXJlZXJzL2pvYi8xNTU2OTE2Mi1zZW5pb3ItcHJpbmNpcGFsLXByb2R1Y3QtbWFuYWdlci10ZWNobmljYWwtYmxvY2tjaGFpbi1kaWdpdGFsLWFzc2V0cy0tbmV3LXlvcmstbnktdW5pdGVkLXN0YXRlcz9kb21haW49Ym55bWVsbG9uLmNvbVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Research Engineer | Blockchain Consensus",
+            "company_name": "DoraHacks",
+            "location": "  Seattle, WA   ",
+            "via": "via Startup Jobs",
+            "description": "About DoraHacks\n\nDoraHacks is a global hackathon organizer and one of the world's most active multi-chain Web3 developer platforms. Our platform enables hackers and open source developers around the world to participate in Hackathons, Bounty, Grant, Grant DAO, and get funding through the encrypted native protocol and infrastructure provided by DoraHacks. By far, more than 4000 projects from the... DoraHacks community have received over $25 million in grants . A large number of open source communities, DAOs, and more than 50 major blockchain ecosystems are actively using Dora's infrastructure (DoraHacks.io) for open source funding and community governance.\n\nDoraHacks is building the future open source curation market. We believe that by equipping developers with the best tools, connecting them to the right people, we can help the open source community solve the whole world's problems better.\n\nFor More Info\nPlease visit our Website\uff5cLinkedIn\uff5cTwitter\uff5cDiscord |Youtube | Bilibili | DORA RESEARCH BLOG\n\nJoin Us\nIf you are motivated by the infinite hacker movement\nIf you are curious about the outerspace\nIf you are ready to solve the real problems of the world\nIf you are passionate about building the future of Web3 world\nIf you want to be a digital nomad\n\nContact us\nRecruiting@dorahacks.com\n\nRequirements\n\n\u2022 Bachelor degree\u2019s degree in communication technology or computer science related majors required\n\u2022 PhD degree in related fields preferred\n\u2022 Understand BFT protocols, especially honey badger BFT and its later developments\n\u2022 Understanding of satellite communications and satellite constellation is preferred, though not required\n\u2022 Experience in embedded system programming and engineering is preferred, though not required\n\nLogistics\n\nThis is a remote position that can be done from anywhere. We are able to provide visa sponsorship in some countries, and the possibilities can be discussed in interview process.\n\nOur interview process takes place on Zoom/Google Meeting and consists of the following:\n\n- Test (Online test/Take-home assignment)\n- Recruiter call (15-30 minutes)\n- Team interview (45-60 mins)\n- Final interview (45 mins)\n\nIf you need any support for the interview process, pls do not hesitate to contact us by\nrecruiting@dorahacks.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor degree\u2019s degree in communication technology or computer science related majors required",
+                        "Understand BFT protocols, especially honey badger BFT and its later developments"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.dorahacks.com/",
+                    "text": "dorahacks.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=DoraHacks&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIwQo",
+                    "text": "See web results for DoraHacks"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBFbmdpbmVlciB8IEJsb2NrY2hhaW4gQ29uc2Vuc3VzIiwiaHRpZG9jaWQiOiJrTWtuWVJXa3Vfd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVTBGNE1IaFBabVJrVHpsclUxRkJSMFJHVm10WU5rVTFZMlpqV0RWTFQzRkphWEEwTjI5QmFVaFFVRjlsZDBjNFlXNUVWVkJDVHkwMFRpMWpNRzFDWWw5bmRHY3dlR2xMYVVWS1oxTlFjMWhzWDNwVFlrbG1WbXc1YTBwTGVYWk5RekUyUTBKalZqQnlSelJtVUY5NlYzSmZYMkYwWDJaR2JURkVNVE5rT1ZrMllUSlVNR2N5TFZGdmRYRkhSbmRuZG1oaWN6QTRPV05LYzBObVRISm1ZMTgyTVcwNFZIRnRYelI0YUc5cVMxRldVbGhRVUdkVGFHdDFhVFE0Y3pCV1EyTllZbXRpVkc0MmVsRjJiMkowV1hSRU5GWkpWR1l0UmtSTFVSSVhWV0p6T1ZwSlJGQklTMWhwTlU1dlVEVk9MVVl5UVhjYUlrRlBMVEJ5YkRST1VWUnllbWxHY1ZweFZFdEllRUpMUWtwaVluZFVNREk1VW1jIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTdGFydHVwIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9zdGFydHVwLmpvYnMvcmVzZWFyY2gtZW5naW5lZXItYmxvY2tjaGFpbi1jb25zZW5zdXMtZG9yYWhhY2tzLTQyMDc0NTI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Backend Blockchain Developer - Staked",
+            "company_name": "Kraken Digital Asset Exchange",
+            "location": " Anywhere ",
+            "via": "via ZipRecruiter",
+            "description": "Building the Internet of Money\n\nOur Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology...\n\nWhat makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you'll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken's focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.\n\nBefore you apply, please read the Kraken Culture Explained to learn more about our internal culture, values, and mission.\n\nAs a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like Kraken Pro , Kraken NFT , and Cryptowatch , with a focus on world-class customer support and crypto education for all.\n\nBecome a Krakenite and build the internet of money!\n\nOverview\n\nAt Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.\n\nStaked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking. The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.\n\nResponsibilities\n\u2022 Drive software development through the development lifecycle, taking prototypes from idea to production.\n\u2022 Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.\n\u2022 Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.\n\u2022 Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.\n\u2022 Use our data stack to determine the most profitable strategies and mimic them.\n\nQualifications\n\u2022 Experience working with at least two software systems on a professional team.\n\u2022 Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.\n\u2022 Experience with numerical methods/algorithms in optimization software.\n\u2022 Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).\n\u2022 Enough SQL skills to do basic analytics of time series data, and willing to learn more.\n\u2022 Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.\n\u2022 Smart and collaborative. These are hard problems with lots of potential solutions. We're looking for people that want to solve them as part of a team.\n\u2022 Understanding of test-driven development and other techniques to make maintainable financial applications.\n\n#US #CANADA #LI-LM1\n\nKraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!\n\nAs an equal opportunity employer, we don't tolerate discrimination or harassment of any kind. Whether that's based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.\n\nStay in the know\n\nFollow us on Twitter\nLearn on the Kraken Blog\nConnect on LinkedIn\n\nApply for this job",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience working with at least two software systems on a professional team",
+                        "Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language",
+                        "Experience with numerical methods/algorithms in optimization software",
+                        "Passion for performance-oriented, event-driven backend systems (Eg",
+                        "trading technology, ad-tech, risk, finance, or distributed web-apps/systems)",
+                        "Enough SQL skills to do basic analytics of time series data, and willing to learn more",
+                        "Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts",
+                        "Smart and collaborative"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Drive software development through the development lifecycle, taking prototypes from idea to production",
+                        "Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots",
+                        "Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities",
+                        "This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block",
+                        "Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy",
+                        "As appropriate, design a solution that incorporates their technology",
+                        "Use our data stack to determine the most profitable strategies and mimic them"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.kraken.com/",
+                    "text": "kraken.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Kraken+Digital+Asset+Exchange&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIhgs",
+                    "text": "See web results for Kraken Digital Asset Exchange"
+                }
+            ],
+            "extensions": [
+                "21 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIEJsb2NrY2hhaW4gRGV2ZWxvcGVyIC0gU3Rha2VkIiwiaHRpZG9jaWQiOiJReUx6ZmtHNG8wTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVkhKM1FtOUllRXh4ZGxRMWFEVkpjM05qVWpWTVZXRTNkME5XVWxOeVJWWjNiMDVqZFcxUVdrcDZSR1pxUVhwRVptSjBhelJyTVdSWVREUlpaMkpXVWw5NFNIUnVhazVIV1hkVFQyZzRibmRGUzNKSlpqaHliSFkxUlZsUldYRjNPVGR6UWs5NVZuVllXRlJJZEhCbWMyZGFNV3RDWTNOTlExZHNjRU40VUZOQ2FGUXpZbWxzTVhBM2VYWjJNR1o0TTFCVlEyeGFUR05KUnpSRlNFbENWVUpJUTB4ek0xZFRjRkJDYVU5S00yaEdOQzE0UVVSSVREQnZTRXRtYlZCb1RFOUdjMFY0ZFZFMlIyMDNVa014TFhWbGJUYzJlVXhFVUY5a2JGSkxOV1pWUVRsNU5uY3hRalJKVldsdWVFcG9NQklYVldKek9WcEpSRkJJUzFocE5VNXZVRFZPTFVZeVFYY2FJa0ZQTFRCeWJEVndURE4zTUZONVIyTlVZVU5zUlZjd2NuaFBUemhqYWxwRGJsRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9LcmFrZW4tRGlnaXRhbC1Bc3NldC1FeGNoYW5nZS9Kb2IvQmFja2VuZC1CbG9ja2NoYWluLURldmVsb3Blci1TdGFrZWQvLWluLVJlbW90ZSxPUj9qaWQ9NTU0Y2MxYWY1N2IwYmU0ZVx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Software Engineer, Blockchain Core (Remote)",
+            "company_name": "Aptos",
+            "location": " Anywhere ",
+            "via": "via Built In",
+            "description": "Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.\n\nFounded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we... have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.\n\nAptos (Ohlone for \"The People\") encompasses our mission and ethos for why we build.\n\nAs part of the Blockchain team, you will be responsible for building the most production-grade L1 for everyone. You will work on initiatives from performance, reliability, scalability, decentralization, and incentives to enable the many safe and scalable applications to thrive. These projects will have an emphasis on quality, safety, and interoperability with other Aptos tools. The scope, as it currently stands, is open-ended, but some projects will be likely from the following areas: governance, tokenomics, decentralized finance, games, social.\n\nWhat you'll be doing:\n\u2022 Design core, backend software components, and code primarily using Rust that support a blockchain and its ecosystem of systems\n\u2022 Use extensive experience to build, test, debug, and deploy large-scale decentralized systems across thousands of nodes\n\u2022 Work with file systems, execution engines, programming language design, and consensus protocols to complete complex engineering challenges such as scaling up performance and reducing transaction latency\n\u2022 \u200b\u200bDevelop and maintain high-quality software engineering practices and principles in a highly visible open-source project\n\nWhat we're looking for:\n\u2022 3 years (ideally 5+ years) of experience as a hands-on software engineer\n\u2022 Expertise in networking, consensus protocols, parallel execution, storage, authenticated data structures, and/or caching\n\u2022 Experience with a low-level programming language such as Rust, Go, Swift, or C/C++\n\nThe base salary range for this full-time position is $180k - $300k. The range displayed on each job posting reflects the minimum and typical maximum target for new hire salaries for the position of a candidate based in the Bay Area at any level. We do hire exceptionally talented professionals with decades of experience in their field. As such, our range may be higher than what is displayed. Our base salary ranges are determined by experience and location, and we hire at all levels for multiple roles. Within the range, individual pay is determined by work location, job-related skills demonstrated during the interviews, working experience, and relevant education or training. Please note that the compensation details listed in role postings reflect the base salary only and do not include equity, tokens, or benefits.\n\nOur Benefits\n\u2022 100% insurance premium coverage for medical, dental, and vision for you and your dependents\n\u2022 Equipment of your choice\n\u2022 Flexible vacation time, 11 holidays, and floating company days off\n\u2022 Competitive Salary\n\u2022 Equity (RSUs)\n\u2022 Protocol Token Grants\n\u2022 401k matching\n\u2022 Fun and inclusive in-person and digital events\n\nAptos is committed to diversity in the workplace, and we\u2019re proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3 years (ideally 5+ years) of experience as a hands-on software engineer",
+                        "Expertise in networking, consensus protocols, parallel execution, storage, authenticated data structures, and/or caching",
+                        "Experience with a low-level programming language such as Rust, Go, Swift, or C/C++"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will work on initiatives from performance, reliability, scalability, decentralization, and incentives to enable the many safe and scalable applications to thrive",
+                        "These projects will have an emphasis on quality, safety, and interoperability with other Aptos tools",
+                        "Design core, backend software components, and code primarily using Rust that support a blockchain and its ecosystem of systems",
+                        "Use extensive experience to build, test, debug, and deploy large-scale decentralized systems across thousands of nodes",
+                        "Work with file systems, execution engines, programming language design, and consensus protocols to complete complex engineering challenges such as scaling up performance and reducing transaction latency",
+                        "\u200b\u200bDevelop and maintain high-quality software engineering practices and principles in a highly visible open-source project"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary range for this full-time position is $180k - $300k",
+                        "100% insurance premium coverage for medical, dental, and vision for you and your dependents",
+                        "Equipment of your choice",
+                        "Flexible vacation time, 11 holidays, and floating company days off",
+                        "Competitive Salary",
+                        "Equity (RSUs)",
+                        "Protocol Token Grants",
+                        "401k matching",
+                        "Fun and inclusive in-person and digital events"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Aptos&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIyQs",
+                    "text": "See web results for Aptos"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgQmxvY2tjaGFpbiBDb3JlIChSZW1vdGUpIiwiaHRpZG9jaWQiOiJodXRhSEtSdlZYRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVTNJdFEzQjZXa1pZVEVNeWMwWTNhemRQWXkxc01VVTRNV3BJTUhab1JXSXRPRGwyUkc1bFFWQnJRbVZqYkdacmIzSnNhRWgwTjNKZkxTMTBPVEpqYjA1eFptSkNVR1ZLWWtOamNEUldlbWhvVEhGSWIxaEtkRVpzUjJZM1JWaHRZemR5YUVSVFUwTnFMVGhSVGtWR1VqQXlOREpTYzJFNE5Hb3lMWEZ6ZVZCTVVWSlRTME5rVEdjek1qYzBNbmxPWjNkb0xVcERUSFp3VkV0WVZURmFlak5tYW14MVEzUjJjalJVWkdOek5uUTRFaGRWWW5NNVdrbEVVRWhMV0drMVRtOVFOVTR0UmpKQmR4b2lRVTh0TUhKc05FWlZNWGh2YkdndGMxcHRWblpRWTNodVRVcHhWVVZ3U1d0cVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBCdWlsdCBJbiIsImxpbmsiOiJodHRwczovL2J1aWx0aW4uY29tL2pvYi9lbmdpbmVlci9zb2Z0d2FyZS1lbmdpbmVlci1ibG9ja2NoYWluLWNvcmUvMTM3NDI4Nj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Blockchain & Digital Assets Senior Manager",
+            "company_name": "Deloitte",
+            "location": "  Baltimore, MD   ",
+            "via": "via LinkedIn",
+            "description": "We are expanding Deloitte's Audit & Assurance Blockchain & Digital Assets practice. We are seeking professionals who want to build off their existing audit knowledge or accounting experience and use such knowledge on exciting audit and advisory projects that add great value to our clients within their finance, accounting, and operation departments. From digital asset technical accounting issues... to new standard implementations; from complex transaction support to internal controls specific to blockchain and digital assets, the leaders of our practice will help you expand your experience base to further develop your career. At Deloitte, we provide services using an approach designed to provide the flexibility to serve the unique circumstances and complexities of our clients. You'll gain exposure to a variety of industries, business models and financial accounting areas, helping your career growth and professional development.\n\nWork You'll Do:As a Blockchain & Digital Assets Senior Manager, you will participate in client proposals and oversee day-to-day operations of engagement teams. You will work closely with the team to tackle accounting and other issues while using our cutting-edge technology. You will leverage your various skillsets to be an agile leader within our practice. Other responsibilities will include:\n\u2022 Identify, prepare and participate in proposals for new clients and projects\n\u2022 Participate in strategic firm initiatives such as the development of written materials to support new service offerings, the development and delivery of training materials, and participation in firm eminence events\n\u2022 Be active in the marketplace and build relationships in order to grow the business\n\u2022 Stay connected to market trends to think through future innovative solutions\n\u2022 Lead the integration of overseas resources to drive efficient execution\n\u2022 Develop, maintain, and leverage internal contacts across Deloitte functions\n\u2022 Be a trusted advisor to public and private clients to assist with accounting, financial reporting, and internal control matters\n\u2022 Strengthen client relationships, liaise directly with clients to manage deliverables and deadlines, generate additional engagement opportunities through excellent quality, timely execution, and a strategic approach to service delivery\n\u2022 Supervise, coach, and mentor all levels of staff, seniors, and managers. Conduct performance reviews and contribute to performance feedback and training. Develop and communicate workplace culture and code of conduct.\n\u2022 Lead teams in providing a Financial Statement Audit\n\u2022 Lead teams in providing Internal Controls Specific to Blockchain & Digital Assets services:\n\u2022 Design processes and governance models\n\u2022 Identify new risks and controls\n\u2022 Perform testing of the control framework\n\u2022 Evaluate blockchain reliability\n\u2022 Lead teams in providing Audit Readiness for Blockchain & Digital Asset Transactions\n\u2022 Provide audit readiness training\n\u2022 Evaluate a company's existing accounting policies, internal controls, resources, reporting frameworks and technology\n\u2022 Provide audit assistance services\n\u2022 Prepare financial statements and disclosures\n\u2022 Lead teams in providing IPO Readiness and SEC Reporting services (e.g. Form S-1)\n\u2022 Evaluate relevant tasks including IPO project plan\n\u2022 Assess complex US GAAP, IFRS, and SEC reporting requirements\n\u2022 Identify requirements, perform controls gap assessment, and design controls\n\u2022 Assist with preparation of filings, financial information, and disclosures\n\u2022 Support Special Purpose Acquisition Company (SPAC) transactions\n\u2022 Lead teams in providing Accounting Advisory Services for Digital Asset Transactions\n\u2022 Research accounting treatment for digital asset transactions\n\u2022 Draft relevant crypto-asset and blockchain disclosures including non-GAAP considerations\n\u2022 Advise on the use of non-GAAP measures, metrics, and other key performance indicators\n\u2022 Provide insights on proposed, existing, and new rules\n\u2022 Discuss complex accounting matters with a company's auditors\n\u2022 Advise on complex accounting matters involving regulators\n\u2022 Ability to work efficiently and effectively in a virtual environment\n\nQualifications\n\nRequired:\n\u2022 Bachelor's degree in accounting or related field or equivalent years of relevant experience\n\u2022 8+ years of public accounting or equivalent experience\n\u2022 4+ years of experience managing and supervising teams\n\u2022 Certified Public Accountant (CPA)\n\u2022 Ability to think creatively, problem solve, and motivate teams\n\u2022 Detail oriented, organized, flexible and able to adapt to change\n\u2022 Proven ability to work in a fast-paced environment\n\u2022 Exceptional written and verbal communication skills\n\u2022 Strong presentation skills and ability to explain complex issues clearly and succinctly\n\u2022 Ability to work effectively in a virtual environment\n\u2022 Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve\n\u2022 Limited immigration sponsorship may be available\n\nPreferred:\n\u2022 Strong up-to-date technical knowledge of US GAAP accounting standards\n\u2022 Experience with researching and clearly documenting accounting issues and applicable accounting standards\n\u2022 Ability to read complex documents, synthesize, and summarize important facts\n\u2022 Proven experience managing client relationships\n\u2022 Desire to teach and provide on-the-job training\n\u2022 Good project and time management skills\n\u2022 Proficient in the use of Microsoft Office, especially Excel\n\u2022 Experience in financial reporting and SEC requirements\n\u2022 Knowledge of International Financial Reporting Standards (IFRS) and other international accounting standards\n\u2022 Prior experience identifying, preparing, and participating in proposals for new client projects\n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $146,300 to $271,700.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in accounting or related field or equivalent years of relevant experience",
+                        "8+ years of public accounting or equivalent experience",
+                        "4+ years of experience managing and supervising teams",
+                        "Certified Public Accountant (CPA)",
+                        "Ability to think creatively, problem solve, and motivate teams",
+                        "Detail oriented, organized, flexible and able to adapt to change",
+                        "Proven ability to work in a fast-paced environment",
+                        "Exceptional written and verbal communication skills",
+                        "Strong presentation skills and ability to explain complex issues clearly and succinctly",
+                        "Ability to work effectively in a virtual environment",
+                        "Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve",
+                        "Limited immigration sponsorship may be available",
+                        "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You'll gain exposure to a variety of industries, business models and financial accounting areas, helping your career growth and professional development",
+                        "Work You'll Do:As a Blockchain & Digital Assets Senior Manager, you will participate in client proposals and oversee day-to-day operations of engagement teams",
+                        "You will work closely with the team to tackle accounting and other issues while using our cutting-edge technology",
+                        "You will leverage your various skillsets to be an agile leader within our practice",
+                        "Identify, prepare and participate in proposals for new clients and projects",
+                        "Participate in strategic firm initiatives such as the development of written materials to support new service offerings, the development and delivery of training materials, and participation in firm eminence events",
+                        "Be active in the marketplace and build relationships in order to grow the business",
+                        "Stay connected to market trends to think through future innovative solutions",
+                        "Lead the integration of overseas resources to drive efficient execution",
+                        "Develop, maintain, and leverage internal contacts across Deloitte functions",
+                        "Be a trusted advisor to public and private clients to assist with accounting, financial reporting, and internal control matters",
+                        "Strengthen client relationships, liaise directly with clients to manage deliverables and deadlines, generate additional engagement opportunities through excellent quality, timely execution, and a strategic approach to service delivery",
+                        "Supervise, coach, and mentor all levels of staff, seniors, and managers",
+                        "Conduct performance reviews and contribute to performance feedback and training",
+                        "Develop and communicate workplace culture and code of conduct",
+                        "Lead teams in providing a Financial Statement Audit",
+                        "Lead teams in providing Internal Controls Specific to Blockchain & Digital Assets services:",
+                        "Design processes and governance models",
+                        "Identify new risks and controls",
+                        "Perform testing of the control framework",
+                        "Evaluate blockchain reliability",
+                        "Lead teams in providing Audit Readiness for Blockchain & Digital Asset Transactions",
+                        "Provide audit readiness training",
+                        "Evaluate a company's existing accounting policies, internal controls, resources, reporting frameworks and technology",
+                        "Provide audit assistance services",
+                        "Prepare financial statements and disclosures",
+                        "Lead teams in providing IPO Readiness and SEC Reporting services (e.g. Form S-1)",
+                        "Evaluate relevant tasks including IPO project plan",
+                        "Assess complex US GAAP, IFRS, and SEC reporting requirements",
+                        "Identify requirements, perform controls gap assessment, and design controls",
+                        "Assist with preparation of filings, financial information, and disclosures",
+                        "Support Special Purpose Acquisition Company (SPAC) transactions",
+                        "Lead teams in providing Accounting Advisory Services for Digital Asset Transactions",
+                        "Research accounting treatment for digital asset transactions",
+                        "Draft relevant crypto-asset and blockchain disclosures including non-GAAP considerations",
+                        "Advise on the use of non-GAAP measures, metrics, and other key performance indicators",
+                        "Provide insights on proposed, existing, and new rules",
+                        "Discuss complex accounting matters with a company's auditors",
+                        "Advise on complex accounting matters involving regulators"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A reasonable estimate of the current range is $146,300 to $271,700",
+                        "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.deloitte.com/",
+                    "text": "deloitte.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Deloitte&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIjww",
+                    "text": "See web results for Deloitte"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIFx1MDAyNiBEaWdpdGFsIEFzc2V0cyBTZW5pb3IgTWFuYWdlciIsImh0aWRvY2lkIjoicmV6UTBvUVh4eXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZITjRXazgwVlRBd1gwVnpWalJvZVd4VWNsZEpTV3RDYm5nM2Rrb3pOMWRUVFVoelNETmpWVzR4TVVwdFZWYzRNVTB5WkZkTkxVZGpjWEJNTUVKMVdWYzRiMTlXYkdObVdESnRPV0U1U0V4QlowZFhhVkYxTTNBMlRqZEdiMjVZVTJad1ZYVk1Sa0paUldwT05tNDJOblpvV0RaUFVFOHpPWFIyVlZvMmNuVk9Xbmg0ZEZSbWJXbHViVzFMUWxNd2RsWmZabUkyVUcxa1lYRkVia05KVWxSV04ydzFWbnBaU1RSVmRITlpZME53VUdaQlduVXlaak0zYkhjelJuazFiM2R4YUMwekVoZFZZbk01V2tsRVVFaExXR2sxVG05UU5VNHRSakpCZHhvaVFVOHRNSEpzTlZaTWFtSnlZbWhmWkV4U056WjRVM0oxWnpOSVJrMTJhWFJOUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY185IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvYmxvY2tjaGFpbi1kaWdpdGFsLWFzc2V0cy1zZW5pb3ItbWFuYWdlci1hdC1kZWxvaXR0ZS0zMzA1NDMwNTc4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Blockchain Developer",
+            "company_name": "DCryptoTools",
+            "location": " Anywhere ",
+            "via": "via AngelList",
+            "description": "Job Title: Blockchain Developer\n\nCompany: DCryptoTools\n\nLocation: Remote - Worldwide\n\nJob Type: Permanent\n\n\ud83d\ude80 About Us:\n\nDCryptoTools is a decentralised and innovative multi-chain tooling platform specializing in web3 development. Our mission is to empower developers and businesses with cutting-edge blockchain solutions and provide an unparalleled web3 development experience.\n\nWe work on developing tools for multiple blockchains like Ethereum, Binance Smart Chain, Polygon, Solana, etc.\n\nWe are looking for people interested in layer 1 or layer 2 solutions for integrating solutions like ZKP, NFT, Trading bots and sky is the limit for ideas.\n\nWe are currently seeking a passionate and talented Blockchain Developer to join our team and contribute to the ongoing development of our multi-chain platform. If you are eager to learn, grow, and make a meaningful impact in the rapidly evolving blockchain and web3 ecosystem, we want to hear from you!\n\n\ud83c\udfaf Responsibilities:\n\nAs a Blockchain... Developer, you will:\n\u2022 Collaborate with our experienced blockchain engineers to develop and enhance multi-chain tooling and infrastructure.\n\u2022 Research and implement blockchain and web3 protocols, smart contracts, and decentralized applications (dApps).\n\u2022 Build smart contracts in Solidity and/or Rust for multi-chain DeFi and NFT toolchain.\n\u2022 Participate in testing, debugging, and optimization of blockchain solutions.\n\u2022 Stay upto date with current blockchain and web3 technologies, trends, and best practices to contribute to the continuous improvement of our platform.\n\u2022 Assist in the creation and maintenance of technical documentation and developer guides.\n\n\ud83d\udd11 Requirements:\n\u2022 Minimum 1 year of Experience and understanding of blockchain technology, smart contracts, and decentralized applications (dApps).\n\u2022 Familiarity with web3 development frameworks and blockchains, such as Ethereum, Polkadot, Binance Smart Chain, and/or Solana.\n\u2022 Strong programming skills in one or more languages, such as JavaScript, Solidity, Go, or Rust.\n\u2022 Excellent problem-solving, critical-thinking, and communication skills.\n\u2022 Self-motivated, proactive, and able to work independently or as part of a team.\n\u2022 Passion for blockchain, web3, and the future of decentralized technology.\n\n\ud83c\udf1f Bonus Points:\n\u2022 Contributions to open-source blockchain projects or involvement in the web3 community.\n\u2022 Knowledge of frontend or backend web development.\n\n\ud83c\udfc6 What We Offer:\n\u2022 Hands-on experience and mentorship from our experienced and passionate team.\n\u2022 Open culture to learn and explore ideas.\n\u2022 Flexible working hours and remote working culture.\n\u2022 Opportunity to make a significant impact in the web3 ecosystem.\n\u2022 Rewards as part of future native token airdrop.\n\n\ud83d\udcdd How to Apply:\n\nIf you're excited about joining our team and contributing to the future of web3 development, please submit your resume.\n\nDCryptoTools focuses on Blockchains, Blockchain / Cryptocurrency, and Web3. Their company has offices in Remote. They have a small team that's between 1-10 employees.\n\nYou can view their website at https://dcryptotools.com or find them on Twitter and LinkedIn",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Job Title: Blockchain Developer\n\nCompany: DCryptoTools\n\nLocation: Remote - Worldwide\n\nJob Type: Permanent\n\n\ud83d\ude80 About Us:\n\nDCryptoTools is a decentralised and innovative multi-chain tooling platform specializing in web3 development. Our mission is to empower developers and businesses with cutting-edge blockchain solutions and provide an unparalleled web3 development experience.\n\nWe work on developing tools for multiple blockchains like Ethereum, Binance Smart Chain, Polygon, Solana, etc.\n\nWe are looking for people interested in layer 1 or layer 2 solutions for integrating solutions like ZKP, NFT, Trading bots and sky is the limit for ideas.\n\nWe are currently seeking a passionate and talented Blockchain Developer to join our team and contribute to the ongoing development of our multi-chain platform. If you are eager to learn, grow, and make a meaningful impact in the rapidly evolving blockchain and web3 ecosystem, we want to hear from you!\n\n\ud83c\udfaf Responsibilities:\n\nAs a Blockchain... Developer, you will:\n\u2022 Collaborate with our experienced blockchain engineers to develop and enhance multi-chain tooling and infrastructure.\n\u2022 Research and implement blockchain and web3 protocols, smart contracts, and decentralized applications (dApps).\n\u2022 Build smart contracts in Solidity and/or Rust for multi-chain DeFi and NFT toolchain.\n\u2022 Participate in testing, debugging, and optimization of blockchain solutions.\n\u2022 Stay upto date with current blockchain and web3 technologies, trends, and best practices to contribute to the continuous improvement of our platform.\n\u2022 Assist in the creation and maintenance of technical documentation and developer guides.\n\n\ud83d\udd11 Requirements:\n\u2022 Minimum 1 year of Experience and understanding of blockchain technology, smart contracts, and decentralized applications (dApps).\n\u2022 Familiarity with web3 development frameworks and blockchains, such as Ethereum, Polkadot, Binance Smart Chain, and/or Solana.\n\u2022 Strong programming skills in one or more languages, such as JavaScript, Solidity, Go, or Rust.\n\u2022 Excellent problem-solving, critical-thinking, and communication skills.\n\u2022 Self-motivated, proactive, and able to work independently or as part of a team.\n\u2022 Passion for blockchain, web3, and the future of decentralized technology.\n\n\ud83c\udf1f Bonus Points:\n\u2022 Contributions to open-source blockchain projects or involvement in the web3 community.\n\u2022 Knowledge of frontend or backend web development.\n\n\ud83c\udfc6 What We Offer:\n\u2022 Hands-on experience and mentorship from our experienced and passionate team.\n\u2022 Open culture to learn and explore ideas.\n\u2022 Flexible working hours and remote working culture.\n\u2022 Opportunity to make a significant impact in the web3 ecosystem.\n\u2022 Rewards as part of future native token airdrop.\n\n\ud83d\udcdd How to Apply:\n\nIf you're excited about joining our team and contributing to the future of web3 development, please submit your resume.\n\nDCryptoTools focuses on Blockchains, Blockchain / Cryptocurrency, and Web3. Their company has offices in Remote. They have a small team that's between 1-10 employees.\n\nYou can view their website at https://dcryptotools.com or find them on Twitter and LinkedIn"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=DCryptoTools&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIvgw",
+                    "text": "See web results for DCryptoTools"
+                }
+            ],
+            "extensions": [
+                "6 days ago",
+                "60K\u201370K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time",
+                "salary": "60K\u201370K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCbG9ja2NoYWluIERldmVsb3BlciIsImh0aWRvY2lkIjoiZmtCU21UYXhIaFFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQkNxSUJRVVZ6TjJwT1VrWlVjVU5EVWpOWVZtMUROa3BGU1c1VFpESlBlVmQyUTA1U05XVldaRTA1WjBWeFkzaHJRME5zV1hCVVpsWllhMnREVmtwa1QxaGpORlIzZWxaMWIycDRTRWMwTnpsUlIwTlFSV3B6YlVaNmExaDJNV3RETm05aFNGRndibGw0UzJwRGQxZzNZblV6ZDNGTGFUSlROazFrUTFKT0xUTk9SbUZ0T1ZvMlkzVXdjamxhYm5Kbk0wUm9aa0YwZVhwbFUzaDRMVVZNTVUwNWFEWlJFaGRWWW5NNVdrbEVVRWhMV0drMVRtOVFOVTR0UmpKQmR4b2lRVTh0TUhKc04yWnZkbXRHUVcxQlEyeHNjWEphUms5YU1IaFVWWFV3ZDJ0aFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQW5nZWxMaXN0IiwibGluayI6Imh0dHBzOi8vd2VsbGZvdW5kLmNvbS9jb21wYW55L2RjcnlwdG90b29scy9qb2JzLzI2NDAyMjctYmxvY2tjaGFpbi1kZXZlbG9wZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior Blockchain Research Analyst",
+            "company_name": "Analog",
+            "location": "  San Francisco, CA   ",
+            "via": "via Lever",
+            "description": "About Us:\n\nAnalog is building a true Layer-0 blockchain network that ushers in the omnichain future, secured with the Proof-of-Time consensus mechanism...\n\nBacked by world-class investors, our vision is to facilitate the seamless communication of time data (events) between decentralized applications across different chains.\n\nWe are currently looking for an experienced, organized, and highly motivated senior blockchain research analyst.\n\nAbout the role\n\u2022 Scope and implement research projects, from the identification of information gaps through to the successful reporting of results and implications\n\u2022 Synthesize and prioritize research questions within the organization, working with strategy leadership, the executive team, and cross-functional product groups\n\u2022 Analyze and audit the system from a security standpoint\n\u2022 Assist in the optimization of consensus protocol and associated technologies (PoT and Timechain)\n\u2022 Identify areas of improvement in the overall architecture of the Timechain and Tesseract and implement said improvements\n\u2022 Clearly and confidently communicate and share research findings to the business, within required timeframes\n\u2022 Lead and implement a new type of industry research\n\u2022 Ensure fieldwork is managed accurately, within timelines and budgets, and project requirements are understood by all parties involved\n\u2022 Ability to fill the architecture gap is a plus\n\nAbout you\n\u2022 4-5+ years of experience in blockchain research projects\n\u2022 2+ years of experience in computer science\n\u2022 1+ years of experience in blockchain, consensus protocols, decentralized systems, applied cryptography, compilers, p2p, or similar systems\n\u2022 Previous experience in projects such as Algorand, Cosmos or Polkadot (top 20-30 projects in terms of market cap) is a plus\n\u2022 Expertise in blockchain security\n\u2022 Expertise in consensus mechanisms/protocols\n\u2022 Understanding of blockchain core components and core protocol architecture\n\u2022 Understanding of core system programming languages & concepts, knowledge of Rust and Substrate is a plus\n\u2022 Experience with ZKPs (privacy), sharding and scaling solutions is a plus\n\u2022 Organizing and analyzing data, creating charts and graphs, and presenting your findings to the leadership team\n\u2022 Strong verbal and written communication skills with the ability to articulate results of the analysis in easy-to-understand content\n\u2022 Proven ability to collaborate across cross-functional teams and drive results\n\u2022 Detail-oriented, highly motivated, and organized\n\nBenefits\n\u2022 Highly competitive salary and token compensation with huge growth potential\n\u2022 Be a founding member of one of the most innovative protocols to exist in blockchain\n\u2022 Supercharge your career in Web3 - the future of the internet\n\u2022 Work closely with team members who have a wide breadth of experience from some of the leading tech companies in the world\n\u2022 Flexible working hours and working environment\n\nAnalog fosters an inclusive work environment that doesn\u2019t tolerate unjust discrimination against race, religion, gender, disability, age or other qualities. We encourage anyone from around the world to apply as long as they meet the job requirements",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "4-5+ years of experience in blockchain research projects",
+                        "2+ years of experience in computer science",
+                        "1+ years of experience in blockchain, consensus protocols, decentralized systems, applied cryptography, compilers, p2p, or similar systems",
+                        "Expertise in blockchain security",
+                        "Expertise in consensus mechanisms/protocols",
+                        "Understanding of blockchain core components and core protocol architecture",
+                        "Organizing and analyzing data, creating charts and graphs, and presenting your findings to the leadership team",
+                        "Strong verbal and written communication skills with the ability to articulate results of the analysis in easy-to-understand content",
+                        "Proven ability to collaborate across cross-functional teams and drive results",
+                        "Detail-oriented, highly motivated, and organized"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Scope and implement research projects, from the identification of information gaps through to the successful reporting of results and implications",
+                        "Synthesize and prioritize research questions within the organization, working with strategy leadership, the executive team, and cross-functional product groups",
+                        "Analyze and audit the system from a security standpoint",
+                        "Assist in the optimization of consensus protocol and associated technologies (PoT and Timechain)",
+                        "Identify areas of improvement in the overall architecture of the Timechain and Tesseract and implement said improvements",
+                        "Clearly and confidently communicate and share research findings to the business, within required timeframes",
+                        "Lead and implement a new type of industry research",
+                        "Ensure fieldwork is managed accurately, within timelines and budgets, and project requirements are understood by all parties involved"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Highly competitive salary and token compensation with huge growth potential",
+                        "Supercharge your career in Web3 - the future of the internet",
+                        "Flexible working hours and working environment"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Analog&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIgQ0",
+                    "text": "See web results for Analog"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmxvY2tjaGFpbiBSZXNlYXJjaCBBbmFseXN0IiwiaHRpZG9jaWQiOiJ0ZTNxYTMxSVE1Z0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVVZOME5YUktka2hDWDB4QlpVTlBWSEphUkhsTFh6Um9SR3RPWnpCYVpWSTJiVVJVTjFkdlZHcDZVMk41UjB3MVREQlNkMHhUVTFSR1VVNW1hR2xTYmxGTk1GaEpkMUZqV1hkbFFWVmZibGhCYzFCeWNqbHdlVXB4T0ZsM2FWaHFNMWR5ZVVkMVNWOTJVMFJoVGtoV1NDMW9VRzFDZVVzeWIzRnVVbFpCUnpablRWbGlOV2R5Wm5OdFlTMDJkSFJKT0dkTVYwbG5OMDlyY2xob2FFcGtUWGRCTjI5NmJrUTJPVTVEV0VGbGVYbEpFaGRWWW5NNVdrbEVVRWhMV0drMVRtOVFOVTR0UmpKQmR4b2lRVTh0TUhKc04waGhPWFJ6T1d0dFpVOXpNbUZQY0ZGRU56SjBiMFpZVm1kMmR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGV2ZXIiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmxldmVyLmNvL2FuYWxvZy9hMTIxYjE4YS0zZGUzLTQzNTctOGEzMy1jZjdjMTcyOWI3YjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Principal Software Engineer, Wallet Blockchain",
+            "company_name": "Fidelity Investments Careers",
+            "location": "  Durham, NC   ",
+            "via": "via Fidelity Careers - Fidelity Investments",
+            "description": "Job Description:\n\nThe Role...\n\nAs a Principal Java Engineer on the Wallet Blockchain Foundations team, you\u2019ll get the opportunity to develop your skills and collaborate with engineers across Fidelity in a fun and dynamic environment. You will work closely with technical leaders to build a secure crypto platform utilizing modern software development practices. As a senior member of the team, you will mentor engineers on the best practices for smart contract development.\n\nThe Expertise and Skills You Bring\n\u2022 Bachelor's degree in computer science or related field required\n\u2022 5+ years' experience in software development in any of the following languages: Java, Python, Go\n\u2022 Experience with blockchains including Ethereum, Bitcoin\n\u2022 Hands-on experience with developing backend services\n\u2022 Ability to build reliable software that can withstand unreliable environments\n\u2022 Passionate and committed to learning new things\n\u2022 Strong analytical and communication skills and the ability to handle multiple tasks at any given time\n\u2022 Participate in engineering practices such as code and design reviews, environment strategy, and build and deployment pipelines\n\u2022 Strong organizational skills and attention to details\n\nThe Team\n\nFidelity Digital Assets, a Fidelity Investments Company, is developing a full-service enterprise-grade platform for storing, trading, and servicing digital assets, such as Bitcoin and Ethereum.\n\nFidelity Digital Assets embraces an entrepreneurial culture and startup mindset while serving as one of the most innovative business units within Fidelity Investments. Our global, diverse team of hundreds of forward-thinking professionals lead with agility and creativity to build solutions that bridge the gap between traditional institutional investors and their exposure to digital assets. The firm\u2019s tenure and experience across multiple business lines present our employees with unprecedented access to knowledge, technology, and resources that help our team reshape the future of finance.\n\nWithin Fidelity Digital Assets, the Wallet Blockchain Foundations Team is responsible for the backend services and APIs that support digital assets transactions on networks such as Bitcoin and Ethereum. The team will also lead tokenization efforts.\n\n#cryptojobs\n\nPlease see below for the salary range for work locations in Colorado only:\nN/A\n\nPlease see below for the salary range for work locations in New York City, Westchester County, NY and Jersey City, NJ only:\nN/A\n\nPlease see below for the salary range for work locations in California only:\nN/A\n\nPlease see below for the salary range for work locations in Washington only:\nN/A\n\nCertifications:\n\nCompany Overview\n\nFidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients\u2019 money.\n\nJoin Us\n\nAt Fidelity, you\u2019ll find endless opportunities to build a meaningful career that positively impacts peoples\u2019 lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees\u2019 Choice Award, we have been recognized by our employees as a Best Place to Work in 2023. And you don\u2019t need a finance background to succeed at Fidelity\u2014we offer a range of opportunities for learning so you can build the career you\u2019ve always imagined.\n\nAt Fidelity, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we\u2019re calling \u201cDynamic Working\u201d. Most associates will have a hybrid schedule with a requirement to work onsite at a Fidelity work location for at least one week, 5 consecutive days, every four weeks. These requirements are subject to change.\n\nWe invite you to Find Your Fidelity at fidelitycareers.com.\n\nFidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.\n\nFidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in computer science or related field required",
+                        "5+ years' experience in software development in any of the following languages: Java, Python, Go",
+                        "Experience with blockchains including Ethereum, Bitcoin",
+                        "Hands-on experience with developing backend services",
+                        "Ability to build reliable software that can withstand unreliable environments",
+                        "Passionate and committed to learning new things",
+                        "Strong analytical and communication skills and the ability to handle multiple tasks at any given time",
+                        "Participate in engineering practices such as code and design reviews, environment strategy, and build and deployment pipelines",
+                        "Strong organizational skills and attention to details"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Principal Java Engineer on the Wallet Blockchain Foundations team, you\u2019ll get the opportunity to develop your skills and collaborate with engineers across Fidelity in a fun and dynamic environment",
+                        "You will work closely with technical leaders to build a secure crypto platform utilizing modern software development practices",
+                        "As a senior member of the team, you will mentor engineers on the best practices for smart contract development",
+                        "The team will also lead tokenization efforts"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.fidelity.com/",
+                    "text": "fidelity.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Fidelity+Investments+Careers&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAIIwA0",
+                    "text": "See web results for Fidelity Investments Careers"
+                }
+            ],
+            "extensions": [
+                "13 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "13 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIsIFdhbGxldCBCbG9ja2NoYWluIiwiaHRpZG9jaWQiOiJmVGVpcGF5bExrY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVkd0cE5VVlRNVUl3UlV4d09HNW5OMjVVVVdOWFRqTktVM0pUU0dSd1lXNVFWbFpPYjFwZk5YRmhRa2RJY0RWWVRXdFNlRXRNTm5WYU5rUnpTRzlvVTJRdGMxOVFVV1V3VVVKUmJFb3pVRk55VFRCRGRWTlBWRGwxY1VGRmJWYzRaR3BFV2xGb01WTnlSMEUxWkRaSFoyNXdlRFZKYlhWVE5ERlJWV1l0UjFoVVIxcE1ZbkEwTVhFNFVGWjViMGh3VHpaNlQwaEVZbXhsWW5odFVDMWpja3hWTFMxd2RqRmxUVlE0WWt0emRURnlTVmg1UjFkU1kyeDJUamR2TTNsMmRrbHVibFZuTlRKeGRscFVhalpMVFZKR2VrNXRTaTFxWDJ0WmRERmxZVk41TVdkdWEweHZOVkYxV20xRFIxVmFkeElYVldKek9WcEpSRkJJUzFocE5VNXZVRFZPTFVZeVFYY2FJa0ZQTFRCeWJEYzJZV2RJZGtOS1JHWmpNRkk0ZUVsck1sQnJjamx5Y213eU5IYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEZpZGVsaXR5IENhcmVlcnMgLSBGaWRlbGl0eSBJbnZlc3RtZW50cyIsImxpbmsiOiJodHRwczovL2pvYnMuZmlkZWxpdHkuY29tL2pvYi1kZXRhaWxzLzE2MTE0NTg5L3ByaW5jaXBhbC1qYXZhLWVuZ2luZWVyLXdhbGxldC1ibG9ja2NoYWluLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Full Stack Blockchain Engineer",
+            "company_name": "Snickerdoodle Labs",
+            "location": "  San Jose, CA   ",
+            "via": "via Greenhouse",
+            "description": "As a Full Stack Engineer on our team, you will:\n\u2022 Develop, maintain, and support software prototypes and product features from start to finish.\n\u2022 Implement cross-platform user experiences from conception to release with React Native or Flutter...\n\u2022 Prioritize and ensure computer security, correct use of cryptography, and user data privacy\n\u2022 Collaborate effectively with other team members across the organization to accomplish shared projects\n\nYou ideally have:\n\u2022 Excellent written communications skills (necessary for remote work)\n\u2022 Experience writing software in web and mobile for large user bases and enterprises\n\u2022 Bachelor's degree or equivalent in Computer Science\n\u2022 Full-time experience with working remotely\n\nBonus points:\n\u2022 Proficiency with functional programming paradigms\n\u2022 Ability to wireframe or rapidly prototype interfaces and proficiency in graphic design\n\u2022 Contributions to open source software projects or standards groups\n\u2022 Bitcoin/Ethereum/Blockchain/Solana/Polkadot related open sources projects is a major plus as well\n\u2022 Web 3 interest, experience or side hustle",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Excellent written communications skills (necessary for remote work)",
+                        "Experience writing software in web and mobile for large user bases and enterprises",
+                        "Bachelor's degree or equivalent in Computer Science",
+                        "Full-time experience with working remotely",
+                        "Proficiency with functional programming paradigms",
+                        "Ability to wireframe or rapidly prototype interfaces and proficiency in graphic design",
+                        "Contributions to open source software projects or standards groups",
+                        "Bitcoin/Ethereum/Blockchain/Solana/Polkadot related open sources projects is a major plus as well",
+                        "Web 3 interest, experience or side hustle"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Develop, maintain, and support software prototypes and product features from start to finish",
+                        "Implement cross-platform user experiences from conception to release with React Native or Flutter",
+                        "Prioritize and ensure computer security, correct use of cryptography, and user data privacy",
+                        "Collaborate effectively with other team members across the organization to accomplish shared projects"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Snickerdoodle+Labs&sa=X&ved=0ahUKEwjAu_-b77H-AhUlMVkFHeRvAcs4FBCYkAII_g0",
+                    "text": "See web results for Snickerdoodle Labs"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIEJsb2NrY2hhaW4gRW5naW5lZXIiLCJodGlkb2NpZCI6Iks1UWYtd3dna19jQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VMjF1U3pnelZWTnlSemhIZUdFelVubG1XRGh3ZGxOclNIQndiRmhuVEhJeWEyUk1YekpEWlZCT2QzTXlSV3RxTFhCb04yRjFMVXR4UmpoNFJrMWZVVkJWVm1wUlpXUTJjVXhyTlVoRlRsUXdTRFZsVmpOYU1GZDBRMnN4VWw4NVNHVk5ZMGRLU1RoMlpqTkdUVVJYWjNNd2FqbFNkSGRvTFZsNmJtbEZRbWhUZUZCcloxSnNUMDV0VWtObVdGUkNTR0pEVVhVeGNYVllaRFpaTTJKTVMyVjFjbmRwYmtjMGJYZzNRWGxtYldWNVgxSklXbEJXT0VnNWIzcE5TbW8yVFhsYU9UVm1FaGRWWW5NNVdrbEVVRWhMV0drMVRtOVFOVTR0UmpKQmR4b2lRVTh0TUhKc05VdzVNRlZQUTNsbGFIbDRXVFZYWmpkV1UwdzNialF6WDNoUlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR3JlZW5ob3VzZSIsImxpbmsiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL3NuaWNrZXJkb29kbGVsYWJzL2pvYnMvNDI4ODEwMDAwND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior manager",
+                    "value": "senior manager"
+                },
+                {
+                    "text": "Tax senior",
+                    "value": "tax senior"
+                },
+                {
+                    "text": "Tax manager",
+                    "value": "tax manager"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Tax consultant",
+                    "value": "tax consultant"
+                },
+                {
+                    "text": "Consultant",
+                    "value": "consultant"
+                },
+                {
+                    "text": "Infrastructure engineer",
+                    "value": "infrastructure engineer"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Security engineer",
+                    "value": "security engineer"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                },
+                {
+                    "text": "Writer",
+                    "value": "writer"
+                },
+                {
+                    "text": "Advisor",
+                    "value": "advisor"
+                },
+                {
+                    "text": "Attorney",
+                    "value": "attorney"
+                },
+                {
+                    "text": "Audit",
+                    "value": "audit"
+                },
+                {
+                    "text": "Builder",
+                    "value": "builder"
+                },
+                {
+                    "text": "Business",
+                    "value": "business"
+                },
+                {
+                    "text": "Community manager",
+                    "value": "community manager"
+                },
+                {
+                    "text": "Counsel",
+                    "value": "counsel"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Development engineer",
+                    "value": "development engineer"
+                },
+                {
+                    "text": "Development manager",
+                    "value": "development manager"
+                },
+                {
+                    "text": "Devops engineer",
+                    "value": "devops engineer"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Financial officer",
+                    "value": "financial officer"
+                },
+                {
+                    "text": "Head of marketing",
+                    "value": "head_of marketing"
+                },
+                {
+                    "text": "Instructor",
+                    "value": "instructor"
+                },
+                {
+                    "text": "Investigator",
+                    "value": "investigator"
+                },
+                {
+                    "text": "Investment manager",
+                    "value": "investment manager"
+                },
+                {
+                    "text": "Marketing specialist",
+                    "value": "marketing specialist"
+                },
+                {
+                    "text": "Media marketing",
+                    "value": "media marketing"
+                },
+                {
+                    "text": "Operations",
+                    "value": "operations"
+                },
+                {
+                    "text": "Platform engineer",
+                    "value": "platform engineer"
+                },
+                {
+                    "text": "Relations manager",
+                    "value": "relations manager"
+                },
+                {
+                    "text": "Research analyst",
+                    "value": "research analyst"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Senior principal",
+                    "value": "senior principal"
+                },
+                {
+                    "text": "Technical",
+                    "value": "technical"
+                },
+                {
+                    "text": "Technical architect",
+                    "value": "technical architect"
+                },
+                {
+                    "text": "Technical officer",
+                    "value": "technical officer"
+                },
+                {
+                    "text": "Technology instructor",
+                    "value": "technology instructor"
+                },
+                {
+                    "text": "Tutor",
+                    "value": "tutor"
+                },
+                {
+                    "text": "Ux/ui designer",
+                    "value": "ux/ui designer"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Miami, FL",
+                    "value": "EcHIDqKw2YhlT63dcfKW_w=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Las Vegas, NV",
+                    "value": "0X31pIK3voCjebPV5tXMOg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Irving, TX",
+                    "value": "j_UJHVyCToYJ84eGVm8wPA=="
+                },
+                {
+                    "text": "Albany, NY",
+                    "value": "S_tPzDQK3onEKOegEmOh4Q=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Houston, TX",
+                    "value": "AYWNSLS4QIY7BWXz3gINyg=="
+                },
+                {
+                    "text": "Jersey City, NJ",
+                    "value": "3a-_JdJQwonZJc2iE_BJAg=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Portland, OR",
+                    "value": "J3SpfQsLlVSRhdH25rk2HA=="
+                },
+                {
+                    "text": "Remote, OR",
+                    "value": "Xd1PcUdfxFT6HfQNXR_RRw=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Albuquerque, NM",
+                    "value": "e4MJ090KIof99tm4zvjTwA=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "BARNESBORO, PA",
+                    "value": "/f2/BARNESBORO, PA"
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Birmingham, AL",
+                    "value": "07-FWN8RiYjOVLrqCXRQJQ=="
+                },
+                {
+                    "text": "Boca Raton, FL",
+                    "value": "J_s278Ij2YjJlWDK7qY-0g=="
+                },
+                {
+                    "text": "Bristol, TN",
+                    "value": "TYnr7iqdWohWh9ja_vJXPw=="
+                },
+                {
+                    "text": "Camp Hill, PA",
+                    "value": "f0rLVyTCyImwE4DZfzdukA=="
+                },
+                {
+                    "text": "Carson City, NV",
+                    "value": "cbTe-KEKmYAoOOK9gmyc9w=="
+                },
+                {
+                    "text": "Cincinnati, OH",
+                    "value": "-SE43rFRQIgXk8Dki377aQ=="
+                },
+                {
+                    "text": "Cleveland, OH",
+                    "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+                },
+                {
+                    "text": "Columbus, OH",
+                    "value": "cd6QucGJOIgztbHP-GYy5A=="
+                },
+                {
+                    "text": "Concord, NH",
+                    "value": "F4lKFZZq4onxKCWmoHGoBQ=="
+                },
+                {
+                    "text": "Costa Mesa, CA",
+                    "value": "eW9X_G_f3IDawAPYEoQB7w=="
+                },
+                {
+                    "text": "Darien, CT",
+                    "value": "YQS6WhqgwokJ49rBf-EKgA=="
+                },
+                {
+                    "text": "Davenport, IA",
+                    "value": "8aIS4MU04oewH1hWYx_q6A=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Des Moines, IA",
+                    "value": "5x5hwaSZ7oey5JEmUSgAcQ=="
+                },
+                {
+                    "text": "Detroit, MI",
+                    "value": "dR3LEAHKJIjSxLk1ToZ2Vw=="
+                },
+                {
+                    "text": "Durham, NC",
+                    "value": "8WYPEnHkrIl-8kaKidp64Q=="
+                },
+                {
+                    "text": "Fairfax, VA",
+                    "value": "zZFLOZZOtolAhkSF5yYjBw=="
+                },
+                {
+                    "text": "Falls Church, VA",
+                    "value": "rWNGem5LtolZlz2XiGZTbg=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Foster City, CA",
+                    "value": "MbBm1NCYj4B975CYDB2wrQ=="
+                },
+                {
+                    "text": "Frankfort, KY",
+                    "value": "yVMZi0xzQohcQmeIoBhkUw=="
+                },
+                {
+                    "text": "Frederick, MD",
+                    "value": "4669jAzFyYmZHBG9vUdi2g=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Accounting",
+                    "value": "/business/naics2007/5412"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Travel",
+                    "value": "/business/naics2007/5615"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Jobot",
+                    "value": "/g/11jrq3t_g3"
+                },
+                {
+                    "text": "OAK Network",
+                    "value": "/g/11sq5fg0rt"
+                },
+                {
+                    "text": "Amazon Dev Center U.S., Inc.",
+                    "value": "/g/11rxnkj1mk"
+                },
+                {
+                    "text": "EY",
+                    "value": "/m/0g9jc"
+                },
+                {
+                    "text": "Amazon Web Services, Inc.",
+                    "value": "/m/0rznzt1"
+                },
+                {
+                    "text": "Axelar",
+                    "value": "/g/11lrchngb9"
+                },
+                {
+                    "text": "BNY Mellon",
+                    "value": "/m/02vps5x"
+                },
+                {
+                    "text": "BPM LLP",
+                    "value": "/g/11b8250rm0"
+                },
+                {
+                    "text": "BingX",
+                    "value": "/g/11t5swpwg8"
+                },
+                {
+                    "text": "BitGo",
+                    "value": "/g/11ckr55jr0"
+                },
+                {
+                    "text": "Blockchain",
+                    "value": "/g/11dxpy968n"
+                },
+                {
+                    "text": "CGI Group, Inc.",
+                    "value": "/m/07k7yx"
+                },
+                {
+                    "text": "Chainlink Labs",
+                    "value": "/g/11qn04qyw9"
+                },
+                {
+                    "text": "Crypto.com",
+                    "value": "/g/11mpd28vqp"
+                },
+                {
+                    "text": "Cynet Systems",
+                    "value": "/g/11f01h5mrt"
+                },
+                {
+                    "text": "Dapper Labs",
+                    "value": "/g/11fhql0_yt"
+                },
+                {
+                    "text": "Dice",
+                    "value": "/m/02_3ckm"
+                },
+                {
+                    "text": "DoraHacks",
+                    "value": "/g/11f7pbnr4j"
+                },
+                {
+                    "text": "Fidelity Investments Careers",
+                    "value": "/m/028q26"
+                },
+                {
+                    "text": "Fox Corporation",
+                    "value": "/g/11fkd9nfcb"
+                },
+                {
+                    "text": "Galaxy Digital",
+                    "value": "/g/11dx9g2fxp"
+                }
+            ]
+        }
+    ]
+}

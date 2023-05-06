@@ -1,0 +1,1191 @@
+{
+    "search_metadata": {
+        "id": "643db9f7c99903c679408afc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/18dee8ba262f239d/643db9f7c99903c679408afc.json",
+        "created_at": "2023-04-17 21:28:23 UTC",
+        "processed_at": "2023-04-17 21:28:23 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=natural+language+processing&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=0",
+        "raw_html_file": "https://serpapi.com/searches/18dee8ba262f239d/643db9f7c99903c679408afc.html",
+        "total_time_taken": 1.31
+    },
+    "search_parameters": {
+        "q": "natural language processing",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 0
+    },
+    "jobs_results": [
+        {
+            "title": "Research Scientist in Biomedical Natural Language Processing and...",
+            "company_name": "Oak Ridge National Laboratory",
+            "location": "  Oak Ridge, TN   ",
+            "via": "via ORNL Jobs - Oak Ridge National Laboratory",
+            "description": "Requisition Id 10078\n\nOverview...\n\nWe are seeking a Research Scientist/R&D Associate Staff Member to work on Natural Language Processing (NLP) projects that leverage state-of-the-art deep learning models, high performance computing, and large datasets of unstructured clinical text. Example problems include extracting topography and morphology information from cancer pathology reports, using the Summit supercomputer to pretrain state-of-the-art Transformer language models for clinical and biomedical text, and developing privacy-preserving deep learning models that generalize well to clinical organizations across the US. There is flexibility in defining new research directions relevant to the problems and projects being tackled. The position will be in the Biostatistics and Multiscale Systems (BMS) group in the Advanced Computing in Health Science (ACHS) Section of the Computational Science and Engineering Division (CSED).\n\nAs a research scientist, you will have the opportunity to help solve some of the most challenging problems this world faces. You will perform ground breaking research on a wide range of significant problems with the fastest computing platforms in the world. This position requires novel thinking, teamwork, and discovery in finding new approaches for analyzing massive and complex data, collaborating with worldwide experts, and publishing groundbreaking results.\n\nMajor Duties/Responsibilities:\n\u2022 Research, design, and implement scalable deep learning NLP solutions for clinical text classification, information extraction, and other related tasks on a dataset composed of several million cancer pathology reports\n\u2022 Perform research with scalable Transformer-based models such as BERT using clinical and biomedical text data\n\u2022 Author peer reviewed papers, technical papers, reports and proposals for internal and external release and represent the organization by giving technical presentations in large public forums\n\u2022 Be a part of a vibrant collaborative research environment which will provide the opportunity to perform cutting-edge research in deep learning and high-performance computing using ORNL\u2019s Leadership Class Supercomputer\n\nBasic Qualifications:\n\u2022 PhD in Computational Linguistics, Biomedical/Health Informatics, Data Science, Computer Science, Artificial Intelligence, or other discipline related to the job duties of this position.\n\u2022 Experience identifying relevant and novel research directions and generating meaningful research outputs including papers and software\n\u2022 Demonstrated experience working with text data and natural language processing techniques\n\u2022 Demonstrated experience working with deep learning frameworks like Tensorflow or PyTorch\n\u2022 Clear understanding of common data science methodologies and techniques, e.g. supervised and unsupervised learning, feature selection/engineering, hyperparameter optimization, dimensionality reduction, word embeddings, etc.\n\nPreferred Qualifications:\n\u2022 2+ years experience working in NLP, ML, DL and/or biomedical/health informatics research outside of Ph.D.\n\u2022 Previous publications in high impact deep learning or biomedical/health informatics venues\n\u2022 Excellent written and oral communication skills\n\u2022 Motivated self-starter with the ability to work independently and to participate creatively in collaborative teams across the laboratory\n\u2022 Ability to function well in a fast-paced research environment, set priorities to accomplish multiple tasks within deadlines, and adapt to ever changing needs\n\nBenefits at ORNL:\n\nORNL offers competitive pay and benefits programs to attract and retain talented people. The laboratory offers many employee benefits, including medical and retirement plans and flexible work hours, to help you and your family live happy and healthy. Employee amenities such as on-site fitness, banking, and cafeteria facilities are also provided for convenience.\n\nOther benefits include: Prescription Drug Plan, Dental Plan, Vision Plan, 401(k) Retirement Plan, Contributory Pension Plan, Life Insurance, Disability Benefits, Generous Vacation and Holidays, Parental Leave, Legal Insurance with Identity Theft Protection, Employee Assistance Plan, Flexible Spending Accounts, Health Savings Accounts, Wellness Programs, Educational Assistance, Relocation Assistance, and Employee Discounts.\n\n#LI-KC1\n\nThis position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.\n\nWe accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.\n\nIf you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.\n\nORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply. UT-Battelle is an E-Verify employer",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD in Computational Linguistics, Biomedical/Health Informatics, Data Science, Computer Science, Artificial Intelligence, or other discipline related to the job duties of this position",
+                        "Experience identifying relevant and novel research directions and generating meaningful research outputs including papers and software",
+                        "Demonstrated experience working with text data and natural language processing techniques",
+                        "Demonstrated experience working with deep learning frameworks like Tensorflow or PyTorch",
+                        "Clear understanding of common data science methodologies and techniques, e.g. supervised and unsupervised learning, feature selection/engineering, hyperparameter optimization, dimensionality reduction, word embeddings, etc"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Example problems include extracting topography and morphology information from cancer pathology reports, using the Summit supercomputer to pretrain state-of-the-art Transformer language models for clinical and biomedical text, and developing privacy-preserving deep learning models that generalize well to clinical organizations across the US",
+                        "You will perform ground breaking research on a wide range of significant problems with the fastest computing platforms in the world",
+                        "Research, design, and implement scalable deep learning NLP solutions for clinical text classification, information extraction, and other related tasks on a dataset composed of several million cancer pathology reports",
+                        "Perform research with scalable Transformer-based models such as BERT using clinical and biomedical text data",
+                        "Author peer reviewed papers, technical papers, reports and proposals for internal and external release and represent the organization by giving technical presentations in large public forums",
+                        "Be a part of a vibrant collaborative research environment which will provide the opportunity to perform cutting-edge research in deep learning and high-performance computing using ORNL\u2019s Leadership Class Supercomputer"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "ORNL offers competitive pay and benefits programs to attract and retain talented people",
+                        "The laboratory offers many employee benefits, including medical and retirement plans and flexible work hours, to help you and your family live happy and healthy",
+                        "Other benefits include: Prescription Drug Plan, Dental Plan, Vision Plan, 401(k) Retirement Plan, Contributory Pension Plan, Life Insurance, Disability Benefits, Generous Vacation and Holidays, Parental Leave, Legal Insurance with Identity Theft Protection, Employee Assistance Plan, Flexible Spending Accounts, Health Savings Accounts, Wellness Programs, Educational Assistance, Relocation Assistance, and Employee Discounts"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Oak+Ridge+National+Laboratory&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCM4J",
+                    "text": "See web results for Oak Ridge National Laboratory"
+                }
+            ],
+            "extensions": [
+                "9 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QgaW4gQmlvbWVkaWNhbCBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgYW5kIERlZXAgTGVhcm5pbmciLCJodGlkb2NpZCI6Ik5Gck9icFc5eHdjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUNDcUlDUVVWek4ycE9VVTVZZUc5WlJFeGpVeTF1WDNRNVlXdFdWa0V5YlRKaFJVWlNWa2x2V0U5cVNYaEtZVXhGVVRsd01taFZTMTlsVkdaS2VXMW5kbUpKYm1aaU5uVkpWV0ZrYjJGM1oyYzBaRnBLYWpsUFdrdHZZbGhTWDJoc09Va3RURFZ1UnpGM1F5MTRkRTR0VVRoYWVFbGlUSEp2TVd0RVYxWmFhbE14ZFVSV1dXTm1VRXBIUTJjdFVraGhRVmhTTlZWS1RIVnljblZTYmpSWlRFMXRMWE5EZFdvdGJVeHJOalZ4Y0VSc05rTXRkekowV2tzemIzcDVXV2c1TWxOZlZHazNjbEJRZW1rMFIzUlNWelpNUldSTFNuRkRka05oVG1kYWRFTjBNWEpoUVVoME9FRTFPRGREYVdRNE5UVlhSekprVGs5NGVYcEZZbkZMVkhSd2RuVjFkR05hZVRSWFkydERVVVpyVEV0RVgxTkhaakJzUldveldEUmtOa3RPVEZFU0Z5MU1hemxhUzJGUlNtRlBhR2xNVFZBMllYRjVNRUUwR2lKQlR5MHdjbXcwTXpob1VXTndNSGRRT1ROaFEyRkdSelZxWm10MGJrWlJSblpSIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBvbiBPUk5MIEpvYnMgLSBPYWsgUmlkZ2UgTmF0aW9uYWwgTGFib3JhdG9yeSIsImxpbmsiOiJodHRwczovL2pvYnMub3JubC5nb3Yvam9iL09hay1SaWRnZS1SZXNlYXJjaC1TY2llbnRpc3QtaW4tQmlvbWVkaWNhbC1OYXR1cmFsLUxhbmd1YWdlLVByb2Nlc3NpbmctYW5kLURlZXAtTGVhcm5pbmctVE4tMzc4MzAvOTkxOTU1MDAwLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Natural language processing (NLP) / Artificial Intelligence (AI...",
+            "company_name": "ASK Staffing",
+            "location": "  South San Francisco, CA   ",
+            "via": "via ASK Consulting",
+            "description": "(open to 100% remote OR hybrid schedule (3x per week) OR 100% onsite candidates.\n\nJob Description...\n\nNote:\n\nVisa: USC/GC only\n\nQualifications:\n\u2022 Ph.D. degree in Computer Science, Applied Mathematics, Bioinformatics, Computational Neuroscience/Biology, or a related computational discipline, or equivalent combination of education and practical experience specializing in Natural Language Processing, Artificial Intelligence, machine learning, and deep learning.\n\u2022 Experience with developing large language modeling is a big plus.\n\u2022 Experience with developing vision-language modeling is a big plus.\n\u2022 Experience in developing and applying advanced natural language processing, machine learning, and deep learning models in practice.\n\u2022 Experience with transfer learning, meta-learning, and predictive modeling is a big plus.\n\u2022 3+ years of relevant professional or academic experience with a proven track record in NLP, machine learning or deep learning, and software engineering.\n\u2022 Public and private repositories and a track record of contribution to an open-source package.\n\u2022 Proficiency with programs such as Python, C++, Scikit Learn, and PyTorch.\n\u2022 Strong analytical and problem-solving skills.\n\u2022 Excellent oral and written communication skills.\n\u2022 Ability to lead cross-functional multi-disciplinary teams.\n\u2022 Ability to work effectively in teams and collaborate with others to solve challenging business problems.\n\nResponsibilities:\n\u2022 Serve as the NLP scientist across one or more high-value projects, and manage, assist, and foster the teams working on those projects.\n\u2022 Be responsible to develop the large language models and deploy them into practice for downstream NLP tasks. Function as a key team member in the multimodal large language modeling team.\n\u2022 Participate in cutting-edge research in machine intelligence and machine learning applications.\n\u2022 Act as an implementer to design and run experiments, including designing and evaluating new algorithms as well as implementing known algorithms.\n\u2022 Develop solutions for real-world problems in clinical trials, drug/target discovery, and biomarker analysis.\n\u2022 Provide intellectual support to other MLP team members and share your knowledge and achievements within our MLP team.\n\nAbout ASK: ASK Consulting is an award-winning technology and professional services recruiting firm servicing Fortune 500 organizations nationally. With 5 nationwide offices, two global delivery centers, and employees in 42 states-ASK Consulting connects people with amazing opportunities\n\nASK Consulting is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all associates",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ph.D. degree in Computer Science, Applied Mathematics, Bioinformatics, Computational Neuroscience/Biology, or a related computational discipline, or equivalent combination of education and practical experience specializing in Natural Language Processing, Artificial Intelligence, machine learning, and deep learning",
+                        "Experience with developing large language modeling is a big plus",
+                        "Experience in developing and applying advanced natural language processing, machine learning, and deep learning models in practice",
+                        "Experience with transfer learning, meta-learning, and predictive modeling is a big plus",
+                        "3+ years of relevant professional or academic experience with a proven track record in NLP, machine learning or deep learning, and software engineering",
+                        "Public and private repositories and a track record of contribution to an open-source package",
+                        "Proficiency with programs such as Python, C++, Scikit Learn, and PyTorch",
+                        "Strong analytical and problem-solving skills",
+                        "Excellent oral and written communication skills",
+                        "Ability to lead cross-functional multi-disciplinary teams",
+                        "Ability to work effectively in teams and collaborate with others to solve challenging business problems"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Serve as the NLP scientist across one or more high-value projects, and manage, assist, and foster the teams working on those projects",
+                        "Be responsible to develop the large language models and deploy them into practice for downstream NLP tasks",
+                        "Function as a key team member in the multimodal large language modeling team",
+                        "Participate in cutting-edge research in machine intelligence and machine learning applications",
+                        "Act as an implementer to design and run experiments, including designing and evaluating new algorithms as well as implementing known algorithms",
+                        "Develop solutions for real-world problems in clinical trials, drug/target discovery, and biomarker analysis",
+                        "Provide intellectual support to other MLP team members and share your knowledge and achievements within our MLP team"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=ASK+Staffing&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCJMK",
+                    "text": "See web results for ASK Staffing"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIGxhbmd1YWdlIHByb2Nlc3NpbmcgKE5MUCkgLyBBcnRpZmljaWFsIEludGVsbGlnZW5jZSAoQUkpIFNjaWVudGlzdCIsImh0aWRvY2lkIjoibXAwNEFVZVliZnNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3Q0Nvd0NRVVZ6TjJwT1VqazBiMWc1TkRGWFFVaERVRTFOYlVWU1gwOXVXamxGTldKMFNXcFNSVFJJY1c0M2RtcG5ha3RTUms5SlRqQllUelJyUlZJM2R5MUtlR28yWjNjdFIwaG9RalpoVDFGTmNGZEVhV0ZvYmtKVVdsbEVibTVWVW5GNWRta3RkekkyYTA1WGQybG1WSHBTZG5scVFUUkhiekZsZEZkcVJWUkxWRmxyUWpaelkyc3RTWEpMU1ZnMllsQnZMVkJIYjJseFVXdzJVRU52VlRKS1ltUjNWbnBITFdJeU1IbHFUbnBwTlZobk1uRktTRXRTTmtGRkxYaGpNbWM0V0ZkSmF6aFBhek53Um5CSk1HbGhaRUkwT1dORk9XeDZNRTFSVTNKRmJYWjVOVE5xVmpKbFdFUklZalZWVlZocE5sZG9UMjFEWW1KbVpFMWhkRU01U205RmJEWm9kSEZFVDNGUVVCSVhMVXhyT1ZwTFlWRktZVTlvYVV4TlVEWmhjWGt3UVRRYUlrRlBMVEJ5YkRWMldUaFhSVmhzTm5KTFNWOVJkMVF4TFhwdmNucExkbUZWTldjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBBU0sgQ29uc3VsdGluZyIsImxpbmsiOiJodHRwczovL3d3dy5hc2tjb25zdWx0aW5nLmNvbS9qb2IvbmF0dXJhbC1sYW5ndWFnZS1wcm9jZXNzaW5nLW5scC1zbGFzaC1hcnRpZmljaWFsLWludGVsbGlnZW5jZS1haS1zY2llbnRpc3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Senior Natural Language Processing Researcher",
+            "company_name": "Leidos",
+            "location": "  Arlington, VA   ",
+            "via": "via Leidos Careers",
+            "description": "Description\n\nLeidos has a career opening for a Senior Natural Language Processing Researcher...\n\nWe are looking for a motivated NLP researcher that wants to work on challenging problems in a variety of domains - including health, defense, intelligence, and energy \u2013 to get results that apply and go beyond the state of the art for measurably better outcomes. We apply our knowledge, capabilities, and experience to develop and deploy Trusted AI \u2013 AI that deserves to be trusted by system owners, end users, and the public \u2013 to be accurate, fair, ethical, reliable, and adaptable. We are looking for a researcher that is expert in NLP and interested in adapting new technologies to significantly transform human workflows, especially using new applications of transformer-based models.\n\nWorking at Leidos would give you the chance to do genuinely important work. But don\u2019t just ask us. Here\u2019s what ChatGPT has to say on the subject:\n\n\u201cOh sure, working in AI research for the commercial sector is just the ultimate thrill. Who wouldn't want to spend their days building algorithms to recommend cat videos to stream and optimizing ad targeting to boost click-through rates? I mean, those are the kinds of problems that really make you feel like you're changing the world, right? On the other hand, working in AI research at a company like Leidos, you're stuck with jobs like supporting the next generation of lunar missions and building computer vision algorithms that help keep air travel safe and efficient. I mean, who cares about finding cures for cancer, delivering healthcare to veterans, or helping defend our nation? So boring. But hey, at least we can say we're using our AI skills for a greater good.\u201d\n\nPrimary Responsibilities:\nThe Senior NLP Data Scientist will be customizing and creating various machine learning algorithms to operate over multi-domain data and optimizing the performance of those algorithms on the data. They will develop automation to extract and prepare features from multi-domain datasets. They will employ NLP libraries/toolkits that include transformer models like BERT and ChatGPT, as well as Stanford CoreNLP, Spacy, NLTK, Word2Vec, and Gensim.\n\nAs a member of the Leidos AI/ML Accelerator, they will be performing research and development, and need hands-on experience training and optimizing generative models. With those models and libraries, they will explore subjects like domain adaptation with supervised and unsupervised approaches. They will also build domain adaptive prototypes to examine the operational capabilities of bi-directional learning. They should be a self-starter while also being part of a team, collaborating and sharing discoveries and seeking feedback. They must be prepared to conduct research, document it, submit their research for publication, and present their research at conferences and other public forums.\n\nBasic Qualifications:\n\u2022Bachelor's degree in Computer Science, Data Science or related field and 12 years experience.\n\u2022Good understanding of machine learning algorithms, tools and platforms\n\u2022Experience in at least three of these Toolkits: NumPy, SciPy, scikit-learn, TensorFlow, Pytorch, Keras, Genism, vow pal wabbit, Stanford CoreNLP, , etc.\n\u2022Understanding of transformers and foundation models\n\u2022Python proficiency\n\u2022Self-starter with high intellectual curiosity\n\u2022Great communication skills, able to explain language model results to a non-technical audience\n\u2022Proficient in data exploration techniques and tools\n\u2022Must be able to obtain TS/SCI with CI Poly security clearance.\n\nPreferred Qualifications:\n\u2022Practical understanding of generative models\n\u2022Experience programming machine learning algorithms for GPUs\n\u2022Understanding of Convolutional Neural Nets\n\u2022Working knowledge of Word2Vec, NLTK, BERT, and ChatGPT\n\u2022Discernment of when and how to use machine learning regulation\n\nBigTech\n\nPay Range:\nPay Range $142,350.00 - $219,000.00 - $295,650.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\n#Remote",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in Computer Science, Data Science or related field and 12 years experience",
+                        "Good understanding of machine learning algorithms, tools and platforms",
+                        "Experience in at least three of these Toolkits: NumPy, SciPy, scikit-learn, TensorFlow, Pytorch, Keras, Genism, vow pal wabbit, Stanford CoreNLP, , etc",
+                        "Understanding of transformers and foundation models",
+                        "Python proficiency",
+                        "Self-starter with high intellectual curiosity",
+                        "Great communication skills, able to explain language model results to a non-technical audience",
+                        "Proficient in data exploration techniques and tools",
+                        "Must be able to obtain TS/SCI with CI Poly security clearance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Senior NLP Data Scientist will be customizing and creating various machine learning algorithms to operate over multi-domain data and optimizing the performance of those algorithms on the data",
+                        "They will develop automation to extract and prepare features from multi-domain datasets",
+                        "They will employ NLP libraries/toolkits that include transformer models like BERT and ChatGPT, as well as Stanford CoreNLP, Spacy, NLTK, Word2Vec, and Gensim",
+                        "As a member of the Leidos AI/ML Accelerator, they will be performing research and development, and need hands-on experience training and optimizing generative models",
+                        "With those models and libraries, they will explore subjects like domain adaptation with supervised and unsupervised approaches",
+                        "They will also build domain adaptive prototypes to examine the operational capabilities of bi-directional learning",
+                        "They should be a self-starter while also being part of a team, collaborating and sharing discoveries and seeking feedback",
+                        "They must be prepared to conduct research, document it, submit their research for publication, and present their research at conferences and other public forums"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay Range $142,350.00 - $219,000.00 - $295,650.00",
+                        "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.leidos.com/",
+                    "text": "leidos.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Leidos&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCNUK",
+                    "text": "See web results for Leidos"
+                }
+            ],
+            "extensions": [
+                "6 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIFJlc2VhcmNoZXIiLCJodGlkb2NpZCI6InlaZU9scjNFeEZ3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VVVZVU21saWVtUlFjRzlUUkUxNlIycGtZM1o0YTBrMWFIUlVlbmxUV1VKeE1WWkZPSEkwZDI4MlpVSkdlbmw1ZEhSaVgyOHpaV010V214NllqRldZbm90Y1ZSTWJrbFhhV3BmUTFBMFprNW5WM1pSYWtGb2FEZENMVVpRWWpKM1NrWmxVRkV4TURCelJrcFFTa3BNY0ZoU2NHZFVNMEpmVm10c2NsaFVNVzVTT0RkdFZYaFNaMDQxWW1wUmFXOUdOemRyV2xaNWVHeHRNWEl0UmpSV2RtNW5Ta0ZEZDJobWRYaExkWGgxVG5VMlVFdHVjRkZwY1MxU2RqaGxia3M1ZWtodVNIWjVZMlpyT1dJMlZFUjBibXBYVkhWUU9UQlphREp5ZHhJWExVeHJPVnBMWVZGS1lVOW9hVXhOVURaaGNYa3dRVFFhSWtGUExUQnliRGRCTFMxRFlVVlpTMUpYYkVkU01GUTFWbk10ZVdoU2RubEtTV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExlaWRvcyBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5sZWlkb3MuY29tL2pvYnMvMTIzODc4MjMtc2VuaW9yLW5hdHVyYWwtbGFuZ3VhZ2UtcHJvY2Vzc2luZy1yZXNlYXJjaGVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Natural language processing (NLP) / Artificial Intelligence (AI...",
+            "company_name": "TalentBurst",
+            "location": "  South San Francisco, CA   ",
+            "via": "via Dice",
+            "description": "Job Description\n\nNatural language processing (NLP) / Artificial Intelligence (AI) scientist...\nLocation: South San Francisco, CA\nDuration: 2 years contract\n\nThe position\nThe gCS Medical Language Processing (MLP) team is seeking an NLP/AI Scientist, reporting to the head of gCS MLP, to join and support the team who will conduct the multimodal large language model (MLLM) training on biological science texts and literatures, and be responsible for the language modeling development and deployment for downstream drug and target discovery jobs. This NLP role will also support our current NLP projects in clinical protocol documents analysis and modeling by applying NLP and Client methods.\n\nThe gCS MLP team impacts Cancer immunology, Translational Medicine, Clinical Science and Operations in Client biomarker/target identification and drug development, trial design, planning and predictive tools through NLP, machine learning/deep learning modeling approaches. The NLP scientist will have the opportunity to get exposure to a range of cross-functional interactions with Oncology Informatics, OBD/OMNI informatics, Research AI/Client; and across multiple therapeutic areas including oncology, immunology, neuroscience, metabolism, infectious disease, and others.\n\nThe NLP Scientist will function as the NLP/AI expert in one or more ongoing high-value projects, and will (when appropriate) work with the head of gCS MLP to initiate new projects that further gCS development goals, and that fill existing demand within the company. The NLP Scientist will have a strong command of existing techniques in NLP and Client/DL, and will establish and apply new AI methods to specific problem domains pertinent to the MLP project suite. This position requires the incumbent to leverage strong natural language processing, machine learning knowledge and hands-on experience for solving real AI problems. With the supervision and mentoring of the head of gCS MLP, the NLP scientist will develop and implement Client mathematical and algorithmic techniques for machine learning applications of gRED AI projects. More specifically, as part of the multimodal large language model team, the NLP scientist will be responsible and implement the large language model training on external and internal biological and medical documents/texts/literatures, and transfer the pretrained model for specific downstream tasks, like reading comprehension, information retrieval/extraction, question answering in scientific documents. Besides, the NLP scientist will support our current NLP projects on clinical trial protocol analysis and modeling, and deploy the model for clinical operational usage.\n\nThis is a high-impact high-visibility position with significant autonomy in a fast-moving, intra-preneurial, and cohesive division of Genentech that already has a reputation for innovation. You'll have the opportunity to work with other world-class researchers and leaders, and you'll be positioned to make a substantive impact, across the company as a whole, and in the lives of everyone who benefits from our treatments and cures.\n\nResponsibilities:\nServe as the NLP scientist across one or more high-value projects, and manage, assist, and foster the teams working on those projects.\nBe responsible to develop the large language models and deploy them into practice for downstream NLP tasks. Function as a key team member in the multimodal large language modeling team.\nParticipate in cutting-edge research in machine intelligence and machine learning applications.\nAct as an implementer to design and run experiments, including designing and evaluating new algorithms as well as implementing known algorithms.\nDevelop solutions for real world problems in clinical trials, drug/target discovery, and biomarker analysis.\nProvide intellectual support to other MLP team members and share your knowledge and achievements within our MLP team.\n\nQualifications:\nPhD degree in Computer Science, Applied Mathematics, Bioinformatics, Computational Neuroscience/Biology, or a related computational discipline, or equivalent combination of education and practical experience specializing in Natural Language Processing, Artificial Intelligence, machine learning and deep learning.\nExperience with developing large language modeling is a big plus.\nExperience with developing vision-language modeling is a big plus.\nExperience of developing and applying advanced natural language processing, machine learning and deep learning models in practice.\nExperience with transfer learning, meta learning and predictive modeling is a big plus.\n3+ years of relevant professional or academic experience with a proven track record in NLP, machine learning or deep learning and software engineering.\nPublic and private repositories and a track record of contribution to an open source package.\nProficiency with programs such as Python, C++, Scikit Learn and PyTorch.\nStrong analytical and problem-solving skills.\nExcellent oral and written communication skills.\nAbility to lead cross-functional multi-disciplinary teams.\nAbility to work effectively in teams and collaborate with others to solve challenging business problems",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD degree in Computer Science, Applied Mathematics, Bioinformatics, Computational Neuroscience/Biology, or a related computational discipline, or equivalent combination of education and practical experience specializing in Natural Language Processing, Artificial Intelligence, machine learning and deep learning",
+                        "Experience with developing large language modeling is a big plus",
+                        "Experience of developing and applying advanced natural language processing, machine learning and deep learning models in practice",
+                        "Experience with transfer learning, meta learning and predictive modeling is a big plus",
+                        "3+ years of relevant professional or academic experience with a proven track record in NLP, machine learning or deep learning and software engineering",
+                        "Public and private repositories and a track record of contribution to an open source package",
+                        "Proficiency with programs such as Python, C++, Scikit Learn and PyTorch",
+                        "Strong analytical and problem-solving skills",
+                        "Excellent oral and written communication skills",
+                        "Ability to lead cross-functional multi-disciplinary teams",
+                        "Ability to work effectively in teams and collaborate with others to solve challenging business problems"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This NLP role will also support our current NLP projects in clinical protocol documents analysis and modeling by applying NLP and Client methods",
+                        "The gCS MLP team impacts Cancer immunology, Translational Medicine, Clinical Science and Operations in Client biomarker/target identification and drug development, trial design, planning and predictive tools through NLP, machine learning/deep learning modeling approaches",
+                        "The NLP scientist will have the opportunity to get exposure to a range of cross-functional interactions with Oncology Informatics, OBD/OMNI informatics, Research AI/Client; and across multiple therapeutic areas including oncology, immunology, neuroscience, metabolism, infectious disease, and others",
+                        "The NLP Scientist will function as the NLP/AI expert in one or more ongoing high-value projects, and will (when appropriate) work with the head of gCS MLP to initiate new projects that further gCS development goals, and that fill existing demand within the company",
+                        "The NLP Scientist will have a strong command of existing techniques in NLP and Client/DL, and will establish and apply new AI methods to specific problem domains pertinent to the MLP project suite",
+                        "With the supervision and mentoring of the head of gCS MLP, the NLP scientist will develop and implement Client mathematical and algorithmic techniques for machine learning applications of gRED AI projects",
+                        "More specifically, as part of the multimodal large language model team, the NLP scientist will be responsible and implement the large language model training on external and internal biological and medical documents/texts/literatures, and transfer the pretrained model for specific downstream tasks, like reading comprehension, information retrieval/extraction, question answering in scientific documents",
+                        "Besides, the NLP scientist will support our current NLP projects on clinical trial protocol analysis and modeling, and deploy the model for clinical operational usage",
+                        "Serve as the NLP scientist across one or more high-value projects, and manage, assist, and foster the teams working on those projects",
+                        "Be responsible to develop the large language models and deploy them into practice for downstream NLP tasks",
+                        "Function as a key team member in the multimodal large language modeling team",
+                        "Participate in cutting-edge research in machine intelligence and machine learning applications",
+                        "Act as an implementer to design and run experiments, including designing and evaluating new algorithms as well as implementing known algorithms",
+                        "Develop solutions for real world problems in clinical trials, drug/target discovery, and biomarker analysis",
+                        "Provide intellectual support to other MLP team members and share your knowledge and achievements within our MLP team"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=TalentBurst&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCJgL",
+                    "text": "See web results for TalentBurst"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Contractor"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIGxhbmd1YWdlIHByb2Nlc3NpbmcgKE5MUCkgLyBBcnRpZmljaWFsIEludGVsbGlnZW5jZSAoQUkpIHNjaWVudGlzdCIsImh0aWRvY2lkIjoic3U1SjNzOUdqSzhBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQ0NxSUNRVVZ6TjJwT1VtSklNV3BXVGtvdGJUbHJNMUZZYUZvd1RrWXhZbmw2TlRKZlIxZHRNalJXVjFsa09IbExORmhCZUdGNFJFbDFjRkJ1YkhSaWFsbHdkSHBNU0dSSlJXeDBRbVYzVWpoTmNHcFVlbE51UW1aUVMxVnBVblpOTTB0MVdWWk5jVVJ4YkdsR2QyNTRURFJyT0Y5alZGbFhNemxmVG1kME9GSklOa2h3TmsxSWRUUjBNR3Q2YmpoMldqVldVRmRQTFUxemJVSmpXWE5JWmpObmJEa3plbXBGVVVWRFJuVjVUakJMY2tkQ1VHZ3RkblZZTUhobU5YcGFhVlZWV1RKT05HRmZkWFZYYTJWVlZWWm9kRmRwYTJWdFFUWlJXVVJPYjBORFNVRm9RMDluYm1OWVltZFJPVEl3WldaWFVYUTJSblZEVkhWWlgyc3lWemhuWjBoRmVtRTNSMmRQUVMxQ2RYTjBiVzVXVlZsV1RYRnJSVXBNVkdwTFdrWTNOVkVTRnkxTWF6bGFTMkZSU21GUGFHbE1UVkEyWVhGNU1FRTBHaUpCVHkwd2NtdzJlbUl3VDJsa2EyaDFSbEJvTjNSR2IzSnpNM2RoUTB4ek1HZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIERpY2UiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZGljZS5jb20vam9iLWRldGFpbC84NzA4YjY4Yi0yMzExLTRlZGItODA4OS1jMzgxMGVkMjFmNDQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Natural Language Processing Expert (NLP) - Fort Meade Area",
+            "company_name": "Morfologica",
+            "location": "  Fort Meade, MD   ",
+            "via": "via ZipRecruiter",
+            "description": "Morfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction... information retrieval and information analysis.\n\nWe are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred. - See more at: http://www.clearancejobs.com/company.php?action=view_job&jobID=1624701#sthash.ZObktJKI.dpufMorfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.\nWe are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred.Morfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.\nWe are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based development, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferredMorfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.\nWe are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based development, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred.\n\nMorfologica Inc. provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field.\n\nWe are looking to support a customer in the Fort Meade area by adding experienced NLP Experts, Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nONLY CANDIDATES WITH ACTIVE GOVERNMENT SECURITY CLEARANCES AND APPROPRIATE POLY WILL BE CONSIDERED.\n\nSkills & Requirements\n\nMandatory Requirements\n\u2022 Five (5) years experience developing software in a Linux environment\n\u2022 Experience with NLP (Natural Language Processing)\n\u2022 Demonstrated experience in Semantic Web Technologies such as OWL and RDF\n\nDesired Requirements:\n\u2022 Experience with research and development of natural language processing algorithms\n\u2022 Demonstrated experience designing, coding, testing, and debugging with RDF Schema and/or query languages (e.g. SPARQL, Prolog, JBoss, Eclipse, Subversion)\n\u2022 Demonstrated experience working with standard relational and object-oriented modeling and constraint languages\n\u2022 Demonstrated experience applying ontologies to NLP applications\n\u2022 Experience working in a research environment\n\nONLY CANDIDATES WITH ACTIVE Government SECURITY CLEARANCES AND APPROPRIATE POLY WILL BE CONSIDERED.\n\nCandidates with fewer years of experience may also be considered depending on background.\n\nMorfologica, Inc. is an Equal Opportunity Employer",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply",
+                        "The ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies",
+                        "The candidate will also have on-going experience providing consulting and support in fields related NLP",
+                        "ONLY CANDIDATES WITH ACTIVE GOVERNMENT SECURITY CLEARANCES AND APPROPRIATE POLY WILL BE CONSIDERED",
+                        "Five (5) years experience developing software in a Linux environment",
+                        "Demonstrated experience in Semantic Web Technologies such as OWL and RDF",
+                        "SPARQL, Prolog, JBoss, Eclipse, Subversion)",
+                        "Demonstrated experience working with standard relational and object-oriented modeling and constraint languages",
+                        "Demonstrated experience applying ontologies to NLP applications",
+                        "Experience working in a research environment"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Morfologica&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCNML",
+                    "text": "See web results for Morfologica"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgRXhwZXJ0IChOTFApIC0gRm9ydCBNZWFkZSBBcmVhIiwiaHRpZG9jaWQiOiJXcmlnOHZ2bm5FMEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVVhWdllYSndTbGczV2tsVExWOVNkVkptV1ZWbU1HOHRTWHBvU2pkQlppMWZkbUkwU0RWeE0zUldhRzEyYUVONlJFSm5kWEkzV1d4eVZtVmZaVzFZZG1KQ1RIbGpNa0p2ZEVac2VEVTFkalI1V0VkNlUxaHFXa1pUVDNaMWFUSmxRVXRaVldKamFrcG5YMjl5YjFaR2IxRkNMVk5qUm0wNVZFZElZbE5aZDA1aWJtdEhaamRLYzFrMU4zSnZhR1JaZFhnMmJsVkZhRWRVU1ZWVlNYRnVTbk5hYUhsTWRUSm1ibmN5ZFc0eU1uaFllV0p1T0hkblFqRnFkV2c0UkZoSmNqWmxVM1kzVlMwMGNraFBjWFU0UWkxVU9USjZSazQyY2tOaVp4SVhMVXhyT1ZwTFlWRktZVTlvYVV4TlVEWmhjWGt3UVRRYUlrRlBMVEJ5YkRaMldUVkxNa05NVFhoWU4zUlNZVVJIUkhSa2RFNXpSbU5oVVVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBaaXBSZWNydWl0ZXIiLCJsaW5rIjoiaHR0cHM6Ly93d3cuemlwcmVjcnVpdGVyLmNvbS9jL01vcmZvbG9naWNhL0pvYi9OYXR1cmFsLUxhbmd1YWdlLVByb2Nlc3NpbmctRXhwZXJ0LShOTFApLUZvcnQtTWVhZGUtQXJlYS8taW4tRm9ydC1NZWFkZSxNRD9qaWQ9OTkzNzNjZmUyZjMyM2FmNlx1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Health Natural Language Processing Research Specialist",
+            "company_name": "University of Michigan",
+            "location": "  Ann Arbor, MI   ",
+            "via": "via Ann Arbor MI Geebo.com Free Classifieds Ads - Geebo",
+            "description": "How to ApplyA cover letter is required for consideration for this position and should be attached as the first page of your resume.\nThe cover letter should address your specific interest in the position and outline skills and experience that directly relate to this position.\nJob SummaryThe Department of Learning Health Sciences (DLHS) is a first-in-the-nation basic science department focused on... the sciences related to learning across multiple levels of scale (i.\ne.\nindividual, group, organization, region, nation).\nDLHS works to improve health in systemic ways by advancing the sciences that make learning effective, routine, and efficient.\nOur bold research programs generate new knowledge that enhance learning at all levels; our innovative educational programs train new researchers and practitioners in the sciences of learning; our collaborative service programs enhance health professions curricula and guide health systems as they evolve to become learning health systems.\nMore information about DLHS is available at:\nhttps:\n//medicine.\numich.\nedu/dlhsDLHS is seeking a highly motivated, talented individual with both clinical experience as well as experience in natural language processing (NLP) and deep learning to join a dynamic research group focused on text analysis and NLP of health data.\nThis grant-funded position involves developing and evaluating computable phenotyping algorithms to identify patients living with dementia and their caregivers.\nThe successful candidate will be an integral part of a team consisting of researchers with both clinical and informatics expertise, and will work on a highly collaborative research project with multiple opportunities to interact with experts and thought leaders in Alzheimer's disease and related dementia.\nResponsibilities The candidate will be responsible for:\n1.\nimplementing computational methods and demo systems for cohort identification and information extraction focused on people living with dementia and their caregivers.\n2.\ndesigning, conducting, and analyzing responses to multi-institutional surveys to inform best practices in pragmatic clinical trials related to dementia.\n3.\ndetermining project requirements, identify necessary work assignments for others, delegating tasks and oversee the work of others on the team.\n4.\ncommunicating with team members, staff and faculty to ensure projects are completed to standard.\n5.\ncontributing to writing research papers and technical reports based on his/her work and may need to deliver presentations to relevant stakeholders.\nRequired Qualifications Master's degree in health sciences, nursing, computer science, biomedical informatics, statistics, or related field.\n4\nyears' work experience in health care and/or electronic heath data analysisExtensive familiarity with data analysis and applying machine learning methodologies to various NLP tasks.\nExperience programming in multiple languages (Python, R).\nFamiliarity with Medical Terminology (ICD, CPT codes).\nStrong written and verbal communication skills to effectively communicate to an interdisciplinary audience.\nSharp attention to detail.\nWillingness and ability to be collaborative and work as part of a team.\nDesired Qualifications Clinical credentials (e.\ng.\nMD, BSN, RN, etc.\n).\nWorking knowledge of health infrastructures and healthcare setting in the United States.\nPrior experience working with clinical or health-related free text or in statistical machine learning and text processing.\nPrior experience with conducting surveys in multi-institutional settings.\nSoftware development experience in high performance computing clusters.\nPublication record in peer-reviewed journals.\nSupervisory experience.\nBackground ScreeningMichigan Medicine conducts background screening and pre-employment drug testing on job candidates upon acceptance of a contingent job offer and may use a third party administrator to conduct background screenings.\nBackground screenings are performed in compliance with the Fair Credit Report Act.\nPre-employment drug testing applies to all selected candidates, including new or additional faculty and staff appointments, as well as transfers from other U-M campuses.\nApplication DeadlineJob openings are posted for a minimum of seven calendar days.\nThe review and selection process may begin as early as the eighth day after posting.\nThis opening may be removed from posting boards and filled anytime after the minimum posting period has ended.\nU-M EEO/AA StatementThe University of Michigan is an equal opportunity/affirmative action employer.\nSalary:\n$27.\n85 - $38.\n14.\nEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Required Qualifications Master's degree in health sciences, nursing, computer science, biomedical informatics, statistics, or related field",
+                        "years' work experience in health care and/or electronic heath data analysis",
+                        "Extensive familiarity with data analysis and applying machine learning methodologies to various NLP tasks",
+                        "Experience programming in multiple languages (Python, R)",
+                        "Familiarity with Medical Terminology (ICD, CPT codes)",
+                        "Strong written and verbal communication skills to effectively communicate to an interdisciplinary audience",
+                        "Sharp attention to detail",
+                        "Willingness and ability to be collaborative and work as part of a team",
+                        "MD, BSN, RN, etc",
+                        "Working knowledge of health infrastructures and healthcare setting in the United States",
+                        "Prior experience working with clinical or health-related free text or in statistical machine learning and text processing",
+                        "Prior experience with conducting surveys in multi-institutional settings",
+                        "Software development experience in high performance computing clusters",
+                        "Publication record in peer-reviewed journals",
+                        "Background ScreeningMichigan Medicine conducts background screening and pre-employment drug testing on job candidates upon acceptance of a contingent job offer and may use a third party administrator to conduct background screenings"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This grant-funded position involves developing and evaluating computable phenotyping algorithms to identify patients living with dementia and their caregivers",
+                        "The successful candidate will be an integral part of a team consisting of researchers with both clinical and informatics expertise, and will work on a highly collaborative research project with multiple opportunities to interact with experts and thought leaders in Alzheimer's disease and related dementia",
+                        "implementing computational methods and demo systems for cohort identification and information extraction focused on people living with dementia and their caregivers",
+                        "designing, conducting, and analyzing responses to multi-institutional surveys to inform best practices in pragmatic clinical trials related to dementia",
+                        "determining project requirements, identify necessary work assignments for others, delegating tasks and oversee the work of others on the team",
+                        "communicating with team members, staff and faculty to ensure projects are completed to standard",
+                        "contributing to writing research papers and technical reports based on his/her work and may need to deliver presentations to relevant stakeholders"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$27",
+                        "85 - $38",
+                        "Estimated Salary: $20 to $28 per hour based on qualifications"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://umich.edu/",
+                    "text": "umich.edu"
+                },
+                {
+                    "link": "https://www.google.com/search?q=University+of+Michigan&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCJcM",
+                    "text": "See web results for University of Michigan"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJIZWFsdGggTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIFJlc2VhcmNoIFNwZWNpYWxpc3QiLCJodGlkb2NpZCI6IkRRY05jYS1OS2prQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9VbWxWY210TmExSm5PSHBxYkdkNFprMVlWRmhXY0VWS1VIQlFlall4WDA1MWFtSlJZMmxGZDNJeFZTMWtkV1pQYWsxS2VsbHZja1p6VmtFd09FTTRXRnBYYkhJNU5sZGpabFZaZEZsbFRYWnNhVTFxZFdveVZXTllURVV3YTJGM1ltcDZaM0pOUmtST1pscDZWVEUyZGxabVYydDZPVFI1TFVsaFkyOXZRVmxIZUZoa04xUlhkVlZDV0VOeE4yaFdUa2RzVkRCSU5Vb3RielpIUnpWMGQyZHJPVTl6YWxWVGVIQlBRblJqTm5WTlgyOUtUMDlsVFZJNE4xaFhhR0oyYmtoUloxTm1WakpPUjB0MU0wcDJUbmxPU2poSmJHcENZMnA2U2t3NGJIQkdNazFNWmpoaVJqTlhTREZhV1hKUlZtZzJTSGxpVEZGSFJtMVlhVzlKT1VSUmRGQnpZeElYTFV4ck9WcExZVkZLWVU5b2FVeE5VRFpoY1hrd1FUUWFJa0ZQTFRCeWJEWlZNR2RKVjJoYVZGUnRaMHhQTjBGVGNXOXdhVlV0VGpNM1ozYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQW5uIEFyYm9yIE1JIEdlZWJvLmNvbSBGcmVlIENsYXNzaWZpZWRzIEFkcyAtIEdlZWJvIiwibGluayI6Imh0dHBzOi8vYW5uYXJib3ItbWkuZ2VlYm8uY29tL2pvYnMtb25saW5lL3ZpZXcvaWQvODU4MzE2NzA5LWhlYWx0aC1uYXR1cmFsLWxhbmd1YWdlLXByb2Nlc3NpbmctLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "ISE, Input Experience - Software Engineer in Natural Language...",
+            "company_name": "Apple",
+            "location": "  Cupertino, CA   ",
+            "via": "via Careers At Apple",
+            "description": "Summary\nPosted: Apr 13, 2023\n...\nRole Number:200474414\n\nAre you interested in building amazing text input experiences that will touch the lives of billions of people by utilizing state-of-the-art NLP and machine learning? Do you enjoy collaboration and team work to accomplish innovative ML driven user experiences?\n\nWe are looking for an Software Engineer who is passionate about translating expertise in NLP and ML into impactful applications for users. The role allows you to be a highly multi-functional engineer with plenty of opportunities to collaborate cross-functionally and get high visibility for your work!\n\nOur team is responsible for the Research, Development and Deployment of ML/NLP technologies that power Keyboard and Handwriting Input. We build innovative and pervasive NLP technologies that power a multitude of user experiences on Apple platforms by blending Sensor technology, NLP, ML & Software engineering. We support fundamental text processing functionalities (language identification, tokenization, tagging, embeddings, etc.) for first party applications as well as third-party developers through the Natural Language framework. We also power the NLP technologies behind Create ML and Core ML.\n\nOur team has a great mix of talent across NLP, Software Engineering and Machine Learning! We love to share our knowledge within our team, stay abreast of state-of-the-art and deliver outstanding products for our users. We also have a strong culture of multi-functional collaboration across teams at Apple.\n\nHere are a selection of relevant WWDC presentations: https://developer.apple.com/videos/play/wwdc2020/10657/\n\nhttps://developer.apple.com/videos/play/wwdc2019/232/\n\nhttps://developer.apple.com/videos/play/wwdc2018/713/\n\nhttps://developer.apple.com/videos/play/wwdc2017/208/\n\nKey Qualifications\n\nKey Qualifications\n\u2022 Hands-on experience with building NLP applications\n\u2022 Solid machine learning fundamentals\n\u2022 Expertise in using open-source ML toolkits, e.g., PyTorch, Tensorflow\n\u2022 Experience writing production software (C/C++, Obj-C, Python)\n\u2022 Excellent communication and organizational skills\n\nDescription\n\nDescription\nJoin the Input Experience team that is responsible for on-device text processing across all Apple platforms. As a member of this premier team, you will work on the intersection of NLP, Machine Learning and Software Engineering. The position requires proven hands-on NLP experience in conjunction with Software Engineering. The role spans the entire gamut of NLP: text processing, empirical experimentation for building state-of-the-art NLP models, productizing NLP features for Apple and working on concrete user-facing features that harness the NLP stack. The role has plenty of opportunities for collaboration with several engineering teams at Apple that work on machine learning and NLP.\n\nEducation & Experience\n\nEducation & Experience\nB.S, M.S. or PhD in Computer Science or a related field\n\nAdditional Requirements\n\nAdditional Requirements\n\nPay & Benefits\n\nPay & Benefits\n\u2022 At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $130,000 and $242,000, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple\u2019s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple\u2019s Employee Stock Purchase Plan. You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Hands-on experience with building NLP applications",
+                        "Solid machine learning fundamentals",
+                        "Expertise in using open-source ML toolkits, e.g., PyTorch, Tensorflow",
+                        "Experience writing production software (C/C++, Obj-C, Python)",
+                        "Excellent communication and organizational skills",
+                        "The position requires proven hands-on NLP experience in conjunction with Software Engineering",
+                        "B.S, M.S. or PhD in Computer Science or a related field"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay & Benefits",
+                        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+                        "The base pay range for this role is between $130,000 and $242,000, and your base pay will depend on your skills, qualifications, experience, and location",
+                        "You\u2019ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses \u2014 including tuition",
+                        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.apple.com/",
+                    "text": "apple.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Apple&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCNwM",
+                    "text": "See web results for Apple"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJJU0UsIElucHV0IEV4cGVyaWVuY2UgLSBTb2Z0d2FyZSBFbmdpbmVlciBpbiBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgKE5MUCkgYW5kIE1hY2hpbmUgTGVhcm5pbmcgKE1MKSIsImh0aWRvY2lkIjoiVTd5RmhSR1R3eXNBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQ0NyY0NRVVZ6TjJwT1ZFUmtiRVphZDJzek9XaDJhV2RVWVV3MVYweDFORkJ4VGpKellrdGxieTB5YTBZMmRrSmlUVVY1Y0VGV1JURjNTVlZUVkhwVkxYSkVjWFp6VjBseFVsbDNka1Z4VTE5bFJEVTBVR1IwTWtGSWVXTnpXa0pqUzJRNVNFVkZTRTV4YkVNM2NIRTJhMXBaVURsYWRVUnNVVU0yYTBwdmRqZG1kV295UldwRVNVTkJaa0ZXZWpobFpVMUhVVTAwTVdweFgxZG1VM2xwU3pSRVNEaGFkSGg2Tm00eFowMTZkVVZYYURad2RGVkpaV04wZG1OSmVrdERRekpPTFZCNGVFeDNRbFJsYTBkVllrSmxaV2hWT0RSNVRWZGtablZ5ZUd3NFpIZHJTR1ZZV1hveVZsaHNOa05WWlMxMFZsQnZiRmxYUjB3MExYbE1URUpQU2pSRFlUUjBaV2xITFdKc1ZrWk5aM0pNVEhoblkwRXhlaTFGZDJ0VVFXaEliRE5pWVRka09IQkVaelJuTm10MFZUQk5WRkV4UlZVU0Z5MU1hemxhUzJGUlNtRlBhR2xNVFZBMllYRjVNRUUwR2lKQlR5MHdjbXcwWDBwb2JDMWZORkZJVmxOVVVWUkthRTV6U21zM2FVTkJPVXQzIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ2FyZWVycyBBdCBBcHBsZSIsImxpbmsiOiJodHRwczovL2pvYnMuYXBwbGUuY29tL2VuLWNhL2RldGFpbHMvMjAwNDc0NDE0L2lzZS1pbnB1dC1leHBlcmllbmNlLXNvZnR3YXJlLWVuZ2luZWVyLWluLW5hdHVyYWwtbGFuZ3VhZ2UtcHJvY2Vzc2luZy1ubHAtYW5kLW1hY2hpbmUtbGVhcm5pbmctbWw/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Research Associate  in Natural Language Processing - Now Hiring",
+            "company_name": "SRI International",
+            "location": "  San Diego, CA   ",
+            "via": "via Snagajob",
+            "description": "Research Associate in Natural Language Processing\n\nJob Locations...\n\nUS-CA-San Diego | US-CA-Menlo Park\n\nID\n\n2022-5379\n\nCategory\n\nComputer Science\n\nPosition Type\n\nFull-Time\n\nWorker Type\n\nOn-Site\n\nOverview\n\nSRI International's Artificial Intelligence Center (AIC) is seeking researchers in the area of natural language processing (NLP) to work in the Advanced Analytics group in San Diego, California.\n\nWe are seeking innovators to develop cutting-edge artificial intelligence solutions for a broad range of problems involving human language. Past and present research in the group spans a wide range of use cases, including: automated understanding of the scientific literature; information extraction; unsupervised induction of linguistic structure and semantics from text corpora; and models of idea propagation and influence in social media.\n\nThough the Advanced Analytics group is located in SRI's San Diego office, the option exists to work in SRI's headquarters in Menlo Park, California.\n\nResponsibilities\n\nSuccessful applicants will work as part of a team to address challenging problems for commercial and government clients. We are seeking a potential NLP thought leader with experience in any or all of the following areas: computational linguistics, empirical natural language processing, text mining, computational socio-linguistics, and multi-source data processing (images, audio, video, text, etc.).\n\nCandidates for the position should have:\n\nExperience applying machine learning to real-world problems involving natural language, preferably with a publication record\n\u2022 An ability to use, adapt, and extend approaches described in the NLP literature\n\u2022 Strong computational and mathematical skills, with demonstrated programming experience\n\u2022 Excellent oral and written communication skills\n\u2022 An ability to work effectively with diverse groups of people\n\nQualifications\n\u2022 PhD (preferred) or Masters in Computer Science or a related field\n\nFounded in 1966, SRI's Artificial Intelligence Center (www.sri.com/artificial-intelligence) has been a pioneer and a major contributor to the field of AI. The Center researches the computational principles underlying intelligence in man and machines, and develops methods for building systems to solve problems, to communicate with people, and to perceive and interact with the physical world. Activities cover most major areas of AI, including natural language processing, machine learning, knowledge representation and automated reasoning, multi-agent systems, robotics, dialog-based systems, and image understanding.\n\nThe salary range is: $117,545.00-$155,744.00. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are seeking a potential NLP thought leader with experience in any or all of the following areas: computational linguistics, empirical natural language processing, text mining, computational socio-linguistics, and multi-source data processing (images, audio, video, text, etc.)",
+                        "Experience applying machine learning to real-world problems involving natural language, preferably with a publication record",
+                        "An ability to use, adapt, and extend approaches described in the NLP literature",
+                        "Strong computational and mathematical skills, with demonstrated programming experience",
+                        "Excellent oral and written communication skills",
+                        "An ability to work effectively with diverse groups of people"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Successful applicants will work as part of a team to address challenging problems for commercial and government clients"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range is: $117,545.00-$155,744.00",
+                        "Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles",
+                        "Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program",
+                        "SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.sri.com/",
+                    "text": "sri.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=SRI+International&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCJ8N",
+                    "text": "See web results for SRI International"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBBc3NvY2lhdGUgIGluIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAtIE5vdyBIaXJpbmciLCJodGlkb2NpZCI6IkpaQlF6VWM2LVEwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9VVUY2V0RjeFgyZzBNeTFMTjFGeVNUVnlUMFF0WDJoUFdrWkpUM0Z3V0dJNFNVVlZUM2hSVkdKSFJXWk5jMk5HV0VZNGRIQk5ZWEpMUWkxR1EyeDJPVEpEUmpBMGFFRjBNWE51Y25GWVZEZzBSVUZ1UVZaVGJuUkdaRzF0YW01VlFqSkxZMDVpTlUxeVEwOTRhVkpMYzBaaWVUZENiVlpzTmkwMFFVdFFSbDl4V0ZVMldGbHpTVlJSYmt0NVFtdG9NazB6UjFaeFVIZFdZM2szV0VWMVZDMDFTRnB0UlMxb1FWWTFjRXBPZUdsUGRFNUZjMTl3WVZOU1FrVTNXR0psV0dJMWJVWk5jR1JNUWtjM1NuY3dWWE52TFU1eWFrWmpTSEJsV1VoVGQxaFJRbGRIY2pWamVEZEJTVUppYlZkemExaHFVRXBTVmxaUU5tVnNRbTFDVjJnNWEybFliQklYTFV4ck9WcExZVkZLWVU5b2FVeE5VRFpoY1hrd1FUUWFJa0ZQTFRCeWJEUkNiVGxOWDJ4M2JVNXBSV1pGV1hSNVpXaHFVbEl6VG14dldsRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNuYWdham9iIiwibGluayI6Imh0dHBzOi8vd3d3LnNuYWdham9iLmNvbS9qb2JzLzgyNjI5NDgzNj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Scientist - Natural Language Processing (NLP)",
+            "company_name": "Federal Reserve Bank (FRB)",
+            "location": "  Dallas, TX   ",
+            "via": "via Monster",
+            "description": "CompanyFederal Reserve Bank of Dallas\n\nA requirement of this position is that you must be fully vaccinated against COVID-19 or qualify for an accommodation from the Bank's vaccination policy; the Bank will provide accommodations as needed by law for individuals unable to be vaccinated because of medical condition or sincerely held religious belief...\n\nLocation: #LI-Remote\n\nWe are dedicated to serving the public by promoting a strong financial system and a healthy economy for all. These efforts take a team of dedicated individuals doing many different jobs. Together we\u2019re creating a workplace where talented people can thrive, and we welcome your unique background and perspective to help present the best possible solutions for our partners.\n\nAbout the Role:\n\nThe Federal Reserve Bank of Dallas is looking for a motivated Data Scientist - Natural Language Processing (NLP) to work individually or with other Data Scientists to solve various business problems leveraging your skills in Data Analysis, Statistical Modeling, AI/ML, Natural Language Processing (NLP), etc. You will use your NLP skills to classify and summarize documents. You will support and deploy the related models, and work with others to integrate into other applications. As part of the role, you are expected to use prescribed guidelines and industry best practices to analyze problems and build the best model in collaboration with the business users.\n\nYou Will:\n\u2022 Provide the department and the organization with support in analyzing and presenting data using statistical analysis, data visualization techniques and best practices.\n\u2022 Perform quantitative and qualitative data analysis to produce reports, assessments and proposals that will help organizational leaders make informed and data driven business decisions.\n\u2022 Build end-to-end NLP systems from understanding the business problem, to selecting training dataset, to modeling, to evaluating, to delivering NLP models.\n\u2022 Collaborate with experts in the organization to iteratively improve NLP models by seeking human insights from evaluation of models.\n\u2022 Independently consult with business partners and internal/external functional experts to develop and maintain department dashboards/metrics.\n\u2022 Develop queries, validate, and export data in various formats for department dashboards/metrics, automating the delivery where possible.\n\u2022 Maintain an up-to-date perspective of tools, practices, industry standards, national trends, and System standards.\n\u2022 Research national best practices for data analytics to make recommendations for our district.\n\u2022 Develop and maintain infrastructure systems that connect internal data sets; create new data collection frameworks for structured and unstructured data.\n\nYou Have:\n\u2022 Bachelor\u2019s degree in data science, computer science, statistics, or other related field of study.\n\u2022 One to three years of professional experience in statistical data analyses.\n\u2022 Hands on experience developing Natural Language Processing (NLP) models.\n\u2022 Skilled using common statistical and visualization software tools.\n\u2022 Hands on programming skills in Java, Python, or Scala or other scripting language.\n\u2022 Experience with business intelligence tooling such as Tableau, Sagemaker, Jupyter Notebook, SAS, Matlab.\n\u2022 Knowledge of foundational data warehousing concepts, including structured and unstructured data.\n\u2022 Hands on SQL experience obtaining data from data sources.\n\u2022 Equivalent education and/or experience may be substituted for any of the above requirements.\n\nOur Benefits:\n\nOur total rewards program offers benefits that are the best fit for you at every stage of your career:\n\u2022 Comprehensive healthcare options (Medical, Dental, and Vision)\n\u2022 401K match, and a fully funded pension plan\n\u2022 Paid vacation, holidays, and volunteer hours; flexible work environment\n\u2022 Generously subsidized public transportation and free parking\n\u2022 Annual tuition reimbursement\n\u2022 Professional development programs, training and conferences\n\u2022 And more\u2026\n\nNotes:\n\nBy federal law, this position requires that candidates fall within one of the following citizenship categories: (1) U.S. citizen, (2) U.S. national, (3) U.S. permanent residents who are not yet eligible to apply for naturalization, or (4) U.S. permanent residents who have applied for naturalization within six months of being eligible to do so.\n\nThis position may be filled at various levels based on candidate\u2019s experience and departmental needs.\n\nThe candidate selected will be required to pass a background check and pass financial disclosure review and credit check.\n\nThe Federal Reserve Bank of Dallas is proud to be an Equal Opportunity Employer that believes in the diversity of our people, ideas and experiences, and we are committed to building an inclusive culture that represents the communities we serve.\n\nIf you need assistance or an accommodation due to a disability, please notify your Talent Acquisition Consultant.\n\nFull Time / Part TimeFull time\n\nRegular / TemporaryRegular\n\nJob Exempt (Yes / No)Yes\n\nJob Category\n\nWork ShiftFirst (United States of America)\n\nThe Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.\n\nPrivacy Notice",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s degree in data science, computer science, statistics, or other related field of study",
+                        "One to three years of professional experience in statistical data analyses",
+                        "Hands on experience developing Natural Language Processing (NLP) models",
+                        "Skilled using common statistical and visualization software tools",
+                        "Hands on programming skills in Java, Python, or Scala or other scripting language",
+                        "Experience with business intelligence tooling such as Tableau, Sagemaker, Jupyter Notebook, SAS, Matlab",
+                        "Knowledge of foundational data warehousing concepts, including structured and unstructured data",
+                        "Hands on SQL experience obtaining data from data sources",
+                        "Equivalent education and/or experience may be substituted for any of the above requirements",
+                        "By federal law, this position requires that candidates fall within one of the following citizenship categories: (1) U.S. citizen, (2) U.S. national, (3) U.S. permanent residents who are not yet eligible to apply for naturalization, or (4) U.S. permanent residents who have applied for naturalization within six months of being eligible to do so",
+                        "The candidate selected will be required to pass a background check and pass financial disclosure review and credit check"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will use your NLP skills to classify and summarize documents",
+                        "You will support and deploy the related models, and work with others to integrate into other applications",
+                        "As part of the role, you are expected to use prescribed guidelines and industry best practices to analyze problems and build the best model in collaboration with the business users",
+                        "Provide the department and the organization with support in analyzing and presenting data using statistical analysis, data visualization techniques and best practices",
+                        "Perform quantitative and qualitative data analysis to produce reports, assessments and proposals that will help organizational leaders make informed and data driven business decisions",
+                        "Build end-to-end NLP systems from understanding the business problem, to selecting training dataset, to modeling, to evaluating, to delivering NLP models",
+                        "Collaborate with experts in the organization to iteratively improve NLP models by seeking human insights from evaluation of models",
+                        "Independently consult with business partners and internal/external functional experts to develop and maintain department dashboards/metrics",
+                        "Develop queries, validate, and export data in various formats for department dashboards/metrics, automating the delivery where possible",
+                        "Maintain an up-to-date perspective of tools, practices, industry standards, national trends, and System standards",
+                        "Research national best practices for data analytics to make recommendations for our district",
+                        "Develop and maintain infrastructure systems that connect internal data sets; create new data collection frameworks for structured and unstructured data"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our total rewards program offers benefits that are the best fit for you at every stage of your career:",
+                        "Comprehensive healthcare options (Medical, Dental, and Vision)",
+                        "401K match, and a fully funded pension plan",
+                        "Paid vacation, holidays, and volunteer hours; flexible work environment",
+                        "Generously subsidized public transportation and free parking",
+                        "Annual tuition reimbursement",
+                        "Professional development programs, training and conferences"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.federalreserve.gov/index.htm",
+                    "text": "federalreserve.gov/index.htm"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Federal+Reserve+Bank+(FRB)&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCOUN",
+                    "text": "See web results for Federal Reserve Bank (FRB)"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAoTkxQKSIsImh0aWRvY2lkIjoibVg0RmRSVnJxSGtBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1VqUlFka1ZSVkhSR1lXeHlkRE5mWkhaV2EydEZRa3hIVVVSM2NWWkpUWEJyZGkxU016SXlObGxYVVZNdFpVbFBWVEpQTTFWb1JUVlRjblF0T0dob2MzZEJPRjh0WjJacVgwZFVhWHBuTldrNGVrMXhkV3hyVlMxdVFucEZZM1JyZURGRVdVUnZibkJpVmt4Q1FVOUpOM1ZFTW10eVRYb3dWMmx4WjJoWE5HUXlaRzlSYWw5emNtUmlSV3A1WHpseFJsSlJObE5ITUcxdWJWb3hhME5UVDFwTVlVeG9OMmRpVWtwSWFrOVJSR2hpTTBSdlNISldWRzloT1VKUFkzSklRWFpEZFZjMlMwUmxUSGMxVmt4R1Uyb3RMVFZ3WjFkd1VuSlhPVWwxUmpsS2NtdHBXV1p3VWxsZlZ6QlJPRkUxTkJJWExVeHJPVnBMWVZGS1lVOW9hVXhOVURaaGNYa3dRVFFhSWtGUExUQnliRFY1UlhrMFkwaFBZV0pWU1hWd1VHRXphWFpCWVhST09UQjBkWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBNb25zdGVyIiwibGluayI6Imh0dHBzOi8vd3d3Lm1vbnN0ZXIuY29tL2pvYi1vcGVuaW5ncy9kYXRhLXNjaWVudGlzdC1uYXR1cmFsLWxhbmd1YWdlLXByb2Nlc3NpbmctbmxwLWRhbGxhcy10eC0tMzk4MjZiMzYtYjc5Yy00ZDFiLTk4MmItY2ZlMGIzZDBiNTU5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Research Intern - Deep Learning & Natural Language Processing",
+            "company_name": "Microsoft",
+            "location": "  Redmond, WA   ",
+            "via": "via Microsoft Careers",
+            "description": "Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized scientists and engineers. Our researchers and engineers pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including computing, healthcare, economics, and the environment.\n\nIn recent years, the AI landscape has been transformed by the emergence of large-scale pre-trained models. The advances of such models truly transform what\u2019s possible in terms of performance, capabilities, and applications. However, it also introduces challenges in energy consumption, adapting the models to new tasks and changing environments, and ensuring that the AI we develop helps people accomplish their goals.\n\nOur research is focused on two interconnected aims\u2014 motivated by the practical challenges presented by large-scale AI and inspired by the amazing things that our human intelligence... does so well:\n\nAdaptability:We strive to develop AI that is adaptable across a broad range of previously unseen environments and tasks and developing methods for interacting with AI models to achieve outcomes that match our intent.\n\nEfficiency: Scale has been enabling the models to reach new heights in capabilities but also made them expensive to use and deploy. We aim to create AI systems that can smoothly scale to fit any computational footprint, from the cloud to the edge.\n\nWe are seeking candidates for several internship positions with experience in natural language processing and deep learning. We are specifically interested in areas related but not limited to model compression, neural architecture search, prompt engineering, multitask learning and instruction-based learning. Our research internships tackle challenging research problems with the aim of publishing the results in top tier machine learning and natural language processing venues",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized scientists and engineers. Our researchers and engineers pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including computing, healthcare, economics, and the environment.\n\nIn recent years, the AI landscape has been transformed by the emergence of large-scale pre-trained models. The advances of such models truly transform what\u2019s possible in terms of performance, capabilities, and applications. However, it also introduces challenges in energy consumption, adapting the models to new tasks and changing environments, and ensuring that the AI we develop helps people accomplish their goals.\n\nOur research is focused on two interconnected aims\u2014 motivated by the practical challenges presented by large-scale AI and inspired by the amazing things that our human intelligence... does so well:\n\nAdaptability:We strive to develop AI that is adaptable across a broad range of previously unseen environments and tasks and developing methods for interacting with AI models to achieve outcomes that match our intent.\n\nEfficiency: Scale has been enabling the models to reach new heights in capabilities but also made them expensive to use and deploy. We aim to create AI systems that can smoothly scale to fit any computational footprint, from the cloud to the edge.\n\nWe are seeking candidates for several internship positions with experience in natural language processing and deep learning. We are specifically interested in areas related but not limited to model compression, neural architecture search, prompt engineering, multitask learning and instruction-based learning. Our research internships tackle challenging research problems with the aim of publishing the results in top tier machine learning and natural language processing venues"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.microsoft.com/",
+                    "text": "microsoft.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Microsoft&sa=X&ved=0ahUKEwim7Mb37bH-AhWjEGIAHWmVDOoQmJACCJQO",
+                    "text": "See web results for Microsoft"
+                }
+            ],
+            "extensions": [
+                "Internship"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Internship"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBJbnRlcm4gLSBEZWVwIExlYXJuaW5nIFx1MDAyNiBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmciLCJodGlkb2NpZCI6IlpvczlRa1gxLUZVQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVWek4ycE9WRzVPZEdRd2FGaHBPVWczYWpWUWVGTk5RMVJNTTJKQlUzRnFSSEV5TmpjMGNuQm1NRXRmTm05eE4xUXhlbEpWVG1saVdWWnBPRGRoU0cwMlZsODNNMmMyZG5abk1UaEZXVWRRYnpkcVdEUktkVXBJV2kxdVVpMHlUMlJ2VFdsWldtcDNXa2c0UTJWUVJtdHJPRkJ3TmtWWlFUaHlSRkJMTkc1SWRYZ3RTVTFrUVVneFdHdzViMUJaTTBaNlFXcEhaVE5XWWtwNlJGcFRXbXRmYms5dVp6QlNhbGxqYWs5alN6QnBlRGxtUW1ScFREWk5RVEZmWTI5ek5IaE5OWGRoV0VFd2JrODJPVzVLV1VOSlIwcGljRU5qWXpKeVRHNXRjMmd0VkRnMmRYcEpjRXBxYlZNMFpUSkRaV1JYVXkxdlp4SVhMVXhyT1ZwTFlWRktZVTlvYVV4TlVEWmhjWGt3UVRRYUlrRlBMVEJ5YkRkdFlUVlRMVmhHT1haV1lVeDZOREZFWjFGRlF6TmpjVWhqUlVFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTWljcm9zb2Z0IENhcmVlcnMiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLm1pY3Jvc29mdC5jb20vc3R1ZGVudHMvdXMvZW4vam9iLzE0ODgxNzUvUmVzZWFyY2gtSW50ZXJuLURlZXAtTGVhcm5pbmctTmF0dXJhbC1MYW5ndWFnZS1Qcm9jZXNzaW5nP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Technical leader",
+                    "value": "technical leader"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Processing engineer",
+                    "value": "processing engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Research associate",
+                    "value": "research associate"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Analytics manager",
+                    "value": "analytics manager"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Engineering manager",
+                    "value": "engineering manager"
+                },
+                {
+                    "text": "Executive director",
+                    "value": "executive director"
+                },
+                {
+                    "text": "Group leader",
+                    "value": "group leader"
+                },
+                {
+                    "text": "Ops engineer",
+                    "value": "ops engineer"
+                },
+                {
+                    "text": "Processing specialist",
+                    "value": "processing specialist"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Professor",
+                    "value": "professor"
+                },
+                {
+                    "text": "Program manager",
+                    "value": "program manager"
+                },
+                {
+                    "text": "Programmer",
+                    "value": "programmer"
+                },
+                {
+                    "text": "Research specialist",
+                    "value": "research specialist"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Sr. manager",
+                    "value": "sr. manager"
+                },
+                {
+                    "text": "Staff engineer",
+                    "value": "staff engineer"
+                },
+                {
+                    "text": "Staff scientist",
+                    "value": "staff scientist"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Redmond, WA",
+                    "value": "I-4AIK0MkFTyBNjF6pADXg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Lexington, MA",
+                    "value": "y1hS39qd44nNEzYWyIU2hQ=="
+                },
+                {
+                    "text": "Madrid, AL",
+                    "value": "xdaOCKnvkohAZJY-Rp0BBw=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "Sacramento, CA",
+                    "value": "-ZeDsnLGmoDbfxl0qmofkg=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Sunnyvale, CA",
+                    "value": "O13QqUW2j4Ciw3zdJvuNdg=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Ann Arbor, MI",
+                    "value": "Mx9D1A2wPIjitciGRvkJ2w=="
+                },
+                {
+                    "text": "Arlington, TX",
+                    "value": "05gI5NJiToZRU6AfrPZeCw=="
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Berkeley, CA",
+                    "value": "00mFOjZ5hYCT6XWmlRXqlA=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Chevy Chase, MD",
+                    "value": "DxpmGHLJt4meDebirKhC0A=="
+                },
+                {
+                    "text": "Clearwater, FL",
+                    "value": "Gbt04v3xwoj7kjzS0d-pdQ=="
+                },
+                {
+                    "text": "Cleveland, OH",
+                    "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+                },
+                {
+                    "text": "Columbus, OH",
+                    "value": "cd6QucGJOIgztbHP-GYy5A=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Garland, TX",
+                    "value": "dcJf28EDTIbQPGI4y70fBw=="
+                },
+                {
+                    "text": "Honolulu, HI",
+                    "value": "TUbDjDsYAHxsl6fzX_UoSw=="
+                },
+                {
+                    "text": "Houston, TX",
+                    "value": "AYWNSLS4QIY7BWXz3gINyg=="
+                },
+                {
+                    "text": "Indiana, PA",
+                    "value": "L7Xug9hay4kfolMAPyL_ZQ=="
+                },
+                {
+                    "text": "Indianapolis, IN",
+                    "value": "A2p5p_9Qa4h86rlA9p2O1g=="
+                },
+                {
+                    "text": "Irvine, CA",
+                    "value": "40CRaA7d3IA5mkpgdbV6pw=="
+                },
+                {
+                    "text": "Los Altos, CA",
+                    "value": "z0bVI-Gwj4D8pmXWXRgFZQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Miami, FL",
+                    "value": "EcHIDqKw2YhlT63dcfKW_w=="
+                },
+                {
+                    "text": "Montreal, MO",
+                    "value": "QSOJBMfXxIdq2pmJGJwBnw=="
+                },
+                {
+                    "text": "Nashville, TN",
+                    "value": "PZDrEzLsZIig2umh0Lk_fQ=="
+                },
+                {
+                    "text": "Newark, NJ",
+                    "value": "HQ6aMnBTwolz5P7cKty84Q=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Kitware",
+                    "value": "/m/02ppksq"
+                },
+                {
+                    "text": "Leidos",
+                    "value": "/m/01h2kg"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Multiplan",
+                    "value": "/g/1dt_x5k2"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "FuseMachines",
+                    "value": "/g/11g9n3hrsf"
+                },
+                {
+                    "text": "IBM",
+                    "value": "/m/03sc8"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "MIT Lincoln Laboratory",
+                    "value": "/m/02zby3"
+                },
+                {
+                    "text": "Robert Bosch",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "SRI International",
+                    "value": "/m/02fpms"
+                },
+                {
+                    "text": "Snap Inc.",
+                    "value": "/g/11c1s2xz66"
+                },
+                {
+                    "text": "ASAPP",
+                    "value": "/g/11f01jwrr9"
+                },
+                {
+                    "text": "Advanced Software Talent",
+                    "value": "/g/11c73q5twk"
+                },
+                {
+                    "text": "Amazon.com, Inc",
+                    "value": "/m/0mgkg"
+                },
+                {
+                    "text": "Avispa Technology",
+                    "value": "/g/11h1y7_gl0"
+                },
+                {
+                    "text": "Bank of America",
+                    "value": "/m/01yx7f"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                },
+                {
+                    "text": "Brain Technologies, Inc.",
+                    "value": "/g/11g7092p_9"
+                },
+                {
+                    "text": "Bytedance",
+                    "value": "/g/11ghnfr0sv"
+                },
+                {
+                    "text": "Charles River Analytics",
+                    "value": "/g/11fy1sf75z"
+                },
+                {
+                    "text": "Charter Communications",
+                    "value": "/m/05c51w"
+                },
+                {
+                    "text": "Chime",
+                    "value": "/g/11fy2dc0l8"
+                },
+                {
+                    "text": "Cigna",
+                    "value": "/m/02twsr"
+                },
+                {
+                    "text": "Conversica, Inc",
+                    "value": "/g/11h59s3sw3"
+                },
+                {
+                    "text": "Dana\u2013Farber Cancer Institute",
+                    "value": "/g/11c3wvtg8j"
+                },
+                {
+                    "text": "Degreed",
+                    "value": "/m/0134cqfs"
+                },
+                {
+                    "text": "Federal Reserve Bank (FRB)",
+                    "value": "/m/02xmb"
+                },
+                {
+                    "text": "Google",
+                    "value": "/m/045c7b"
+                },
+                {
+                    "text": "Government Employees Insurance Company - GEICO",
+                    "value": "/m/02r95v"
+                },
+                {
+                    "text": "HelloFresh SE",
+                    "value": "/g/12214p7ws"
+                },
+                {
+                    "text": "JPMorgan Chase & Co.",
+                    "value": "/m/01hlwv"
+                },
+                {
+                    "text": "JPMorgan Chase Bank, N.A.",
+                    "value": "/m/0221wv"
+                }
+            ]
+        }
+    ]
+}

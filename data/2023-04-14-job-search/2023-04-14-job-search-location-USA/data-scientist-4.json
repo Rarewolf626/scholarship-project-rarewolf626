@@ -1,0 +1,1234 @@
+{
+    "search_metadata": {
+        "id": "643db97e5fc493f4ef82a469",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a980517c7e93b15a/643db97e5fc493f4ef82a469.json",
+        "created_at": "2023-04-17 21:26:22 UTC",
+        "processed_at": "2023-04-17 21:26:22 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=data+scientist&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=40",
+        "raw_html_file": "https://serpapi.com/searches/a980517c7e93b15a/643db97e5fc493f4ef82a469.html",
+        "total_time_taken": 1.84
+    },
+    "search_parameters": {
+        "q": "data scientist",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 40
+    },
+    "jobs_results": [
+        {
+            "title": "Sr. Data Scientist (NLP)",
+            "company_name": "MCKESSON",
+            "location": "  Texas   ",
+            "via": "via Jobs At MCKESSON",
+            "description": "Ontada is a leading oncology real-world data and evidence, clinical education and provider technology business dedicated to transforming the fight against cancer. Part of McKesson Corporation, we support science through our data, technology, and channels, which accelerate innovation for life science companies, support the education of community oncology providers and advance patient care... Together with our partners, we improve the lives of cancer patients.\n\nPosition Summary\n\nWe are looking for an experienced Senior Natural Language Processing (NLP) Data Scientist with strong technical skills. The Senior NLP Data Scientist is involved in the full lifecycle of data solutions, from data engineering, modeling, operationalizing, presentation, and maintenance. It is the ideal opportunity to become part of an innovative and energetic team developing insights to advance oncology care.\n\nKey Responsibilities:\n\u2022 Collaborate with product management, product owners and engineering departments to understand business needs and devise solutions.\n\u2022 Work closely with analysts, data warehousing, and data engineering teams in creating big data applications through the utilization of structured and unstructured data, designing, and developing optimal data architectures, and experimenting on new ML techniques\n\u2022 Communicate process, requirements, assumptions and caveats of advanced ML and NLP concepts and deliverables in laymen languages to non-technical business leaders\n\u2022 Research and prototype NLP-based solutions by utilizing data sources such as genomics, medical imaging, and speech-to-text outputs from healthcare technologies such as Nuance's Dragon suite.\n\nTechnical responsibilities\n\u2022 Develop ML NLP models from unstructured healthcare data such as provider notes, EMR attached documentation, etc\n\u2022 Maintain and enhance Optical Character Recognition (OCR) support for running NLP on scanned healthcare documents\n\u2022 Participate in the full lifecycle of end-to-end NLP and OCR solutions, from planning, designing, technical implementation, deployment, validation, support, and maintenance\n\u2022 Handle data engineering tasks using Python, PySpark, and Pandas.\n\u2022 Make use of state-of-the-art NLP model architectures such as BERT (and derivatives like BioBERT, RoBERTa, etc.), BiLSTM, and XLNet in NLP pipelines.\n\u2022 Design, implement, deploy, and maintain deep learning and ML models using cloud technologies (e.g., Azure Databricks)\n\u2022 Provide mentorship and guidance to junior team members in areas of technical and professional development\n\u2022 Develop creative solutions for diverse problems including unstructured data, ontology development, and ML applications\n\u2022 Evaluate new technologies and tools prior to wider adoption\n\nMinimum Requirements\n\u2022 A degree in a quantitative field such as Statistics, Machine Learning, Mathematics, Computer Science, Economics, Epidemiology or any other related field (Master\u2019s Degree or higher preferred)\n\u2022 5+ years of industry experience in ML and/or data science roles in healthcare\n\nAdditional Critical Skills\n\u2022 Proficient in big data technologies such as Hadoop, or Spark\n\u2022 Deep understanding of NLP tools and frameworks such as Spark NLP, spaCy, HuggingFace, Flair, NLTK, etc\n\u2022 Deep understanding of various machine learning/deep learning algorithms, including supervised, unsupervised, and reinforcement learning methods.\n\u2022 Proficient in OCR technologies such as Tesseract\n\u2022 Development and ML experience in cloud platforms such as Microsoft Azure\n\nAt McKesson, we care about the well-being of the patients and communities we serve, and that starts with caring for our people. That\u2019s why we have a Total Rewards package that includes comprehensive benefits to support physical, mental, and financial well-being. Our Total Rewards offerings serve the different needs of our diverse employee population and ensure they are the healthiest versions of themselves. For more information regarding benefits at McKesson, please click here.\n\nAs part of Total Rewards, we are proud to offer a competitive compensation package at McKesson. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered.\n\nOur Base Pay Range for this position\n\n$117,500 - $195,800\n\nMcKesson is an Equal Opportunity/Affirmative Action employer.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.Qualified applicants will not be disqualified from consideration for employment based upon criminal history.\n\nMcKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to Disability_Accommodation@McKesson.com. Resumes or CVs submitted to this email box will not be accepted.\n\nCurrent employees must apply through the internal career site.\n\nJoin us at McKesson",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of industry experience in ML and/or data science roles in healthcare",
+                        "Additional Critical Skills",
+                        "Proficient in big data technologies such as Hadoop, or Spark",
+                        "Deep understanding of NLP tools and frameworks such as Spark NLP, spaCy, HuggingFace, Flair, NLTK, etc",
+                        "Deep understanding of various machine learning/deep learning algorithms, including supervised, unsupervised, and reinforcement learning methods",
+                        "Proficient in OCR technologies such as Tesseract",
+                        "Development and ML experience in cloud platforms such as Microsoft Azure"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Collaborate with product management, product owners and engineering departments to understand business needs and devise solutions",
+                        "Work closely with analysts, data warehousing, and data engineering teams in creating big data applications through the utilization of structured and unstructured data, designing, and developing optimal data architectures, and experimenting on new ML techniques",
+                        "Communicate process, requirements, assumptions and caveats of advanced ML and NLP concepts and deliverables in laymen languages to non-technical business leaders",
+                        "Research and prototype NLP-based solutions by utilizing data sources such as genomics, medical imaging, and speech-to-text outputs from healthcare technologies such as Nuance's Dragon suite",
+                        "Develop ML NLP models from unstructured healthcare data such as provider notes, EMR attached documentation, etc",
+                        "Maintain and enhance Optical Character Recognition (OCR) support for running NLP on scanned healthcare documents",
+                        "Participate in the full lifecycle of end-to-end NLP and OCR solutions, from planning, designing, technical implementation, deployment, validation, support, and maintenance",
+                        "Handle data engineering tasks using Python, PySpark, and Pandas",
+                        "Make use of state-of-the-art NLP model architectures such as BERT (and derivatives like BioBERT, RoBERTa, etc.), BiLSTM, and XLNet in NLP pipelines",
+                        "Design, implement, deploy, and maintain deep learning and ML models using cloud technologies (e.g., Azure Databricks)",
+                        "Provide mentorship and guidance to junior team members in areas of technical and professional development",
+                        "Develop creative solutions for diverse problems including unstructured data, ontology development, and ML applications",
+                        "Evaluate new technologies and tools prior to wider adoption"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "As part of Total Rewards, we are proud to offer a competitive compensation package at McKesson",
+                        "In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered",
+                        "Our Base Pay Range for this position",
+                        "$117,500 - $195,800"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.mckesson.com/",
+                    "text": "mckesson.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=MCKESSON&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAIIzwk",
+                    "text": "See web results for MCKESSON"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBTY2llbnRpc3QgKE5MUCkiLCJodGlkb2NpZCI6Img1YmRlTE9lWlZFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VbDlQU0RWeFozWlpXa1ZYWTBoSFVHZGhRbU5LUjBsZmJsTnllRVEyTWtVMmJYbFpRalkwZDB0aVVXVmxkbEJRY0RkRVUwWm1UVFZwVVRaUmJFdEZXamhTZVdsNWFIUXpTRlpvVm01aFpWbGhNRkJhYVVoVlZGcHJTRjlhVlZsZmEyeHljemwyZVhWb2VsbFFUVTlDUmxWQlpHVkJjMkZXU0V0YVFrOHlkRE13TkZGcFVXbHFaVkZ0YUhoVFgyUjJXVlpGTUZWV2RDMTNkRE5mTjIxR2FETTJjVWxpU0RKRlpGVk5ZUzFHYldkSkVoZG1jbXM1V2xCVFYwODFWR3cxVG05UU5tUTJkREJCTUJvaVFVOHRNSEpzTmpoNVpYWlVTV3B6TFZsbGVsaEtNekZMZWpCRlpXeDZibGx1VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIEpvYnMgQXQgTUNLRVNTT04iLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLm1ja2Vzc29uLmNvbS9qb2IvdGV4YXMvc3ItZGF0YS1zY2llbnRpc3QtbmxwLzczMy80NTExMDc4OTYzMj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Sr Dir Data Science & Analytics",
+            "company_name": "Northwestern Mutual",
+            "location": "  Milwaukee, WI   ",
+            "via": "via Northwestern Mutual Careers",
+            "description": "At Northwestern Mutual, we are strong, innovative and growing. We invest in our people. We care and make a positive difference.\n\nWe're strong and growing. In a company with such a long and storied history, this may be the most exciting and important time to be a part of Northwestern Mutual...\n\nWe invest in our people. We provide opportunities for employees to grow themselves, their career and in turn, our business.\n\nWe care. We make a positive difference in our communities. Nationally, thousands have benefitted from our support of research and programs to fight childhood cancer. Each year, our Foundation, employees and financial representatives donate time, talent and financial support to causes they're passionate about.\n\nAt Northwestern Mutual, we believe relationships are built on trust. That our lives and our work matter. These beliefs launched our company nearly 160 years ago. Today, they're just a few of the reasons why people choose to build careers at Northwestern Mutual.\n\nPrimary Duties & Responsibilities:\n\nProvides leadership and direction to analytics teams to provide quantitative and qualitative data analysis and reporting of patterns, insights, and trends to decision-makers in order to drive business decisions and address business questions\n\nAccountable for the performance and results of one or more teams or groupings of work and ensures that work across multiple initiatives is aligned to department and enterprise priorities\n\nLeads the strategy and development of high impact solutions in the enterprise\n\nOrganizes talent and manage budgets for optimal results\n\nEstablishes business aligned goals and lead the division to meet goals\n\nTakes initiatives to anticipate opportunities, propose new initiatives, develop partner roadmaps, and strengthen partner relationships\n\nPartners with senior leaders on strategic/tactical plans based on business data and market knowledge\n\nUtilizes analytics and metrics to improve processes and provide data-driven forecasts that impact the business (costs, risks, etc)\n\nContributes to development and execution of strategy for the data science and analytics teams to achieve key business objectives\n\nDelivers results, insights and recommendations (written, verbal, presentations, etc) to Sr. enterprise leaders to support strategic business decisions\n\nContributes to the growth & development of the NMDSI, to foster internal and external partnerships\n\nPartners with senior leaders on strategic/tactical plans based on business data and market knowledge\n\nReview & collaborate on creation & development of KPI frameworks\n\nUtilizes analytics and metrics to improve processes and provide data-driven forecasts that impact the business (costs, risks, etc)\n\nLead data science teams to apply and integrate advanced statistical, mathematical, data mining, predictive modeling and business analysis skills and techniques\n\nAccess, gather, and analyze data from multiple internal and external sources to drive insights into the most complex business problems, decisions, and performance\n\nUtilizes forecasts, reports, dashboards, etc. to tell a story through data\n\nLeads others in production of actionable reports that show key performance indicators, identify areas of improvement into current operations, display root cause analysis of problems, and recommend solutions.\n\nCoordinates with analysts on ensuring visualization & design strategies are considered & applied\n\nRecognized as an expert in the industry and shares best practices with peers through coaching and mentoring\n\nApplies new perspectives, creative problem solving, and inter-departmental connections to improve enterprise-wide analytical capabilities\n\nLeads value driven work that drives business outcomes; places the user in the center of decision making; and collaborates with team for speed, agility and innovation in work\n\nMonitor team performance and results through quantitative and qualitative measures of value, outcome, velocity, engagement, and satisfaction\n\nFosters an environment of continuous learning, curiosity, and ambiguity\n\nDevelop and grow the team(s) through training, mentoring, and coaching while also supplementing staff as needed\n\nOccasionally represents Northwestern Mutual and shares thought leadership at industry conferences\n\nKnowledge, Skills, Abilities:\n\nMaster\u2019s degree in Data Science, Statistics, Mathematics, Operations Research, Computer Science, Econometrics or related field; PhD degree preferred in one of those fields\n\n9-14 years of professional experience\n\nAt least 9 years of professional data science or analytics experience\n\n5+ years of experience managing, building and deploying analytics & data science\n\nBusiness Analysis skills to understand business processes and data flow\n\nAbility to inject data to solve business problems\n\nDevelop KPI Frameworks\n\nLead and manage to key business deliverables\n\nDrive out strategy and thought leadership jointly with the senior level business partners\n\nUnderstands relationship between data science, business processes, and KPI's\n\nIdentifies when to bring in additional resources & partners\n\nAbility to manage and lead analysts & data scientists\n\nProven ability to build rapport, negotiate, gain the confidence and work successfully with business leaders across the company\n\nProven ability to lead decision making process through idea sharing and consensus building\n\nExperience in coaching/mentoring staff members\n\nProven track record in meeting aggressive deadlines\n\nExperience prioritizing tasks across multiple projects to select the highest value outcomes for the company\n\nCompensation Range:\n\nPay Range - Start:\n\n$143,360.00\n\nPay Range - End:\n\n$204,800.00\n\nPlease note that this is the standard pay structure. Positions in certain locations (such as California) may provide an increase on the standard pay structure based on the location. Pleas e click here for additi onal information relating to location-based pay structures.\n\nGrow your career with a best-in-class company that puts our client\u2019s interests at the center of all we do. Get started now!\n\nWe are an equal opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender identity or expression, sexual orientation, national origin, disability, age or status as a protected veteran, or any other characteristic protected by law.\n\nIf you work or would be working in California, Colorado, New York City, Washington or outside of a Corporate location, please click here for information pertaining to compensation and benefits",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Recognized as an expert in the industry and shares best practices with peers through coaching and mentoring",
+                        "9-14 years of professional experience",
+                        "At least 9 years of professional data science or analytics experience",
+                        "5+ years of experience managing, building and deploying analytics & data science",
+                        "Business Analysis skills to understand business processes and data flow",
+                        "Proven ability to build rapport, negotiate, gain the confidence and work successfully with business leaders across the company",
+                        "Proven ability to lead decision making process through idea sharing and consensus building",
+                        "Experience in coaching/mentoring staff members",
+                        "Proven track record in meeting aggressive deadlines"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Provides leadership and direction to analytics teams to provide quantitative and qualitative data analysis and reporting of patterns, insights, and trends to decision-makers in order to drive business decisions and address business questions",
+                        "Accountable for the performance and results of one or more teams or groupings of work and ensures that work across multiple initiatives is aligned to department and enterprise priorities",
+                        "Leads the strategy and development of high impact solutions in the enterprise",
+                        "Organizes talent and manage budgets for optimal results",
+                        "Establishes business aligned goals and lead the division to meet goals",
+                        "Takes initiatives to anticipate opportunities, propose new initiatives, develop partner roadmaps, and strengthen partner relationships",
+                        "Partners with senior leaders on strategic/tactical plans based on business data and market knowledge",
+                        "Utilizes analytics and metrics to improve processes and provide data-driven forecasts that impact the business (costs, risks, etc)",
+                        "Contributes to development and execution of strategy for the data science and analytics teams to achieve key business objectives",
+                        "Delivers results, insights and recommendations (written, verbal, presentations, etc) to Sr. enterprise leaders to support strategic business decisions",
+                        "Contributes to the growth & development of the NMDSI, to foster internal and external partnerships",
+                        "Review & collaborate on creation & development of KPI frameworks",
+                        "Lead data science teams to apply and integrate advanced statistical, mathematical, data mining, predictive modeling and business analysis skills and techniques",
+                        "Access, gather, and analyze data from multiple internal and external sources to drive insights into the most complex business problems, decisions, and performance",
+                        "Utilizes forecasts, reports, dashboards, etc",
+                        "to tell a story through data",
+                        "Leads others in production of actionable reports that show key performance indicators, identify areas of improvement into current operations, display root cause analysis of problems, and recommend solutions",
+                        "Coordinates with analysts on ensuring visualization & design strategies are considered & applied",
+                        "Leads value driven work that drives business outcomes; places the user in the center of decision making; and collaborates with team for speed, agility and innovation in work",
+                        "Monitor team performance and results through quantitative and qualitative measures of value, outcome, velocity, engagement, and satisfaction",
+                        "Fosters an environment of continuous learning, curiosity, and ambiguity",
+                        "Develop and grow the team(s) through training, mentoring, and coaching while also supplementing staff as needed",
+                        "Occasionally represents Northwestern Mutual and shares thought leadership at industry conferences",
+                        "Lead and manage to key business deliverables",
+                        "Drive out strategy and thought leadership jointly with the senior level business partners",
+                        "Understands relationship between data science, business processes, and KPI's",
+                        "Identifies when to bring in additional resources & partners"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$143,360.00",
+                        "$204,800.00"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Northwestern+Mutual&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAIIkAo",
+                    "text": "See web results for Northwestern Mutual"
+                }
+            ],
+            "extensions": [
+                "21 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "21 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBEaXIgRGF0YSBTY2llbmNlIFx1MDAyNiBBbmFseXRpY3MiLCJodGlkb2NpZCI6IkJhXzZlZ0FycjJNQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VbkZGWlRWUmJFcHZjWEpTTFZsVU5EaDVNSEJMVTJwVFpteFJVM2hxVFZGMlNIQmtaREF4Y1hoWFV6WkNNa1p5WHpKS05VaEZRVVZTWW5Fd1RGUk5MWEEzWm1Wb1V6VnZSR05qZGpkYVNGbEphbGxXVHpaVE1qQm1UWFpYVmxSTGNrUm5URVJaYkVoTmR6aHRVRE5QTmtSNFdWbEZYMmxuYW1GaVZVZGFkbmhNY0V0ZmNuZEJhbDlRYlZKRE1saHVMV3RDVkZjMFYxSnZNMGhZUm5BMlEwTjZaR28xVEdsRFYwUkNWWEJHY25OVmMzQkhSbGhtYVVKWE1tOXFVSFJXYUhkc1IyVlBPV0ZqUzI5RU9VWktTMkpsZFRKNFdYRlJOMWcxZHhJWFpuSnJPVnBRVTFkUE5WUnNOVTV2VURaa05uUXdRVEFhSWtGUExUQnliRFowT0doNlRURlZSVTlqVW01c05UTllXVlUzZFRsVUxYSkZRV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE5vcnRod2VzdGVybiBNdXR1YWwgQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMubm9ydGh3ZXN0ZXJubXV0dWFsLmNvbS9jb3Jwb3JhdGUtY2FyZWVycy9qb2Ivc3ItZGlyLWRhdGEtc2NpZW5jZS1hbmFseXRpY3MtbWlsd2F1a2VlLXdpLWNvcnBvcmF0ZS1qci0zNzMyMi8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Scientist Senior",
+            "company_name": "CHRISTUS Health",
+            "location": "  Irving, TX   ",
+            "via": "via Christus Health Careers",
+            "description": "Summary:\n\nThe Data Scientist Senior is responsible for discovering information hidden in vast amounts of data through design, development and implementation of optimal Prescriptive, Predictive and Descriptive analytics solutions. Individual must have extensive knowledge of Statistical Models, Data Mining, Machine Learning and proven experience in building custom algorithms to deliver insights... Individual must have proven programming competency in advanced Data Science toolkits such as SAS. The Data Scientist III is also responsible for supporting the business goals and objectives for the Performance Improvement and Workforce Planning Department, the Human Resources vertical and the organization as a whole.\n\u2022 Provides technical development expertise for designing, coding, testing, debugging, documenting, and supporting all types of applications consistent with the established specifications and business requirements in order to deliver business value\n\u2022 Contributes to the execution of CHRISTUS' overall information systems strategy as it pertains to their vision of the organization in both strategic and tactical plans\n\u2022 Involved in team adoption, execution and integration of strategy to achieve optimal and efficient delivery\n\u2022 Involved in the evaluation of proposed system acquisitions or solutions development and provides input to the decision-making process relative to compatibility, cost, resource requirements, operations, and maintenance\n\u2022 Integrates software components, subsystems, facilities and services into the existing technical systems environment; assesses impact on other systems, and works with cross functional teams within information management to ensure positive project impact\n\u2022 Installs, configures, and verifies the operation of software components\n\nRequirements:\n\u2022 Master's Degree\n\nWork Type:\n\nFull Time",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Individual must have extensive knowledge of Statistical Models, Data Mining, Machine Learning and proven experience in building custom algorithms to deliver insights",
+                        "Individual must have proven programming competency in advanced Data Science toolkits such as SAS",
+                        "Master's Degree"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Data Scientist Senior is responsible for discovering information hidden in vast amounts of data through design, development and implementation of optimal Prescriptive, Predictive and Descriptive analytics solutions",
+                        "Provides technical development expertise for designing, coding, testing, debugging, documenting, and supporting all types of applications consistent with the established specifications and business requirements in order to deliver business value",
+                        "Contributes to the execution of CHRISTUS' overall information systems strategy as it pertains to their vision of the organization in both strategic and tactical plans",
+                        "Involved in team adoption, execution and integration of strategy to achieve optimal and efficient delivery",
+                        "Involved in the evaluation of proposed system acquisitions or solutions development and provides input to the decision-making process relative to compatibility, cost, resource requirements, operations, and maintenance",
+                        "Integrates software components, subsystems, facilities and services into the existing technical systems environment; assesses impact on other systems, and works with cross functional teams within information management to ensure positive project impact",
+                        "Installs, configures, and verifies the operation of software components"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.christushealth.org/",
+                    "text": "christushealth.org"
+                },
+                {
+                    "link": "https://www.google.com/search?q=CHRISTUS+Health&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAII0Ao",
+                    "text": "See web results for CHRISTUS Health"
+                }
+            ],
+            "extensions": [
+                "28 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "28 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBTZW5pb3IiLCJodGlkb2NpZCI6IlMyZk9SNkZXbEcwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9WRzVsTUhWRFZIVk1hamRVUjJaS1JISkRWRFozV1RCc2NVcHVhVWxPWjJKeFVXbEpZVUZOVDBOS2RHZHZaVXRNWXkxdWVWaGZPRWxETkRsblNFdHJhR3BVT1U5TlJsVndXVGh1VkdsZk1qaFVVMjVQZFZRMlUwODBTMlpEVUROcmJISkVRbkJsTTFwVldsSllOR3ByYW1oTVlUbDJUVFJEV1dsaVpHUnZkVGhITWxCdlFrdDBhRWd5UWtac2RFOU9TbEJyYlRGNE1qazJYMnd6YVRrd1VHSkNTamRsY0ZOSmVXVndORmh0ZEZCTkVoZG1jbXM1V2xCVFYwODFWR3cxVG05UU5tUTJkREJCTUJvaVFVOHRNSEpzTmsxeFNFMDJiemxWUzNwb2RYbGlNbVYzV0ZabU1UVTVhbm93ZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENocmlzdHVzIEhlYWx0aCBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5jaHJpc3R1c2hlYWx0aC5vcmcvam9iLWRldGFpbHMvZGF0YS1zY2llbnRpc3Qtc2VuaW9yLTEwODA2MzAzLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Director, Global Demand Data Scientist Lead",
+            "company_name": "7Z4 Pfizer, Inc.",
+            "location": " Anywhere ",
+            "via": "via Workday",
+            "description": "Why Patients Need You Our manufacturing logistics and supply team makes sure that customers and patients have the medicines they need, when they need them. You will help bring medicines to the world even faster by embracing challenges, imagining what\u2019s possible and taking action. What You Will Achieve You will lead the innovation, design, implementation and life cycle management of all data science and analytics solutions across capability owners aimed at leveraging technology and automation to implement intelligent demand flow through the Pfizer Global Supply (PGS) network. In this role, you will be responsible for leading a team focusing on designing new analytical solutions to support data driven forecasting decisions, training and deploying new generation Machine Learning algorithms for high quality predictions and for exploration of new cutting-edge technologies toward a truly Demand-Driven Supply Chain. This includes the design, development, implementation and sustainment of... innovative solutions aimed at automation of the following: Performance visibility and improvement opportunity identification Root cause identification Corrective action proposal Corrective action implementation and execution Performance monitoring and refinement As the Director, Global Demand Data Scientist Lead, you have broad and deep leadership responsibilities for the items listed above ranging from leading a team detailed on data science and engineering activities to senior management alignment and solution approval. It is your problem-solving ability and leadership that will help us find solutions to develop breakthroughs that will change patients\u2019 lives. How You Will Achieve It Lead a team of citizen data scientists and data engineer supporting implementation of the new central statistical forecasting working model Partner with the demand analytics team and develop new models and tools meeting the requirements Lead initiatives in deployment of the new generation Machine Learning models, design of demand analysis tools to get better value of data, exploration of internal and external data sources, designing demand analytics visualizations to provide new insights and experimentation of automation to improve efficiency in demand planning Lead initiatives in experimentation and operationalization of AI in demand space leveraging new DataOps and MLOps platform solutions Lead the simulation, design, and implementation of new data science elements of SAP IBP collaborating with Demand Analysts, SMEs and Digital teams Develop strong partnerships with relevant stakeholders at all levels of the Global Supply Chain organization to drive business process and analytical understanding, corrective action, implementation, and sustainability of supporting Digital applications. Drive experimentation and innovation within PGS to further advance PGS\u2019s goal of creating a data-driven and analytical culture. Translate and influence business and functional solution requirements with Supply Chain and PGS stakeholders. Lead ad hoc projects designed to address specific Supply Chain business needs as well as investigating and building the next generation of analytic capabilities including the development and implementation of unique models and applications that help predict outcomes and prescribe mitigation actions. Qualifications Must-Have Bachelor\u2019s Degree in Computer Science or related field with 7 years of experience in Data Science, Analytics or related field is required. Data analysis experience with heterogeneous data types and familiarity of big data, analytics and/or data mining environments (in operations, manufacturing or supply chain preferred). 5+ years of programming experience with one or more analytics tools (SQL, Python, R or SAS). 3+ years with a data visualization tool (e.gs., R, Spotfire, Tableau). 5+ years of Project management experience required, supply chain or project management certifications a plus. (CPIM, CSCP, PMP, etc.). Demonstrated ability to manage large scale strategic projects. Machine Learning and predictive modeling skills: Ability to design, deploy and maintain models to predict future outcomes using data that is often incomplete and/or imperfect and contained in disparate sources. Statistical analysis: Ability to understand and improve possible limitations in models. Hypothesis testing: In collaboration with demand analysts, able to develop hypotheses and test them. Demonstrated capabilities in analyzing heterogeneous datasets; ability to identify trends, identify outliers and find patterns. Demonstrated experience in accessing and analyzing different types of data used for demand forecasting. Demonstrated experience in leading data science teams and multi-stakeholder projects. Successful candidate must possess excellent oral and written communication skills, interpersonal skills, analytical thinking, and project management skills. Must have strong customer service and total data quality orientation. Must be able to work both independently and in a team environment with limited direction to complete work assignments accurately and on time, including prioritizing multiple requests for competing projects along with day-to-day customer support. Ability to work in a complex matrix organization with strong teamwork orientation required. Ability to work effectively in an environment of competing priorities and deadlines. Proven experience in providing innovative solutions to unusually complex projects/situations. Nice-to-Have Advanced degree or MBA preferred. Non-Standard Work Schedule, Travel, or Environment Requirements Some travel will be expected, estimated 10 to 30% Could travel to global destinations across EMEA / APAC / Americas Regular visits to center locations (NYO, Peapack, Collegeville, etc.) Ability to communicate across regions, countries, cultures, and time zones. Due to the global nature of this role, will require periodic, sometimes frequent off-hours teleconferences. Other Job Details: Last Day to Apply: 19 April 2023 Work Assignment Location: Remote Relocation assistance may be available based on business needs and/or eligibility. Pfizer requires all U.S. new hires to be fully vaccinated for COVID-19 prior to the first date of employment. As required by applicable law, Pfizer will consider requests for Reasonable Accommodations. Sunshine Act Pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations. These laws and regulations require Pfizer to provide government agencies with information such as a health care provider\u2019s name, address and the type of payments or other value received, generally for public disclosure. Subject to further legal review and statutory or regulatory clarification, which Pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the Sunshine Act. Therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with Pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government. If you have questions regarding this matter, please do not hesitate to contact your Talent Acquisition representative. EEO & Employment Eligibility Pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. Pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA. Pfizer is an E-Verify employer. Logistics & Supply Chain Mgmt #LI-Remote #LI-PFE Pfizer careers are like no other. In our culture of individual ownership, we believe in our ability to improve future healthcare, and potential to transform millions of lives. We\u2019re looking for new talent to join our global community, to unearth new innovative therapies that make the world a healthier place",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Why Patients Need You Our manufacturing logistics and supply team makes sure that customers and patients have the medicines they need, when they need them. You will help bring medicines to the world even faster by embracing challenges, imagining what\u2019s possible and taking action. What You Will Achieve You will lead the innovation, design, implementation and life cycle management of all data science and analytics solutions across capability owners aimed at leveraging technology and automation to implement intelligent demand flow through the Pfizer Global Supply (PGS) network. In this role, you will be responsible for leading a team focusing on designing new analytical solutions to support data driven forecasting decisions, training and deploying new generation Machine Learning algorithms for high quality predictions and for exploration of new cutting-edge technologies toward a truly Demand-Driven Supply Chain. This includes the design, development, implementation and sustainment of... innovative solutions aimed at automation of the following: Performance visibility and improvement opportunity identification Root cause identification Corrective action proposal Corrective action implementation and execution Performance monitoring and refinement As the Director, Global Demand Data Scientist Lead, you have broad and deep leadership responsibilities for the items listed above ranging from leading a team detailed on data science and engineering activities to senior management alignment and solution approval. It is your problem-solving ability and leadership that will help us find solutions to develop breakthroughs that will change patients\u2019 lives. How You Will Achieve It Lead a team of citizen data scientists and data engineer supporting implementation of the new central statistical forecasting working model Partner with the demand analytics team and develop new models and tools meeting the requirements Lead initiatives in deployment of the new generation Machine Learning models, design of demand analysis tools to get better value of data, exploration of internal and external data sources, designing demand analytics visualizations to provide new insights and experimentation of automation to improve efficiency in demand planning Lead initiatives in experimentation and operationalization of AI in demand space leveraging new DataOps and MLOps platform solutions Lead the simulation, design, and implementation of new data science elements of SAP IBP collaborating with Demand Analysts, SMEs and Digital teams Develop strong partnerships with relevant stakeholders at all levels of the Global Supply Chain organization to drive business process and analytical understanding, corrective action, implementation, and sustainability of supporting Digital applications. Drive experimentation and innovation within PGS to further advance PGS\u2019s goal of creating a data-driven and analytical culture. Translate and influence business and functional solution requirements with Supply Chain and PGS stakeholders. Lead ad hoc projects designed to address specific Supply Chain business needs as well as investigating and building the next generation of analytic capabilities including the development and implementation of unique models and applications that help predict outcomes and prescribe mitigation actions. Qualifications Must-Have Bachelor\u2019s Degree in Computer Science or related field with 7 years of experience in Data Science, Analytics or related field is required. Data analysis experience with heterogeneous data types and familiarity of big data, analytics and/or data mining environments (in operations, manufacturing or supply chain preferred). 5+ years of programming experience with one or more analytics tools (SQL, Python, R or SAS). 3+ years with a data visualization tool (e.gs., R, Spotfire, Tableau). 5+ years of Project management experience required, supply chain or project management certifications a plus. (CPIM, CSCP, PMP, etc.). Demonstrated ability to manage large scale strategic projects. Machine Learning and predictive modeling skills: Ability to design, deploy and maintain models to predict future outcomes using data that is often incomplete and/or imperfect and contained in disparate sources. Statistical analysis: Ability to understand and improve possible limitations in models. Hypothesis testing: In collaboration with demand analysts, able to develop hypotheses and test them. Demonstrated capabilities in analyzing heterogeneous datasets; ability to identify trends, identify outliers and find patterns. Demonstrated experience in accessing and analyzing different types of data used for demand forecasting. Demonstrated experience in leading data science teams and multi-stakeholder projects. Successful candidate must possess excellent oral and written communication skills, interpersonal skills, analytical thinking, and project management skills. Must have strong customer service and total data quality orientation. Must be able to work both independently and in a team environment with limited direction to complete work assignments accurately and on time, including prioritizing multiple requests for competing projects along with day-to-day customer support. Ability to work in a complex matrix organization with strong teamwork orientation required. Ability to work effectively in an environment of competing priorities and deadlines. Proven experience in providing innovative solutions to unusually complex projects/situations. Nice-to-Have Advanced degree or MBA preferred. Non-Standard Work Schedule, Travel, or Environment Requirements Some travel will be expected, estimated 10 to 30% Could travel to global destinations across EMEA / APAC / Americas Regular visits to center locations (NYO, Peapack, Collegeville, etc.) Ability to communicate across regions, countries, cultures, and time zones. Due to the global nature of this role, will require periodic, sometimes frequent off-hours teleconferences. Other Job Details: Last Day to Apply: 19 April 2023 Work Assignment Location: Remote Relocation assistance may be available based on business needs and/or eligibility. Pfizer requires all U.S. new hires to be fully vaccinated for COVID-19 prior to the first date of employment. As required by applicable law, Pfizer will consider requests for Reasonable Accommodations. Sunshine Act Pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations. These laws and regulations require Pfizer to provide government agencies with information such as a health care provider\u2019s name, address and the type of payments or other value received, generally for public disclosure. Subject to further legal review and statutory or regulatory clarification, which Pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the Sunshine Act. Therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with Pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government. If you have questions regarding this matter, please do not hesitate to contact your Talent Acquisition representative. EEO & Employment Eligibility Pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. Pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA. Pfizer is an E-Verify employer. Logistics & Supply Chain Mgmt #LI-Remote #LI-PFE Pfizer careers are like no other. In our culture of individual ownership, we believe in our ability to improve future healthcare, and potential to transform millions of lives. We\u2019re looking for new talent to join our global community, to unearth new innovative therapies that make the world a healthier place"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=7Z4+Pfizer,+Inc.&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAII_Qo",
+                    "text": "See web results for 7Z4 Pfizer, Inc."
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEaXJlY3RvciwgR2xvYmFsIERlbWFuZCBEYXRhIFNjaWVudGlzdCBMZWFkIiwiaHRpZG9jaWQiOiJwTU5hRE04Y2RzQUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVW1rNGRqbHZNMHBIUTJkS2MySTFNakpEYTNScWIyVkNVMjlQU0ZFNGNYSmxPVGRpY0c1aE0wbENUVFZoYVVwSmNuUmpXVk5ZWDNvM09UWndNM1ZGYlV4VlRHUXhMVlpCTTE4Mk0xaFNTVTFFTTFwTE0yRXlNVzlyZFdOb2VITXdhMnhmWTFwUFRHNW5UelJ0Y1VkamFERkJWR1pPV2w5bWMwaHZhMEY0Vm5ST1ZXTTBWRU5hUmpCd1VsSjBaakpKVFVGdFRXaEpaSFF5WWxJMFVFcHpkMVpxVTAxclVtVXhkRjkxWTBoSmJIbHhWRFJ2WDI5Mk1HeFJRWFJPUmtvemVtaFJRazlORWhkbWNtczVXbEJUVjA4MVZHdzFUbTlRTm1RMmREQkJNQm9pUVU4dE1ISnNOV1ZtWWxNd2JXWnFiM2hxZVhsMU1GVnJUR28wWlVGaGJtMVBkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gV29ya2RheSIsImxpbmsiOiJodHRwczovL3BmaXplci53ZDEubXl3b3JrZGF5am9icy5jb20vZW4tVVMvUGZpemVyQ2FyZWVycy9qb2IvVW5pdGVkLVN0YXRlcy0tLVBlbm5zeWx2YW5pYS0tLUNvbGxlZ2V2aWxsZS9EaXJlY3Rvci0tR2xvYmFsLURlbWFuZC1EYXRhLVNjaWVudGlzdC1MZWFkXzQ4ODIyNjItMT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Scientist",
+            "company_name": "John Deere",
+            "location": " Anywhere ",
+            "via": "via Salary.com",
+            "description": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are... tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW.\n\nJohn Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regards to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.\n\nPrimary Location: United States (US) - Illinois - Milan\n\nFunction: Data & Analytics (CA)\n\nTitle: Data Scientist - 94359\n\nOnsite/Remote:Partial Remote Position\n\nThis position is eligible for partial remote work at the present time. The arrangement may be delayed for training or other job acclimation purposes and remains subject to change.\n\nThis position is eligible for a flexible work schedule arrangement at the present time. The arrangement may be delayed for training or other job acclimation purposes and remains subject to change.\n\nYour Responsibilities\n\nAs a Data Scientist within the newly formed A&CS Global Network and Automation organization located in Milan, IL, you will\n\u2022 Be responsible for working with large amounts of complex network data to define KPIs, build dashboards, produce insights, update and run simulations, and identify levers to improve network efficiency for global A&CS facilities.\n\nVISA Sponsorship is not available for this position\n\nWhat Skills You Need\n\u2022 5 years experience in programming and data analytics tools (Python/R, SQL, Tableau)\n\u2022 3 years building predictive and advanced analytical models in big data environment\n\u2022 2 years building efficient data pipelines\n\u2022 1 years building dashboards for performance tracking\n\nWhat Makes You Stand Out\n\u2022 Proficiency with cloud computing platforms\n\u2022 Knowledge and experience in warehouse operation and supply chain optimization\n\nEducation\n\nIdeally you will have a degree or equivalent related work experience in the following:\n\u2022 Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, Data Science, or related field\n\nWhat You'll Get\n\nAt John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including:\n\u2022 Flexible work arrangements\n\u2022 Highly competitive base pay and performance bonuses\n\u2022 Savings & Retirement benefits (401K and Defined Benefit Pension)\n\u2022 Healthcare benefits with a generous company contribution in the Health Savings Account\n\u2022 Adoption assistance\n\u2022 Employee Assistance Programs\n\u2022 Tuition assistance\n\u2022 Fitness subsidies and on-site gyms at specific Deere locations\n\u2022 Charitable contribution match\n\u2022 Employee Purchase Plan & numerous discount programs for personal use\n\nClick Here to find out more about our Total Rewards Package.\n\nThe information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines.\n\nThe terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control.\n\nACA Section 1557 Nondiscrimination Notice\n\nThe John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, color, national origin, age, disability, or sex",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5 years experience in programming and data analytics tools (Python/R, SQL, Tableau)",
+                        "3 years building predictive and advanced analytical models in big data environment",
+                        "2 years building efficient data pipelines",
+                        "1 years building dashboards for performance tracking",
+                        "Proficiency with cloud computing platforms",
+                        "Knowledge and experience in warehouse operation and supply chain optimization",
+                        "Ideally you will have a degree or equivalent related work experience in the following:",
+                        "Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, Data Science, or related field"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Be responsible for working with large amounts of complex network data to define KPIs, build dashboards, produce insights, update and run simulations, and identify levers to improve network efficiency for global A&CS facilities"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Additionally, we offer a comprehensive reward package to help you get started on your new career path, including:",
+                        "Flexible work arrangements",
+                        "Highly competitive base pay and performance bonuses",
+                        "Savings & Retirement benefits (401K and Defined Benefit Pension)",
+                        "Healthcare benefits with a generous company contribution in the Health Savings Account",
+                        "Adoption assistance",
+                        "Employee Assistance Programs",
+                        "Tuition assistance",
+                        "Fitness subsidies and on-site gyms at specific Deere locations",
+                        "Charitable contribution match",
+                        "Employee Purchase Plan & numerous discount programs for personal use"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.deere.com/",
+                    "text": "deere.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=John+Deere&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAIIvws",
+                    "text": "See web results for John Deere"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiZW1lUUFCOVBPVm9BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1ZHVTFkRU10WVRFMVoyZHpUMGhtUjE5c2VWVnhNRzkwTjJSVGVYUTFWVkZOYmpsV1IyaHhXRFZEYW1nNFVrVjBNVkZzWjAxR1VqRmlSM2g0YlV4TGVHNWxYM2xZV205c00yOHpXR1J1U0Zwbk1tOVRZMkpzTVMxWE1WUklZWGxYY1RaU2MwRTJRblpHWlRJMU5USnZZVXhtYlhVMldVZG9VV1V4Y1RkQ00zZzBTRE5oVTB4TFN6UTNTblpHT1U5dVVGaHhSRkI0ZWtKWWRFVmxXVTV1WW1ocE4yRjZhV1EwYmtzNE5sZEJTbUZKRWhkbWNtczVXbEJUVjA4MVZHdzFUbTlRTm1RMmREQkJNQm9pUVU4dE1ISnNOa04wVFVOVU9GbEVja0kyY1RaQlpYbFRRak0xVjI1d1MxOWpRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU2FsYXJ5LmNvbSIsImxpbmsiOiJodHRwczovL3d3dy5zYWxhcnkuY29tL2pvYi9qb2huLWRlZXJlL2RhdGEtc2NpZW50aXN0LzFlNWRkZjYzLTM2NjYtNGE1Yy1hZjY4LTViYTEyOTI2ZmYwNT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Scientist",
+            "company_name": "Trustees of University of Pennsylvania",
+            "location": " Anywhere ",
+            "via": "via Careers@Penn",
+            "description": "University Overview The University of Pennsylvania, the largest private employer in Philadelphia, is a world-renowned leader in education, research, and innovation. This historic, Ivy League school consistently ranks among the top 10 universities in the annual U.S. News & World Report survey. Penn has 12 highly-regarded schools that provide opportunities for undergraduate, graduate and continuing... education, all influenced by Penn\u2019s distinctive interdisciplinary approach to scholarship and learning. As an employer Penn has been ranked nationally on many occasions with the most recent award from Forbes who named Penn one of America\u2019s Best Employers By State in 2021. Penn offers a unique working environment within the city of Philadelphia. The University is situated on a beautiful urban campus, with easy access to a range of educational, cultural, and recreational activities. With its historical significance and landmarks, lively cultural offerings, and wide variety of atmospheres, Philadelphia is the perfect place to call home for work and play. The University offers a competitive benefits package that includes excellent healthcare and tuition benefits for employees and their families, generous retirement benefits, a wide variety of professional development opportunities, supportive work and family benefits, a wealth of health and wellness programs and resources, and much more. COVID-19 vaccination is a requirement for all positions at the University of Pennsylvania. New hires are expected to be fully vaccinated before beginning work at the University. For more information about Penn\u2019s vaccine requirements, visit the Penn COVID-19 Response website for the latest information. Posted Job Title Data Scientist Job Profile Title Data Analyst D Job Description Summary Performs data analysis and assists with design of complex data models based upon business or research requirements. Identifies and resolves required information flows and content issues, and transforms requirements into data designs and models. May perform analyses, development and evaluation on large databases and large complex consultation. Provides data analysis expertise to one or more project or support teams. Develops data standards, policies and procedures. Often works with vendor delivered solutions. May plan, organize and manage projects and associated schedules and budgets. May supervise other IT staff and manage projects. Job Description Penn Medicine is seeking a Data Scientist to join our team. At its core, this position is about revolutionizes healthcare with data driven analytic methods. The position will apply machine learning and computational statistics techniques to clinical, administrative, and social media data to create immense value for patients. Individuals in this role are expected to be comfortable working as a software engineer and a quantitative researcher. This position will develop state-of-the-art algorithms, tools, and apps. Specifically, programming will range across a subset of text-mining, machine learning, natural language processing, distributed computing, website development, mobile app development, computational psychology, and data visualizations. Responsibilities: Work closely with clinicians and administrators to identify and answer important healthcare questions with appropriate statistical techniques on available data. Lead large data acquisition, data mining, and analysis techniques to time series, NLP, imaging, structured clinical data and social media websites. Create and manage protocols for the analysis of passively collected information Responsible for the design and execution of research and development projects utilizing advanced computational techniques to generate novel medical insights and to build clinical decision support systems. Communicate findings to clinicians and administrators Drive the collection of new data and the refinement of existing data sources Work closely with a team of developers and researchers to conduct scholarly work at the intersection of social media and health Design and create the necessary algorithms to facilitate research, including either: (a) text and data analysis code or (b) web and mobile app code for acquiring data and disseminating results. Implement algorithms (write code) to facilitate research or disseminate results in either Python, Java, Matlab, Javascript, or C++. Examine and maintain data in MySQL and NoSQL style databases. Perform technical literature reviews, including identifying relevant papers in computer science and writing accessible summaries for the team. QUALIFICATIONS: (Qualifications should clearly indicate those that are required and those that are preferred.) B.A. in a relevant technical field (e.g. statistics, mathematics, physics, computer science) or an equivalent combination of education and experience required.. M.S. degree preferred. At least 3 years of experience required in a relevant role and at least 2 years of experience solving analytical problems using quantitative approaches required Fluency with statistical and machine learning techniques such as decision trees, neural networks, graphical models, clustering, dimension reduction, and deep generative models required. Experience manipulating and analyzing complex, large volume, high-dimensionality data from varying sources required Fluency in coding in C++, Java, or Python required Fluency in MySql, NoSql design, deployment and analyze on many TB\u2019s of data preferred Experience not required but preferred in: Hadoop/MapReduce, text-mining, natural language processing, machine learning, apps A strong passion for empirical research and for answering hard questions with data. A flexible analytic approach that allows for results at varying levels of precision Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner Familiarity with relational databases and SQL preferred, Linux Candidates will have demonstrated the ability to work as part of a team as well as independently; have experience working with patients and guarding sensitive information Applicants must be able to multi-task, attend to detail and maintain a high level of accuracy. Prior experience supervising/training others preferred We are profoundly committed to diversity, equity and inclusion and seek candidates who foster this commitment. Position contingent upon continued funding Hybrid Eligible - This position is eligible for a hybrid work schedule with a work week divided between working onsite and working remotely. Job Location - City, State Philadelphia, Pennsylvania Hybrid Eligible - This position is eligible for a hybrid work schedule with a work week divided between working onsite and working remotely. Department / School Perelman School of Medicine Pay Range $61,046.00 - $132,906.66 Salary offers are made based on the candidate\u2019s qualifications, experience, skills, and education as they directly relate to the requirements of the position, as well as internal and market factors and grade profile. Affirmative Action Statement Penn adheres to a policy that prohibits discrimination on the basis of race, color, sex, sexual orientation, gender identity, religion, creed, national or ethnic origin, citizenship status, age, disability, veteran status, or any other legally protected class. Special Requirements Background check required after a conditional job offer is made. Consideration of the background check will be tailored to the requirements of the job. University Benefits Health, Life, and Flexible Spending Accounts: Penn offers comprehensive medical, prescription, behavioral health, dental, vision, and life insurance benefits to protect you and your family\u2019s health and welfare. You can also use flexible spending accounts to pay for eligible health care and dependent care expenses with pre-tax dollars. Tuition: Take advantage of Penn's exceptional tuition benefits. You, your spouse, and your dependent children can get tuition assistance here at Penn. Your dependent children are also eligible for tuition assistance at other institutions. Retirement: Penn offers generous retirement plans to help you save for your future. Penn\u2019s Basic, Matching, and Supplemental retirement plans allow you to save for retirement on a pre-tax or Roth basis. Choose from a wide variety of investment options through TIAA and Vanguard. Time Away from Work: Penn provides you with a substantial amount of time away from work during the course of the year. This allows you to relax, take vacations, attend to personal affairs, recover from illness or injury, spend time with family\u2014whatever your personal needs may be. Long-Term Care Insurance: In partnership with Genworth Financial, Penn offers faculty and staff (and your eligible family members) long-term care insurance to help you cover some of the costs of long-term care services received at home, in the community or in a nursing facility. If you apply when you\u2019re newly hired, you won\u2019t have to provide proof of good health or be subject to underwriting requirements. Eligible family members must always provide proof of good health and are subject to underwriting. Wellness and Work-life Resources: Penn is committed to supporting our faculty and staff as they balance the competing demands of work and personal life. That\u2019s why we offer a wide variety of programs and resources to help you care for your health, your family, and your work-life balance. Professional and Personal Development: Penn provides an array of resources to help you advance yourself personally and professionally. University Resources: As a member of the Penn community, you have access to a wide range of University resources as well as cultural and recreational activities. Take advantage of the University\u2019s libraries and athletic facilities, or visit our arboretum and art galleries. There\u2019s always something going on at Penn, whether it\u2019s a new exhibit at the Penn Museum, the latest music or theater presentation at the Annenberg Center, or the Penn Relays at Franklin Field to name just a few examples. As a member of the Penn community, you\u2019re right in the middle of the excitement\u2014and you and your family can enjoy many of these activities for free. Discounts and Special Services: From arts and entertainment to transportation and mortgages, you'll find great deals for University faculty and staff. Not only do Penn arts and cultural centers and museums offer free and discounted admission and memberships to faculty and staff. You can also enjoy substantial savings on other goods and services such as new cars from Ford and General Motors, cellular phone service plans, movie tickets, and admission to theme parks. Flexible Work Hours: Flexible work options offer creative approaches for completing work while promoting balance between work and personal commitments. These approaches involve use of non-traditional work hours, locations, and/or job structures. Penn Home Ownership Services: Penn offers a forgivable loan for eligible employees interested in buying a home or currently residing in West Philadelphia, which can be used for closing costs or home improvements. Adoption Assistance: Penn will reimburse eligible employees on qualified expenses in connection with the legal adoption of an eligible child, such as travel or court fees, for up to two adoptions in your household. To learn more, please visit: https://www.hr.upenn.edu/PennHR/benefits-pay The University of Pennsylvania's special character is reflected in the diversity of the Penn community. We seek talented faculty and staff who will constitute a vibrant community that draws on the strength that comes with a substantive institutional commitment to diversity along dimensions of race, ethnicity, gender, sexual orientation, age, religion, disability, veteran status, interests, perspectives, and socioeconomic status. Grounded in equal opportunity, nondiscrimination, and affirmative action, Penn's robust commitment to diversity is fundamental to the University's mission of advancing knowledge, educating leaders for all sectors of society, and public service. The University of Pennsylvania prohibits unlawful discrimination based on race, color, sex, sexual orientation, gender identity, religion, creed, national or ethnic origin, citizenship status, age, disability, veteran status, or any other legally protected class",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "At least 3 years of experience required in a relevant role and at least 2 years of experience solving analytical problems using quantitative approaches required Fluency with statistical and machine learning techniques such as decision trees, neural networks, graphical models, clustering, dimension reduction, and deep generative models required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Posted Job Title Data Scientist Job Profile Title Data Analyst D Job Description Summary Performs data analysis and assists with design of complex data models based upon business or research requirements",
+                        "Identifies and resolves required information flows and content issues, and transforms requirements into data designs and models",
+                        "May perform analyses, development and evaluation on large databases and large complex consultation",
+                        "Provides data analysis expertise to one or more project or support teams",
+                        "Develops data standards, policies and procedures",
+                        "Often works with vendor delivered solutions",
+                        "May plan, organize and manage projects and associated schedules and budgets",
+                        "May supervise other IT staff and manage projects",
+                        "The position will apply machine learning and computational statistics techniques to clinical, administrative, and social media data to create immense value for patients",
+                        "Individuals in this role are expected to be comfortable working as a software engineer and a quantitative researcher",
+                        "Specifically, programming will range across a subset of text-mining, machine learning, natural language processing, distributed computing, website development, mobile app development, computational psychology, and data visualizations",
+                        "Responsibilities: Work closely with clinicians and administrators to identify and answer important healthcare questions with appropriate statistical techniques on available data",
+                        "Lead large data acquisition, data mining, and analysis techniques to time series, NLP, imaging, structured clinical data and social media websites",
+                        "Create and manage protocols for the analysis of passively collected information Responsible for the design and execution of research and development projects utilizing advanced computational techniques to generate novel medical insights and to build clinical decision support systems",
+                        "Communicate findings to clinicians and administrators Drive the collection of new data and the refinement of existing data sources Work closely with a team of developers and researchers to conduct scholarly work at the intersection of social media and health Design and create the necessary algorithms to facilitate research, including either: (a) text and data analysis code or (b) web and mobile app code for acquiring data and disseminating results",
+                        "Implement algorithms (write code) to facilitate research or disseminate results in either Python, Java, Matlab, Javascript, or C++",
+                        "Examine and maintain data in MySQL and NoSQL style databases",
+                        "Perform technical literature reviews, including identifying relevant papers in computer science and writing accessible summaries for the team"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The University offers a competitive benefits package that includes excellent healthcare and tuition benefits for employees and their families, generous retirement benefits, a wide variety of professional development opportunities, supportive work and family benefits, a wealth of health and wellness programs and resources, and much more",
+                        "Job Location - City, State Philadelphia, Pennsylvania Hybrid Eligible - This position is eligible for a hybrid work schedule with a work week divided between working onsite and working remotely",
+                        "Department / School Perelman School of Medicine Pay Range $61,046.00 - $132,906.66 Salary offers are made based on the candidate\u2019s qualifications, experience, skills, and education as they directly relate to the requirements of the position, as well as internal and market factors and grade profile",
+                        "University Benefits Health, Life, and Flexible Spending Accounts: Penn offers comprehensive medical, prescription, behavioral health, dental, vision, and life insurance benefits to protect you and your family\u2019s health and welfare",
+                        "You can also use flexible spending accounts to pay for eligible health care and dependent care expenses with pre-tax dollars",
+                        "Tuition: Take advantage of Penn's exceptional tuition benefits",
+                        "You, your spouse, and your dependent children can get tuition assistance here at Penn",
+                        "Your dependent children are also eligible for tuition assistance at other institutions",
+                        "Retirement: Penn offers generous retirement plans to help you save for your future",
+                        "Penn\u2019s Basic, Matching, and Supplemental retirement plans allow you to save for retirement on a pre-tax or Roth basis",
+                        "Choose from a wide variety of investment options through TIAA and Vanguard",
+                        "Time Away from Work: Penn provides you with a substantial amount of time away from work during the course of the year",
+                        "This allows you to relax, take vacations, attend to personal affairs, recover from illness or injury, spend time with family\u2014whatever your personal needs may be",
+                        "Long-Term Care Insurance: In partnership with Genworth Financial, Penn offers faculty and staff (and your eligible family members) long-term care insurance to help you cover some of the costs of long-term care services received at home, in the community or in a nursing facility",
+                        "Discounts and Special Services: From arts and entertainment to transportation and mortgages, you'll find great deals for University faculty and staff",
+                        "Not only do Penn arts and cultural centers and museums offer free and discounted admission and memberships to faculty and staff",
+                        "You can also enjoy substantial savings on other goods and services such as new cars from Ford and General Motors, cellular phone service plans, movie tickets, and admission to theme parks"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Trustees+of+University+of+Pennsylvania&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAII_Qs",
+                    "text": "See web results for Trustees of University of Pennsylvania"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiUVBVRHEzcVFjUVVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1ZGVkRWRU5pYlhJMVIxVjRZV3RrUzFCVlZEUXdaVk15TkhaTFpXNUJjREF4WlZNMlpIVkNYM1JOTlZSWFZscHFjRE55YlhoZlIxRkRkVWhWVjFsYVdXaFVZMDlRVGxSRlMyWmhRa1JTYlMxa1dsaEZUbWxxWm1WS1drVkRORVpWWjFVMFRHSlNZVWxzTURWSlVuTkpWbkZZZVdaUFpVeFJNelZRVEhwcE5qZFNjbmxSVVZKSVdqRmFNVTlKYVZrMFExaEZWVVJTTjBoa09YVXdja1pmUTJGQmNsRXRPVU15UlV4MU1YZDFOSEZGRWhkbWNtczVXbEJUVjA4MVZHdzFUbTlRTm1RMmREQkJNQm9pUVU4dE1ISnNOVmxRY21nd1ZYSjNYMFk1VjIwMmFVTk1ZalJoZURaUldsa3lVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENhcmVlcnNAUGVubiIsImxpbmsiOiJodHRwczovL3dkMS5teXdvcmtkYXlzaXRlLmNvbS9lbi1VUy9yZWNydWl0aW5nL3VwZW5uL2NhcmVlcnMtYXQtcGVubi9qb2IvQmxvY2tsZXktSGFsbDE0dGgtRmxvb3IvRGF0YS1TY2llbnRpc3RfSlIwMDA2MzE4NC0yP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Pre Sales Data Scientist",
+            "company_name": "Explorium",
+            "location": "  United States   ",
+            "via": "via Comeet",
+            "description": "Description\n\nPre Sales Data Scientist...\n\nExplorium is a cutting-edge data science company that has recently closed a Series C round bringing their total funding to $127 million.\n\nExplorium offers a first of its kind data science platform powered by augmented data discovery and feature engineering. By automatically connecting to thousands of external data sources and leveraging machine learning to distill the most impactful signals, the Explorium platform empowers data scientists and business leaders to drive decision-making by eliminating the barrier to acquire the right data and enabling superior predictive power.\n\nAbout the Role:\n\nWe are looking for an experienced, passionate Pre-Sales Data Scientist or Engineer to join our Revenue organization. In this consultative role, you\u2019ll be relied on to lead the technical efforts of the sales cycle, interface directly with our clients and prospects, and guide them through data and data science initiatives from demonstration to onboarding. You\u2019ll conduct Proof Of Values during which you\u2019ll discover hidden connections between client and external data sources. You\u2019ll leverage sales skills to communicate the insights to our clients equipping them with the resources to drive a purchase of our software. Working with various personas and functions across the prospect\u2019s organization, you\u2019ll identify external data use-cases aligning to value and build roadmaps focused around measurable impact. You\u2019ll be exposed to a wide variety of clients across multiple industries (software, fintech, marketing, real estate, and more), and will be solving tough, real-world business problems using state-of-the-art data pipelines, entity resolution algorithms, and the latest ML models.\n\nKey Responsibilities:\n\u2022 Present and demonstrate Explorium\u2019s product to prospective clients - both technical and non-technical executives\n\u2022 Identify pain points in customers current data stack, scope solutions that can show clear business value while maximizing Explorium\u2019s capabilities\n\u2022 Quantify impact and showcase the value proposition to various personas across the customer organizations spanning from ICs to C-level executives\n\u2022 Design use case objectives and success criteria, with an understanding of our capabilities and client needs\n\u2022 Develop data enrichment solutions and predictive models to address the business objectives of our clients, both during the proof-of-concept phase and as part of ongoing engagements.\n\u2022 Connect experience on Explorium\u2019s platform and user feedback to product teams, driving feature enhancements based on customer demand and impact on the company\u2019s growth\n\nRequirements\n\nBasic Qualifications:\n\u2022 Proficiency in Python, SQL, and/or R\n\u2022 Ability to present to all levels of the organization, from ICs to the C-Suite\n\u2022 Experience in pre sales, consulting, and/or customer-facing roles - presenting value propositions to business oriented personas\n\u2022 Eager to get hands-on experience in a variety of use-cases and industries\n\nPreferred Qualifications:\n\u2022 Experience with BI tools, cloud solutions (AWS/GCP)\n\u2022 Previous experience working with Account Executives and Customer Success Managers\n\u2022 Data Analysis tools such as Pandas, Scikit-Learn, Plotly\n\u2022 Experience with production-grade software development\n\u2022 CompSci or related STEM degrees\n\nSourcing Rec for the time",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proficiency in Python, SQL, and/or R",
+                        "Ability to present to all levels of the organization, from ICs to the C-Suite",
+                        "Experience in pre sales, consulting, and/or customer-facing roles - presenting value propositions to business oriented personas",
+                        "Eager to get hands-on experience in a variety of use-cases and industries"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this consultative role, you\u2019ll be relied on to lead the technical efforts of the sales cycle, interface directly with our clients and prospects, and guide them through data and data science initiatives from demonstration to onboarding",
+                        "You\u2019ll conduct Proof Of Values during which you\u2019ll discover hidden connections between client and external data sources",
+                        "You\u2019ll leverage sales skills to communicate the insights to our clients equipping them with the resources to drive a purchase of our software",
+                        "Working with various personas and functions across the prospect\u2019s organization, you\u2019ll identify external data use-cases aligning to value and build roadmaps focused around measurable impact",
+                        "You\u2019ll be exposed to a wide variety of clients across multiple industries (software, fintech, marketing, real estate, and more), and will be solving tough, real-world business problems using state-of-the-art data pipelines, entity resolution algorithms, and the latest ML models",
+                        "Present and demonstrate Explorium\u2019s product to prospective clients - both technical and non-technical executives",
+                        "Identify pain points in customers current data stack, scope solutions that can show clear business value while maximizing Explorium\u2019s capabilities",
+                        "Quantify impact and showcase the value proposition to various personas across the customer organizations spanning from ICs to C-level executives",
+                        "Design use case objectives and success criteria, with an understanding of our capabilities and client needs",
+                        "Develop data enrichment solutions and predictive models to address the business objectives of our clients, both during the proof-of-concept phase and as part of ongoing engagements",
+                        "Connect experience on Explorium\u2019s platform and user feedback to product teams, driving feature enhancements based on customer demand and impact on the company\u2019s growth"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?q=Explorium&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAIIvgw",
+                    "text": "See web results for Explorium"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmUgU2FsZXMgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6Il84M213UVA0c1dJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVWek4ycE9VVjlpVFhobVdtbHVRVFZoZFVaUU1FaGpaRXQ0WnpSdVJsZDVVMlZ4U21OUGMybHBTMHB2YkZCUmNHaG5UMVprYkdzMmNtaFhhR3hsWm14S2NXbENZVVJaUVdzNGRIVkRORTlLZVZabGEwOVBMVUZJWlVsUVkzVlVibUZhUkVNelkzUkVkbmN4TVZoeGVYRmFlRlF3U1RKaGRuTnpPV1ZZUWpkUVVYQlFaMFZEWlZkcVpFbFNUalpSU3pSS1lYbHVlVFF5WWtoR1NHNVphRk5uRWhkbWNtczVXbEJUVjA4MVZHdzFUbTlRTm1RMmREQkJNQm9pUVU4dE1ISnNOR0pITlhkTE5UWTVla1pGZUZSMWRITmxOMnBDYTNsVU1WTlNkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIENvbWVldCIsImxpbmsiOiJodHRwczovL3d3dy5jb21lZXQuY29tL2pvYnMvZXhwbG9yaXVtL0I0LjAwRS9wcmUtc2FsZXMtZGF0YS1zY2llbnRpc3QvMEYuMTM3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "ESG Data Scientist",
+            "company_name": "CBRE",
+            "location": "  Dallas, TX   ",
+            "via": "via Careers - CBRE",
+            "description": "JOB SUMMARY\n\nResponsible for the managing of business analytic processes and strategies such as: data integration, operational reporting, ad-hoc & analysis, dashboards and data mining exercises. Works with business leaders to create policies and execute corporate initiatives in regards to organization, technology and strategic efforts...\n\nESSENTIAL DUTIES AND RESPONSIBILITIES\n\nDesigns business metrics for accountability. Meets with various business groups to understand their requirements. Business metrics may include client rankings, aggregate portfolio additions and run off, operational effectiveness measures and/or cash management measures.\n\nLeads projects and coordinates involvement of personnel from other departments and information technology groups to facilitate successful project implementations.\n\nLeads the end-to-end model development process from problem identification through data gathering, analyses, gaining consensus, and implementation into business practice.\n\nLeads and manages performance measurement, reporting and campaign optimization, specifically tracking performance vs. KPI (Key Performance Indicators), ROI (Return on Investment), and consumer trends.\n\nPrepares and presents results of analysis and reports along with their relative impact(s) to the business to all levels of management.\n\nUnderstands the conceptual, logical and physical data models necessary to support the analytic data requirements.\n\nAssigns tasks, responsibilities, evaluates and mentors staff.\n\nOther duties as assigned.\n\nSUPERVISORY RESPONSIBILITIES\n\nProvides formal supervision to individual employees within single functional or operational area. Recommends staff recruitment, selection, promotion, advancement, corrective action and termination. Plans and monitors appropriate staffing levels and utilization of labor, including overtime. Prepares and delivers performance appraisal for staff. Mentors and coaches team members to further develop competencies. Leads by example and models behaviors that are consistent with the company's values",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Responsible for the managing of business analytic processes and strategies such as: data integration, operational reporting, ad-hoc & analysis, dashboards and data mining exercises",
+                        "Works with business leaders to create policies and execute corporate initiatives in regards to organization, technology and strategic efforts",
+                        "Designs business metrics for accountability",
+                        "Meets with various business groups to understand their requirements",
+                        "Business metrics may include client rankings, aggregate portfolio additions and run off, operational effectiveness measures and/or cash management measures",
+                        "Leads projects and coordinates involvement of personnel from other departments and information technology groups to facilitate successful project implementations",
+                        "Leads the end-to-end model development process from problem identification through data gathering, analyses, gaining consensus, and implementation into business practice",
+                        "Leads and manages performance measurement, reporting and campaign optimization, specifically tracking performance vs",
+                        "KPI (Key Performance Indicators), ROI (Return on Investment), and consumer trends",
+                        "Prepares and presents results of analysis and reports along with their relative impact(s) to the business to all levels of management",
+                        "Understands the conceptual, logical and physical data models necessary to support the analytic data requirements",
+                        "Assigns tasks, responsibilities, evaluates and mentors staff",
+                        "Other duties as assigned",
+                        "Provides formal supervision to individual employees within single functional or operational area",
+                        "Recommends staff recruitment, selection, promotion, advancement, corrective action and termination",
+                        "Plans and monitors appropriate staffing levels and utilization of labor, including overtime",
+                        "Prepares and delivers performance appraisal for staff",
+                        "Mentors and coaches team members to further develop competencies",
+                        "Leads by example and models behaviors that are consistent with the company's values"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.cbre.com/",
+                    "text": "cbre.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=CBRE&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAII-gw",
+                    "text": "See web results for CBRE"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJFU0cgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6InJEN1hHc1lZU084QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9Va2R0WjFNM05FOVViMFF3T1ZGR2RESXdUV2RVVG5FM00wOURZUzF5YldGcGJGTlJUVVJpYjBZMk4xTlJSbVEyVTNNNVdFdG1abmxIV0habmQwcERTbGRYYkhsSWVVbFdWWGcyVVRWTGVFaFFNMGREYjB0R1JtWjBZbFI0VWxSNGRFMUxVWGd0VVRJM2JqWkhjRXhHTVUxUlRIVmZSalJwZUVaWVZrWkllbFZwYkdKR1kwbFhRa04yTkdkRlJrVjRlRVJRTTNwV1dWSldRbUZPYmpkdlVESTBkamcyVlcxVVoxOWhOSE4zU1VKSkVoZG1jbXM1V2xCVFYwODFWR3cxVG05UU5tUTJkREJCTUJvaVFVOHRNSEpzTmtoQlJtcEZZbU5WZWpkNWIwVjVUSEIzTm13MkxVOHlXSFpXZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDYXJlZXJzIC0gQ0JSRSIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuY2JyZS5jb20vZW5fVVMvY2FyZWVycy9Kb2JEZXRhaWwvRVNHLURhdGEtU2NpZW50aXN0LzEwMDY2NT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Scientist",
+            "company_name": "Mars",
+            "location": "  Chicago, IL   ",
+            "via": "via Careers At Mars - Mars, Incorporated",
+            "description": "[Insert short summary of role \u2013 approximately 1 paragraph]\n\nWhat are we looking for...\n\u2022 Insert bulleted list of 2-4 most essential requirements- can also include here 1-3 'nice-to-haves', that are identified as non-essential\n\nWhat will be your key responsibilities?\n\u2022 [Insert list of top 4 key responsibilities for the role]\n\nWhat can you expect from Mars?\n\u2022 Work with over 130,000 like-minded and talented Associates, all guided by The Five Principles.\n\u2022 Join a purpose driven company, where we\u2019re striving to build the world we want tomorrow, today.\n\u2022 Best-in-class learning and development support from day one, including access to our in-house Mars University.\n\u2022 An industry competitive salary and benefits package, including company bonus",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "[Insert list of top 4 key responsibilities for the role]"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "An industry competitive salary and benefits package, including company bonus"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.mars.com/",
+                    "text": "mars.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Mars&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAIIsQ0",
+                    "text": "See web results for Mars"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiUF82cnlUc3VROFVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVJQkNxSUJRVVZ6TjJwT1ZHeHZVRzVEWVRCVmFrbFFha3g1Y1RaVWMxQjZVeTFTU3pkVFowc3lWamxQTWkxcGQyOWpPV1J6U2pnemREQTJWekZ0YzNCVVlteHpXWEV4Tm5SRVgzZ3lhWFp2TmtwWFQwaHZiMDlQYkc4eVZFcG1VR2RpTlVocVpWQnpWRzVGZVhwMmNqWlpWVVpvVEZGM2JtTk5SbVJ1WDJ0b2RHaEpaVzV6VTNaTFdGaHBaWGM0TFcxNU5UQllSR2RvVVhCVlNUTmhRVVJLUldKU05IVjNFaGRtY21zNVdsQlRWMDgxVkd3MVRtOVFObVEyZERCQk1Cb2lRVTh0TUhKc05VWklSMWx1YldRMmR6VlFXR3RtU2xBeWJVeFZiemRJTjFwaFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQ2FyZWVycyBBdCBNYXJzIC0gTWFycywgSW5jb3Jwb3JhdGVkIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5tYXJzLmNvbS91cy9lbi9qb2IvUjEwNDU1L0RhdGEtU2NpZW50aXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist",
+            "company_name": "Parsons Corporation",
+            "location": "  Colorado Springs, CO   ",
+            "via": "via Parsons Corporation Jobs",
+            "description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next!\n\nWhen it comes to what you want in your career, if you can imagine it, you can do it at Parsons. Imagine a career working with intelligent, diverse people sharing a common quest. Imagine a workplace where you can be yourself. Where you can thrive. Where you can find your next, right now. We\u2019ve got what you\u2019re... looking for.\n\nJob Description:\n\nAre you a Data Scientist that is looking for an opportunity to grow your skillset? Would you like to work on cutting edge machine learning and artificial intelligence solutions for operational users across the DoD and other government agencies? Would you like to create pattern of life models and anomaly detection solutions to assist analysts in solving real-world challenges? Are you interested in applying these tools and your skills in the space domain? Would you like to work on operational software with a diverse user base? Do you want to be part of a fast-paced team that is helping the government solve major national security challenges in the space domain? We need your help.\n\nParsons has emerged as a leader in the development of cutting-edge solutions for the Department of Defense and Intelligence Community. Our tremendous success can be attributed to our people and our priorities. We hire the best, we make them a priority and we never lose focus on the mission. It\u2019s why we\u2019re here. We have built this cultural legacy by working closely with analysts and operators to understand their needs and delivering meaningful value through innovative, cost effective and intuitive software solutions. Our Space Operations Directorate is passionate about making America the undisputed leader in Space because we understand that ensuring our nation\u2019s security for future generations depends on it. Parsons creates game changing space solutions by teaming highly respected subject matter experts with brilliant technologists.\n\nRequired Qualifications:\n\u2022 This opportunity requires the selected candidate to hold an active Department of Defense TS/SCI level security clearance which requires US citizenship while working in support of a government contract\n\u2022 Experience with modern machine learning languages such as Python, Java, Scala, or R\n\u2022 Bachelor\u2019s degree in computer science, data sciences or other technical discipline. Relevant experience, applicable training and/or certifications may be substituted for the bachelor\u2019s degree\n\u2022 Experience with machine various learning tools and libraries (e.g. Jupyter, Apache Spark, scikit-learn, etc.)\n\u2022 Strong organizational and prioritization skills\n\u2022 Excellent written and verbal communication skills and ability to work in a collaborative/distributed team environment\n\u2022 Willingness to learn and develop new skills\n\nDesired Qualifications:\n\u2022 Experience with deep learning frameworks (e.g. TensorFlow, PyTorch, Keras)\n\u2022 Relational database development experience (SQL)\n\u2022 Experience with big data frameworks, (e.g. Hadoop, HDFS, Accumulo)\n\u2022 Experience with the space domain\n\nKnowledge of software engineering and programming concepts\n\nMinimum Clearance Required to Start:\n\nTop Secret SCI\n\nThis position is part of our Federal Solutions team.\n\nOur Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our diverse, intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what\u2019s next to deliver the solutions our customers need now.\n\nSalary Range:\n\n$81,500.00 - $142,600.00\n\nWe value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!\n\nThe position may require a COVID vaccination or an approved accommodation/exemption for a disability/medical condition or religious belief as required by customer requirements and some cases federal, state, provincial or local mandates.\n\nParsons is an equal opportunity employer committed to diversity, equity, inclusion, and accessibility in the workplace. Diversity is ingrained in who we are, how we do business, and is one of our company\u2019s core values. Parsons equally employs representation at all job levels for minority, female, disabled, protected veteran and LGBTQ+.\n\nWe truly invest and care about our employee\u2019s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest\u2014APPLY TODAY!About Us\n\nParsons is a digitally enabled solutions provider focused on the defense, security, and infrastructure markets. With nearly 75 years of experience, Parsons is uniquely qualified to deliver cyber/converged security, technology-based intellectual property, and other innovative services to federal, regional, and local government agencies, as well as to private industrial customers worldwide.\n\nParsons is an equal opportunity, drug-free employer committed to diversity in the workplace. Minority/Female/Disabled/Protected Veteran/LGBTQ+.\n\nFor more about Parsons, visit parsons.com and follow us on Facebook, Twitter, LinkedIn, and YouTube",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This opportunity requires the selected candidate to hold an active Department of Defense TS/SCI level security clearance which requires US citizenship while working in support of a government contract",
+                        "Experience with modern machine learning languages such as Python, Java, Scala, or R",
+                        "Bachelor\u2019s degree in computer science, data sciences or other technical discipline",
+                        "Relevant experience, applicable training and/or certifications may be substituted for the bachelor\u2019s degree",
+                        "Experience with machine various learning tools and libraries (e.g",
+                        "Jupyter, Apache Spark, scikit-learn, etc.)",
+                        "Strong organizational and prioritization skills",
+                        "Excellent written and verbal communication skills and ability to work in a collaborative/distributed team environment",
+                        "Willingness to learn and develop new skills",
+                        "TensorFlow, PyTorch, Keras)",
+                        "Relational database development experience (SQL)",
+                        "Experience with big data frameworks, (e.g. Hadoop, HDFS, Accumulo)",
+                        "Experience with the space domain",
+                        "Knowledge of software engineering and programming concepts"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$81,500.00 - $142,600.00",
+                        "We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.parsons.com/",
+                    "text": "parsons.com"
+                },
+                {
+                    "link": "https://www.google.com/search?q=Parsons+Corporation&sa=X&ved=0ahUKEwj0zca97bH-AhWUMlkFHWlvC9o4KBCYkAII8w0",
+                    "text": "See web results for Parsons Corporation"
+                }
+            ],
+            "extensions": [
+                "17 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "17 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoieUt6X1p3YUlKQ3NBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VXWXpaVTA1V1ZVNWMzQkdXbFpsWkRjelMxQkVjek0xTmpGeU1WRXdZbGRaZGxGV1FtOVNZbXcwTmtFMlgzRnhWVU5mYWtWSFVVbGhVMUZtY0ZacmVFc3lSR1Y0YW1aWWNISlRhM0kwVFZsMVIzcFVhVkV5T0dsRGNWTkJWa2xuUmtKS1oxUTRlV1YxVlZKSGRrUmpUVjlEYVZSNGJHRlliSFl5TTFNMFUxaEpSbEZwWVRGcmRWVm1OR1JmV1ZGdmEwMDRNV0pHTlc1bWNXNVZVWGgwZDNoa1JERnVlRWx5TlZaMFZsVmFZa1l0YTBoR2RqRktZbDlJWWpGell6TmxRMVYyVTI1bUVoZG1jbXM1V2xCVFYwODFWR3cxVG05UU5tUTJkREJCTUJvaVFVOHRNSEpzTlhkSWMxSXRUM1Z6YWpaYVMweFpXRmxhYkc0MFlqWmhSWGxCWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBQYXJzb25zIENvcnBvcmF0aW9uIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly9wYXJzb25zLmpvYnMvY29sb3JhZG8tc3ByaW5ncy1jby9kYXRhLXNjaWVudGlzdC83QkNGQkIyNEVDNjY0OTEzQjRFQzQ4NTkyQTMxMkRCQS9qb2IvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Senior associate",
+                    "value": "senior associate"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                },
+                {
+                    "text": "Advisor",
+                    "value": "advisor"
+                },
+                {
+                    "text": "Analytics consultant",
+                    "value": "analytics consultant"
+                },
+                {
+                    "text": "Consultant",
+                    "value": "consultant"
+                },
+                {
+                    "text": "Design engineer",
+                    "value": "design engineer"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Principal",
+                    "value": "principal"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Senior advisor",
+                    "value": "senior advisor"
+                },
+                {
+                    "text": "Senior manager",
+                    "value": "senior manager"
+                },
+                {
+                    "text": "Staff scientist",
+                    "value": "staff scientist"
+                },
+                {
+                    "text": "Technical specialist",
+                    "value": "technical specialist"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Houston, TX",
+                    "value": "AYWNSLS4QIY7BWXz3gINyg=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Irving, TX",
+                    "value": "j_UJHVyCToYJ84eGVm8wPA=="
+                },
+                {
+                    "text": "Nashville, TN",
+                    "value": "PZDrEzLsZIig2umh0Lk_fQ=="
+                },
+                {
+                    "text": "Plano, TX",
+                    "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+                },
+                {
+                    "text": "Anderson, MO",
+                    "value": "xZJyU_xWyIeLkG_wPNh9sw=="
+                },
+                {
+                    "text": "Fort Worth, TX",
+                    "value": "rQfILRJuToa9rGnd-IuvpA=="
+                },
+                {
+                    "text": "Huntsville, AL",
+                    "value": "jYmizWdrYohrVgTIiX4smg=="
+                },
+                {
+                    "text": "Memphis, TN",
+                    "value": "RZdD6h5-1Yf-thpgFfOT0Q=="
+                },
+                {
+                    "text": "Richardson, TX",
+                    "value": "Z6e-eekeTIaVBCdGwCnbLA=="
+                },
+                {
+                    "text": "Saint Paul, MN",
+                    "value": "nzfp5M7UslIpLto_0pFyyA=="
+                },
+                {
+                    "text": "Bella Vista, AR",
+                    "value": "Z0n6p3ADyYdTNdi6WXymSQ=="
+                },
+                {
+                    "text": "Deerfield, IL",
+                    "value": "4SbNkAm_D4gpTtHtiNMnPQ=="
+                },
+                {
+                    "text": "Milwaukee, WI",
+                    "value": "50eLV9cCBYiEe0G1IhlfRA=="
+                },
+                {
+                    "text": "Aurora, CO",
+                    "value": "myu6IoZYbId45qKLaOBBhA=="
+                },
+                {
+                    "text": "Colorado Springs, CO",
+                    "value": "K9LmoS5BE4cTa-j1kuuOQQ=="
+                },
+                {
+                    "text": "Fayetteville, AR",
+                    "value": "nT61L3tvyYfPyLT8afAZRQ=="
+                },
+                {
+                    "text": "Greenland, AR",
+                    "value": "mYDB0JhlyYcwPNpDzC4CBw=="
+                },
+                {
+                    "text": "Lewisville, TX",
+                    "value": "ZVAMwXUsTIaNGSvKXRqi8Q=="
+                },
+                {
+                    "text": "Littleton, CO",
+                    "value": "Kzvi-z98a4fAPNau6ZcFBw=="
+                },
+                {
+                    "text": "Madison, WI",
+                    "value": "_xkgOm1TBoiYQUi6tfwMTg=="
+                },
+                {
+                    "text": "Mesquite, TX",
+                    "value": "dasrZQOlToalzpSJbMVSng=="
+                },
+                {
+                    "text": "Minneapolis, MN",
+                    "value": "vbt3k5Azs1IH7novhMmfkw=="
+                },
+                {
+                    "text": "North Chicago, IL",
+                    "value": "0bSMFzSTD4gl6Jj6acIz-g=="
+                },
+                {
+                    "text": "Oklahoma City, OK",
+                    "value": "gdL4flSKrYedOk_RdBKiMw=="
+                },
+                {
+                    "text": "Pea Ridge, AR",
+                    "value": "6xf8mywZyYe6kgw_pTHC3w=="
+                },
+                {
+                    "text": "San Antonio, TX",
+                    "value": "rw7QBK9YXIa8FqAQO-FWCA=="
+                },
+                {
+                    "text": "St. Louis, MO",
+                    "value": "-Y7t-qm02Idb4Lsiyuo5vg=="
+                },
+                {
+                    "text": "Topeka, KS",
+                    "value": "KXrs2uQCv4fwp-Nq0Ocrvg=="
+                },
+                {
+                    "text": "Addison, IL",
+                    "value": "PdxtHX6tD4hjjn7SBPWPvQ=="
+                },
+                {
+                    "text": "Allen, TX",
+                    "value": "vXmUTS4XTIbVLN6SqSroyg=="
+                },
+                {
+                    "text": "America, IL",
+                    "value": "u2p_piTdeYi5vdHDktVBLQ=="
+                },
+                {
+                    "text": "Arden Hills, MN",
+                    "value": "U8fmleQos1JEe2v0HnMmbQ=="
+                },
+                {
+                    "text": "Arlington, TX",
+                    "value": "05gI5NJiToZRU6AfrPZeCw=="
+                },
+                {
+                    "text": "Baton Rouge, LA",
+                    "value": "y3RfMmc4JIYdmleR2_EjIQ=="
+                },
+                {
+                    "text": "Bloomington, IL",
+                    "value": "wZoIOXAIC4gevCNKpUpCLg=="
+                },
+                {
+                    "text": "Bloomington, IN",
+                    "value": "59iDtPZdbIjZM62LLZEa6Q=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Brentwood, TN",
+                    "value": "41xJuq57ZIiQ3_aDOEB9NQ=="
+                },
+                {
+                    "text": "Brookfield, WI",
+                    "value": "a1sLUd0GBYhrwYeU1udw8w=="
+                },
+                {
+                    "text": "Champaign, IL",
+                    "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+                },
+                {
+                    "text": "Chattanooga, TN",
+                    "value": "heeDikBgYIiqKIeJHyZxJA=="
+                },
+                {
+                    "text": "Clayton, IN",
+                    "value": "5UyD3za5bIisQO1r28J3Nw=="
+                },
+                {
+                    "text": "College Station, TX",
+                    "value": "ozxGGYaERobJar-2TcdpyQ=="
+                },
+                {
+                    "text": "Decatur, AR",
+                    "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+                },
+                {
+                    "text": "Decatur, IL",
+                    "value": "px0M7kuudIgwOHq2GkcLBw=="
+                },
+                {
+                    "text": "Des Moines, IA",
+                    "value": "5x5hwaSZ7oey5JEmUSgAcQ=="
+                },
+                {
+                    "text": "Des Plaines, IL",
+                    "value": "bR3nekSwD4i6yEZueiFd6Q=="
+                },
+                {
+                    "text": "Eagan, MN",
+                    "value": "B9w7qzos9ocS6xx4_keq2w=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Foods & Beverages",
+                    "value": "/business/naics2007/311"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Construction",
+                    "value": "/business/naics2007/23"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Restaurant",
+                    "value": "/business/naics2007/722"
+                },
+                {
+                    "text": "Accommodation",
+                    "value": "/business/naics2007/721"
+                },
+                {
+                    "text": "Design Services",
+                    "value": "/business/naics2007/5414"
+                },
+                {
+                    "text": "Professional Services",
+                    "value": "/business/naics2007/5419"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Utilities",
+                    "value": "/business/naics2007/22"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Diverse Lynx",
+                    "value": "/g/11dxp_49r_"
+                },
+                {
+                    "text": "Sedgwick",
+                    "value": "/g/11byczcfwk"
+                },
+                {
+                    "text": "AbbVie",
+                    "value": "/m/0rzs09c"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Cardinal Health",
+                    "value": "/m/040vzx"
+                },
+                {
+                    "text": "Honeywell",
+                    "value": "/m/01gx66"
+                },
+                {
+                    "text": "John Deere",
+                    "value": "/m/027v3x"
+                },
+                {
+                    "text": "Xylem",
+                    "value": "/m/0j42pwf"
+                },
+                {
+                    "text": "Belcan",
+                    "value": "/m/0kqjj_"
+                },
+                {
+                    "text": "Brooksource",
+                    "value": "/g/11b7chl8b4"
+                },
+                {
+                    "text": "CME Group",
+                    "value": "/m/03m3r_f"
+                },
+                {
+                    "text": "Citi",
+                    "value": "/m/01hlzm"
+                },
+                {
+                    "text": "CoreLogic",
+                    "value": "/m/0ds1xrz"
+                },
+                {
+                    "text": "FedEx",
+                    "value": "/m/0k9s1"
+                },
+                {
+                    "text": "Frontier Airlines",
+                    "value": "/m/015q60"
+                },
+                {
+                    "text": "General Dynamics Information Technology",
+                    "value": "/m/09msylq"
+                },
+                {
+                    "text": "Health Care Service Corporation",
+                    "value": "/m/02864z7"
+                },
+                {
+                    "text": "Humana",
+                    "value": "/m/033th4"
+                },
+                {
+                    "text": "LandOLakes",
+                    "value": "/m/02r78m"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Reddit",
+                    "value": "/m/0bx7cy_"
+                },
+                {
+                    "text": "Robert Half",
+                    "value": "/m/07k98m"
+                },
+                {
+                    "text": "Slack",
+                    "value": "/m/0dd97nr"
+                },
+                {
+                    "text": "State Farm",
+                    "value": "/m/03dnbx"
+                },
+                {
+                    "text": "The Kraft Heinz Company",
+                    "value": "/m/01311njn"
+                },
+                {
+                    "text": "Topgolf",
+                    "value": "/m/06w2nzz"
+                },
+                {
+                    "text": "University of Wisconsin-Madison",
+                    "value": "/m/01yx1b"
+                },
+                {
+                    "text": "Verizon",
+                    "value": "/m/07_dn"
+                },
+                {
+                    "text": "Walgreens",
+                    "value": "/m/02rx2k"
+                },
+                {
+                    "text": "84.51\u02da",
+                    "value": "/g/11jykwpjl5"
+                },
+                {
+                    "text": "ADM",
+                    "value": "/m/01qg42"
+                },
+                {
+                    "text": "Abbott Laboratories",
+                    "value": "/m/02gkg4"
+                },
+                {
+                    "text": "Acxiom LLC",
+                    "value": "/g/11h3kzwkqb"
+                },
+                {
+                    "text": "Addison Group",
+                    "value": "/m/011qdhv9"
+                },
+                {
+                    "text": "Alderson Loop",
+                    "value": "/g/11dxq2t780"
+                },
+                {
+                    "text": "Allstate Insurance Company",
+                    "value": "/m/03ct7b"
+                },
+                {
+                    "text": "Altus Group",
+                    "value": "/g/11gxssct18"
+                },
+                {
+                    "text": "Amazon",
+                    "value": "/m/0mgkg"
+                }
+            ]
+        }
+    ]
+}

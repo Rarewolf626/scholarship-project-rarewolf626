@@ -1,0 +1,1163 @@
+{
+    "search_metadata": {
+        "id": "643db98b7f836134f26adec9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/72fee66fa8cf9a15/643db98b7f836134f26adec9.json",
+        "created_at": "2023-04-17 21:26:35 UTC",
+        "processed_at": "2023-04-17 21:26:35 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=data+analyst&ibp=htl;jobs&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&hl=en&gl=us&start=30",
+        "raw_html_file": "https://serpapi.com/searches/72fee66fa8cf9a15/643db98b7f836134f26adec9.html",
+        "total_time_taken": 3.57
+    },
+    "search_parameters": {
+        "q": "data analyst",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 30
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Data Analyst",
+            "company_name": "apree health",
+            "location": "  United States   ",
+            "via": "via Jobvite",
+            "description": "Senior Data Analyst\n\nPosition Summary...\n\nAs Vera Whole Health's Senior Data Analyst, you will be successful if you excel at designing and building\nreporting and analytic solutions from complex and dynamic health informatics data. You will support\nother Technology and Informatics Team members, along with team members from departments, to\nanalyze patterns, visualize data in effective ways, and drive organizational change. You have a natural\ncuriosity to hypothesize and have the desire and ability to be a go-getter and try to look for the answers\nin data in different ways. You are not satisfied understanding the issues, instead preferring to take\naction, communicate your recommendations effectively and drive change using data. Working in a fast-paced environment, managing through uncertainty, and networking across Vera teams to weave the\nright data picture are challenges that energize you. If you are drawn to the opportunity to re -imagine\nhealthcare and deliver innovation to transform health engagement, come join us.\n\nPosition Qualifications/Essential Functions:\n\u2022 Develop efficient SQL queries and Stored Procedures to satisfy data and reporting\nrequirements.\n\u2022 Ability to pay attention to detail to the data and the reporting requirements.\n\u2022 Enable and support other Vera team members by developing powerful and insightful reporting\nthat will help guide the business\n\u2022 Integrate qualitative analysis of data with the quantitative method of report-building\n\u2022 Plan and prioritize initiatives and best practices within the informatics team to ensure a high quality output that is based on one vision\n\u2022 Work closely with other members of the Vera team to create ad-hoc reports to support timely\nbusiness decisions,service evaluation, and any project work\n\u2022 Collaborate with internal resources to gather, curate, and build data sets needed to\nsuccessfully execute our data analysis\n\u2022 Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner.\nExcel at making complex concepts simple and easy to understand by those around you\n\u2022 Participate in stakeholder meetings and present data insights to users/executives in a succinct\nand effective way\n\u2022 Ability to work with and lead teams of stakeholders with differing backgrounds and job\nfunctions\nOthers duties as assigned\n\nEducation/Experience:\n\n\u2022 Master's degree in Math, Statistics, Computer Science, Engineering, Finance or any related field\nis preferred\n\u2022 5 - 8 years of experience as a Business/Financial Analyst,Bl Engineer or Bl Analyst preferably in a\nHealthcare company working with large, complex data sources\n\u2022 2 - 3 years of healthcare analytics {EMR and Healthcare claims data) experience\n\u2022 2 - 3 years demonstrated coding SQL skills\n\u2022 2 - 3 years of experience building analytics using Bl tools, such as Tableau\n\u2022 Mastery of MS Excel, including ability to write macros, v-lookups, and pivot tables\n\u2022 3 - 5 years of experience in Data Mining {i.e., SQL, ETL, complex data warehouses)\n\nAdditional Qualifications Preferred:\n\n\u2022 Knowledge of statistical analysis methods\n\u2022 Experience working with Optum Analytics tools\n\u2022 Experience working in a lean entrepreneurial environment where continuous innovation is\ndesired, and ambiguity is the norm.\n\nDemonstrated Attributes:\n\n\u2022 Demonstrate an understanding of and commitment to The Vera Way by practicing its key\ncomponents of mindfulness, continuous learning, a coach approach, innovation, adaptability,\nand resilience with all members of Vera's staff, clients and patients\n\u2022 Highly organized\n\u2022 Team player with strong interpersonal skills and ability to build effective working relationships\nthroughout all levels of the organization\n\u2022 Excellent verbal and written communication skills\n\u2022 Solution-focused\n\u2022 Ability to be creative and innovative in a fast-paced environment with a lot of ambiguity and\nconstant change\n\u2022 Ability to champion quality throughout the organization\n\nPhysical Demands:\n\n\u2022 Requires sitting for extended periods of time\n\u2022 Requires extensive use of computer and computer monitor\n\nIf you reside in a state that is eligible to receive additional information about the compensation and benefits for this role, please send an email to recruiting@verawholehealth.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "curiosity to hypothesize and have the desire and ability to be a go-getter and try to look for the answers",
+                        "right data picture are challenges that energize you",
+                        "Ability to pay attention to detail to the data and the reporting requirements",
+                        "Excel at making complex concepts simple and easy to understand by those around you",
+                        "Master's degree in Math, Statistics, Computer Science, Engineering, Finance or any related field",
+                        "Healthcare company working with large, complex data sources",
+                        "2 - 3 years of healthcare analytics {EMR and Healthcare claims data) experience",
+                        "2 - 3 years demonstrated coding SQL skills",
+                        "2 - 3 years of experience building analytics using Bl tools, such as Tableau",
+                        "Mastery of MS Excel, including ability to write macros, v-lookups, and pivot tables",
+                        "3 - 5 years of experience in Data Mining {i.e., SQL, ETL, complex data warehouses)",
+                        "Demonstrate an understanding of and commitment to The Vera Way by practicing its key",
+                        "Team player with strong interpersonal skills and ability to build effective working relationships",
+                        "throughout all levels of the organization",
+                        "Excellent verbal and written communication skills",
+                        "Ability to be creative and innovative in a fast-paced environment with a lot of ambiguity and",
+                        "constant change",
+                        "Ability to champion quality throughout the organization",
+                        "Requires extensive use of computer and computer monitor"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "other Technology and Informatics Team members, along with team members from departments, to",
+                        "analyze patterns, visualize data in effective ways, and drive organizational change",
+                        "Working in a fast-paced environment, managing through uncertainty, and networking across Vera teams to weave the",
+                        "Develop efficient SQL queries and Stored Procedures to satisfy data and reporting",
+                        "that will help guide the business",
+                        "Integrate qualitative analysis of data with the quantitative method of report-building",
+                        "Plan and prioritize initiatives and best practices within the informatics team to ensure a high quality output that is based on one vision",
+                        "Work closely with other members of the Vera team to create ad-hoc reports to support timely",
+                        "business decisions,service evaluation, and any project work",
+                        "Collaborate with internal resources to gather, curate, and build data sets needed to",
+                        "successfully execute our data analysis",
+                        "Participate in stakeholder meetings and present data insights to users/executives in a succinct",
+                        "Ability to work with and lead teams of stakeholders with differing backgrounds and job",
+                        "and resilience with all members of Vera's staff, clients and patients"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://verawholehealth.com/",
+                    "text": "verawholehealth.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=apree+health&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAII0Qk",
+                    "text": "See web results for apree health"
+                }
+            ],
+            "extensions": [
+                "27 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "27 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJFN0VXRGNrYVFqTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdllCQ3JjQlFVVnpOMnBPVWpOU1NIQjRPRnBWUkVkWlFVZHplRTFqWlVGM1NrcFZYMDVYWDFGWmJYUjFVakJVYm14ZlJGVnBVakpQYURoVFNXWk1jVzR4UmkwNWNISnFXaTFWWDIxVU4yWkNiMnRLWmtSSU5HdElaekJTY2tsUFZrUmZiVEJ2T1hGYWVqUkVVMkpsVW1OQ1dtcHJielpRYUhaR1VqZEROREEzVFZreVZGVnNSbFkyYTNaMWRraHVlVVJRYVRVNFFsZERlbkEyVEdndFdIRkRlR1pJZDJRdGRWQnFTR1JEVkdsaVN6VXlSalE1TjFkM2RuRm5FaFpxWW1zNVdreGZUMFJNZFVvd1VFVlFaM0ZEV1ZOQkdpSkJUeTB3Y213MFdIRkJZWFZMWlc5d2QzcE5iSFJsWWxOb1VrTTFVR0V0T1V0biIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gSm9idml0ZSIsImxpbmsiOiJodHRwczovL2pvYnMuam9idml0ZS5jb20vYXByZWVoZWFsdGgvam9iL28zTE5tZndIP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Analyst | Business Intelligence Report Developer",
+            "company_name": "Robert Half",
+            "location": "  Olathe, KS   ",
+            "via": "via Robert Half",
+            "description": "Perm Position: DATA ANALYST | BUSINESS INTELLIGENCE REPORTING\n\nLocation: HYBRID IN KANSAS CITY, MO...\n\nSalary: $85,000 - $120,000 + BENEFITS\n\u2022 ** For immediate and confidential consideration, please send a message to MEREDITH CARLE on LinkedIn or send an email to me with your resume. My email can be found on my LinkedIn page. ***\n\nRobert Half is seeking a DATA ANALYST | BUSINESS INTELLIGENCE REPORTING for a PERMANENT DIRECT HIRE FULL TIME position for one of our premier client companies.\n\nGreat opportunity to join this highly technical and innovative world class mid-sized organization. The company has had tremendous growth and is seeking a talented DATA ANALYST | BUSINESS INTELLIGENCE REPORTING to bring their experience and best practices to help further define the strategy and deploy interactive, real-time dashboards that enable users to make informed timely decisions. This is an opportunity to work with senior leadership and make an immediate and long term impact with unlimited growth potential.\n\nNow is the perfect time to join. Ideal candidates must have 3+ years of data analyst, data insights and analytics experience with the proven ability to partner with operations and senior leadership. Do what you are passionate about, have authority to influence and the opportunity to be recognized for your contributions.\n\nRequirements:\n\u2022 3-5 years Data Analyst and Business Intelligence Reporting\n\u2022 Proven experience with relational databases, ERP systems, data warehouses, with strong SQL and strong reporting skills, ideally in PowerBI or Tableau and other reporting tool experience\n\u2022 Thrive in a fast paced entrepreneurial environment\n\u2022 Experience with :\n\u2022 Data Insights & Analytics\n\u2022 Developed interactive dashboards with drill down capabilities\n\u2022 Participated, collaborated and or lead enterprise strategy in business intelligence\n\u2022 Experience in one or more technologies: SQL, Excel, Power BI, Tableau,other\n\u2022 ** For immediate and confidential consideration, please send a message to MEREDITH CARLE on LinkedIn or send an email to me with your resume. My email can be found on my LinkedIn page. Also, you may contact me by office: 515-303-4654 or mobile: 515-771-8142. Or one click apply on our Robert Half website. No third party inquiries please. Our client cannot provide sponsorship and cannot hire C2C. ***\n\nRequirements\n\u2022 3-5 years Data Analyst and Business Intelligence Reporting\n\u2022 Proven experience with relational databases, ERP systems, data warehouses, with strong SQL and strong reporting skills, ideally in PowerBI or Tableau and other reporting tool experience",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ideal candidates must have 3+ years of data analyst, data insights and analytics experience with the proven ability to partner with operations and senior leadership",
+                        "3-5 years Data Analyst and Business Intelligence Reporting",
+                        "Proven experience with relational databases, ERP systems, data warehouses, with strong SQL and strong reporting skills, ideally in PowerBI or Tableau and other reporting tool experience",
+                        "Thrive in a fast paced entrepreneurial environment",
+                        "Developed interactive dashboards with drill down capabilities",
+                        "Participated, collaborated and or lead enterprise strategy in business intelligence",
+                        "Experience in one or more technologies: SQL, Excel, Power BI, Tableau,other",
+                        "** For immediate and confidential consideration, please send a message to MEREDITH CARLE on LinkedIn or send an email to me with your resume"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary: $85,000 - $120,000 + BENEFITS"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.rhi.com/",
+                    "text": "rhi.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Robert+Half&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIkQo",
+                    "text": "See web results for Robert Half"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgfCBCdXNpbmVzcyBJbnRlbGxpZ2VuY2UgUmVwb3J0IERldmVsb3BlciIsImh0aWRvY2lkIjoiYWZRRDU5cUpwT01BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFFQ0N1SUJRVVZ6TjJwT1VXdEhPR2hSTTFkWWJrWnFiMGszT1hNNWQyTndRMmRzYkVsQ01ESkVOMFJPVTB3MVNVbzNWMkpxZG5OUFVYazNOMXA1V0Uxb1NFUXpRelpMYVZaWlpXZEthRkZZWkZOclZtZHdVVnA0YlhSaU9XeFdkalpwVG1aM00wMUVWM1pqTTJSV1dtaFpPWEEzWTFwalkxUlJWMVJyWVhkRlkxQmlXRzUyWWxGcGVIbFFUMjFXU0Vkc2JsQlRVVWMwTjJoa1Z6VXdWMnhtT0dSa01VazFTRkJyTlhGRGVXaHNaV3hqT1hjeVQyazBhMmhFYzE5eWIyNXdabVV5WjJ0SE5USlpVRVZJZGpkUFZsUktNMnhLV1VKdlVVNTZha3hSTTNWNmRuVnBaeElXYW1Kck9WcE1YMDlFVEhWS01GQkZVR2R4UTFsVFFSb2lRVTh0TUhKc04zUTBUWFpNWTNKTWFWRlVXalpxYkZWTmJrZG1XVVZHVWtwdlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSb2JlcnQgSGFsZiIsImxpbmsiOiJodHRwczovL3d3dy5yb2JlcnRoYWxmLmNvbS9qb2Ivb2xhdGhlLWtzL2RhdGEtYW5hbHlzdC1idXNpbmVzcy1pbnRlbGxpZ2VuY2UtcmVwb3J0LWRldmVsb3Blci8wMjM4MC0wMDEyNjU3MTE4LXVzZW4/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data analyst pension",
+            "company_name": "Aon",
+            "location": "  United States   ",
+            "via": "via JobLeads",
+            "description": "Posting Description:\n\nData Analyst (pension plans...\n\nAre you thrilled by data mining, data transformation and analytics? Are you interested to learn pension administration? Are you looking to work on long-term projects for leading Canadian plans? Aon has the opportunity you have been waiting for!\n\nAon is looking for a Data Analyst for our implementation team within pension administration. The team works closely with internal teams to implement and support solutions for clients. This is an excellent opportunity for a data analyst looking to familiarize themself with pension administration, OR an experienced pension administration colleague with proven data management abilities.\n\nThis is a hybrid role with the flexibility to work both virtually and from our Montreal office.\nAon is in the business of better decisions\n\nAt Aon, we shape decisions for the better to protect and enrich the lives of people around the world. As an organization, we are united through trust as one inclusive, diverse team, and we are passionate about helping our colleagues and clients succeed.\nWhat the day will look like\n\nThe Data Analyst works closely with internal teams, in particular to:\n\u2022 Convert legacy databases to a new system\n\u2022 Review the project requirements to ensure completeness of requirements from a testing perspective\n\u2022 Recover data tables and transform them before loading\n\u2022 Document data integrity reports\n\u2022 Identify and fix databases issues\n\u2022 Lead all aspects of day-to-day work per priorities\nHow this opportunity is different\n\nOur highly collaborative team drives innovation through ideas and implementation of solutions that allow an enhanced digital member experience and more efficient internal processing. You will have the ability to take part in exciting projects which help redefine the Canadian pension administration services.\n\nSkills and experience that will lead to success\n\nThe Data Analyst is an extremely detailed self-starter.\n\u2022 Bachelor's degree in computer science, math, or equivalent work experience in an analytical area\n\u2022 Excellent understanding of database structures (tables, temporary tables, storing procedures, user operations)\n\u2022 Pension work experience, desired\n\u2022 Strong computer skills (Excel, Word)\n\u2022 Ability to interpret and understand requirements documentation\n\u2022 Keen attention to detail\n\u2022 Bilingualism (English and French), highly desired\nHow we support our colleagues\n\nIn addition to our comprehensive benefits package, we encourage a diverse workforce. Plus, our agile, inclusive environment allows you to manage your wellbeing and work/life balance, ensuring you can be your best self at Aon. Furthermore, all colleagues enjoy two \u201cGlobal Wellbeing Days\u201d each year, encouraging you to take time to focus on yourself. We offer a variety of working style solutions, but we also recognize that flexibility goes beyond just the place of work... and we are all for it. We call this Smart Working!\n\nOur continuous learning culture inspires and equips you to learn, share and grow, helping you achieve your fullest potential. As a result, at Aon, you are more connected, more relevant, and more valued.\n\nWe provide individuals with disabilities reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment in accordance with applicable law. Please contact us to request an accommodation on ReasonableAdjustments@Aon.com.\n\nAon values an innovative, diverse workplace where all colleagues feel empowered to be their authentic selves. Aon is proud to be an equal opportunity workplace.\n\n#LI-AM3\n\n#LI-HYBRID",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This is an excellent opportunity for a data analyst looking to familiarize themself with pension administration, OR an experienced pension administration colleague with proven data management abilities",
+                        "Skills and experience that will lead to success",
+                        "The Data Analyst is an extremely detailed self-starter",
+                        "Bachelor's degree in computer science, math, or equivalent work experience in an analytical area",
+                        "Excellent understanding of database structures (tables, temporary tables, storing procedures, user operations)",
+                        "Strong computer skills (Excel, Word)",
+                        "Ability to interpret and understand requirements documentation",
+                        "Keen attention to detail"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Data Analyst works closely with internal teams, in particular to:",
+                        "Convert legacy databases to a new system",
+                        "Review the project requirements to ensure completeness of requirements from a testing perspective",
+                        "Recover data tables and transform them before loading",
+                        "Document data integrity reports",
+                        "Identify and fix databases issues",
+                        "Lead all aspects of day-to-day work per priorities"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "In addition to our comprehensive benefits package, we encourage a diverse workforce"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.aon.com/",
+                    "text": "aon.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Aon&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAII0wo",
+                    "text": "See web results for Aon"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIGFuYWx5c3QgcGVuc2lvbiIsImh0aWRvY2lkIjoiNXhpLWpMZ1l6MUFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVVZ6TjJwT1UzWjJNbDl1VVcxRGRHMDNjRkZyTFhkMk1VUlBlR1ZUUmxWaE9Fc3pXRVptU1RkV1ZYaE5MVkpRZFcxUk0wOUJXVnBzVlVWSE5EZHVOM0ZWWDBWeWVtZ3dkSEJtUldoZkxTMHpabmx4ZW5GSGQxWm5abGRWU0dKSlgzSTVSMkp2VFV4SlZ6VlFlbFJqUmtKeFJVSjJRV05KVUdkRVpVTlNVakZSYldaNlNrUjZSV2xoVVhaTWFVeEJTVVpaUm1OUVJFUkJaVm93WVdjMWJtTm5FaFpxWW1zNVdreGZUMFJNZFVvd1VFVlFaM0ZEV1ZOQkdpSkJUeTB3Y213MWFsaHhhWGhWTFc5NWJVTXlVM2d0WWpaWllXVnJiRGxWUzBKMyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9iTGVhZHMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuam9ibGVhZHMuY29tL2VuLXVzL2pvYi9lMzUyNWQ0NTc1OTJhNzEyZmJkNjE2OWFjNzQ4OTdkZGE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Analyst II - Now Hiring",
+            "company_name": "Superior HealthPlan",
+            "location": "  Roxton, TX   ",
+            "via": "via Snagajob",
+            "description": "You could be the one who changes everything for our 26 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you\u2019ll have access to competitive benefits including a fresh perspective on workplace flexibility.\nAnalyze health management programs including: data collection, validation and outcome measurement. May... include:\n\nFinancial, pharmacy, claims, provider, and member data\n\nIRS, CMS, HHSC, HEDIS reporting\n\nInternal data cleansing and data reconciliation analysis\n\nTrend analysis in various functional areas of health care management.\n\nCreate and generate reports through MS-Excel, MS-Access, and SQL using Business Objects interface and direct links to core databases (ODS/EDW)\n\nProduce reports for and interface with senior management and internal and external stakeholders.\n\nGather and interpret business requirements and monitor data trends to proactively identify issues\n\nExecute data changes and update core systems as needed\n\nHandle multiple projects and timelines effectively and communicate risks and issues to manager regularly\n\nAssist with training lower level Data Analysts.\n\nPosition Purpose:\nResponsible for analytical data needs. Handle complex data requests, reports, and predictive data modeling.\n\nKnowledge/Experience:\nBachelor\u2019s degree\u2019s related field or equivalent experience. 2+ years of statistical analysis or data analysis experience. Advanced knowledge of Business Objects, SQL, and Microsoft Applications, including Excel and Access.\n\nOur Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development.\n\nCentene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s degree\u2019s related field or equivalent experience",
+                        "2+ years of statistical analysis or data analysis experience",
+                        "Advanced knowledge of Business Objects, SQL, and Microsoft Applications, including Excel and Access"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "IRS, CMS, HHSC, HEDIS reporting",
+                        "Internal data cleansing and data reconciliation analysis",
+                        "Trend analysis in various functional areas of health care management",
+                        "Create and generate reports through MS-Excel, MS-Access, and SQL using Business Objects interface and direct links to core databases (ODS/EDW)",
+                        "Produce reports for and interface with senior management and internal and external stakeholders",
+                        "Gather and interpret business requirements and monitor data trends to proactively identify issues",
+                        "Execute data changes and update core systems as needed",
+                        "Handle multiple projects and timelines effectively and communicate risks and issues to manager regularly",
+                        "Assist with training lower level Data Analysts",
+                        "Responsible for analytical data needs",
+                        "Handle complex data requests, reports, and predictive data modeling"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.superiorhealthplan.com/",
+                    "text": "superiorhealthplan.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Superior+HealthPlan&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIlAs",
+                    "text": "See web results for Superior HealthPlan"
+                }
+            ],
+            "extensions": [
+                "25 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "25 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUkgLSBOb3cgSGlyaW5nIiwiaHRpZG9jaWQiOiIwWWZ4RUkxWXRGd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3NDQ3N3QlFVVnpOMnBPVWtwYVFYZEVXVXB6TTJSc2JWQnVUR0ZUYVRCVVdrbGFlSGxvWldvelVESTRNMU5tYkc1Uk9ETmhVRmcwVkdrMVFUbHNUM3BUZGxGelQwSnhPR1ZWUkVwTWRqSlBSbkpqYzNwd1EyTk9URWQwT0VobE9WWlZTRmh3ZVhSdlluWjRWM0puYzBsVGNtcHNOa1ZOUnpCeU4yeGhUMVpPZFRCcVJrMVBRMGwyZURFNVRFMDRNbGRyT1Y5TFJUWk5MV2hOUm5rdGVYQlBUamM0VHpCQ00wVlFhMUJtY2tOdGVVTTVjVTQxZFRsTVIybFdTbTVPUTI1UVVFWmhiVmcwVG5Ob0xTMURlR3RCRWhacVltczVXa3hmVDBSTWRVb3dVRVZRWjNGRFdWTkJHaUpCVHkwd2NtdzJWVkYwUjNvM1lUQjJSREpSYkdodFRqSmpaMEV3TTNOcGRVSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNuYWdham9iIiwibGluayI6Imh0dHBzOi8vd3d3LnNuYWdham9iLmNvbS9qb2JzLzgyOTg5NDk4MD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Sales Data Analyst",
+            "company_name": "Elsevier Inc. Company",
+            "location": " Anywhere ",
+            "via": "via Workday",
+            "description": "Sales Data Analyst Are you interested in working with data and analytics to solve problems? Would you enjoy collaborating with teams to deliver improvements to our business? About our Team The Clinical Solutions division of Elsevier uses its industry-leading intellectual property and content to create products for healthcare professionals across a range of practice settings and commercial organizations. These products and tools aid in disease management, medication error reductions, workflow improvements, effective patient management, economic analysis and cost control with the goal of improving every patient outcome. About the Role The ideal candidate will be someone who can combine data analysis & technical skills to investigate raw data and transform it into actional business insights. You are someone that instinctively looks at a process or business problem, disassembles it and looks for ways in which it can be improved or solved. Responsibilities Utilizing data-driven... decision-making and analysis to gain insights and drive solutions for business problems Delivering simple and complex dashboards using Salesforce.com and Tableau reporting environments Acquiring an in-depth understanding of business challenges facing internal customers and developing solutions to overcome those challenges Driving our Sales organization to be more productive by building and improving key sales tools Ensuring teams are provided with training, feedback and resources needed to exceed individual and team performance goals consistently Playing a role in the monthly processing of Sales reports, compensation calculators and payout statements. In addition, performing ad hoc analyses and presentations as required Requirements Have a background in accounting, finance, computer science, statics or a similar related field Have proficiency with Microsoft Office and CRM systems and experience in Salesforce and Tableau reporting environments Be familiar with SQL and Visual Basic programming Have good experience working in a data analyst or business intelligence role in a large global-matrix organization Demonstrate excellent written and verbal, communication and presentation skills including articulating technical concepts to a range of audiences Work in a way that works for you We promote a healthy work/life balance across the organisation. With an average length of service of 9 years, we are confident that we offer an appealing working prospect for our people. With numerous wellbeing initiatives, family leave and tuition reimbursement, we will help you meet your immediate responsibilities and long-term goals. \u00b7 Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive Working with us We are an equal opportunity employer with a commitment to help you succeed. Here, you will find an inclusive, agile, collaborative, innovative and fun environment, where everyone has a part to play. Regardless of the team you join, we promote a diverse environment with co-workers who are passionate about what they do, and how they do it. At Elsevier, we know that your wellbeing and happiness are key to a long and successful career. These are some of the benefits we are delighted to offer: \u00b7 Comprehensive, multi-carrier health plan benefits \u00b7 Disability insurance \u00b7 Dependent Care and Commuter Spending Accounts \u00b7 Life and Accident Insurance \u00b7 Retirement Benefits (Salary Investment Plan/Employer Stock Purchase Plan) \u00b7 Modern Family Benefits, including adoption and surrogacy Working for you About Us A global leader in information and analytics, we help researchers and healthcare professionals advance science and improve health outcomes for the benefit of society. Building on our publishing heritage, we combine quality information and vast data sets with analytics to support visionary science and research, health education and interactive learning, as well as exceptional healthcare and clinical practice. At Elsevier, your work contributes to the world\u2019s grand challenges and a more sustainable future. We harness innovative technologies to support science and healthcare to partner for a better world. Join Us PURPOSEFUL WORK When you work with us, your work matters. You are part of an organization that nurtures your curiosity to stimulate innovation for the communities that we serve. GROWING EVERY DAY Like the communities we serve, you are on a constant path of discovery to shape your career and personal development. COLLEAGUES WHO CARE You will be part of the Elsevier family. We will support your well-being and provide the flexibility you need to thrive at work and home. Together, we create possibilities. Join us ----------------------------------------------------------------------- Elsevier is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. We are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form: https://forms.office.com/r/eVgFxjLmAK . Please read our Candidate Privacy Policy. Elsevier is a global information analytics business that helps institutions and professionals advance healthcare, open science and improve performance for the benefit of humanity. We help researchers make new discoveries, collaborate with their colleagues, and give them the knowledge they need to find funding. We help governments and universities evaluate and improve their research strategies. We help doctors save lives, providing insight for physicians to find the right clinical answers, and we support nurses and other healthcare professionals throughout their careers. Elsevier provides digital solutions and tools in the areas of strategic research management, R&D performance, clinical decision support, and professional education; including ScienceDirect, Scopus, SciVal, ClinicalKey and Sherpath. Elsevier publishes over 2,500 digitized journals, including The Lancet and Cell, 38,000 e-book titles and many iconic reference works, including Gray\u2019s Anatomy. Elsevier is part of RELX Group. With a wide range of technology jobs, commercial and business jobs, and graduate jobs, there is a part for everyone to play. We need talented people to help us inspire ground-breaking research. Be curious. Be challenged. Be involved. Discover Elsevier. Join us. elsevier.com/about/careers",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Sales Data Analyst Are you interested in working with data and analytics to solve problems? Would you enjoy collaborating with teams to deliver improvements to our business? About our Team The Clinical Solutions division of Elsevier uses its industry-leading intellectual property and content to create products for healthcare professionals across a range of practice settings and commercial organizations. These products and tools aid in disease management, medication error reductions, workflow improvements, effective patient management, economic analysis and cost control with the goal of improving every patient outcome. About the Role The ideal candidate will be someone who can combine data analysis & technical skills to investigate raw data and transform it into actional business insights. You are someone that instinctively looks at a process or business problem, disassembles it and looks for ways in which it can be improved or solved. Responsibilities Utilizing data-driven... decision-making and analysis to gain insights and drive solutions for business problems Delivering simple and complex dashboards using Salesforce.com and Tableau reporting environments Acquiring an in-depth understanding of business challenges facing internal customers and developing solutions to overcome those challenges Driving our Sales organization to be more productive by building and improving key sales tools Ensuring teams are provided with training, feedback and resources needed to exceed individual and team performance goals consistently Playing a role in the monthly processing of Sales reports, compensation calculators and payout statements. In addition, performing ad hoc analyses and presentations as required Requirements Have a background in accounting, finance, computer science, statics or a similar related field Have proficiency with Microsoft Office and CRM systems and experience in Salesforce and Tableau reporting environments Be familiar with SQL and Visual Basic programming Have good experience working in a data analyst or business intelligence role in a large global-matrix organization Demonstrate excellent written and verbal, communication and presentation skills including articulating technical concepts to a range of audiences Work in a way that works for you We promote a healthy work/life balance across the organisation. With an average length of service of 9 years, we are confident that we offer an appealing working prospect for our people. With numerous wellbeing initiatives, family leave and tuition reimbursement, we will help you meet your immediate responsibilities and long-term goals. \u00b7 Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive Working with us We are an equal opportunity employer with a commitment to help you succeed. Here, you will find an inclusive, agile, collaborative, innovative and fun environment, where everyone has a part to play. Regardless of the team you join, we promote a diverse environment with co-workers who are passionate about what they do, and how they do it. At Elsevier, we know that your wellbeing and happiness are key to a long and successful career. These are some of the benefits we are delighted to offer: \u00b7 Comprehensive, multi-carrier health plan benefits \u00b7 Disability insurance \u00b7 Dependent Care and Commuter Spending Accounts \u00b7 Life and Accident Insurance \u00b7 Retirement Benefits (Salary Investment Plan/Employer Stock Purchase Plan) \u00b7 Modern Family Benefits, including adoption and surrogacy Working for you About Us A global leader in information and analytics, we help researchers and healthcare professionals advance science and improve health outcomes for the benefit of society. Building on our publishing heritage, we combine quality information and vast data sets with analytics to support visionary science and research, health education and interactive learning, as well as exceptional healthcare and clinical practice. At Elsevier, your work contributes to the world\u2019s grand challenges and a more sustainable future. We harness innovative technologies to support science and healthcare to partner for a better world. Join Us PURPOSEFUL WORK When you work with us, your work matters. You are part of an organization that nurtures your curiosity to stimulate innovation for the communities that we serve. GROWING EVERY DAY Like the communities we serve, you are on a constant path of discovery to shape your career and personal development. COLLEAGUES WHO CARE You will be part of the Elsevier family. We will support your well-being and provide the flexibility you need to thrive at work and home. Together, we create possibilities. Join us ----------------------------------------------------------------------- Elsevier is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. We are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form: https://forms.office.com/r/eVgFxjLmAK . Please read our Candidate Privacy Policy. Elsevier is a global information analytics business that helps institutions and professionals advance healthcare, open science and improve performance for the benefit of humanity. We help researchers make new discoveries, collaborate with their colleagues, and give them the knowledge they need to find funding. We help governments and universities evaluate and improve their research strategies. We help doctors save lives, providing insight for physicians to find the right clinical answers, and we support nurses and other healthcare professionals throughout their careers. Elsevier provides digital solutions and tools in the areas of strategic research management, R&D performance, clinical decision support, and professional education; including ScienceDirect, Scopus, SciVal, ClinicalKey and Sherpath. Elsevier publishes over 2,500 digitized journals, including The Lancet and Cell, 38,000 e-book titles and many iconic reference works, including Gray\u2019s Anatomy. Elsevier is part of RELX Group. With a wide range of technology jobs, commercial and business jobs, and graduate jobs, there is a part for everyone to play. We need talented people to help us inspire ground-breaking research. Be curious. Be challenged. Be involved. Discover Elsevier. Join us. elsevier.com/about/careers"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elsevier.com/",
+                    "text": "elsevier.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Elsevier+Inc.+Company&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIyQs",
+                    "text": "See web results for Elsevier Inc. Company"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTYWxlcyBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlEzUGZqdEN6OGFzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2WUJDcmNCUVVWek4ycE9VV2xDUlZCUWRFeDFNekI0Y1ZGQlJXZ3hWVmxMWW0xeGNIZGhRMlZPUVZsS1YyczJaVWsxUlcxRFNFTlhhbEZLTjJ4cE5GSTJYelV4YUVKaFoycHhXRmhNUm5oaWRtOW5kMUZ0TVV4WlNVNURjazVLWDIxUlJIRlJkVTV6YVVOVFdtSkRUazlXV21vMlIzQjJNV05sWmxVeFlWWlFjMlpWT0hSWGVqY3diRFpLV0dOcmVYcDJTbFp4ZWtwbGJFdEtaR0kxVm1SZlFXSlhUalpKT0dOR1JFSlpjRGhCUVU5WFNIaEhTREF0WlhObkVoWnFZbXM1V2t4ZlQwUk1kVW93VUVWUVozRkRXVk5CR2lKQlR5MHdjbXcyYUV0Q1dFMUhVbFl3U2paSk0xZEdXRWMzZGpSeVFVaHZSRUpCIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXb3JrZGF5IiwibGluayI6Imh0dHBzOi8vcmVseC53ZDMubXl3b3JrZGF5am9icy5jb20vZW4tVVMvRWxzZXZpZXJKb2JzL2pvYi9PaGlvL1NhbGVzLURhdGEtQW5hbHlzdF9SNTA2MDg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Analyst II",
+            "company_name": "Cenetene Corporation",
+            "location": "  Jefferson City, MO   ",
+            "via": "via LocalJobs.com",
+            "description": "You could be the one who changes everything for our 26 million members. Centene is transforming the health of our communities, one person at a time. As a diversified, national organization, you\u2019ll have access to competitive benefits including a fresh perspective on workplace flexibility.\n\nPosition Purpose: Analyze integrated and extensive datasets to extract value, which directly impacts and... influences business decisions. Work collaboratively with key business stakeholders to identify areas of value, develop solutions, and deliver insights to reduce overall cost of care for members and improve their clinical outcomes.\n\nApplicants for this job have the flexibility to work remote from home anywhere in the United States\n\nInterpret and analyze data from multiple sources including healthcare provider, member/patient, and third-party data\n\nSupport execution of large-scale projects with limited direction from leadership\n\nIdentify and perform root-cause analysis of data irregularities and present findings and proposed solutions to leadership and/or customers\n\nManage multiple, variable tasks and data review processes with limited supervision within targeted timelines\n\nSupport the design, testing, and implementation of process enhancements and identify opportunities for automation\n\nApply expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how customers interact with analytic products\n\nSupport multiple functions and levels of the organization and effectively, both verbally and visually, communicate findings and insights to non-technical business partners\n\nIndependently engage with customers and business partners to gather requirements and validate results\n\nCommunicate and present data-driven insights and recommendations to both internal and external stakeholders, soliciting and incorporating feedback when required\n\nEducation/Experience:\n\nBachelor\u2019s degree in business, economics, statistics, mathematics, actuarial science, public health, health informatics, healthcare administration, finance or related field or equivalent experience. 2+ years of experience working with large databases, data verification, and data management, or 1+ years IT experience. Healthcare analytics experience preferred. Working knowledge of SQL/query languages. Preferred knowledge of programmatic coding languages such as Python and R. Knowledge of statistical, analytical, or data mining techniques including basic data modeling, trend analysis, and root-cause analysis preferred. Preferred knowledge of modern business intelligence and visualization tools including Microsoft PowerBI. Experience with report/dashboard development, data/report automation, self-service capabilities, data design and integration, or data quality and governance preferred\n\nOur Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development.\n\nCentene is an equal opportunity employer that is committed to diversity, and values the ways in which we are different. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristic protected by applicable law.\n\u2022 *TITLE:** Data Analyst II\n\u2022 *LOCATION:** Various, Missouri\n\u2022 *REQNUMBER:** 1408709",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor\u2019s degree in business, economics, statistics, mathematics, actuarial science, public health, health informatics, healthcare administration, finance or related field or equivalent experience",
+                        "2+ years of experience working with large databases, data verification, and data management, or 1+ years IT experience",
+                        "Working knowledge of SQL/query languages"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work collaboratively with key business stakeholders to identify areas of value, develop solutions, and deliver insights to reduce overall cost of care for members and improve their clinical outcomes",
+                        "Interpret and analyze data from multiple sources including healthcare provider, member/patient, and third-party data",
+                        "Support execution of large-scale projects with limited direction from leadership",
+                        "Identify and perform root-cause analysis of data irregularities and present findings and proposed solutions to leadership and/or customers",
+                        "Manage multiple, variable tasks and data review processes with limited supervision within targeted timelines",
+                        "Support the design, testing, and implementation of process enhancements and identify opportunities for automation",
+                        "Apply expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how customers interact with analytic products",
+                        "Support multiple functions and levels of the organization and effectively, both verbally and visually, communicate findings and insights to non-technical business partners",
+                        "Independently engage with customers and business partners to gather requirements and validate results",
+                        "Communicate and present data-driven insights and recommendations to both internal and external stakeholders, soliciting and incorporating feedback when required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our Comprehensive Benefits Package: Flexible work solutions including remote options, hybrid work schedules and dress flexibility, Competitive pay, Paid time off including holidays, Health insurance coverage for you and your dependents, 401(k) and stock purchase plans, Tuition reimbursement and best-in-class training and development"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Cenetene+Corporation&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIiww",
+                    "text": "See web results for Cenetene Corporation"
+                }
+            ],
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "2 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSUkiLCJodGlkb2NpZCI6IkFlMGF4WkxYanc4QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2WUJDcmNCUVVWek4ycE9VbHBOUVRKSFFuVldUakl3YTFnNVNTMWZabWRWUkVFd1Z6TktVbkZ3WXpGcFNHcDNkVVU1WVhWQmJqZG1VM0pUTjJGVk5saHJUREppYTFKMGF6Qk5VVk51V0RWRVJYY3dSVGR4ZDBKMllrczNSeko0TUhwSVR6SmtRVUpYUWs1VlpucHBZVE5QY2xGRldVUmpTelZCUlhka1JtOWpVbFpPVDFKWWRFWklZa05NUVhrNVZtMDBiRU5QYmxCSFpqRTRTbkJuVVV0VWRXNUxkRXBvYkdveGFHRTJNa0ptWWtoc1IzRndSVEZ5T0cxVkVoWnFZbXM1V2t4ZlQwUk1kVW93VUVWUVozRkRXVk5CR2lKQlR5MHdjbXcyVWtacGJGWjBMVk5mYTFaVU1GZEdTamwwUVhGVFFtMVBSVmRuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTG9jYWxKb2JzLmNvbSIsImxpbmsiOiJodHRwczovL3d3dy5sb2NhbGpvYnMuY29tL2pvYi9qZWZmZXJzb24tY2l0eS1tby1kYXRhLWFuYWx5c3QtaWktMT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Data Analyst",
+            "company_name": "Aon Careers",
+            "location": "  United States   ",
+            "via": "via Jora",
+            "description": "Aon is looking for a Data Analyst\nPosition Responsibilities/Main Functions:\n\u2022 Utilize and manipulate large sets of data to determine relevant indicators that can be leveraged into trend and insight reports\n\u2022 Use specific diagnostic tools and approaches designed for existing work streams\n\u2022 Create client reports, dynamic graphs, charts, tables and similar to reflect data analysis\n\u2022 Modify data analysis output when needed based on customer request or changing market trends\n\u2022 Develop and automate end user applications and reports\n\u2022 Be informed about innovative data analytics techniques and introduce into production within the analysis process and client deliverables, as appropriate\n\u2022 Respond accordingly to data analysis requests that are urgent in nature\n\u2022 Participate in strategic initiatives related to process improvements\n\nRequired skills:\n\u2022 Strong analytical background to analyze information, situations, and procedures\n\u2022 Proficiency with computer systems, database management concepts... and database structures\n\u2022 Advanced experience in Excel, Access and VBA Prior statistical manipulation and reporting experience\n\u2022 Prior statistical manipulation and reporting experience a plus\n\u2022 Ability to meet deadlines; well organized and the ability to learn under mentorship\n\u2022 Extremely detail-oriented; take responsibility for delivering accurate and error-free reports\n\nMinimum education/experience required:\n\u2022 Bachelor\u2019s degree or equivalent, preferably with a focus on finance, math, statistics, or data analytics related fields\n\u2022 Proficiency in programming languages such as SQL, Python and Tableau a plus\n\nHow we support our colleagues\n\nIn addition to our comprehensive benefits package, we encourage a diverse workforce. Plus, our agile, inclusive environment allows you to manage your wellbeing and work/life balance, ensuring you can be your best self at Aon. Furthermore, all colleagues enjoy two \u201cGlobal Wellbeing Days\u201d each year, encouraging you to take time to focus on yourself. We offer a variety of working style solutions, but we also recognize that flexibility goes beyond just the place of work... and we are all for it. We call this Smart Working!\n\nOur continuous learning culture inspires and equips you to learn, share and grow, helping you achieve your fullest potential. As a result, at Aon, you are more connected, more relevant, and more valued.\n\nAon values an innovative, diverse workplace where all colleagues feel empowered to be their authentic selves. Aon is proud to be an equal opportunity workplace.\n\nAon provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, age, disability, veteran, marital, domestic partner status, or other legally protected status. Aon is committed to a diverse workforce and is an affirmative action employer. People with criminal histories are encouraged to apply.\n\nWe provide individuals with disabilities reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment in accordance with applicable law. Please contact us to request an accommodation on ReasonableAdjustments@Aon.com\n\nNothing in this job description restricts management's right to assign or reassign duties and responsibilities to this job at any time.\n\nThe salary range for this position is $60,000 to $71,000 annually. The actual salary will vary based on applicant\u2019s education, experience, skills, and abilities, as well as internal equity and alignment with market data. The salary may also be adjusted based on applicant\u2019s geographic location.\n\nThis position is eligible to participate in one of Aon\u2019s annual incentive plans to receive an annual discretionary bonus in addition to base salary. The amount of any bonus varies and is subject to the terms and conditions of the applicable incentive plan.\n\nAon offers a comprehensive package of benefits for full-time and regular part-time colleagues, including, but not limited to: a 401(k) savings plan with employer contributions; an employee stock purchase plan; consideration for long-term incentive awards at Aon\u2019s discretion; medical, dental and vision insurance, various types of leaves of absence, paid time off, including 12 paid holidays throughout the calendar year, 15 days of paid vacation per year, paid sick leave as provided under state and local paid sick leave laws, short-term disability and optional long-term disability, health savings account, health care and dependent care reimbursement accounts, employee and dependent life insurance and supplemental life and AD&D insurance; optional personal insurance policies, adoption assistance, tuition assistance, commuter benefits, and an employee assistance program that includes free counseling sessions. Eligibility for benefits is governed by the applicable plan documents and policies.\n\n#LI-JS2\n\n#LI-Remote\n2524202",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Aon is looking for a Data Analyst\nPosition Responsibilities/Main Functions:\n\u2022 Utilize and manipulate large sets of data to determine relevant indicators that can be leveraged into trend and insight reports\n\u2022 Use specific diagnostic tools and approaches designed for existing work streams\n\u2022 Create client reports, dynamic graphs, charts, tables and similar to reflect data analysis\n\u2022 Modify data analysis output when needed based on customer request or changing market trends\n\u2022 Develop and automate end user applications and reports\n\u2022 Be informed about innovative data analytics techniques and introduce into production within the analysis process and client deliverables, as appropriate\n\u2022 Respond accordingly to data analysis requests that are urgent in nature\n\u2022 Participate in strategic initiatives related to process improvements\n\nRequired skills:\n\u2022 Strong analytical background to analyze information, situations, and procedures\n\u2022 Proficiency with computer systems, database management concepts... and database structures\n\u2022 Advanced experience in Excel, Access and VBA Prior statistical manipulation and reporting experience\n\u2022 Prior statistical manipulation and reporting experience a plus\n\u2022 Ability to meet deadlines; well organized and the ability to learn under mentorship\n\u2022 Extremely detail-oriented; take responsibility for delivering accurate and error-free reports\n\nMinimum education/experience required:\n\u2022 Bachelor\u2019s degree or equivalent, preferably with a focus on finance, math, statistics, or data analytics related fields\n\u2022 Proficiency in programming languages such as SQL, Python and Tableau a plus\n\nHow we support our colleagues\n\nIn addition to our comprehensive benefits package, we encourage a diverse workforce. Plus, our agile, inclusive environment allows you to manage your wellbeing and work/life balance, ensuring you can be your best self at Aon. Furthermore, all colleagues enjoy two \u201cGlobal Wellbeing Days\u201d each year, encouraging you to take time to focus on yourself. We offer a variety of working style solutions, but we also recognize that flexibility goes beyond just the place of work... and we are all for it. We call this Smart Working!\n\nOur continuous learning culture inspires and equips you to learn, share and grow, helping you achieve your fullest potential. As a result, at Aon, you are more connected, more relevant, and more valued.\n\nAon values an innovative, diverse workplace where all colleagues feel empowered to be their authentic selves. Aon is proud to be an equal opportunity workplace.\n\nAon provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, age, disability, veteran, marital, domestic partner status, or other legally protected status. Aon is committed to a diverse workforce and is an affirmative action employer. People with criminal histories are encouraged to apply.\n\nWe provide individuals with disabilities reasonable accommodations to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment in accordance with applicable law. Please contact us to request an accommodation on ReasonableAdjustments@Aon.com\n\nNothing in this job description restricts management's right to assign or reassign duties and responsibilities to this job at any time.\n\nThe salary range for this position is $60,000 to $71,000 annually. The actual salary will vary based on applicant\u2019s education, experience, skills, and abilities, as well as internal equity and alignment with market data. The salary may also be adjusted based on applicant\u2019s geographic location.\n\nThis position is eligible to participate in one of Aon\u2019s annual incentive plans to receive an annual discretionary bonus in addition to base salary. The amount of any bonus varies and is subject to the terms and conditions of the applicable incentive plan.\n\nAon offers a comprehensive package of benefits for full-time and regular part-time colleagues, including, but not limited to: a 401(k) savings plan with employer contributions; an employee stock purchase plan; consideration for long-term incentive awards at Aon\u2019s discretion; medical, dental and vision insurance, various types of leaves of absence, paid time off, including 12 paid holidays throughout the calendar year, 15 days of paid vacation per year, paid sick leave as provided under state and local paid sick leave laws, short-term disability and optional long-term disability, health savings account, health care and dependent care reimbursement accounts, employee and dependent life insurance and supplemental life and AD&D insurance; optional personal insurance policies, adoption assistance, tuition assistance, commuter benefits, and an employee assistance program that includes free counseling sessions. Eligibility for benefits is governed by the applicable plan documents and policies.\n\n#LI-JS2\n\n#LI-Remote\n2524202"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Aon+Careers&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIvQw",
+                    "text": "See web results for Aon Careers"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjlIaE9jMEgybzlFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1RUJDcUlCUVVWek4ycE9VemhVWjJ0WE9WVnRiR1pOVlVOaWVHdFBNVUk1VkhoRlFuRnJNMUJUVVZZMmMwcENkbkp2Yld3eFpFMHdZazFCTW5aVlJ6ZHRhblIyVEhSQ1VEZEtiRUZ2VDJacVZsTlRXR2cxVnpaUlIzTjRlV2hpV214UE5XeEtjMDVNUlRVdGFuZE5ieTFzY0RnMmVIRjJVa2wyUXpFNU5uRTNMVFptVjIxUmNIZzJUVmxsVVRWWmMxSnVhazVLYm1adWJrUkdlbU5hVVVnNFRqZzNPSEYzRWhacVltczVXa3hmVDBSTWRVb3dVRVZRWjNGRFdWTkJHaUpCVHkwd2NtdzBiVXM0WVhjemNuVkJVRnAzYTNWU1lXMUVSazFGY1hSa05VVkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb3JhIiwibGluayI6Imh0dHBzOi8vdXMuam9yYS5jb20vam9iL0RhdGEtQW5hbHlzdC0xYmVjMDE0OGU4YWQxYmJhMDYxYzhlMTc1MWRjNTA4OD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Account Data Analyst",
+            "company_name": "Amerit Fleet Solutions",
+            "location": "  United States   ",
+            "via": "via Amerit Fleet Solutions Amerit Fleet Solutions - ICIMS",
+            "description": "Position Summary\n\nAmerit Fleet Solutions, one of the leading Fleet Maintenance companies in the U.S., is seeking an experienced Account Data Analyst to join our growing team! The Account Data Analyst will be responsible for converting data into information, information into insight and insight into business decisions. This person will develop, manage and maintain reporting particular to one of... Amerit\u2019s largest customer segments. Duties include requirements analysis and design, develop analysis and reporting capabilities, and continuously monitor performance and quality control plans to identify improvements.\n\nWhat\u2019s in it for you? Full-Benefits within 30 days! Benefits include medical, dental, vision, prescription drug coverage, paid vacation, holidays, and sick time, 401K, flexible spending accounts, life insurance, disability insurance, ASE certification program, employee recognition program, employee discounts, employee assistance program, and growth opportunities!\n\nEssential Duties & Responsibilities\n\u2022 Work with Account Management and field organizations to develop, enhance and maintain operational reporting.\n\u2022 Work directly with the customer to respond to data requests and reporting requirements.\n\u2022 Implement data collection systems and other strategies that optimize efficiency and data quality.\n\u2022 Acquire data from primary or secondary data sources and maintain databases/data systems.\n\u2022 Filter and \u201cclean\u201d data, and review system reports, other application sources, and performance indicators to locate and correct code problems.\n\u2022 Work closely with management to prioritize business and information needs.\n\u2022 Locate and define new process improvement opportunities.\n\nKey Competencies and Minimum Education\n\u2022 A Bachelor\u2019s Degree in either: Mathematics, Computer Science, Computer Information Technology, Information Management or statistics\n\u2022 3-5 years of strong knowledge with reporting packages (Business Objects), databases (Microsoft SQL Server 2008 - 2016), and programming (XML, JavaScript, or ETL frameworks)\n\u2022 Expert level Excel skills \u2013 pivots, v-lookups, macros, regression and other statistical analysis\n\u2022 Experience in DOMO (preferred) or hands-on experience with other BI tools such as Power BI\n\u2022 Technical expertise regarding data models, database design development, data mining and segmentation techniques\n\u2022 Adept at queries, report writing and presenting findings\n\u2022 Communication Skills\n\u2022 Highly detail-oriented\n\u2022 Analytical Skills\n\u2022 Critical Thinking Skills\n\nWorking Conditions\n\nThe physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n\u2022 Ability to regularly lift and move up to 10 pounds\n\u2022 Ability to stand, walk, sit, talk or hear\n\u2022 Frequent use of hands and fingers\n\u2022 Ability to feel and reach with hands and arms",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A Bachelor\u2019s Degree in either: Mathematics, Computer Science, Computer Information Technology, Information Management or statistics",
+                        "3-5 years of strong knowledge with reporting packages (Business Objects), databases (Microsoft SQL Server 2008 - 2016), and programming (XML, JavaScript, or ETL frameworks)",
+                        "Expert level Excel skills \u2013 pivots, v-lookups, macros, regression and other statistical analysis",
+                        "Technical expertise regarding data models, database design development, data mining and segmentation techniques",
+                        "Adept at queries, report writing and presenting findings",
+                        "Communication Skills",
+                        "Highly detail-oriented",
+                        "Analytical Skills",
+                        "Critical Thinking Skills",
+                        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions",
+                        "Ability to regularly lift and move up to 10 pounds",
+                        "Ability to stand, walk, sit, talk or hear",
+                        "Frequent use of hands and fingers",
+                        "Ability to feel and reach with hands and arms"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Account Data Analyst will be responsible for converting data into information, information into insight and insight into business decisions",
+                        "This person will develop, manage and maintain reporting particular to one of Amerit\u2019s largest customer segments",
+                        "Duties include requirements analysis and design, develop analysis and reporting capabilities, and continuously monitor performance and quality control plans to identify improvements",
+                        "Work with Account Management and field organizations to develop, enhance and maintain operational reporting",
+                        "Work directly with the customer to respond to data requests and reporting requirements",
+                        "Implement data collection systems and other strategies that optimize efficiency and data quality",
+                        "Acquire data from primary or secondary data sources and maintain databases/data systems",
+                        "Filter and \u201cclean\u201d data, and review system reports, other application sources, and performance indicators to locate and correct code problems",
+                        "Work closely with management to prioritize business and information needs",
+                        "Locate and define new process improvement opportunities"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Benefits include medical, dental, vision, prescription drug coverage, paid vacation, holidays, and sick time, 401K, flexible spending accounts, life insurance, disability insurance, ASE certification program, employee recognition program, employee discounts, employee assistance program, and growth opportunities!"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Amerit+Fleet+Solutions&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIgQ0",
+                    "text": "See web results for Amerit Fleet Solutions"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50IERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoidlV5V0hLQmFrcVlBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZZQkNyY0JRVVZ6TjJwT1VYVmZaVUV5TTJ4Wk5WcFhTa3R2VURRM1MxSldhV3hpWVZaMU1VSlFWbWRLTW5sdWFYRm1ZelZvUWt0M2NrZGlNMHB0VlhWeVgyUjJNbXcwYURkS2FsazRiekF3YTJaUU9UZ3RRakZvYTFCSmJuSndXRFZWZVhwalNETkpSVzE0Y25kblQycExiVlEyUWtoVlpGRlBlbEpvUWtKNFpucHVhamc0VWxwYVgySjBTVFJhVUZkRllrUlVWakJQWTFRd1pEUnBiRlJuYzJseWJEVmphV1JtVWw4NVpVbFNXSEpsY0hSWFdHZHJXblEwRWhacVltczVXa3hmVDBSTWRVb3dVRVZRWjNGRFdWTkJHaUpCVHkwd2NtdzJhV3RwUkVRemVFdGxWQzA0TUMxT1lWZFBXbVZyUW1Zek1EaDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBBbWVyaXQgRmxlZXQgU29sdXRpb25zIEFtZXJpdCBGbGVldCBTb2x1dGlvbnMgLSBJQ0lNUyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMtYW1lcml0ZmxlZXQuaWNpbXMuY29tL2pvYnMvMTMwNTEvZGF0YS1hbmFseXN0L2pvYj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Expert/ Data Analyst needed for a uni project",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "The project involves applying the machine learning techniques covered in the lectures (dimensionality reduction, clustering...) to perform a data analysis task. The data will be sourced from Yahoo Finance and Twitter and will focus on the stock market behavior of 100 well-known stock indices, along with associated tweets.",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The project involves applying the machine learning techniques covered in the lectures (dimensionality reduction, clustering...)",
+                        "to perform a data analysis task",
+                        "The data will be sourced from Yahoo Finance and Twitter and will focus on the stock market behavior of 100 well-known stock indices, along with associated tweets"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAIIvA0",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "1 day ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEV4cGVydC8gRGF0YSBBbmFseXN0IG5lZWRlZCBmb3IgYSB1bmkgcHJvamVjdCIsImh0aWRvY2lkIjoiRjVXYW8xZHJSbFFBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFFQ0N1SUJRVVZ6TjJwT1VqVmFhalprVFhOUVpqbFNSWFJPWjB3M2FEUkxTSGhPYUVocVIwSmxURXhrTURGelJFMTVha2RWWlVOb2VDMXBkRGxsZDBWTlRYbG9ZM05uZG5KUVZVRXlVV2N5VlRkRVgzbGhXR1J5TlhOWFdrTmlUMkppTTBaWFNYZ3RVVTV4YjBWZk5qWnRTbGw2YkRSNVZsZDFZVEZpYzA5alIyUTVjV2xGVG5aeVQyWTVialJLWVV0ME56VlhkVjlIZGtvMWJYSmpja1JOUjBGaGJETXRPRVJmVVdGbFdtVmFUVWhXY2xZNGQwd3lhVTUyU3pSblQxUXRjV3c0VFU1SlJscEZOSEV4YjBKaE9VNWZZM2RqVjBORVluWm1lV1psV1ZabmMxTkVVUklXYW1Kck9WcE1YMDlFVEhWS01GQkZVR2R4UTFsVFFSb2lRVTh0TUhKc05qWmhhRFJaY0daZmR5MXNlVmxsWTNKU2JWb3lRek5zTjFZemR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gVXB3b3JrIiwibGluayI6Imh0dHBzOi8vd3d3LnVwd29yay5jb20vZnJlZWxhbmNlLWpvYnMvYXBwbHkvTWFjaGluZS1MZWFybmluZy1FeHBlcnQtRGF0YS1BbmFseXN0LW5lZWRlZC1mb3ItdW5pLXByb2plY3RffjAxNDdiNjNhNGZiYTcyYmM4NS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Business / Data analyst",
+            "company_name": "Virtue Group",
+            "location": " Anywhere ",
+            "via": "via Salary.com",
+            "description": "Job Description\n\nThe business / data analyst will be part of a cross-functional scrum team responsible for providing solution for a suite of Enterprise products under the Transformation Portfolio. The Data Analyst will be responsible for refining features and requirements, investigating data in source systems, analyzing data lineage, providing and maintaining source-to-target mapping, inputs to... information models and report designs and assisting rest of the team in day to day data related support. The candidate must be a self-starter, passionate about data and have a proactive mindset and a high degree of critical thinking\n\nJob Qualifications\n\nProven working experience as a Data Analyst, System Analyst or Business Data Analyst in a data-centric domain for at least 5-7 years. Experience in healthcare industry preferred but not required.\n\nTechnical expertise in navigating and analyzing data in Relational Databases and Cloud Google Cloud Platform eco system.\n\nStrong analytical and problem-solving skills\n\nAdept at SQL queries and presenting findings, Candidates with hands-on coding experience a plus.\n\nAbility to organize and lead meetings with business and operational data owners\n\nAbility to set and meet deadlines, work in high-pressure situations\n\nExcellent attention to detail\n\nStrong written/verbal communication skills\n\nReport this job\n\u2022 Dice Id: 91116358\n\u2022 Position Id: 7847531\n\u2022",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The candidate must be a self-starter, passionate about data and have a proactive mindset and a high degree of critical thinking",
+                        "Proven working experience as a Data Analyst, System Analyst or Business Data Analyst in a data-centric domain for at least 5-7 years",
+                        "Technical expertise in navigating and analyzing data in Relational Databases and Cloud Google Cloud Platform eco system",
+                        "Strong analytical and problem-solving skills",
+                        "Ability to organize and lead meetings with business and operational data owners",
+                        "Ability to set and meet deadlines, work in high-pressure situations",
+                        "Excellent attention to detail",
+                        "Strong written/verbal communication skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The business / data analyst will be part of a cross-functional scrum team responsible for providing solution for a suite of Enterprise products under the Transformation Portfolio",
+                        "The Data Analyst will be responsible for refining features and requirements, investigating data in source systems, analyzing data lineage, providing and maintaining source-to-target mapping, inputs to information models and report designs and assisting rest of the team in day to day data related support"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Virtue+Group&sa=X&ved=0ahUKEwj_yKvE7bH-AhW7BDQIHQIQBgk4HhCYkAII_A0",
+                    "text": "See web results for Virtue Group"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyAvIERhdGEgYW5hbHlzdCIsImh0aWRvY2lkIjoiQXRudXFndDlzamdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXVFQkNxSUJRVVZ6TjJwT1UxUnhUMHB5VTFOV2RHdGpaVkZmVUVKTU0xTnNiMnB5WWt0a1JHTjJjSEJ4WDFsaVdHcG5VR1JITFdkWU5IZEJiREI0VjFKSFpFZEljbkoyU0ZvMWVscHJja1EyVEdzM1ZYTmxkRzFPUmw4MWMxUkhSVkkxYURWRFEwVlRSMnB1VW5ZeFJtTTNUME40V0RKcVprMUpVV3BNZFZaUldrRkhiVGRGY0VoQ2QwTjBhRzFRV1RodVJuUkpOV0ZCY2xRd1kzSm5hWFZoWDI1Tll6RkJFaFpxWW1zNVdreGZUMFJNZFVvd1VFVlFaM0ZEV1ZOQkdpSkJUeTB3Y213MldrUm1SbWxLUjNGZk1tWmZPRVJJTkZoVE4xa3RVVGhoV2pOQiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNhbGFyeS5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cuc2FsYXJ5LmNvbS9qb2IvdmlydHVlLWdyb3VwL2J1c2luZXNzLWRhdGEtYW5hbHlzdC9qMjAyMzA0MTIwMjQyNDI2MDg4NDQ5P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Data analyst",
+                    "value": "data analyst"
+                },
+                {
+                    "text": "Analyst",
+                    "value": "analyst"
+                },
+                {
+                    "text": "Business",
+                    "value": "business"
+                },
+                {
+                    "text": "Systems analyst",
+                    "value": "systems analyst"
+                },
+                {
+                    "text": "Writer",
+                    "value": "writer"
+                },
+                {
+                    "text": "Advisor",
+                    "value": "advisor"
+                },
+                {
+                    "text": "Analyst senior",
+                    "value": "analyst senior"
+                },
+                {
+                    "text": "Biostatistician",
+                    "value": "biostatistician"
+                },
+                {
+                    "text": "Business analyst",
+                    "value": "business analyst"
+                },
+                {
+                    "text": "Consultant",
+                    "value": "consultant"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Engineering technician",
+                    "value": "engineering technician"
+                },
+                {
+                    "text": "Intelligence analyst",
+                    "value": "intelligence analyst"
+                },
+                {
+                    "text": "Management analyst",
+                    "value": "management analyst"
+                },
+                {
+                    "text": "Planning analyst",
+                    "value": "planning analyst"
+                },
+                {
+                    "text": "Process analyst",
+                    "value": "process analyst"
+                },
+                {
+                    "text": "Senior associate",
+                    "value": "senior associate"
+                },
+                {
+                    "text": "Support analyst",
+                    "value": "support analyst"
+                },
+                {
+                    "text": "Technical consultant",
+                    "value": "technical consultant"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Oklahoma City, OK",
+                    "value": "gdL4flSKrYedOk_RdBKiMw=="
+                },
+                {
+                    "text": "Jefferson City, MO",
+                    "value": "8Qo7Tqtd24et2ai8S8nnsg=="
+                },
+                {
+                    "text": "Cassville, MO",
+                    "value": "OUvy21DQyIc6hF_OIVWVzg=="
+                },
+                {
+                    "text": "Kansas City, MO",
+                    "value": "l5npr173wIeiUapq5iWFVQ=="
+                },
+                {
+                    "text": "Pea Ridge, AR",
+                    "value": "6xf8mywZyYe6kgw_pTHC3w=="
+                },
+                {
+                    "text": "Rogers, AR",
+                    "value": "fVbBUdQQyYfU9HNTz74Zzg=="
+                },
+                {
+                    "text": "Tulsa, OK",
+                    "value": "jy7R3biStof3atkbyBBp5w=="
+                },
+                {
+                    "text": "Anderson, MO",
+                    "value": "xZJyU_xWyIeLkG_wPNh9sw=="
+                },
+                {
+                    "text": "Elkins, AR",
+                    "value": "wTlAeqlDyYcwYhRAWUq6fw=="
+                },
+                {
+                    "text": "Gravette, AR",
+                    "value": "w8TGtmupyYfe37-QmZ2BFg=="
+                },
+                {
+                    "text": "Kansas City, KS",
+                    "value": "FTXPJ-SMwIcFHsNwe3d33A=="
+                },
+                {
+                    "text": "Olathe, KS",
+                    "value": "QU8fEKWXwIewfX6dVjiCwQ=="
+                },
+                {
+                    "text": "Overland Park, KS",
+                    "value": "0zgmp1GVwIfI-UQ460_OJA=="
+                },
+                {
+                    "text": "Springdale, AR",
+                    "value": "eYV1ArMUyYdavDvUreoxoQ=="
+                },
+                {
+                    "text": "Springfield, MO",
+                    "value": "P5jIRfdiz4egDWkes2z9aw=="
+                },
+                {
+                    "text": "Columbia, MO",
+                    "value": "yYKBu_Or3Icgb726LWkRoA=="
+                },
+                {
+                    "text": "Decatur, AR",
+                    "value": "3YcD6xemyYcJJvgrmGU1eQ=="
+                },
+                {
+                    "text": "Elm Springs, AR",
+                    "value": "weUZtbASyYc-0yhD2qMB6A=="
+                },
+                {
+                    "text": "Farmington, AR",
+                    "value": "3TIDmiRwyYcjV7nAAjLNAA=="
+                },
+                {
+                    "text": "Fayetteville, AR",
+                    "value": "nT61L3tvyYfPyLT8afAZRQ=="
+                },
+                {
+                    "text": "Fort Smith, AR",
+                    "value": "j3azjrpMyoeK-isV0re17w=="
+                },
+                {
+                    "text": "Goshen, AR",
+                    "value": "eV-AEuJDyYfr38SF3HJZ-Q=="
+                },
+                {
+                    "text": "Johnson, AR",
+                    "value": "H2EBZEJsyYfs4-VLPIyX7Q=="
+                },
+                {
+                    "text": "Lenexa, KS",
+                    "value": "rZknHh-UwIcLSV98iPViMg=="
+                },
+                {
+                    "text": "Noel, MO",
+                    "value": "j1H-t1pTyIfdC4IScI3jLA=="
+                },
+                {
+                    "text": "Tontitown, AR",
+                    "value": "o_pMF5RyyYfEvqij54Opug=="
+                },
+                {
+                    "text": "Topeka, KS",
+                    "value": "KXrs2uQCv4fwp-Nq0Ocrvg=="
+                },
+                {
+                    "text": "Wichita, KS",
+                    "value": "LRh_0mrbuoc-PdN0v9WWkw=="
+                },
+                {
+                    "text": "All, MO",
+                    "value": "Wey1pl2Bz4es-p5xlwWARw=="
+                },
+                {
+                    "text": "Atchison, KS",
+                    "value": "cTvuXj-Lv4cXOT3cLOqOGA=="
+                },
+                {
+                    "text": "Beatrice, NE",
+                    "value": "C0H7B6lCloc9jdFZsJrjkg=="
+                },
+                {
+                    "text": "Bella Vista, AR",
+                    "value": "Z0n6p3ADyYdTNdi6WXymSQ=="
+                },
+                {
+                    "text": "Broken Arrow, OK",
+                    "value": "EU6rbj1itodcJqZGOKslKA=="
+                },
+                {
+                    "text": "Centerton, AR",
+                    "value": "99IuBIgFyYehPLOyXut7XQ=="
+                },
+                {
+                    "text": "Edmond, OK",
+                    "value": "E8VDFbMfsofMhNEdNhAURg=="
+                },
+                {
+                    "text": "Evansville, AR",
+                    "value": "fVu-cpkpyof8-2Pa0npO_Q=="
+                },
+                {
+                    "text": "Greenland, AR",
+                    "value": "mYDB0JhlyYcwPNpDzC4CBw=="
+                },
+                {
+                    "text": "Lowell, AR",
+                    "value": "S99nqxEUyYcglsAlyy4CBw=="
+                },
+                {
+                    "text": "Manhattan, KS",
+                    "value": "LWPDRO-3vYfvxxJzSF0YqQ=="
+                },
+                {
+                    "text": "Mission, KS",
+                    "value": "4Q3sAs7twIegN_6kDLgDHA=="
+                },
+                {
+                    "text": "Nevada, MO",
+                    "value": "B8gvD09UxodE3WkOm4i7ww=="
+                },
+                {
+                    "text": "Norman, OK",
+                    "value": "5-6Tf7Zjsof4XKirPyNbRA=="
+                },
+                {
+                    "text": "Prague, OK",
+                    "value": "VQS7EhTps4eP5GkvXZOhug=="
+                },
+                {
+                    "text": "Roxton, TX",
+                    "value": "N4BxEjFTSoZAFL5vVZnkIg=="
+                },
+                {
+                    "text": "Stillwater, OK",
+                    "value": "I6-Z6_kJsYeZ0RAgFtqRjA=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Entertainment",
+                    "value": "/business/naics2007/71"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Accounting",
+                    "value": "/business/naics2007/5412"
+                },
+                {
+                    "text": "Construction",
+                    "value": "/business/naics2007/23"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Rental",
+                    "value": "/business/naics2007/532"
+                },
+                {
+                    "text": "Repair",
+                    "value": "/business/naics2007/811"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Restaurant",
+                    "value": "/business/naics2007/722"
+                },
+                {
+                    "text": "Textiles & Apparel",
+                    "value": "/business/naics2007/313"
+                },
+                {
+                    "text": "Utilities",
+                    "value": "/business/naics2007/22"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Insight Global",
+                    "value": "/m/0b773zq"
+                },
+                {
+                    "text": "Apex Systems",
+                    "value": "/g/11bycxrxk8"
+                },
+                {
+                    "text": "Avispa",
+                    "value": "/g/11h1y7_gl0"
+                },
+                {
+                    "text": "CTG",
+                    "value": "/m/02wbf6g"
+                },
+                {
+                    "text": "CareSource",
+                    "value": "/m/064q3dd"
+                },
+                {
+                    "text": "Cargill",
+                    "value": "/m/03sw9w"
+                },
+                {
+                    "text": "Centene Corporation",
+                    "value": "/m/028095t"
+                },
+                {
+                    "text": "Cox Enterprises",
+                    "value": "/g/11c52t1pn4"
+                },
+                {
+                    "text": "Dave",
+                    "value": "/g/11fpcywns0"
+                },
+                {
+                    "text": "Deel",
+                    "value": "/g/11p67fg1nx"
+                },
+                {
+                    "text": "Dice",
+                    "value": "/m/02_3ckm"
+                },
+                {
+                    "text": "Diverse Lynx",
+                    "value": "/g/11dxp_49r_"
+                },
+                {
+                    "text": "Docker, Inc",
+                    "value": "/g/11c58pb160"
+                },
+                {
+                    "text": "Modis",
+                    "value": "/g/11b7cdyb52"
+                },
+                {
+                    "text": "O'Reilly Auto Parts",
+                    "value": "/m/0h7_x_"
+                },
+                {
+                    "text": "Oklahoma Medical Research Foundation (OMRF)",
+                    "value": "/m/07hmc0"
+                },
+                {
+                    "text": "Robert Half",
+                    "value": "/m/07k98m"
+                },
+                {
+                    "text": "Seacoast Bank",
+                    "value": "/m/03p33yf"
+                },
+                {
+                    "text": "The Rector & Visitors of the University of Virginia",
+                    "value": "/g/11bc6qhhl6"
+                },
+                {
+                    "text": "ACTIVISION PUBLISHING, INC",
+                    "value": "/m/09j_g"
+                },
+                {
+                    "text": "Addison Group",
+                    "value": "/m/011qdhv9"
+                },
+                {
+                    "text": "Aditi Consulting",
+                    "value": "/m/02x0w19"
+                },
+                {
+                    "text": "Airswift",
+                    "value": "/g/11clw7gnbh"
+                },
+                {
+                    "text": "Alderson Loop",
+                    "value": "/g/11dxq2t780"
+                },
+                {
+                    "text": "AmeriHealth Caritas",
+                    "value": "/g/11bc6w3jt6"
+                },
+                {
+                    "text": "Analytic Recruiting Inc.",
+                    "value": "/g/1dtw3ptz"
+                },
+                {
+                    "text": "Aon",
+                    "value": "/m/0z7n"
+                },
+                {
+                    "text": "Appen",
+                    "value": "/g/11gv0v4sl5"
+                },
+                {
+                    "text": "Arrow Electronics India Private Limited",
+                    "value": "/m/09n1sqc"
+                },
+                {
+                    "text": "Ascendion",
+                    "value": "/g/11bc6n8838"
+                },
+                {
+                    "text": "Atmosfy, Inc",
+                    "value": "/g/11p0_hwfyk"
+                },
+                {
+                    "text": "Aurora Solar",
+                    "value": "/g/11f012n_zq"
+                },
+                {
+                    "text": "Axelon Services Corporation",
+                    "value": "/g/11fy25mwb0"
+                },
+                {
+                    "text": "Booz Allen Hamilton Inc.",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "CBRE Group, Inc",
+                    "value": "/m/090r7m"
+                },
+                {
+                    "text": "CCS globaltech",
+                    "value": "/g/11c74t84d9"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1164 @@
+{
+    "search_metadata": {
+        "id": "643dbb321baebbcead151a8a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1d4f702acfb6ac9e/643dbb321baebbcead151a8a.json",
+        "created_at": "2023-04-17 21:33:38 UTC",
+        "processed_at": "2023-04-17 21:33:38 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=reinforcement+learning&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/1d4f702acfb6ac9e/643dbb321baebbcead151a8a.html",
+        "total_time_taken": 3.87
+    },
+    "search_parameters": {
+        "q": "reinforcement learning",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "Senior Manager, Data Science - Reinforcement Learning (Remote)",
+            "company_name": "The Home Depot",
+            "location": "  United States   ",
+            "via": "via Careers.peopleclick.com",
+            "description": "Position Purpose:\n\nThe Data Science Sr Manager for Reinforcement Learning team will lead a group of talented data scientists to explore cutting edge academic researches in online learning and design, develop and deploy Reinforcement Learning family of algorithms in our Online & Marketing optimization and personalization space.\n\nThe Data Science Sr. Manager is responsible for leading a team of data scientists (individual contributors, technical experts, and/or people managers), ensuring that their efforts drive business profitability, increased efficiencies and improved customer experience. This role harmonizes between the continuous drive towards data science research and learning and the needs of the business. As a Data Science Sr. Manager, you will provide executive summaries to all levels of the organization and leverage your business knowledge and network to identify opportunities to leverage data science solutions. This role is expected to lead the collaboration between Data... Science Managers across the organization to align strategies and effectively manage talent. These responsibilities require effective communication skills, building relationships and partnerships, and leveraging business proficiency to solutions and recommendations.\nAs a Data Science Sr. Manager, you will provide executive summaries to all levels of the organization and leverage your business knowledge and network to identify opportunities to leverage data science solutions . This role is expected to lead collaboration between Data Science Managers across the organization for aligning strategies and effectively managing talent. These responsibilities require effective communication skills, building relationships and partnerships, and leveraging business proficiency to solutions and recommendations.\n\nKey Responsibilities:\n\u2022 50% People Management & Team Leadership - Provide leadership, mentorship and coaching to direct reports and evaluate performance, execution, and contribution; Support Data Science Director in establishing a clear vision for the team and influencing reach with business partners; Attract, retain and develop top talent to build an effective and high performing teams; Support team in development of business knowledge and technical skills with clear plans and regular assessment of progress; Develop onboarding and training plan for both technical and soft skills that will ensure high level of capabilities within the team; Foster collaboration and alignment between different data science roles to develop a supportive and engaged team; Ensure best practices and world-class techniques are leveraged in the solutioning for business problems and future team reach; Drive team's results and celebrate accomplishments\n\u2022 15% Program Management - Prioritize and assign projects by striking a balance between a variety of factors, like funding, return on investment, innovative or challenging work, among others; Manage programs for the team to ensure consistency of execution, balance of resources and quality solutions; Collaborate with program managers and business partners to align on objectives and expectations and ensure project teams deliver against them; Serve as escalation point for any issues or difficulties with specific projects; Provide executive updates to leaders at all levels of the organization on program effectiveness, team accomplishments, summary of findings and recommended solution, and explain internal and external impacts; Be a champion and advocate for the team's capabilities, expertise, and needs\n\u2022 25% Strategy & Business Development - Leverage extensive business knowledge and relationships to seek out new business opportunities to leverage data science and advocate for team's skills; Effectively develop trust and collaboration with internal customers and cross-functional teams; Ensure alignment with IT support model, collaboration, tools and governance to enable data scientists to be most effective in executing their roles; Collaborate with other data science managers across the organization to lead the efforts of developing high level strategy and optimizing talent management\n\u2022 10% Technical Exploration & Development - Seek further knowledge on key developments within data science, technical skill sets, and additional data sources; Participate in the continuous improvement of data science and analytics by developing replicable solutions (for example, codified data products, project documentation, process flowcharts) to ensure solutions are leveraged for future projects; Ensure best practices and vision for data analysis and model productionalization are leveraged\n\nDirect Manager/Direct Reports:\n\u2022 This position reports to Director or above\n\u2022 This position has Direct Reports and manages programs\n\nTravel Requirements:\n\u2022 Typically requires overnight travel 5% to 20% of the time.\n\nPhysical Requirements:\n\u2022 Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.\n\nWorking Conditions:\n\u2022 Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Position Purpose:\n\nThe Data Science Sr Manager for Reinforcement Learning team will lead a group of talented data scientists to explore cutting edge academic researches in online learning and design, develop and deploy Reinforcement Learning family of algorithms in our Online & Marketing optimization and personalization space.\n\nThe Data Science Sr. Manager is responsible for leading a team of data scientists (individual contributors, technical experts, and/or people managers), ensuring that their efforts drive business profitability, increased efficiencies and improved customer experience. This role harmonizes between the continuous drive towards data science research and learning and the needs of the business. As a Data Science Sr. Manager, you will provide executive summaries to all levels of the organization and leverage your business knowledge and network to identify opportunities to leverage data science solutions. This role is expected to lead the collaboration between Data... Science Managers across the organization to align strategies and effectively manage talent. These responsibilities require effective communication skills, building relationships and partnerships, and leveraging business proficiency to solutions and recommendations.\nAs a Data Science Sr. Manager, you will provide executive summaries to all levels of the organization and leverage your business knowledge and network to identify opportunities to leverage data science solutions . This role is expected to lead collaboration between Data Science Managers across the organization for aligning strategies and effectively managing talent. These responsibilities require effective communication skills, building relationships and partnerships, and leveraging business proficiency to solutions and recommendations.\n\nKey Responsibilities:\n\u2022 50% People Management & Team Leadership - Provide leadership, mentorship and coaching to direct reports and evaluate performance, execution, and contribution; Support Data Science Director in establishing a clear vision for the team and influencing reach with business partners; Attract, retain and develop top talent to build an effective and high performing teams; Support team in development of business knowledge and technical skills with clear plans and regular assessment of progress; Develop onboarding and training plan for both technical and soft skills that will ensure high level of capabilities within the team; Foster collaboration and alignment between different data science roles to develop a supportive and engaged team; Ensure best practices and world-class techniques are leveraged in the solutioning for business problems and future team reach; Drive team's results and celebrate accomplishments\n\u2022 15% Program Management - Prioritize and assign projects by striking a balance between a variety of factors, like funding, return on investment, innovative or challenging work, among others; Manage programs for the team to ensure consistency of execution, balance of resources and quality solutions; Collaborate with program managers and business partners to align on objectives and expectations and ensure project teams deliver against them; Serve as escalation point for any issues or difficulties with specific projects; Provide executive updates to leaders at all levels of the organization on program effectiveness, team accomplishments, summary of findings and recommended solution, and explain internal and external impacts; Be a champion and advocate for the team's capabilities, expertise, and needs\n\u2022 25% Strategy & Business Development - Leverage extensive business knowledge and relationships to seek out new business opportunities to leverage data science and advocate for team's skills; Effectively develop trust and collaboration with internal customers and cross-functional teams; Ensure alignment with IT support model, collaboration, tools and governance to enable data scientists to be most effective in executing their roles; Collaborate with other data science managers across the organization to lead the efforts of developing high level strategy and optimizing talent management\n\u2022 10% Technical Exploration & Development - Seek further knowledge on key developments within data science, technical skill sets, and additional data sources; Participate in the continuous improvement of data science and analytics by developing replicable solutions (for example, codified data products, project documentation, process flowcharts) to ensure solutions are leveraged for future projects; Ensure best practices and vision for data analysis and model productionalization are leveraged\n\nDirect Manager/Direct Reports:\n\u2022 This position reports to Director or above\n\u2022 This position has Direct Reports and manages programs\n\nTravel Requirements:\n\u2022 Typically requires overnight travel 5% to 20% of the time.\n\nPhysical Requirements:\n\u2022 Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.\n\nWorking Conditions:\n\u2022 Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.homedepot.com/",
+                    "text": "homedepot.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=The+Home+Depot&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAIIuQk",
+                    "text": "See web results for The Home Depot"
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTWFuYWdlciwgRGF0YSBTY2llbmNlIC0gUmVpbmZvcmNlbWVudCBMZWFybmluZyAoUmVtb3RlKSIsImh0aWRvY2lkIjoiaU9xVVhJTmFLU2tBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1VscEtPR3hOYWkxb2FXUnpZbTVZY1hWaVkyRnhlVnBsTUZacmVHRkhVRkU0UkVocGFqUXljV0pTUVc1c2RtWlpVR2xzY0RGamVWOWpiRGRPYkdOR1IzUTNSekpGTm01WlpsQk5jVjlGV1hGQ1FUUnJiVFF5YkdWVVluRjBSRzl4TW5sckxXVnZiRmhUVEhvd1FVeFpVSFIzWm01alZUbFVNazFqU0hkbk1VVjFTVWRHUm1FeGFEaElZM2xQTldkSGEyTlRXRzFxWVZaTmQzQkdZVFoxTjJjd2RXMW5Za3hxVDFSdGJIaHVNaTFJZDI5Sk4wWjBXRVJYVG5GeGN6TlplVTFLUkVsR2VVSXpSMGs1UWxOb1QzTldSRFJmVGtaUFowMTFUVzFzWWtWd1RrNVFhSGxqTW5KVVVUZDZhbW8xVFJJWFRtSnpPVnBQY1dkQ1dUSk9kMkpyVUdsa1pXbHJRVGdhSWtGUExUQnliRFJrWkRSU1EwRmtOMGxMY1hSVVQwVmZaRlF4VDFsWmNIWnZPV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIENhcmVlcnMucGVvcGxlY2xpY2suY29tIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5wZW9wbGVjbGljay5jb20vY2FyZWVyc2NwL2NsaWVudF9ob21lZGVwb3QvZXh0ZXJuYWwvZW4tdXMvZ2F0ZXdheS5kbz9mdW5jdGlvbk5hbWU9dmlld0Zyb21MaW5rXHUwMDI2am9iUG9zdElkPTQyMjUyM1x1MDAyNmxvY2FsZUNvZGU9ZW4tdXNcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer: Deep Reinforcement Learning",
+            "company_name": "Primordial Labs",
+            "location": " Anywhere ",
+            "via": "via Primordial Labs",
+            "description": "What We Do:\n\nPrimordial Labs is developing Scipio, a tactical AI assistant for drones that significantly reduces the cognitive load on pilots through machine learning...\n\nJob Description:\n\n(Please Note: This is a 100% remote position that requires residence in the United States.)\n\nWe're looking for machine learning engineers with a background in reinforcement learning. Candidates with expertise in any of the following areas are highly desirable:\n\u2022 Closing the sim2real gap\n\u2022 Sparse rewards and credit assignment over long time horizons\n\u2022 Offline learning\n\u2022 Options learning and other hierarchical approaches\n\u2022 Unsupervised exploration techniques\n\u2022 Gym development (especially around complex DoD wargaming and platform simulation systems!)\n\nAs a company co-founded and led by engineers, we are focused on developer experience. We promise to minimize distractions (read: meetings) and to provide tools which maximize productivity. We are also committed to providing competitive total compensation, including profit sharing.\n\nWhat You'll Do:\n\nWe are a small company, so you can expect to be an integral part of all phases of product development. Including lots and lots of flight testing. Here are a few examples of how you\u2019ll contribute to the development of our tactical AI assistant, Scipio:\n\u2022 Develop policies for tasks ranging from low-level aircraft control to high-level task assignment.\n\u2022 Transition policies to a number of physical unmanned vehicles and evaluate performance in the field.\n\u2022 Incorporate new aircraft/sensor models and simulation environments into our multi-fidelity hierarchical M&S framework.\n\nAbout You:\n\nThere are no educational requirements. We're more interested in projects you've worked on - both on the job and on the side. So please be prepared to discuss those! The ideal candidate will have excellent Python skills and be adept in at least one ML framework (PyTorch, TensorFlow, etc.).\n\nApplication Process:\n\nWe have a two-stage interview process.\n\nThe\nfirst stage is a screener which is a combination of technical\ndiscussion about relevant engineering concepts as well as your past\nexperience. This screener is generally around 30 minutes.\n\nAfter\nthe screener, if both sides believe it makes sense, we will provide\nyou with an 'offline' coding test. This test is done on your own time,\nat your own pace, so you do not feel the pressure of coding live with\nus watching. We want you to do your best with a clear mind and free of\ninterview jitters. The questions are a combination of algorithm and\nsystem design. Once you complete the test, we'll all hop back on another\ncall and you will walk us through your code. We are not just looking\nfor the right answers, we're interested in your thought processes and\ntechnical approach.\n\nWe are committed to a low-stress interview experience and promise there will be no trick questions or brain teasers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Closing the sim2real gap",
+                        "Sparse rewards and credit assignment over long time horizons",
+                        "Offline learning",
+                        "Options learning and other hierarchical approaches",
+                        "Unsupervised exploration techniques",
+                        "Gym development (especially around complex DoD wargaming and platform simulation systems!)",
+                        "There are no educational requirements",
+                        "The ideal candidate will have excellent Python skills and be adept in at least one ML framework (PyTorch, TensorFlow, etc.)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We are a small company, so you can expect to be an integral part of all phases of product development",
+                        "Develop policies for tasks ranging from low-level aircraft control to high-level task assignment",
+                        "Transition policies to a number of physical unmanned vehicles and evaluate performance in the field",
+                        "Incorporate new aircraft/sensor models and simulation environments into our multi-fidelity hierarchical M&S framework"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.primordial-labs.com/",
+                    "text": "primordial-labs.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Primordial+Labs&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAII-Qk",
+                    "text": "See web results for Primordial Labs"
+                }
+            ],
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyOiBEZWVwIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmciLCJodGlkb2NpZCI6ImQwTEN2SzhLUXRrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VV1ZzY1ZaVGQzSTFabFZVYlRkc2VXRlBiR3RpYVc5cFdtTTBXR05IY0ZOWmRucFpVSEJTY0VOTVVtWm5iVVV5WjJGaFlYZDVSRzFTTVhsU1JFUmxaR1pGTVZKRWFWZENXbEJQVHpadlRFUm1hR3R3V2xaeFZUSnVVRkIwUWpaR1VsRm1WMWxYTUZndGFHTmZSbVJFV0c5NGEzcE5lbXBXTmtoSmRIaDVZMFJXWjFSTGNuaExjR3BNYW1kVmNYVnpabHB6UjNKT2VGbFhTbTVPWTFwNWFIRkNVRFZ0VEVadE9EZHZVblpuU25odU9XTnhkWEJrTldOSGVFMTZkMUZVVjBJdGVsUkZhM1pyYmpOU1pHaHBhbGRFWkdOUU9GTnlOMmszUVJJWFRtSnpPVnBQY1dkQ1dUSk9kMkpyVUdsa1pXbHJRVGdhSWtGUExUQnliRFJEY0VKWk9FRlZUREJ6UVc1UVlVUnlRMnRXT1dwSFJYcEVkRUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFByaW1vcmRpYWwgTGFicyIsImxpbmsiOiJodHRwczovL3ByaW1vcmRpYWwtbGFicy5icmVlenkuaHIvcC9hZDg0M2NlOWZhYTMtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1kZWVwLXJlaW5mb3JjZW1lbnQtbGVhcm5pbmc/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Lead Reinforcement Learning Engineer",
+            "company_name": "Samson Rose",
+            "location": " Anywhere ",
+            "via": "via LinkedIn",
+            "description": "Samson Rose is exclusively engaged with a stealth-mode client to help them look for a Lead Reinforcement Learning (RL) Engineer to reimagine the way design and systems engineering is done \u2013 incorporating novel design and analysis packages into a unique proprietary machine learning framework.\n\nThis person will be responsible for the reinforcement learning architecture and framework, integration... with other internally developed engineering tools, and training and validating the RL agents. They will be responsible for building out the AI/ML/RL team, solution, cloud training infrastructure, and analytics platforms.\n\nResponsibilities:\n\u2022 Develop, design, and implement reinforcement learning architectures and plan in conjunction with the CEO and technical leadership\n\u2022 Incorporate state-of-the-art reinforcement learning practices/methods from model-based and model-free frameworks as well as Markovian (discrete) and continuous design spaces\n\u2022 Extend libraries and frameworks as needed\n\u2022 Incorporate open-source ML libraries into workflows, e.g. TensorFlow, Keras, PyTorch, Ray (RLlib), etc. \u2013 experience in at least one is a must\n\u2022 Experience with ML pipelines and popular deep learning architectures, including CNNs, Transformers, Multi-Head Attention Networks, and RNNs\n\u2022 Decompose abstract high-level engineering concepts, problems, and scenarios into mathematical representations for training AI models\n\u2022 Perform statistical analysis, hyperparameter tuning, and test results analysis\n\u2022 Deploy models/agents in the field\n\u2022 Creating & implementing parallel CPU/GPU/TPU training configurations\n\u2022 Keep abreast of developments in the ML field\n\u2022 Documenting work and code\n\u2022 Running code reviews, implementing agile SW development practices\n\u2022 Identify, hire, and build the Machine Learning team with support from the rest of the organization\n\nQualifications:\n\u2022 Proven SW team leadership and management experience\n\u2022 Significant and demonstrable experience in recruiting, hiring and onboarding teams\n\u2022 Proven experience in machine or reinforcement learning through products built\n\u2022 Demonstrable experience with commercial machine learning tools & frameworks, e.g. TensorFlow, Keras, PyTorch, Ray (RLlib), etc.\n\u2022 Deep knowledge of math, probability, statistics, and algorithms\n\u2022 Agile SW development practices\n\u2022 The ability to work well with other team members, lead projects to completion, and work independently.\n\u2022 Interest in working in a fast-paced development environment.\n\u2022 Bachelor\u2019s degree in Computer Science, Mathematics, Software Engineering or equivalent combination of education and experience\n\u2022 Must be a US Citizen or Lawful Permanent Resident\n\nOur client offers competitive compensation packages including equity options as well as benefits",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "TensorFlow, Keras, PyTorch, Ray (RLlib), etc. \u2013 experience in at least one is a must",
+                        "Experience with ML pipelines and popular deep learning architectures, including CNNs, Transformers, Multi-Head Attention Networks, and RNNs",
+                        "Proven SW team leadership and management experience",
+                        "Significant and demonstrable experience in recruiting, hiring and onboarding teams",
+                        "Proven experience in machine or reinforcement learning through products built",
+                        "Demonstrable experience with commercial machine learning tools & frameworks, e.g",
+                        "Deep knowledge of math, probability, statistics, and algorithms",
+                        "Agile SW development practices",
+                        "The ability to work well with other team members, lead projects to completion, and work independently",
+                        "Interest in working in a fast-paced development environment",
+                        "Bachelor\u2019s degree in Computer Science, Mathematics, Software Engineering or equivalent combination of education and experience",
+                        "Must be a US Citizen or Lawful Permanent Resident"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This person will be responsible for the reinforcement learning architecture and framework, integration with other internally developed engineering tools, and training and validating the RL agents",
+                        "They will be responsible for building out the AI/ML/RL team, solution, cloud training infrastructure, and analytics platforms",
+                        "Develop, design, and implement reinforcement learning architectures and plan in conjunction with the CEO and technical leadership",
+                        "Incorporate state-of-the-art reinforcement learning practices/methods from model-based and model-free frameworks as well as Markovian (discrete) and continuous design spaces",
+                        "Extend libraries and frameworks as needed",
+                        "Incorporate open-source ML libraries into workflows, e.g",
+                        "Decompose abstract high-level engineering concepts, problems, and scenarios into mathematical representations for training AI models",
+                        "Perform statistical analysis, hyperparameter tuning, and test results analysis",
+                        "Deploy models/agents in the field",
+                        "Creating & implementing parallel CPU/GPU/TPU training configurations",
+                        "Keep abreast of developments in the ML field",
+                        "Documenting work and code",
+                        "Running code reviews, implementing agile SW development practices",
+                        "Identify, hire, and build the Machine Learning team with support from the rest of the organization"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our client offers competitive compensation packages including equity options as well as benefits"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Samson+Rose&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAIIuQo",
+                    "text": "See web results for Samson Rose"
+                }
+            ],
+            "extensions": [
+                "8 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "8 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmcgRW5naW5lZXIiLCJodGlkb2NpZCI6ImpCdy13QWxBZTVjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVWek4ycE9VblZqYVdKa1lXdFlNMHMzWmxKMU5HRjVhVUpVU1ZCeWRHRTVXR3Q2TFhnMGEweHBOVE5QVUhKTmVYRnlVakpJZGtocFNFdGlUVGhSTkV4VmJXSjRNMFptV1VZeVdVTkhNR3N5VVV4clJHUlhlVFpWT0VKU2FYbEdOMkpYZUVKQlVUbGlXbWN3ZUZOWGNtMVhSa0ZGTkMxVFdUQTFhVWx5WVRoMmIwRnVkMjQ0UkZkSVVtUTRja2xNY2pKdGMyVnljMjFyTXpKNFduQlJPVXR6WnpWdGMybG9UVlV5UjI1VVJFVkpRMlZ5VmxrNEVoZE9Zbk01V2s5eFowSlpNazUzWW10UWFXUmxhV3RCT0JvaVFVOHRNSEpzTkdvM01WZ3llbUpNTm13d1RXWm5hRVZyWWtZeE1qaHlPVEkxUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvbGVhZC1yZWluZm9yY2VtZW50LWxlYXJuaW5nLWVuZ2luZWVyLWF0LXNhbXNvbi1yb3NlLTM1NTY3MTM4MjE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Scientist II - Reinforcement Learning (remote)",
+            "company_name": "MultiPlan",
+            "location": " Anywhere ",
+            "via": "via ZipRecruiter",
+            "description": "Job Description\n\nData Scientist - Reinforcement Learning (remote...\n\nImagine a workplace that encourages you to interpret, innovate and inspire. Our employees do just that by helping healthcare payers manage the cost of care, improve competitiveness and inspire positive change. You can be part of an established company with a 40-year legacy that helps our customers thrive by interpreting our client's needs and tailoring innovative healthcare cost management solutions.\n\nOur commitment to diversity, inclusion and belonging are part of the fabric of our company. We strive to create a workplace that fosters mutual respect and collaboration, where every talented individual can participate and perform their best work. We are MultiPlan and we are where bright people come to shine!\n\nThis is a work-from-home position\n\nMultiplan pioneers innovative solutions for healthcare payments, drawing on unique insights and data analysis to create customized action plans to help our customers thrive. This position focuses on developing a new product to better address our clients' claims management needs in the out of network space. The data scientist will work with stakeholders across the business to identify opportunities, understand data, develop actionable insights, and work to implement those insights into practice. Let's work together to improve our healthcare space!\n\nJob Description\nDo you have a passion for interactive machine learning - online learning, bandits, game theory, agent-based modeling, discrete-event systems, active learning, deeplLearning (DL), reinforcement learning (RL), multiagent systems? Are you excited about using your skills to help individuals improve their health?\n\nOur Data Science team applies Advanced Analytics, Artificial Intelligence and Machine Learning to produce solutions that reduce customer health costs and improve outcomes and business processes.\n\nRole Summary\nYour work will require deep acquaintance with MultiPlan's data, seeking to find ways to deliver value through advanced feature engineering. From your models you will deliver actionable insights that can be incorporated into existing products as well as new programs. As a data scientist part of a cross functional team you will work closely with Data Engineering to deliver production ready code that is robust and ready to scale.\n\nThe ideal candidate for this role will have strong coding skills (preferably in Python), a passion for creating technology to improve health care, and an attitude of creativity and continual learning.\n\nYou'll enjoy the flexibility to work remotely * from anywhere within the U.S. as you take on some tough challenges.\n\nPrimary Responsibilities:\n\u2022 Applies knowledge of interactive machine learning - online learning, bandits, game theory, agent-based modeling, discrete-event systems, active learning, deeplLearning (DL), reinforcement learning (RL), multiagent systems, and identify opportunities, pose business questions and make valuable discoveries leading to prototype development and product improvement.\n\u2022 Solves unique and complex problems within healthcare payments and claims processing with broad impact on the business and patient care.\n\u2022 Design, develop, tune, and test machine learning and deep learning solutions and systems.\n\u2022 Collaborates with peers and senior leadership to ensure activities are appropriately integrated into the strategic direction, as well as the mission and values of the company.\n\u2022 Collaborates with technology teams in developing technical solutions that will result in accurate and efficient data collection, data management and data reconciliation.\n\u2022 Autonomously drive the development of machine learning models on a cloud-based infrastructure.\n\u2022 Mine and analyze large structured and unstructured datasets. Identify the data attributes that influence the outcome, define, and monitor metrics, create data narratives, and builds tools to drive decisions.\n\u2022 Work across diverse teams, perspectives and opinions and quickly build consensus.\n\u2022 Create visualizations of data that make distributions, trends, and results easy to understand for business leaders.\n\u2022 Diagnose business need, analyze business process, data flows, technical artifacts and extract understanding of how the system or business process works as input into projects / solutions.\n\u2022 Proactively develops, maintains, and evangelizes technical knowledge in Machine Learning and adjacent technologies. Keeps up to date on current trends and best practices.\n\u2022 Performs assessments and listens to internal/external customers to understand and anticipate their needs and determine their priorities in the context of the overall enterprise.\n\u2022 Operate within established methodologies, procedures, and guidelines; work independently in a fast-paced, agile environment.\n\nRequirements\n\nJob requirements:\n\u2022 Bachelor's or Master's degree in Statistics, Operations Research, Applied Mathematics, Computer Science, Robotics, Physics or similarly quantitative/technical field\n\u2022 5+ years of experience designing and developing in Python\n\u2022 5+ years of experience querying relational databases using SQL\n\u2022 Deep knowledge in reinforcement learning (RL), online learning, bandits, game theory, agent-based modeling, discrete-event systems, active learning, deepl learning (DL), and multiagent systems.\n\u2022 5+ years of experience in statistical computing and graphics using tools such as PySpark, Domino Data Lab or other data science platforms\n\u2022 Knowledge of Git/GitHub integration with CI/CD tools\n\u2022 Problem solving, critical thinking, creativity, organizational, design, interpersonal, communication (written, verbal and listening) skills.\n\nJob preferences\n\u2022 Bachelor's or Master's in a quantitative science or related field\n\u2022 Healthcare space experience\n\u2022 Process optimization experience\n\u2022 Agile development framework experience\n\nBENEFITS\n\nWe realize that our employees are instrumental to our success, and we reward them accordingly with very competitive compensation and benefits packages, an incentive bonus program, as well as recognition and awards programs. Our work environment is friendly and supportive, and we offer flexible schedules whenever possible, as well as a wide range of live and web-based professional development and educational programs to prepare you for advancement opportunities.\n\nYour benefits will include:\n\nMedical, dental, and vision coverage (low copay deductible)\n\nLife insurance\n\nShort- and long-term disability\n\n401(k) + match\n\nGenerous Paid Time Off\n\nPaid company holidays\n\nTuition reimbursement\n\nFlexible Spending Account\n\nEmployee Assistance Program\n\nSummer Hours\n\nCOMPENSATION\n\nThe salary range for this position is $110k-$159k. Offers take into account a candidate's education, experience and skills, as well as the candidate's work location and internal equity. This position is also eligible for health insurance, 401k and bonus opportunity.\n\nEEO STATEMENT\n\nMultiPlan is an Equal Opportunity Employerand complies with all applicable laws and regulations. Qualified applicants will receive consideration for employment without regard to age, race, color, religion, gender, sexual orientation, gender identity, national origin, disability or protected veteran status. If you'd like more information on your EEO rights under the law, pleaseclick here",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate for this role will have strong coding skills (preferably in Python), a passion for creating technology to improve health care, and an attitude of creativity and continual learning",
+                        "Bachelor's or Master's degree in Statistics, Operations Research, Applied Mathematics, Computer Science, Robotics, Physics or similarly quantitative/technical field",
+                        "5+ years of experience designing and developing in Python",
+                        "5+ years of experience querying relational databases using SQL",
+                        "Deep knowledge in reinforcement learning (RL), online learning, bandits, game theory, agent-based modeling, discrete-event systems, active learning, deepl learning (DL), and multiagent systems",
+                        "5+ years of experience in statistical computing and graphics using tools such as PySpark, Domino Data Lab or other data science platforms",
+                        "Knowledge of Git/GitHub integration with CI/CD tools",
+                        "Problem solving, critical thinking, creativity, organizational, design, interpersonal, communication (written, verbal and listening) skills",
+                        "Healthcare space experience",
+                        "Process optimization experience",
+                        "Agile development framework experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This position focuses on developing a new product to better address our clients' claims management needs in the out of network space",
+                        "The data scientist will work with stakeholders across the business to identify opportunities, understand data, develop actionable insights, and work to implement those insights into practice",
+                        "Your work will require deep acquaintance with MultiPlan's data, seeking to find ways to deliver value through advanced feature engineering",
+                        "From your models you will deliver actionable insights that can be incorporated into existing products as well as new programs",
+                        "As a data scientist part of a cross functional team you will work closely with Data Engineering to deliver production ready code that is robust and ready to scale",
+                        "Applies knowledge of interactive machine learning - online learning, bandits, game theory, agent-based modeling, discrete-event systems, active learning, deeplLearning (DL), reinforcement learning (RL), multiagent systems, and identify opportunities, pose business questions and make valuable discoveries leading to prototype development and product improvement",
+                        "Solves unique and complex problems within healthcare payments and claims processing with broad impact on the business and patient care",
+                        "Design, develop, tune, and test machine learning and deep learning solutions and systems",
+                        "Collaborates with peers and senior leadership to ensure activities are appropriately integrated into the strategic direction, as well as the mission and values of the company",
+                        "Collaborates with technology teams in developing technical solutions that will result in accurate and efficient data collection, data management and data reconciliation",
+                        "Autonomously drive the development of machine learning models on a cloud-based infrastructure",
+                        "Mine and analyze large structured and unstructured datasets",
+                        "Identify the data attributes that influence the outcome, define, and monitor metrics, create data narratives, and builds tools to drive decisions",
+                        "Work across diverse teams, perspectives and opinions and quickly build consensus",
+                        "Create visualizations of data that make distributions, trends, and results easy to understand for business leaders",
+                        "Diagnose business need, analyze business process, data flows, technical artifacts and extract understanding of how the system or business process works as input into projects / solutions",
+                        "Proactively develops, maintains, and evangelizes technical knowledge in Machine Learning and adjacent technologies",
+                        "Keeps up to date on current trends and best practices",
+                        "Performs assessments and listens to internal/external customers to understand and anticipate their needs and determine their priorities in the context of the overall enterprise",
+                        "Operate within established methodologies, procedures, and guidelines; work independently in a fast-paced, agile environment"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We realize that our employees are instrumental to our success, and we reward them accordingly with very competitive compensation and benefits packages, an incentive bonus program, as well as recognition and awards programs",
+                        "Our work environment is friendly and supportive, and we offer flexible schedules whenever possible, as well as a wide range of live and web-based professional development and educational programs to prepare you for advancement opportunities",
+                        "Medical, dental, and vision coverage (low copay deductible)",
+                        "Life insurance",
+                        "Short- and long-term disability",
+                        "401(k) + match",
+                        "Generous Paid Time Off",
+                        "Paid company holidays",
+                        "Tuition reimbursement",
+                        "Flexible Spending Account",
+                        "Employee Assistance Program",
+                        "The salary range for this position is $110k-$159k",
+                        "This position is also eligible for health insurance, 401k and bonus opportunity"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.multiplan.com/",
+                    "text": "multiplan.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=MultiPlan&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAIIggs",
+                    "text": "See web results for MultiPlan"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBJSSAtIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmcgKHJlbW90ZSkiLCJodGlkb2NpZCI6IlVkNFFPOGJoZ1ZJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VMHhaYkVVNGRXUXRaWHBOU2xkbExYTnZlalZJZURWSFJESk9RbXBUT0hSR04xOXhNM0UwWDE5NVZqSk9PRGRYZEZkUFoyTXpOMnhNWWtkTGQwWk9SbTFZUjJKUmFHVjNUMUpFV1hsdmIxWjROREI1V0ZvMWRGb3daVk5sVTBwdVNGQnZjRlJVZVZkQ1N6aE5ZVUZ2V1ROUFJFNUNlR1Z4YlVVNFpESkxlSEZITTFNd2RUQnFhR3BWZFRoQ1QzRnZXV05KU0VveVEwMTZVR1EwWjNSWVMwNWhkM2RFV0hkdmVGb3dZM1F6UnpRdE16WjNTWFJHUlhadFRXUk9UakUxYVdOb0xXeE5RMWQ2V1RGV1FrNHpObEZSUjNsaFFXdENRelV4UVJJWFRtSnpPVnBQY1dkQ1dUSk9kMkpyVUdsa1pXbHJRVGdhSWtGUExUQnliRFpqT1c1RmJrUnFVMnd6TTNKUWNIaGZMV1JHT0hSWVowWXlSR2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY182IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvTXVsdGlQbGFuL0pvYi9EYXRhLVNjaWVudGlzdC1JSS1SZWluZm9yY2VtZW50LUxlYXJuaW5nLShyZW1vdGUpLy1pbi1OZXctWW9yayxOWT9qaWQ9Y2RiNTU2NmM1YzY2MWNhOFx1MDAyNmx2az1hTjJhcUIwVGxRRmNqbTRWbnFGN3dRLi0tTXFIXzA3Y0pzXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Scientist II - Reinforcement Learning (remote)",
+            "company_name": "MultiPlan",
+            "location": "  United States   ",
+            "via": "via Datafloq",
+            "description": "Are you looking for a new job? Check out this job post of Data Scientist II - Reinforcement Learning (remote) at MultiPlan and apply today on Datafloq.",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Are you looking for a new job? Check out this job post of Data Scientist II - Reinforcement Learning (remote) at MultiPlan and apply today on Datafloq."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.multiplan.com/",
+                    "text": "multiplan.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=MultiPlan&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAIIsgs",
+                    "text": "See web results for MultiPlan"
+                }
+            ],
+            "extensions": [
+                "10 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "10 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBJSSAtIFJlaW5mb3JjZW1lbnQgTGVhcm5pbmcgKHJlbW90ZSkiLCJodGlkb2NpZCI6IkNuekE1TFRtb0hjQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9WSGt5Um5oRlpERk5Oa2d3YjJjMU9HdE9URGxDY0dRMGExbDRNVTlJU3kxa2VWcERTVFpLVWxONlp6RkRhbTFFU1RCelZEZEZRMGt4TWs4MU9WQkNaamxhYTE5WVp6Qk5OVkZ3YmxVMU0wTm5abFpCVEZoc1NYWnlaMXBpVTBSa2N6aGFSWFl3V2taalNUVkVSMXBwVFU5WlYxbGpWazFNTTJJelJXNWZlakJJVTFSNFIxbDRVR3M0WVhsWUxYSjRNbXRQYzJGR05IQTJUbVE1VVc5VlV6RkhObW8wY20xU1REVjBVMEpvUkROYWNqbDBkVVJGYWpCUlNEaDBXV05sUjJZdFMweERkVXBPVjJaelVXRTFURzVyWlVzeFJIZHNkVlEzZHhJWFRtSnpPVnBQY1dkQ1dUSk9kMkpyVUdsa1pXbHJRVGdhSWtGUExUQnliRGREWld0cU9YRmZjRzFMVFhkbE9VVTNhbEpVU2tsRlpXcHNMVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY184IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIERhdGFmbG9xIiwibGluayI6Imh0dHBzOi8vZGF0YWZsb3EuY29tL2pvYnMvZGF0YS1zY2llbnRpc3QtaWktcmVpbmZvcmNlbWVudC1sZWFybmluZy1yZW1vdGUvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Research Intern - Reinforcement Learning MSRNYC",
+            "company_name": "Microsoft Corporation",
+            "location": "  New York, NY   ",
+            "via": "via New York Seasonal Jobs - New York State",
+            "description": "Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized scientists and engineers. Our researchers and engineers pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including computing, healthcare, economics, and the... environment.\n\nMicrosoft Research New York City (MSR NYC) is looking for an intern in reinforcement learning to collaborate with the members of the machine learning and reinforcement learning groups. We seek applicants with a demonstrated interest in machine learning, reinforcement learning, or natural language processing-related topics, and the passion and ability to craft and pursue an independent research program, including a strong publication record at top research venues. Members of the machine learning and reinforcement learning groups collaborate extensively with each other and with other groups across Microsoft.\n\nResponsibilities\n\nInterns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world\u2019s best researchers, interns learn, collaborate, and network for life. Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, students are paired with mentors and expected to collaborate with other interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer.\n\nQualifications\n\nRequired Qualifications\n\nIn addition to the qualifications below, you\u2019ll need to submit a minimum of two reference letters for this position. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter.\n\u2022 Must be currently enrolled in a master's or PhD program in Computer Science or a related STEM field.\n\nInterns are expected to be physically located in their manager\u2019s Microsoft worksite location for the duration of their internship.\n\nApplied Sciences IC2 - The base pay range for this internship is USD $5,090 - $10,120 per month. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $6,690 - $11,030 per month.\n\nApplied Sciences IC3: The base pay range for this internship is USD $6,290 - $12,170 per month. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $8,060 - $13,240 per month.\n\nBenefits/perks listed here may vary depending on the nature of employment with Microsoft and the country work location. U.S.-based interns have access to medical and vision insurance, paid sick time (accrued at 3.34 hours per pay period worked), paid federal holidays, and software discounts. Puget Sound-based interns gain access to a bus pass and a fitness club membership.\n\nOur Commitment to Pay Equity\n\nWe are committed to the principle of pay equity \u2013 paying employees equitably for substantially similar work. To learn more about pay equity and our other commitments to increase representation and strengthen our culture of inclusion, check out our annual Diversity & Inclusion Report. ( https://www.microsoft.com/en-us/diversity/inside-microsoft/annual-report )\n\nUnderstanding Roles at Microsoft\n\nThe top of this page displays the role for which the base pay ranges apply \u2013 Applied Sciences IC2, Applied Sciences IC3.\n\nThe way we define roles includes two things: discipline (the type of work) and career stage (scope and complexity). The career stage has two parts \u2013 the first identifies whether the role is a manager (M), an individual contributor (IC), an admin-technician-retail (ATR) job, or an intern. The second part identifies the relative seniority of the role \u2013 a higher number (or later letter alphabetically in the case of ATR) indicates greater scope and complexity.\n\nMicrosoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form (https://careers.microsoft.com/us/en/accommodationrequest) .\n\nBenefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Must be currently enrolled in a master's or PhD program in Computer Science or a related STEM field"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Interns put inquiry and theory into practice"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $6,690 - $11,030 per month",
+                        "Applied Sciences IC3: The base pay range for this internship is USD $6,290 - $12,170 per month",
+                        "Puget Sound-based interns gain access to a bus pass and a fitness club membership",
+                        "Our Commitment to Pay Equity",
+                        "We are committed to the principle of pay equity \u2013 paying employees equitably for substantially similar work"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.microsoft.com/",
+                    "text": "microsoft.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Microsoft+Corporation&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAII7Qs",
+                    "text": "See web results for Microsoft Corporation"
+                }
+            ],
+            "extensions": [
+                "Internship",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Internship"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBJbnRlcm4gLSBSZWluZm9yY2VtZW50IExlYXJuaW5nIE1TUk5ZQyIsImh0aWRvY2lkIjoiTWdGTUtyejVWS0VBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VqbFBWMHhaVm5sS1pIUXhUVjl6YVRaTVJURjJiMXBrTUZGTlFVNHlkbmxCUTFwNlpXMU9SakpzU0dGbWRtWkVNMjVRVFd4TlJHaERhRzU1YzBkcU1IcGxMVTFzVUZJd1pEZHBUa0ZFUjBaUmExTlJOM1ozVDFkNlkyY3hVbUYxWlRWME5GazBYM2hmUW00MFh6WlBZMUF5VnpWbVIwWkplVzFLU25WUk1FazNZakY1UkhWelZscFFZVnBXTFdkTmNXZEJYMk5PTTBWTFMyaGZUbHBGTFdGS1ZEZG9PVEpRVVd4M1NtdHpjemh1YjJ4clluQTFUMUJPU1hZM1RHRmtPWFpYTm5KMGVXVnVVRkY2VTNaVVNFTXRVMHBFZWxkaVpXcHBaeElYVG1Kek9WcFBjV2RDV1RKT2QySnJVR2xrWldsclFUZ2FJa0ZQTFRCeWJEWTNiamhYUVRndFoyZEtUWFJPUjFJd1lsZFdRbGM1WjJGcmRuYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE5ldyBZb3JrIFNlYXNvbmFsIEpvYnMgLSBOZXcgWW9yayBTdGF0ZSIsImxpbmsiOiJodHRwczovL3NlYXNvbmFsd29ya3MubGFib3IubnkuZ292L25ldy15b3JrLW55L3Jlc2VhcmNoLWludGVybi1yZWluZm9yY2VtZW50LWxlYXJuaW5nLW1zcm55Yy9GNjI2MkI2Q0Y4RUM0Q0QzQTUxMDRFMUY5Q0I3NEZDOC9qb2IvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Reinforcement Learning Software Engineer",
+            "company_name": "MathWorks",
+            "location": "  Newton, MA   ",
+            "via": "via Ladders",
+            "description": "U.S. Benefits\nWhat are some of the benefits and perks of working at MathWorks\n...\n- 401(k) matching\n- Quarterly profit-sharing plan\n- Tuition reimbursement\n- Paid Volunteer Time\n- Fitness and Recreation\n- Wellness center\n- Training and Development\n- Relocation Assistance Provided\n\nMathWorks has a hybrid work model that enables staff members to split their time between office and home. The hybrid model provides the advantage of having both in-person time with colleagues and flexible at-home life optimizations. Learn More: https://www.mathworks.com/company/jobs/resources/hybrid-model.html.\nWe are looking for a versatile, enthusiastic engineer capable of multi-tasking to join our team. You will help develop software tools to facilitate the application of reinforcement learning to practical industrial application in areas such as robotics and other autonomous systems. You will need skills that cross traditional domain boundaries in areas such as machine learning, controller design, optimization, object-oriented programming, and graphical user interface design.\n\nMathWorks nurtures growth, appreciates diversity, encourages initiative, values teamwork, shares success, and rewards excellence.\nDevelop and implement new software tools to help our customers apply reinforcement learning to their applications.\nWork on improving the integration of reinforcement learning tools for Simulink.\nContribute to all aspects of the product development process from writing functional specifications to designing software architecture to implementing software features.\nWork with quality engineering, documentation, and usability teams to develop state-of-the-art software tools.\n\nKnowledge of numerical algorithms.\nExperience with MATLAB or Simulink.\nExperience with machine learning.\nNice to Have:\nExperience in robotics.\nExperience with multi-agent systems.\nExperience with object-oriented design and programming.\nExperience with software development lifecycle.\nExperience with other programming languages.\nA bachelor's degree and 5 years of professional work experience (or a master's degree, or equivalent experience) is required",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You will need skills that cross traditional domain boundaries in areas such as machine learning, controller design, optimization, object-oriented programming, and graphical user interface design",
+                        "Knowledge of numerical algorithms",
+                        "Experience with MATLAB or Simulink",
+                        "Experience with machine learning",
+                        "Experience in robotics",
+                        "Experience with multi-agent systems",
+                        "Experience with object-oriented design and programming",
+                        "Experience with software development lifecycle",
+                        "Experience with other programming languages",
+                        "A bachelor's degree and 5 years of professional work experience (or a master's degree, or equivalent experience) is required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will help develop software tools to facilitate the application of reinforcement learning to practical industrial application in areas such as robotics and other autonomous systems",
+                        "Develop and implement new software tools to help our customers apply reinforcement learning to their applications",
+                        "Work on improving the integration of reinforcement learning tools for Simulink",
+                        "Contribute to all aspects of the product development process from writing functional specifications to designing software architecture to implementing software features"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "401(k) matching",
+                        "Quarterly profit-sharing plan",
+                        "Tuition reimbursement",
+                        "Paid Volunteer Time",
+                        "Fitness and Recreation",
+                        "Wellness center",
+                        "Training and Development",
+                        "Relocation Assistance Provided"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.mathworks.com/",
+                    "text": "mathworks.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=MathWorks&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAIIsAw",
+                    "text": "See web results for MathWorks"
+                }
+            ],
+            "extensions": [
+                "22 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "22 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWluZm9yY2VtZW50IExlYXJuaW5nIFNvZnR3YXJlIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJ6TW9kNkN0dFpqTUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVWpSRGVrMXNNaTFrVTB4UmRrTnZla2xpU0VoME1FRXhaR1Z6WkdkNFYwSmFUa00yV1ZsU1JsSnJNM0ZDWDFGT1lqWjBjMnRaZWtSeFlXWm5VM0JCYmtkT1dYWXdOMHhIUjA4dGVGQlFWVlp4U25OUVJFZHdWSHBaU1RKa00wbHNURlpuYkRkck5uWjNVakpYY1dSVGRGOW5URVZ4T0dNek1HTndSRTR6ZVhGdFp5MHpUbEprVDFOS01ESjFUaTFaY0dWRlZrTjRVMWxCZGtGSVYwdHVWblJ6V201S1lYcGFVV0U1YjFsV2JWQk9jR0Z6UWpWb2FIcDVPWEJmY0ZWU056bHVTRVEyRWhkT1luTTVXazl4WjBKWk1rNTNZbXRRYVdSbGFXdEJPQm9pUVU4dE1ISnNOVzlVWTJsTU9IQnBZMU4wTXpKUFRHbEVTMUJPZW1KV2VFeE9kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExhZGRlcnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cudGhlbGFkZGVycy5jb20vam9iLWxpc3RpbmcvcmVpbmZvcmNlbWVudC1sZWFybmluZy1zb2Z0d2FyZS1lbmdpbmVlci1tYXRod29ya3MtbmV3dG9uLW1hLV92Ml8tOS0xOTgyMDk3MDA1Lmh0bWw/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Expert in Deep Reinforcement Learning needed",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Looking for a deep reinforcement learning expert to work on improving existing model.",
+            "job_highlights": [
+                {
+                    "items": [
+                        "Looking for a deep reinforcement learning expert to work on improving existing model."
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAII3Qw",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJFeHBlcnQgaW4gRGVlcCBSZWluZm9yY2VtZW50IExlYXJuaW5nIG5lZWRlZCIsImh0aWRvY2lkIjoiQlF3Mnk2em00RjBBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZISm1NVGxxUjJkMFoyeHpXRlJhWDBablRrWllkMGh0VDBsV1dteEJiV0V4TkZOc00zZzNhR1ZJY0dSRGNWVlJjVFpwTUV0eE9IWmxWRXBHVlZsaldVOU1kWFF0VUZkQ1FqUTNSMUZCYWpsSGJUTkVkWFZXTWxVdGJERmhWVXB1ZUdONGFUQTRWbXRsU3kxMk1XZGhRbGhMU0Znd2EyUlBVR2d3TkhCbVEybHJiemR5VWt4NVJ6VnVURFF6WmtjMk1XeEdWblZsYVV4TlRqWmpXVTF5T0hKUVRYUnVjbU5MTjI0M1gwNXFRV2w2VTNOU2Ixb3dhVjk2TTBsWVdWUkViR3gxYzJwVkVoZE9Zbk01V2s5eFowSlpNazUzWW10UWFXUmxhV3RCT0JvaVFVOHRNSEpzTjBsbE1tSlNTM1JzU0V0a2NXUnROMUJrYkVOdVRrZG1la3BhVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBVcHdvcmsiLCJsaW5rIjoiaHR0cHM6Ly93d3cudXB3b3JrLmNvbS9mcmVlbGFuY2Utam9icy9hcHBseS9FeHBlcnQtRGVlcC1SZWluZm9yY2VtZW50LUxlYXJuaW5nLW5lZWRlZF9+MDFmYzlkNTFhYWNlNzBhZTIzLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer (Remote)",
+            "company_name": "Generally Intelligent",
+            "location": " Anywhere ",
+            "via": "via AngelList",
+            "description": "Summary\n\nAs a remote machine learning engineer, you\u2019ll work very closely with a senior member of our research team on cutting-edge deep learning research, infrastructure, and tooling towards the goal of creating general human-like machine intelligence...\n\nExample projects\n\n\u2022 Implement a self-supervised network using contrastive and reconstruction losses.\n\n\u2022 Create a library on top of PyTorch to enable efficient network architecture search.\n\n\u2022 Open source internal tools.\n\n\u2022 Implement networks from newly published papers.\n\n\u2022 Work on tools for simple distributed parallel training of deep neural networks.\n\n\u2022 Develop more realistic simulations for training our agents.\n\n\u2022 Design automated methods and tools to prevent common issues with neural network training (e.g. overfitting, vanishing gradients, dead ReLUs, etc).\n\n\u2022 Create visualizations to help us deeply understand what our networks learn and why.\n\nYou are\n\n\u2022 Very comfortable writing Python.\n\n\u2022 Familiar with PyTorch and training deep neural networks.\n\n\u2022 Excited to work on open source code.\n\n\u2022 Passionate about engineering best practices.\n\n\u2022 Self-directed and independent.\n\n\u2022 Excellent at getting things done.\n\nBenefits\n\n\u2022 Work directly on creating software with human-like intelligence\n\n\u2022 Very generous compensation\n\n\u2022 Flexible working hours\n\n\u2022 Work remotely\n\n\u2022 Time and budget for learning and self improvement\n\nHow to apply\n\nAll submissions are reviewed by a person, so we encourage you to include notes on why you're interested in working with us. If you have any other work that you can showcase (open source code, side projects, etc.), certainly include it! We know that talent comes from many backgrounds, and we aim to build a team with diverse skillsets that spike strongly in different areas.\n\nWe try to reply either way within a week or two at most (usually much sooner).\n\nLearn more about our full interview process here.\n\nAbout us\n\nWe started Generally Intelligent because we believe that software with human-level intelligence will have a transformative impact on the world. We\u2019re dedicated to ensuring that that impact is a positive one.\n\nWe have enough funding to freely pursue our research goals over the next decade, and our backers include Y Combinator, researchers from OpenAI, Astera Institute, and a number of private individuals who care about effective altruism and scientific research.\n\nOur research is focused on agents for digital environments (ex: browser, desktop, documents), using RL, large language models, and self supervised learning. We\u2019re excited about opportunities to use simulated data, network architecture search, and good theoretical understanding of deep learning to make progress on these problems. We take a focused, engineering-driven approach to research.\n\nGenerally Intelligent focuses on Artificial Intelligence and Artificial Intelligence / Machine Learning. Their company has offices in San Francisco and Remote. They have a small team that's between 1-10 employees.\n\nYou can view their website at http://generallyintelligent.ai/ or find them on Twitter, Facebook, and LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Very comfortable writing Python",
+                        "Familiar with PyTorch and training deep neural networks",
+                        "Excited to work on open source code",
+                        "Passionate about engineering best practices",
+                        "Self-directed and independent",
+                        "Excellent at getting things done"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Implement a self-supervised network using contrastive and reconstruction losses",
+                        "Create a library on top of PyTorch to enable efficient network architecture search",
+                        "Open source internal tools",
+                        "Implement networks from newly published papers",
+                        "Work on tools for simple distributed parallel training of deep neural networks",
+                        "Develop more realistic simulations for training our agents",
+                        "Design automated methods and tools to prevent common issues with neural network training (e.g. overfitting, vanishing gradients, dead ReLUs, etc)",
+                        "Create visualizations to help us deeply understand what our networks learn and why"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Work directly on creating software with human-like intelligence",
+                        "Very generous compensation",
+                        "Flexible working hours",
+                        "Work remotely",
+                        "Time and budget for learning and self improvement"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Generally+Intelligent&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAIInw0",
+                    "text": "See web results for Generally Intelligent"
+                }
+            ],
+            "extensions": [
+                "140K\u2013200K a year",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Contractor",
+                "salary": "140K\u2013200K a year",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIChSZW1vdGUpIiwiaHRpZG9jaWQiOiJfVHplUFo0dFphd0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVTIxdlJrWnhUekZwVlRoMGVtbDFlRE4zVlZoZk0xcHNUVmhIZERkMFV6Vk5XVGcyZGtZMVMySnRSMjFFYkdKNk1XOTNVRTF6TFdndGJqQmhiVEJMZUVsWVptbG9Vamt6VjFoblZtaFBkVW8zT1VGSE5WSnZOMDVLVjNSWmQwUjJSRk54UTJGa2MwWmlUbmx0WW1Vd1NuRkdPWEZNYWtkeVJVWnBObGRMZDJKS2NWVjVlVUpmY1hOWlNWRnhVMHhIY1UxelEyOUdRVzVRVTBWbE1tWjFTbEJSZW5kamNsaG9Va2xhZGtKaU5WSnFiV2xHU0daRFRDMWFkMHMyV0VWNVVYVnhSR3BIRWhkT1luTTVXazl4WjBKWk1rNTNZbXRRYVdSbGFXdEJPQm9pUVU4dE1ISnNOM0JRTlVoNWNqTlpabXBOZDBaVU5UaHVSMTkxT1djMFZTMVdRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE2IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEFuZ2VsTGlzdCIsImxpbmsiOiJodHRwczovL3dlbGxmb3VuZC5jb20vY29tcGFueS9nZW5lcmFsbHktaW50ZWxsaWdlbnQvam9icy8xNDkwNDU2LW1hY2hpbmUtbGVhcm5pbmctZW5naW5lZXItcmVtb3RlP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Need a Reinforcement Learning Model that optimises time spent in a...",
+            "company_name": "Upwork",
+            "location": " Anywhere ",
+            "via": "via Upwork",
+            "description": "Need someone to come up with a Multi-Agent RL Network that interacts with 2 Junctions and optimises the time spent in these junctions. The Model would interact with SUMO\n\nThe Network File and the Route File for SUMO is ready and can be provided...\n\nJust need someone to configure and build the model for us",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Model would interact with SUMO"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.elance.com/",
+                    "text": "elance.com"
+                },
+                {
+                    "link": "https://www.google.com/search?ucbcb=1&gl=us&hl=en&q=Upwork&sa=X&ved=0ahUKEwiqj7uO77H-AhWNRjABHYmrCPI4ChCYkAII2A0",
+                    "text": "See web results for Upwork"
+                }
+            ],
+            "extensions": [
+                "14 hours ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "detected_extensions": {
+                "posted_at": "14 hours ago",
+                "schedule_type": "Contractor",
+                "work_from_home": true
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOZWVkIGEgUmVpbmZvcmNlbWVudCBMZWFybmluZyBNb2RlbCB0aGF0IG9wdGltaXNlcyB0aW1lIHNwZW50IGluIGEgc2lnbmFsIGluIFNVTU8iLCJodGlkb2NpZCI6ImFlUENNVmNNanQwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0NDb3dDUVVWek4ycE9WRXRKUldsWU5ERkpVV0ZxUlhwZmVUbDBRa2xOZERBd1V6TkJlWHBaTUdSTU1GaGhiMmQ2UkdGUU5GcHJNVGxhTVc1SlQwdDJkM0ZrUms1clpGaEpaa0pZWjBZeU9UVXhNbG80U25VME1XWlRXak5yTFdOcFJrOVZjalJvVm1GVlpsbEdaSGd3VUV0SFUwTlBPVGhWU25CWFFVNXhUemx6YWpodlRYTmZhRkpHY2sxMVdtUlRTR05YV0dSM1RHeDFiekJPZWxsR05teFlUeTF5Umw5TGRqbDJVVk5FYldsaFFYbFFkbXBoYkdaS1VEZEljVXRDUTBOa1RVRmtUV2MyY2tSd1kyaFpjbFpYT1hWWWFUVjBWbEpHUzNwdlowcFpYMU52YWt4bVMwWTRiRFZGWlV3dE4wTklNREoxYzFCU05UVlJTRTlNV0RWRlRERnhVMnRwVjB3NVltTnVVQklYVG1Kek9WcFBjV2RDV1RKT2QySnJVR2xrWldsclFUZ2FJa0ZQTFRCeWJEWnlaR1UzUVV4emRrOUlkVXhzY0U1bmEwSXhSazF1WTNwcVRXYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFVwd29yayIsImxpbmsiOiJodHRwczovL3d3dy51cHdvcmsuY29tL2ZyZWVsYW5jZS1qb2JzL2FwcGx5L05lZWQtUmVpbmZvcmNlbWVudC1MZWFybmluZy1Nb2RlbC10aGF0LW9wdGltaXNlcy10aW1lLXNwZW50LXNpZ25hbC1TVU1PX34wMTFiNmExMGRlYTE0M2RlY2YvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Research scientist",
+                    "value": "research scientist"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Science",
+                    "value": "science"
+                },
+                {
+                    "text": "Graduate",
+                    "value": "graduate"
+                },
+                {
+                    "text": "Data engineer",
+                    "value": "data engineer"
+                },
+                {
+                    "text": "Senior manager",
+                    "value": "senior manager"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Application engineer",
+                    "value": "application engineer"
+                },
+                {
+                    "text": "Applied scientist",
+                    "value": "applied scientist"
+                },
+                {
+                    "text": "Architect",
+                    "value": "architect"
+                },
+                {
+                    "text": "Associate",
+                    "value": "associate"
+                },
+                {
+                    "text": "Computer",
+                    "value": "computer"
+                },
+                {
+                    "text": "Implementation engineer",
+                    "value": "implementation engineer"
+                },
+                {
+                    "text": "Learning specialist",
+                    "value": "learning specialist"
+                },
+                {
+                    "text": "Senior",
+                    "value": "senior"
+                },
+                {
+                    "text": "Solutions engineer",
+                    "value": "solutions engineer"
+                },
+                {
+                    "text": "System",
+                    "value": "system"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Mountain View, CA",
+                    "value": "iQHsW0m3j4Cbr2tGStQXfA=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Bellevue, WA",
+                    "value": "QWCmo89rkFRlB9DqglTPug=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Oak Ridge, TN",
+                    "value": "3xDIHEczXIi3chDvM0bKWw=="
+                },
+                {
+                    "text": "Philadelphia, PA",
+                    "value": "60u11Ni3xonBWD6M2BT1iQ=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Sunnyvale, CA",
+                    "value": "O13QqUW2j4Ciw3zdJvuNdg=="
+                },
+                {
+                    "text": "Waltham, MA",
+                    "value": "3eQad-F344nEWv4aYofa3g=="
+                },
+                {
+                    "text": "Austin, TX",
+                    "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Dayton, OH",
+                    "value": "AxTdrtWAQIjkTA7ykuNApg=="
+                },
+                {
+                    "text": "Livermore, CA",
+                    "value": "cSBaOIblj4Bx2GvLMSLTmA=="
+                },
+                {
+                    "text": "Milpitas, CA",
+                    "value": "XyrmOufRj4AnpTqtwOFjeA=="
+                },
+                {
+                    "text": "Natick, MA",
+                    "value": "dSAbXrOH44kno1zsiT-M3w=="
+                },
+                {
+                    "text": "Princeton, NJ",
+                    "value": "8VnQcsHmw4nC1hNKk0nNPw=="
+                },
+                {
+                    "text": "South San Francisco, CA",
+                    "value": "7-z-QwV5j4BdM1bneXU6-A=="
+                },
+                {
+                    "text": "Woburn, MA",
+                    "value": "p-rYSQZ144mJiPkYCvjXMg=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Aurora, CO",
+                    "value": "myu6IoZYbId45qKLaOBBhA=="
+                },
+                {
+                    "text": "Beavercreek, OH",
+                    "value": "B-LwKg6bQIiC7xPC5lB3ug=="
+                },
+                {
+                    "text": "Bentonville, AR",
+                    "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+                },
+                {
+                    "text": "Berkeley, CA",
+                    "value": "00mFOjZ5hYCT6XWmlRXqlA=="
+                },
+                {
+                    "text": "Birmingham, AL",
+                    "value": "07-FWN8RiYjOVLrqCXRQJQ=="
+                },
+                {
+                    "text": "Boulder, CO",
+                    "value": "06-NJ06Na4dYgBugfDs5yA=="
+                },
+                {
+                    "text": "Carlsbad, CA",
+                    "value": "We47P0Vz3IAvXfb8klXLpA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Denver, CO",
+                    "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+                },
+                {
+                    "text": "Destin, FL",
+                    "value": "t_RAyXlDkYgyTFhG24ukFw=="
+                },
+                {
+                    "text": "Hawthorne, CA",
+                    "value": "8S7MWiu0woABszjMHXHBYg=="
+                },
+                {
+                    "text": "Hillsboro, OR",
+                    "value": "eeW8Vl8FlVSG7TNqhv8pfQ=="
+                },
+                {
+                    "text": "Irving, TX",
+                    "value": "j_UJHVyCToYJ84eGVm8wPA=="
+                },
+                {
+                    "text": "Kirkland, WA",
+                    "value": "e85SKMASkFRXKHhwqmp3eg=="
+                },
+                {
+                    "text": "Littleton, CO",
+                    "value": "Kzvi-z98a4fAPNau6ZcFBw=="
+                },
+                {
+                    "text": "Los Altos, CA",
+                    "value": "z0bVI-Gwj4D8pmXWXRgFZQ=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "Los Gatos, CA",
+                    "value": "PwN3UzY0joCmjHSsAVNn7w=="
+                },
+                {
+                    "text": "Louisville, CO",
+                    "value": "uckRZU-La4dI4s8gMjW_oA=="
+                },
+                {
+                    "text": "Marlborough, MA",
+                    "value": "be5haA6L44nEr_VVS6rpxw=="
+                },
+                {
+                    "text": "McLean, VA",
+                    "value": "O3mKsew1tonx6vqtXrpijg=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Rental",
+                    "value": "/business/naics2007/532"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Unify Consulting",
+                    "value": "/g/11f012zzdh"
+                },
+                {
+                    "text": "MathWorks",
+                    "value": "/m/02q9vb"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Microsoft",
+                    "value": "/m/04sv4"
+                },
+                {
+                    "text": "System1",
+                    "value": "/g/11f00s4_71"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Hugging Face",
+                    "value": "/g/11s0fn67cr"
+                },
+                {
+                    "text": "Amazon.com Services LLC",
+                    "value": "/g/11f00sjtl5"
+                },
+                {
+                    "text": "Bosch Group",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "Comcast",
+                    "value": "/m/01s73z"
+                },
+                {
+                    "text": "Exponent",
+                    "value": "/m/03p239c"
+                },
+                {
+                    "text": "Lockheed Martin",
+                    "value": "/m/0hkqn"
+                },
+                {
+                    "text": "Meta",
+                    "value": "/m/0hmyfsv"
+                },
+                {
+                    "text": "MultiPlan",
+                    "value": "/g/1dt_x5k2"
+                },
+                {
+                    "text": "The Home Depot",
+                    "value": "/m/01zj1t"
+                },
+                {
+                    "text": "Ansys",
+                    "value": "/m/06dplm"
+                },
+                {
+                    "text": "InstaDeep",
+                    "value": "/g/11g700cw6r"
+                },
+                {
+                    "text": "Intel",
+                    "value": "/m/03s7h"
+                },
+                {
+                    "text": "LLNL",
+                    "value": "/m/09qyt"
+                },
+                {
+                    "text": "Netflix",
+                    "value": "/m/017rf_"
+                },
+                {
+                    "text": "OfferFit",
+                    "value": "/g/11rkcxxgxj"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Scale AI",
+                    "value": "/g/11fdlzs5lc"
+                },
+                {
+                    "text": "Teladoc",
+                    "value": "/g/11c3krgywp"
+                },
+                {
+                    "text": "Tubi",
+                    "value": "/m/0136zt46"
+                },
+                {
+                    "text": "Wayfair",
+                    "value": "/m/02x44_z"
+                },
+                {
+                    "text": "AICrete Corp.",
+                    "value": "/g/11s8xycz93"
+                },
+                {
+                    "text": "AMP Robotics",
+                    "value": "/g/11g9n7yx0l"
+                },
+                {
+                    "text": "Altana Technologies",
+                    "value": "/g/11q32l889s"
+                },
+                {
+                    "text": "Armorblox",
+                    "value": "/g/11fm487hmh"
+                },
+                {
+                    "text": "Aurora Innovation",
+                    "value": "/g/11g9m_n626"
+                },
+                {
+                    "text": "Avail Medsystems",
+                    "value": "/g/11fhqkvqkh"
+                },
+                {
+                    "text": "Best Buy Co, Inc",
+                    "value": "/m/01zrdx"
+                },
+                {
+                    "text": "Block",
+                    "value": "/m/0by16yq"
+                },
+                {
+                    "text": "Bloomberg",
+                    "value": "/m/027sm6"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,901 @@
+{
+    "search_metadata": {
+        "id": "643dbb0f1d986e4c7e08eb7d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b8b9561072fa1376/643dbb0f1d986e4c7e08eb7d.json",
+        "created_at": "2023-04-17 21:33:03 UTC",
+        "processed_at": "2023-04-17 21:33:03 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=neural+networks&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=10",
+        "raw_html_file": "https://serpapi.com/searches/b8b9561072fa1376/643dbb0f1d986e4c7e08eb7d.html",
+        "total_time_taken": 1.04
+    },
+    "search_parameters": {
+        "q": "neural networks",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 10
+    },
+    "jobs_results": [
+        {
+            "title": "Deep Learning Engineer",
+            "company_name": "Matroid",
+            "location": "  Palo Alto, CA   ",
+            "via": "via AngelList",
+            "description": "Apply here --> https://matroid.breezy.hr/p/eb926c2e5033-deep-learning-engineer?source=angellist\n\nhttps://matroid.breezy.hr/p/eb926c2e5033-deep-learning-engineer?source=linkedin...\n\u2022 *About Matroid\n\nMatroid\u2019s mission is to enable computers to visually understand the world. With a \u201cno programming required\u201d product, Matroid brings computer vision into the hands of many. Our users can deploy cutting-edge, deep neural networks on the cloud or on-premise with the click of a button.\n\nAt Matroid, you will have the opportunity to work directly with founder and CEO, Reza Zadeh, and a world-class engineering team. You\u2019ll immediately take on high-impact projects, building features like visual search, semantic segmentation, custom object tracking, model interpretability, video summarization, and the infrastructure required to run complex machine learning workloads.\n\nHeadquartered in Palo Alto and founded in 2016 by Stanford Professor Reza Zadeh Ph.D., Matroid has raised $33.5 million from NEA, Energize Ventures, and Intel Capital.\n\nYou\u2019ll be working at our new office in downtown Palo Alto, just a five-minute walk from the Caltrain station.\n\nWhat you\u2019ll be doing\n\u2022 Design and build the computer vision software that powers the Matroid platform.\n\u2022 Build Matroid features that use computer vision in novel ways to solve complex vision tasks across manufacturing and industrial inspection.\n\u2022 Research and evaluate leading computer vision model architectures and techniques.\n\u2022 Act as the technical lead on customer engagements.\n\nHow you\u2019ll be doing it\n\u2022 You\u2019ll be part of a world-class, multidisciplinary engineering team, where each member identifies and prioritizes valuable and interesting new features to work on.\n\u2022 You will operate in a collaborative but highly autonomous environment that isn\u2019t bogged down by unnecessary meetings or project management.\n\u2022 You will know that almost everything you build affects real-world users, and you will appropriately set the quality standards for your work.\n\u2022 You will be working collaboratively alongside other engineers to develop new features for the platform.\n\u2022 You will learn a lot along the way, diving into new technologies and the world of computer vision both on your own and during frequent company tech talks.\n\nWhat you bring to the table\n\u2022 Bachelors in Computer Science (AI/ML specialization), Electrical Engineering, Statistics, Mathematics (Probability), or equivalent.\n\u2022 Experience training and deploying state-of-the-art computer vision models using popular machine learning frameworks, such as TensorFlow or PyTorch.\n\u2022 Knowledge of leading model architectures and techniques across a broad range of domains, including image classification, object detection, image segmentation, anomaly detection and object tracking.\n\u2022 Strong software engineering skills.\n\u2022 Willingness and eligibility for security clearance up to TS/SCI\n\nBonus points if... Computer vision experience in manufacturing or industrial inspection use cases. Previously worked as a software engineer.\n\nWhat we offer in return\n\u2022 Competitive pay and equity.\n\u2022 The chance to constantly work on stimulating intellectual challenges.\n\u2022 Gym membership reimbursement.\n\u2022 Free lunch, healthy drinks, and snacks every day.\n\u2022 Medical, dental, and vision insurance with 100% paid premiums.\n\u2022 A flexible schedule that leaves time for all of your other interests.\n\u2022 A budget for whatever hardware or software will make you most effective.\n\u2022 Resources to learn about the cutting edge of software engineering and computer vision.\n\u2022 You\u2019ll be working at our new office in downtown Palo Alto, just a five-minute walk from the Caltrain station.\n\nMatroid is committed to creating a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law.\n\nMatroid focuses on Machine Learning, Big Data, Artificial Intelligence, and Computer Vision. Their company has offices in Palo Alto. They have a small team that's between 11-50 employees. To date, Matroid has raised $33.5M of funding; their latest round was closed on October 2020.\n\nYou can view their website at http://matroid.com or find them on Twitter, Facebook, and LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelors in Computer Science (AI/ML specialization), Electrical Engineering, Statistics, Mathematics (Probability), or equivalent",
+                        "Experience training and deploying state-of-the-art computer vision models using popular machine learning frameworks, such as TensorFlow or PyTorch",
+                        "Knowledge of leading model architectures and techniques across a broad range of domains, including image classification, object detection, image segmentation, anomaly detection and object tracking",
+                        "Strong software engineering skills",
+                        "Willingness and eligibility for security clearance up to TS/SCI",
+                        "Computer vision experience in manufacturing or industrial inspection use cases",
+                        "Previously worked as a software engineer"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You\u2019ll immediately take on high-impact projects, building features like visual search, semantic segmentation, custom object tracking, model interpretability, video summarization, and the infrastructure required to run complex machine learning workloads",
+                        "Design and build the computer vision software that powers the Matroid platform",
+                        "Build Matroid features that use computer vision in novel ways to solve complex vision tasks across manufacturing and industrial inspection",
+                        "Research and evaluate leading computer vision model architectures and techniques",
+                        "Act as the technical lead on customer engagements",
+                        "You\u2019ll be part of a world-class, multidisciplinary engineering team, where each member identifies and prioritizes valuable and interesting new features to work on",
+                        "You will operate in a collaborative but highly autonomous environment that isn\u2019t bogged down by unnecessary meetings or project management",
+                        "You will know that almost everything you build affects real-world users, and you will appropriately set the quality standards for your work",
+                        "You will be working collaboratively alongside other engineers to develop new features for the platform",
+                        "You will learn a lot along the way, diving into new technologies and the world of computer vision both on your own and during frequent company tech talks"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive pay and equity",
+                        "The chance to constantly work on stimulating intellectual challenges",
+                        "Gym membership reimbursement",
+                        "Free lunch, healthy drinks, and snacks every day",
+                        "Medical, dental, and vision insurance with 100% paid premiums",
+                        "A flexible schedule that leaves time for all of your other interests",
+                        "A budget for whatever hardware or software will make you most effective"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.matroid.com/",
+                    "text": "matroid.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Matroid&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAII0Qk",
+                    "text": "See web results for Matroid"
+                }
+            ],
+            "extensions": [
+                "140K\u2013160K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "140K\u2013160K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiaHRpZG9jaWQiOiJXRFJzbU9od0dpNEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVWxGdWFXczNWRk5xYnpGV1VqZzVlVXhtTlUxQ2FHODRUVWhCVm0xRFdHVjRkWGgyUlRab1ZHdHNkRk54Tm5RMlNVRTRMV1F6U25OcFlUQjNhVGx1VWxjd1Z6Tm5UVVJIWDE5MWN6bEZSWFZMVkhvelRqVlphVk4zZHpoYVJHOXFhRFpuZGpWbVlWOXZla3RJUWtab1VXZzFabDlQT0V4Uk0xUjBaVlIwVUdWcVozTnViemRPY1V3eFZVaHFSRkpSZFZaU1NDMDJUa2RLTjJSWmNHUXRkalpXWnpKelYyNTBTbkUxUWpscFRuZE5FaGRGVEhNNVdrNXRMVVZNV0hoclVFbFFNaTFsVXkxQmR4b2lRVTh0TUhKc04zRnhlRTVGYzAwd1ZXdFljRGhOYUhsV1dFbHFRMVZuU0RCeFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiIubkZnMmVie2ZvbnQtd2VpZ2h0OjUwMH0uQmk2RGRje2ZvbnQtd2VpZ2h0OjUwMH1BcHBseSBkaXJlY3RseSBvbiBBbmdlbExpc3QiLCJsaW5rIjoiaHR0cHM6Ly93ZWxsZm91bmQuY29tL2NvbXBhbnkvbWF0cm9pZC9qb2JzLzI1MDA2MDQtZGVlcC1sZWFybmluZy1lbmdpbmVlcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Machine Learning Engineer \u2013 Neural Network Optimization, Autopilot AI",
+            "company_name": "Tesla",
+            "location": "  Palo Alto, CA   ",
+            "via": "via Karkidi",
+            "description": "You will be part of a team of computer vision experts that research, design, implement, optimize, and deploy neural networks and computer vision algorithms that advance the state of the art in perception for autonomous driving.\n\nWhat You\u2019ll Do...\n\u2022 Train neural networks for autonomous driving tasks, such as object detection, pose estimation, depth estimation, keypoint detection & tracking, SLAM, etc.\n\u2022 Participate in the complete computer vision task life cycle: develop a new task or neural architecture, optimize it for execution on our in-vehicle compute platform, deploy it to a development build, work with peer engineering teams to integrate it into our planning and controls stack, and validate its safety with our QA team.\n\u2022 Stay abreast of advances in machine learning, particularly in the areas of object detection, object tracking, depth estimation, SLAM, neural radiance fields (NeRF).\n\nWhat You\u2019ll Bring\n\u2022 Strong experience with Python, C++, and software engineering best practices.\n\u2022 An \u201cunder the hood\u201d knowledge of deep learning: layer details, loss functions, optimization, etc.\n\u2022 Fluency with common neural network architectures for computer vision.\n\u2022 Expertise in one of these areas: object detection, object tracking, pose estimation, depth estimation, multi-view stereo architectures, neural radiance fields (NeRF), video networks, keypoint detection & tracking, SLAM.\n\u2022 Experience with PyTorch, or another major deep learning framework such as TensorFlow.\n\u2022 Experience with data manipulation tools including jupyter notebooks, numpy, scipy, matplotlib, scikit-learn, Python & Bash scripting, Linux environment.\n\u2022 (bonus) Experience with SIMD/SIMT parallelism, GPU programming, multithreaded programming.\n\u2022 (bonus) Comfortable working in a shared cluster environment (e.g. Slurm, network filesystems).\n\u2022 (bonus) Record of driving research projects from start to end, including conception, experimentation, iteration, and integration into a working product",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong experience with Python, C++, and software engineering best practices",
+                        "An \u201cunder the hood\u201d knowledge of deep learning: layer details, loss functions, optimization, etc",
+                        "Fluency with common neural network architectures for computer vision",
+                        "Expertise in one of these areas: object detection, object tracking, pose estimation, depth estimation, multi-view stereo architectures, neural radiance fields (NeRF), video networks, keypoint detection & tracking, SLAM",
+                        "Experience with PyTorch, or another major deep learning framework such as TensorFlow",
+                        "Experience with data manipulation tools including jupyter notebooks, numpy, scipy, matplotlib, scikit-learn, Python & Bash scripting, Linux environment",
+                        "(bonus) Experience with SIMD/SIMT parallelism, GPU programming, multithreaded programming",
+                        "(bonus) Comfortable working in a shared cluster environment (e.g"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Train neural networks for autonomous driving tasks, such as object detection, pose estimation, depth estimation, keypoint detection & tracking, SLAM, etc",
+                        "Participate in the complete computer vision task life cycle: develop a new task or neural architecture, optimize it for execution on our in-vehicle compute platform, deploy it to a development build, work with peer engineering teams to integrate it into our planning and controls stack, and validate its safety with our QA team",
+                        "Stay abreast of advances in machine learning, particularly in the areas of object detection, object tracking, depth estimation, SLAM, neural radiance fields (NeRF)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.tesla.com/",
+                    "text": "tesla.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Tesla&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIkwo",
+                    "text": "See web results for Tesla"
+                }
+            ],
+            "extensions": [
+                "120K\u2013190K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "120K\u2013190K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIOKAkyBOZXVyYWwgTmV0d29yayBPcHRpbWl6YXRpb24sIEF1dG9waWxvdCBBSSIsImh0aWRvY2lkIjoiSUFlTXlIV21fQklBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXJjQ0N2Y0JRVVZ6TjJwT1V5MVFXVXRQTWxVMlZFcGZVbVYwV0hRdFlUQTRURzFOV25GclNVYzBaa0ZvZVhjMk5sTkpUR0pEUTBrd1lVTTJORWhYYW1SRlozUkdSak5QUm01V1J6UTBiM1owYVd4M1dFaFdOazFVYVcxQlVrSkdabXBMUTI1cVl6SkpXbmxYTFRRelJGWkplRzB5VGxCV1h6QlVkMUl6UjNSbU1HdGFXRmRqVkZsM1ZUZENka293WDI1YVVHZHhOREJmTUdOZk5FYzVSa1JsUkhWc01UaFlXVFJsZUd0T2FEaHNPRVJ4YUc0d04wWkhiRlo1VVhkUlRHbFJWVzl0WmxkdVRqRnRTelZmVVZveFJubFVjRXBHWlhJMFRIVnpjRXRqTTB0WU16bDNTRVpqVDFkM1QwbENWR3hwVlhwUU5YTXdhV2hVYXhJWFJVeHpPVnBPYlMxRlRGaDRhMUJKVURJdFpWTXRRWGNhSWtGUExUQnliRFp4WjNVdFUzZHhkbTF3UlRkVFlqZHFOalIxVGtsNWJucHhWMEUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEthcmtpZGkiLCJsaW5rIjoiaHR0cHM6Ly93d3cua2Fya2lkaS5jb20vam9iLWRldGFpbHMvMzEyNzgtbWFjaGluZS1sZWFybmluZy1lbmdpbmVlci1uZXVyYWwtbmV0d29yay1vcHRpbWl6YXRpb24tYXV0b3BpbG90LWFpLWpvYj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Software engineer (Machine Learning/Computer Vision/Neural...",
+            "company_name": "Cadence Design Systems",
+            "location": "  San Jose, CA   ",
+            "via": "via San Jose, CA - Geebo",
+            "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. Member of the Tensilica Neural Network Compiler Software team within Cadence responsible for developing neural network compiler software and applications that enable customers efficiently deploy neural networks on our DSP and other hardware platforms. Develops software using C+\nto... implement neural network processing. Accelerates neural network inference on CPU and GPU targets using techniques such as compression, pruning, quantization and other algorithmic and functional transformations. Plans and executes projects and mentors other team members Keeps up to date with developments in the neural network field The Position Requirements are Master of Science or PhD in Computer Science, Electronics engineering or related field Relevant academic or industry experience Strong C+\nprogramming skills in windows (Visual Studio) or Linux environments Experience with optimizing computer vision, image processing or neural network inference for embedded systems using techniques like quantization, vectorization, parallel processing, etc. Familiarity with Neural Network Inference Optimization techniques like Quantization Aware Training, Post training quantization and network pruning preferred Experience developing complex software in C+\nsuch as for machine learning, computer vision, Image processing, etc. with particular emphasis on fixed point processing. Experience developing machine learning and neural network applications using popular frameworks such as Tensorflow, Tensorflow Lite, Pytorch, TensorRT, etc. preferred Knowledge of machine learning compilers like TVM or GLOW preferred We're doing work that matters. Help us solve what others can't.\nSalary Range:\n$80K -- $100K\nMinimum Qualification\nSoftware DevelopmentEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Plans and executes projects and mentors other team members Keeps up to date with developments in the neural network field The Position Requirements are Master of Science or PhD in Computer Science, Electronics engineering or related field Relevant academic or industry experience Strong C+",
+                        "programming skills in windows (Visual Studio) or Linux environments Experience with optimizing computer vision, image processing or neural network inference for embedded systems using techniques like quantization, vectorization, parallel processing, etc",
+                        "such as for machine learning, computer vision, Image processing, etc. with particular emphasis on fixed point processing"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Member of the Tensilica Neural Network Compiler Software team within Cadence responsible for developing neural network compiler software and applications that enable customers efficiently deploy neural networks on our DSP and other hardware platforms",
+                        "Develops software using C+",
+                        "to implement neural network processing",
+                        "Accelerates neural network inference on CPU and GPU targets using techniques such as compression, pruning, quantization and other algorithmic and functional transformations"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$80K -- $100K",
+                        "Software DevelopmentEstimated Salary: $20 to $28 per hour based on qualifications"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.cadence.com/",
+                    "text": "cadence.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Cadence+Design+Systems&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAII0go",
+                    "text": "See web results for Cadence Design Systems"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBlbmdpbmVlciAoTWFjaGluZSBMZWFybmluZy9Db21wdXRlciBWaXNpb24vTmV1cmFsIE5ldHdvcmtzIE9wdGltaXphdGlvbikiLCJodGlkb2NpZCI6ImNkMTVqZjlPRkN3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUNDcUlDUVVWek4ycE9VbVZXTTNsak1IUmtjRkowYURaU1oySkhYMFZoT1RZMlN6QjNiWE5UUlVoemRtOVpaVFp2VWw5eVEyRnNka2c0TlV0VlNIQmFNMk56YjJobWJtVlJTRUpWY1dSUGVHeE9kVzV3U2pkMWRXVlZUbloxZERacFFVTkpjSFEyZW5GalVWaDJielExWjNKTGRuUTFRbUpZYTNWYVJqQm5iM0J5Wm0xeVRGVklhVk52UjI1cWMyaHpVQzFuZFV3d1kzaHNZbWxHT0RGMWVDMUNkalZqWm1WdU5uZGZTVUpDUmpWSlRIaFBaVGd5TUdKNFIyOW5iSE5qVEhOWVdpMXdlbkExV1haMExYaGpZMUF5VkZsRk9EaG1VWFpuUkZObWNEWlpVakZXV1hsWGREWmZlRk5hWWtWUWRYSkNaakp2U21reVdXUlBPRlpZWkRaUlJYWnJjREpQVDBsRVZYTldWRUZUVHpRMlRGZEpMVEZKU1hKRlVFSk5UVWQxTkVFU0YwVk1jemxhVG0wdFJVeFllR3RRU1ZBeUxXVlRMVUYzR2lKQlR5MHdjbXcwUVhFNE5VNXRRazVLTlZCcGNFNXpYM1pFYjJ0SVZ6WmlSVXgzIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBTYW4gSm9zZSwgQ0EgLSBHZWVibyIsImxpbmsiOiJodHRwczovL3Nhbmpvc2UtY2EuZ2VlYm8uY29tL2pvYnMtb25saW5lL3ZpZXcvaWQvMTExMjg4OTI4OC1zb2Z0d2FyZS1lbmdpbmVlci1tYWNoaW5lLWxlYXJuaW5nLS8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Physical Therapist, Neural Network Research",
+            "company_name": "UCLA Health Systems",
+            "location": "  Los Angeles, CA   ",
+            "via": "via Getting Hired",
+            "description": "Responsibilities\n\nIn this role, you will provide the clinical application of novel rehabilitation strategy, specifically to study the neural networks within the human spinal cord and leverage this understanding to facilitate recovery of motor function after spinal cord injury or CNS injury...\n\nUtilizing scientific methods, you will perform data analysis and occupational therapy. You will be working with an inter-disciplinary team of researchers from molecular biology, physiology, occupational therapy, and engineering to test novel therapeutic interventions and impact on motor function in humans. You will also be involved with data collection/analysis, organization of research projects, compose manuscripts and work with physical therapy assistants and laboratory assistants.\nQualifications\n\nREQUIRED\n\nPhysical therapy license in the State of California.\n\nSkill in physical therapy assessment and treatment of patients with spinal cord injury.\n\nKnowledge about cerebral palsy and related disorders.\n\nAbility to coordinate and prioritize a large number of tasks.\n\nAbility to use University research libraries for literature searches.\n\nSkill in motivating young adults with injuries and gaining their cooperation for testing and treatment sessions.\n\nKnowledge of normal and abnormal motor function and muscle firing patterns.\n\nSkill in using computers for data acquisition, analysis, graphics programs, and word processing.\n\nAbility to supervise staff, students and other professionals.\n\nPREFERRED\n\nPrevious experience with spinal cord injury patients undergoing surgical procedures.\n\nSkill in operating systems and equipment used for 3D motion analysis including motion analysis system, electromyography, and force plates.\n\nUCLA is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Physical therapy license in the State of California",
+                        "Skill in physical therapy assessment and treatment of patients with spinal cord injury",
+                        "Knowledge about cerebral palsy and related disorders",
+                        "Ability to coordinate and prioritize a large number of tasks",
+                        "Ability to use University research libraries for literature searches",
+                        "Skill in motivating young adults with injuries and gaining their cooperation for testing and treatment sessions",
+                        "Knowledge of normal and abnormal motor function and muscle firing patterns",
+                        "Skill in using computers for data acquisition, analysis, graphics programs, and word processing",
+                        "Ability to supervise staff, students and other professionals",
+                        "Previous experience with spinal cord injury patients undergoing surgical procedures",
+                        "Skill in operating systems and equipment used for 3D motion analysis including motion analysis system, electromyography, and force plates"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will provide the clinical application of novel rehabilitation strategy, specifically to study the neural networks within the human spinal cord and leverage this understanding to facilitate recovery of motor function after spinal cord injury or CNS injury",
+                        "Utilizing scientific methods, you will perform data analysis and occupational therapy",
+                        "You will be working with an inter-disciplinary team of researchers from molecular biology, physiology, occupational therapy, and engineering to test novel therapeutic interventions and impact on motor function in humans",
+                        "You will also be involved with data collection/analysis, organization of research projects, compose manuscripts and work with physical therapy assistants and laboratory assistants"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.uclahealth.org/",
+                    "text": "uclahealth.org"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=UCLA+Health+Systems&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIlAs",
+                    "text": "See web results for UCLA Health Systems"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQaHlzaWNhbCBUaGVyYXBpc3QsIE5ldXJhbCBOZXR3b3JrIFJlc2VhcmNoIiwiaHRpZG9jaWQiOiI2Y0lzY3YxSUNuRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcmNDQ3ZjQlFVVnpOMnBPVVU5S2RrUTVUbWROTFhsWU1EVm9iVWhwTUhSeVFqWnNTSGwzTVdZdFNIcGtiVGxpUkRRNFltZG5iM0JRTjFsUmIwWkpkelZLV2xaa1pGaE5ZV1k0UldOTE1FazFhRGw0UlZCV1dIbE1kVGxFY1RneFlVZDBlVlJuTFRkNk0yUmZhbFZFVTFVekxXSTNZMWxtU1MxdGExZFdUMkpoZDJjNFZGUlZhVFJvTm5Bd1V6VlZWWFE1Vldoc1ZrVkpSRUpOZG1GT1kwZGhUbnBXUTFjMlZsVm9jMHcxTlhOMVExRnNMVXBrZVhsU1YxbG9YemRPYW5JMFJIQjFiVmxzVTFCQ09VbHhXRTh3UzFOcVJYbFZaMkY0TkVWR1dFaExOR3MzUWpsM2NGOU1RMXBuVG1WS1pIcFRSMnhtWldaUVpteE1RUklYUlV4ek9WcE9iUzFGVEZoNGExQkpVREl0WlZNdFFYY2FJa0ZQTFRCeWJEWjRVRGsxV205NlEwcHNUMkV5VTNSQmEweHhOM1k1ZURsVVRtYyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR2V0dGluZyBIaXJlZCIsImxpbmsiOiJodHRwczovL2dldHRpbmdoaXJlZC5jb20vam9iL2hlYWx0aGNhcmUvYWxsLzg0MzY3NzcvcGh5c2ljYWwtdGhlcmFwaXN0LW5ldXJhbC1uZXR3b3JrLXJlc2VhcmNoP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Neuromorphic AI Engineer",
+            "company_name": "Gen Nine, Inc.",
+            "location": "  Covington, KY   ",
+            "via": "via Gen Nine, Inc.",
+            "description": "Job Description\n\nThe Company...\n\nGen Nine is developing state-of-the-art, wearable hardware and software solutions for the home care setting. We provide the tools that help families care for the ones they love. Working at Gen Nine means applying your passion and intellect to help solve some very challenging technical problems and thereby create some of the most advanced products in the world. If you\u2019re interested in working with small teams of highly talented and motivated engineers seeking to make a difference in the world, Gen Nine may be the place for you.\n\nLocation\n\nThis position is based in the vibrant Cincinnati area. Our offices overlook the spectacular Cincinnati skyline and are within walking distance to downtown shopping, shopping malls, restaurants, entertainment, waterfront parks, major league sporting venues and are less than a 20-minute drive to an international airport.\n\nPosition\n\nWe're seeking results-orientated, neuromorphic AI engineers interested in exploring new concepts in health and safety monitoring using highly advanced edge computing hardware and software systems as part of a full-time, multi-year research and development project funded by the National Institutes of Health. This is a paid position. We have full-time, permanent positions and full-time, summer, internship positions. Internships may also be used to earn college credits.\n\nSkills and Experience\n\nThe ideal candidate will have a background in electrical engineering, computer engineering, software development, computational neuroscience and/or mechatronics. This research engineer will investigate ultra-low power systems, devices, and algorithms for neuromorphic computing engines in applications including sensor arrays, activity tracking and voice processing. They will participate in a small-team environment to design, operate and simulate novel modes of computation using existing hardware platforms of hybrid CMOS/memristor circuits and contribute to expanding this platform for novel applications. Enthusiasm and the ability to participate in a team environment in order to solve interesting and complex problems is a must.\n\nRequired\n\u2022 PhD. preferred, but will consider a MS/BS degree in Computer Science, Computational Neuroscience, Physics, Mathematics, Electrical/Computer Engineering, or a related field.\n\u2022 Significant prior experience in AI/ML frameworks, modeling spiking neural networks and/or be currently enrolled in a PhD program with a focus on machine learning or neuro-inspired computational algorithms and applications.\n\u2022 Expertise in Python and/or C/C++ with the ability to design and write quality code.\n\u2022 Experience in machine learning frameworks such as TensorFlow or PyTorch.\n\u2022 Strong grasp of computer science fundamentals and mathematics.\n\u2022 Proficient in Linux OS environment.\n\u2022 Ability to think entrepreneurially and innovate in a real-world, problem-solving environment.\n\u2022 Ability to work both individually and as a small team member, with or without supervision",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will have a background in electrical engineering, computer engineering, software development, computational neuroscience and/or mechatronics",
+                        "Enthusiasm and the ability to participate in a team environment in order to solve interesting and complex problems is a must",
+                        "Significant prior experience in AI/ML frameworks, modeling spiking neural networks and/or be currently enrolled in a PhD program with a focus on machine learning or neuro-inspired computational algorithms and applications",
+                        "Expertise in Python and/or C/C++ with the ability to design and write quality code",
+                        "Experience in machine learning frameworks such as TensorFlow or PyTorch",
+                        "Strong grasp of computer science fundamentals and mathematics",
+                        "Proficient in Linux OS environment",
+                        "Ability to think entrepreneurially and innovate in a real-world, problem-solving environment",
+                        "Ability to work both individually and as a small team member, with or without supervision"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "They will participate in a small-team environment to design, operate and simulate novel modes of computation using existing hardware platforms of hybrid CMOS/memristor circuits and contribute to expanding this platform for novel applications"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Gen+Nine,+Inc.&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAII0As",
+                    "text": "See web results for Gen Nine, Inc."
+                }
+            ],
+            "extensions": [
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJOZXVyb21vcnBoaWMgQUkgRW5naW5lZXIiLCJodGlkb2NpZCI6IkQzYUNmOXFKM3NJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VMjlTUld4U1prcHFNbk0zVW1oemNuVnlRbEZFV2tsdGVFZzJiaTFvTW1ORmQyVkhSRXBmUmpaa1JDMVdUVGMyVm5CQlZISnJZalZXVFZadFdXdFVOamxKUlV4bVNGQXhTa05CVlUxcFZHSmplRTFvWW1zelFYTmhXa2RpYzFscGFIVmpaRFpyTldGT2NGQnZOMlZLVDFKRGFuUjBSVVpWZGt4WGIwSktSRlJoWHpOSGRVMUdObXB5YkVGdVFWaHJWRVZ1Y0dKTlNWZE1VVU52V0RRdFJXdEhWVmxPU2sxTmNVcGtkMjFpTkRObmQycFlWV1ZwTldKemNWYzVWM3BpWlhaRmJXRTNFaGRGVEhNNVdrNXRMVVZNV0hoclVFbFFNaTFsVXkxQmR4b2lRVTh0TUhKc05reDRNVVJtVFVKTWVWZ3labVpYVjBsRVVtaG5lbmhFVlZWUFp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBHZW4gTmluZSwgSW5jLiIsImxpbmsiOiJodHRwczovL2dlbi1uaW5lLWluYy5icmVlenkuaHIvcC9jOTU5NzBkMTQ2ZDktbmV1cm9tb3JwaGljLWFpLWVuZ2luZWVyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "System-2 Deep Learning and Neural Reasoning Researcher",
+            "company_name": "Qualcomm",
+            "location": "  San Diego, CA   ",
+            "via": "via Jora",
+            "description": "Company:\n\nQualcomm Technologies, Inc...\nJob Area:\nEngineering Group, Engineering Group > Machine Learning Researcher\n\nGeneral Summary:\n\nQualcomm AI Research is looking for world-class researchers in deep learning, to join a high-caliber team of engineers inventing machine learning technology to provide best-in-class solutions while running with the most efficient use of power, memory, and computation.\n\nMembers of our team are part of a multi-disciplinary core research group within Qualcomm which spans software, hardware, and systems, and our members may simultaneously contribute to technology deployed worldwide by partnering with our industry-leading businesses across mobile, compute, automotive, cloud, and IOT. Our research team has demonstrated first-in-the-world research and proof-of-concepts in areas such model efficiency, neural video codecs, video semantic segmentation, federated learning, and wireless RF sensing (https://www.qualcomm.com/ai-research), has won major research competitions such as the visual wake word challenge, and converted leading research into best-in-class user-friendly tools such as Qualcomm Innovation Center\u2019s AI Model Efficiency Toolkit (https://github.com/quic/aimet).\n\nhe R&D work responsibility for this position focuses on the following\n\n- Fundamental machine learning research on neural reasoning and connectionist approaches to \u201cSystem-2\u201d cognition in a neural network.\n\n- Study of approaches to integrating multimodal perception and language to push a neural network\u2019s abilities towards reason and decision making.\n\n- Research the role of language in instructing the neural network at run-time (\u201cprompting\u201d) and in guiding the network towards better solutions during training (\u201cexplanations\u201d).\n\n- Identify new applications that benefit from the increased ability to perform end-to-end sequential reasoning and decision making.\n\nIdeal candidates will demonstrate the following:\n\n- Master\u2019s degree in Computer Science, Engineering, Information Systems, or related field.\n\n- Extensive experience in training neural networks (including CNNs, RNNs, Attention/Transformers).\n\n- Extensive experience in modeling, implementing, and training neural networks in high-level languages and frameworks like PyTorch or TensorFlow\n\nOther Desirable Skills:\n\n- PhD in Computer Science, Engineering, or related field\n\n- Track record of research excellence and high-quality publications (e.g. ICLR, NeurIPS, CVPR, ICML, ICCV, etc.)\n\n- Experience with recurrent neural networks and/or autoregressive language models, such as GPT and similar models\n\n- Experience helpful in Reinforcement Learning and modern approaches to offline RL, such as Decision Transformers/Trajectory Transformers\n\nMinimum Qualifications:\n\u2022 Master's degree in Computer Engineering, Computer Science, Electrical Engineering, or related field and 2+ years of Hardware Engineering, Software Engineering, Systems Engineering, or related work experience.\nOR\nPhD in Computer Engineering, Computer Science, Electrical Engineering, or related field.\n\n\u2022 6+ months of experience developing and/or optimizing machine learning models, systems, platforms, or methods.\n\nAlthough this role has some expected minor physical activity, this should not deter otherwise qualified applicants from applying. If you are an individual with a physical or mental disability and need an accommodation during the application/hiring process, please call Qualcomm\u2019s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities as part of our ongoing efforts to create an accessible workplace.\n\nQualcomm is an equal opportunity employer and supports workforce diversity.\n\nTo all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.\n\nEEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.\n\nQualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.\n\nPay range:\n$150,500.00 - $225,500.00\n\nThe above pay scale reflects the broad, minimum to maximum, pay scale for this job code for the location for which it has been posted. Even more importantly, please note that salary is only one component of total compensation at Qualcomm. We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus). In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play. Your recruiter will be happy to discuss all that Qualcomm has to offer!\n\nIf you would like more information about this role, please contact Qualcomm Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Extensive experience in training neural networks (including CNNs, RNNs, Attention/Transformers)",
+                        "Extensive experience in modeling, implementing, and training neural networks in high-level languages and frameworks like PyTorch or TensorFlow",
+                        "Track record of research excellence and high-quality publications (e.g. ICLR, NeurIPS, CVPR, ICML, ICCV, etc.)",
+                        "Experience with recurrent neural networks and/or autoregressive language models, such as GPT and similar models",
+                        "Experience helpful in Reinforcement Learning and modern approaches to offline RL, such as Decision Transformers/Trajectory Transformers",
+                        "Master's degree in Computer Engineering, Computer Science, Electrical Engineering, or related field and 2+ years of Hardware Engineering, Software Engineering, Systems Engineering, or related work experience",
+                        "6+ months of experience developing and/or optimizing machine learning models, systems, platforms, or methods"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "he R&D work responsibility for this position focuses on the following",
+                        "Fundamental machine learning research on neural reasoning and connectionist approaches to \u201cSystem-2\u201d cognition in a neural network",
+                        "Study of approaches to integrating multimodal perception and language to push a neural network\u2019s abilities towards reason and decision making",
+                        "Research the role of language in instructing the neural network at run-time (\u201cprompting\u201d) and in guiding the network towards better solutions during training (\u201cexplanations\u201d)",
+                        "Identify new applications that benefit from the increased ability to perform end-to-end sequential reasoning and decision making"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$150,500.00 - $225,500.00",
+                        "We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus)",
+                        "In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.qualcomm.com/",
+                    "text": "qualcomm.com"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Qualcomm&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIkww",
+                    "text": "See web results for Qualcomm"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTeXN0ZW0tMiBEZWVwIExlYXJuaW5nIGFuZCBOZXVyYWwgUmVhc29uaW5nIFJlc2VhcmNoZXIiLCJodGlkb2NpZCI6ImdmQjctR09QMkZvQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVWek4ycE9VMkZ2TkZZMldsRndRbWhMWlZrMGRYUldjR2hYVjFGaVgwcEJVa1Y0VDJKSmEyVkJVR3hWUVRCVVgwRmZWRWROUjNoV2FtVXRhVkZTWVdrelZHeDBVV05NUVZWdFZYVTFNRmc1YXpkU2FEQTVVVGRwY0hwcFkxOUVUbEl4UlZCMlJXTlFWRlZZVTJkZlFpMWZNRlZMTFc4elJGUkVZamR1U3padFdpMDNNWE54VkROT2R6ZG9UMmxHUVc4M1lWcDRUa3RJYW1aRmFHSlRTMEpyYVZsdmRYTlJhR1ZwTUVKNU9YcFZiWGhsZEhweFkyOVNhMHRzU0Y5YVVtNHdOMHRWTFhST1owdExNelZmVWs1elptVnNZamRMT1d0aVNreGhXRFZuVVJJWFJVeHpPVnBPYlMxRlRGaDRhMUJKVURJdFpWTXRRWGNhSWtGUExUQnliRFl6TkdaV05VUkNNRFo2VnpseWNHZFNUbFptUjFsVlRrWk9VVkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBKb3JhIiwibGluayI6Imh0dHBzOi8vdXMuam9yYS5jb20vam9iL05ldXJhbC1SZWFzb25pbmctUmVzZWFyY2hlci0yYTU0NWFmODFiMGE5MWQ0MjU4N2Y5ZDg2ZjBmZTg4Nz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Deep learning/Machine Learning developers",
+            "company_name": "Netra",
+            "location": "  Boston, MA   ",
+            "via": "via AngelList",
+            "description": "We are working on cutting-edge technologies the intersection of deep-learning and machine vision.\n\nSkills/Experience Desired...\n\nSolid experience with Convolutional Neural networks and deep learning tools such as Keras, Tensorflow etc.\n\nExperience in machine learning algorithm development\n\nExperience with video, audio or image processing algorithms is a major plus\n\nSoftware development experience, with Java, Scala, C, C++, C# or Python\n\nFamiliarity with R, OpenCV, SQL, and NoSQL systems a plus\n\nPhD degree or Master\u2019s degree or equivalent work experience in machine learning\n\nNetra focuses on Brand Marketing and Targeted Advertising. Their company has offices in Boston. They have a small team that's between 11-50 employees. To date, Netra has raised $2.45M of funding; their latest round was closed on May 2016.\n\nYou can view their website at http://www.netra.io or find them on LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Solid experience with Convolutional Neural networks and deep learning tools such as Keras, Tensorflow etc",
+                        "Experience in machine learning algorithm development",
+                        "Experience with video, audio or image processing algorithms is a major plus",
+                        "Software development experience, with Java, Scala, C, C++, C# or Python",
+                        "PhD degree or Master\u2019s degree or equivalent work experience in machine learning"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Netra&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIzQw",
+                    "text": "See web results for Netra"
+                }
+            ],
+            "extensions": [
+                "80K\u2013120K a year",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "salary": "80K\u2013120K a year"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIGxlYXJuaW5nL01hY2hpbmUgTGVhcm5pbmcgZGV2ZWxvcGVycyIsImh0aWRvY2lkIjoiLXdsVUpMNmxGejhBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1VWTTNhVUZvTTJ0TVYydHZRWGhzTFhwS2JFWkpSVTUxT0hoaUxXUktORE14V0dGdk0wbFpXRFY0Vm10WFVWUm5SbVJPWWpsaGJtOUNTMlV6VDNOelEzRldhekpNVmpSclRVSlFWVU5NUTNBd1FsVjZSRkJNTm1rd01sZFJhR3RqUmxORVVrOTBZVlJ2WVdGdFlsUklTRWRzVW01dk5qRmtka3B1U2xKd2JIaDVkM0J0YjI5RmNtNTJhbGxzU0c5bE1qTXlTa1pXUkRWb1lXWklXRTlPU0ZJMU0yVnFYMEp3VkZwU2MzUkhaekZaRWhkRlRITTVXazV0TFVWTVdIaHJVRWxRTWkxbFV5MUJkeG9pUVU4dE1ISnNOVmh5WDJ0UGNUVm1ORFE1Wm5oYVdUZE1UVWxqWlc1R1VtMXFVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEFuZ2VsTGlzdCIsImxpbmsiOiJodHRwczovL3dlbGxmb3VuZC5jb20vY29tcGFueS9uZXRyYS9qb2JzLzEyNzAzNy1kZWVwLWxlYXJuaW5nLW1hY2hpbmUtbGVhcm5pbmctZGV2ZWxvcGVycz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "PhD position in Deep Neural Networks with Dempster Shafer Theory",
+            "company_name": "Universit\u00e9 d'Artois / LGI2A",
+            "location": "  Bethune, SC   ",
+            "via": "via Glassdoor",
+            "description": "PhD position in Deep Neural Networks with Dempster Shafer Theory\n\nResearch Area...\n\nDeep Neural Networks, Artificial Intelligence, Machine Learning, Belief Functions, Dempster-Shafer\nTheory\n\nDescription\n\nWe are seeking a highly motivated and talented PhD student to join our research team at University of\nArtois - LGI2A - Decision and Information Fusion theme (DFI) - B\u00e9thune - France -\n(https://www.lgi2a.univ-artois.fr/spip/en/) focused on advancing the state-of-the-art in deep neural networks using Dempster Shafer theory of evidence. The successful candidate will have the opportunity to work on cutting-edge research projects and collaborate with other researchers in the field.\n\nSubject\n\nDeep neural networks (DNNs) refer to predictive models that exploit multiple layers of artificial neurons to compute a prediction [1,4]. In the original version, the layers are sequential and each neuron in a layer is connected with neurons in the previous layer. Many other alternative architectures have been proposed to adapt DNNs to solve specific and complex problems.\n\nOn the other hand, a theory called Dempster-Shafer theory of belief functions, or theory of evidence\n[15], has emerged as a rich and flexible generalization of the Bayesian probability theory, able to deal with imperfect (uncertain, imprecise, \u2026) information. It is notably used in a growing number of applications such as classification (e.g. [2]), clustering (e.g. [3,7]) or information fusion (e.g. [5,13]).\n\nRecent works [6,16,17] have shown the interest of enriching a DNN with an additional distance-based\nDempster Shafer layer [2] for predicting belief functions. These belief functions can be of great interest to represent a reality as faithfully as possible, for example to perform a partial classification [8], i.e. decisions in favor of a group of classes.\n\nThe main idea of this thesis is to develop such deep evidential networks in more depth by exploiting methods developed at LGI2A allowing one to consider finer knowledge about the quality [12, 14] and the dependence of information [11], or the ignorance in predictions [9,10].\n\nTwo applications are envisaged: Image analysis from drones and fish population analysis.\n\nReferences\n\n[1] C. M. Bishop. Pattern recognition and machine learning, 5th Edition. Information science and statistics. Springer, 2007.\n\n[2] T. Denoeux. A neural network classifier based on dempster-shafer theory. IEEE Transactions on\nSystems, Man, and Cybernetics-Part A: Systems and Humans, 30(2):131\u2013150, 2000.\n\n[3] T. Den\u0153ux. Calibrated model-based evidential clustering using bootstrapping. Information Science,\n528:17\u201345, 2020.\n\n[4] I. Goodfellow, Y. Bengio and A. Courville: Deep Learning (Adaptive Computation and Machine\nLearning), MIT Press, Cambridge (USA), 2016.\n\n[5] L. Huang, T. Denoeux, P. Vera, and S. Ruan. Evidence fusion with contextual discounting for multi- modality medical image segmentation. In International Conference on Medical Image Computing and\nComputer-Assisted Intervention, pages 401\u2013411. Springer, 2022.\n\n[6] L. Huang, S. Ruan, P. Decazes, and T. Denoeux. Lymphoma segmentation from 3D PET-CT images using a deep evidential network. International Journal of Approximate Reasoning, Volume 149, pages\n39-60, 2022.\n\n[7] F. Li, S. Li, and T. Den\u0153ux. Combining clusterings in the belief function framework. Array, 6:100018,\n2020.\n\n[8] L. Ma and T. Den\u0153ux. Partial classification in the belief function framework. Knowledge-Based\nSystems, 214: article 106742, 2021.\n\n[9] P. Minary, F. Pichon, D. Mercier, E. Lef\u00e8vre and B. Droit. Evidential joint calibration of binary SVM classifiers, Soft Computing, pp 4655-4671, Vol. 23, No. 13, 2019.\n\n[10] S. Ramel, F. Pichon and F. Delmotte. A reliable version of choquistic regression based on evidence theory, Knowledge-Based Systems, KBS, pp 106252, Vol. 205, 2020.\n\n[11] F. Pichon. Canonical decomposition of belief functions based on Teugels' representation of the multivariate Bernoulli distribution. Information Sciences, 428:76-104, 2018.\n\n[12] F. Pichon, D. Dubois, and T. Den\u0153ux. Relevance and truthfulness in information correction and fusion. International Journal Approximate Reasoning, 53(2):159\u2013175, 2012.\n\n[13] F. Pichon, D. Dubois, and T. Denoeux. Quality of information sources in information fusion. In \u00c9loi\nBoss\u00e9 and Galina L. Rogova, editors, Information Quality in Information Fusion and Decision Making, pages 31\u201349. Springer, 2019.\n\n[14] F. Pichon, D. Mercier, E. Lef\u00e8vre, and F. Delmotte. Proposition and learning of some belief function contextual correction mechanisms. International Journal Approximate Reasoning, 72:4\u201342, 2016.\n\n[15] G. Shafer. A mathematical theory of evidence, volume 42. Princeton university press, 1976.\n\n[16] Z. Tong, P. Xu, and T. Denoeux. An evidential classifier based on dempster-shafer theory and deep learning. Neurocomputing, 450:275\u2013293, 2021.\n\n[17] Z. Tong, P. Xu, and T. Den\u0153ux. Fusion of evidential cnn classifiers for image classification. In\nInternational Conference on Belief Functions, pages 168\u2013176. Springer, 2021.\n\nResponsibilities\n\n\u25cf Conduct research on deep neural networks with a Dempster-Shafer Layer\n\u25cf Collaborate with other researchers on research projects\n\u25cf Write and publish research papers in top-tier conferences and journals\n\u25cf Present research findings at conferences and workshops\n\u25cf Contribute to the development of new algorithms and techniques for deep neural networks\n\nQualifications\n\n\u25cf Master's degree or equivalent in Computer Science or a related field\n\u25cf Strong background in machine learning and deep learning\n\u25cf Experience with programming languages such as Python and TensorFlow / Keras\n\u25cf Excellent written and oral communication skills\n\u25cf Strong problem-solving and analytical skills\n\nPlace of work and salary\n\nUniversity of Artois - LGI2A - B\u00e9thune - France - (https://www.lgi2a.univ-artois.fr/spip/en/). Salary about 1 975 euros before taxes.\n\nHow to apply\n\nTo apply, please send an email to sebastien.ramel@univ-artois.fr, frederic.pichon@univ-artois.fr and david.mercier@univ-artois.fr with the following documents grouped in one pdf file\n\n\u25cf Your CV\n\u25cf A motivation letter (max 2 pages)\n\u25cf Your grades for the current year (Master's degree or equivalent) and the past years\n(University levels)\n\u25cf [optional] at most two recommendations.\n\nLooking forward to receiving your application\n\nType d'emploi : CDD\nDur\u00e9e du contrat : 36 mois\n\nSalaire : 1 600,00\u20ac \u00e0 1 700,00\u20ac par mois\n\nAvantages :\n\u2022 Aide au logement\n\u2022 Formation linguistique offerte\n\nExigences linguistiques flexibles :\n\u2022 Fran\u00e7ais non requis\n\nProgrammation :\n\u2022 Du lundi au vendredi\n\u2022 Travail en journ\u00e9e\n\nLieu du poste : Un seul lieu de travail\n\nDate de d\u00e9but pr\u00e9vue : 02/10/2023",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Lymphoma segmentation from 3D PET-CT images using a deep evidential network",
+                        "Evidential joint calibration of binary SVM classifiers, Soft Computing, pp 4655-4671, Vol. 23, No. 13, 2019",
+                        "A reliable version of choquistic regression based on evidence theory, Knowledge-Based Systems, KBS, pp 106252, Vol. 205, 2020",
+                        "Relevance and truthfulness in information correction and fusion",
+                        "An evidential classifier based on dempster-shafer theory and deep learning",
+                        "Neurocomputing, 450:275\u2013293, 2021",
+                        "Master's degree or equivalent in Computer Science or a related field",
+                        "Strong background in machine learning and deep learning",
+                        "Experience with programming languages such as Python and TensorFlow / Keras",
+                        "Excellent written and oral communication skills",
+                        "Strong problem-solving and analytical skills",
+                        "A motivation letter (max 2 pages)",
+                        "Your grades for the current year (Master's degree or equivalent) and the past years",
+                        "Fran\u00e7ais non requis"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "These belief functions can be of great interest to represent a reality as faithfully as possible, for example to perform a partial classification [8], i.e. decisions in favor of a group of classes",
+                        "The main idea of this thesis is to develop such deep evidential networks in more depth by exploiting methods developed at LGI2A allowing one to consider finer knowledge about the quality [12, 14] and the dependence of information [11], or the ignorance in predictions [9,10]",
+                        "Pattern recognition and machine learning, 5th Edition",
+                        "Conduct research on deep neural networks with a Dempster-Shafer Layer",
+                        "Write and publish research papers in top-tier conferences and journals",
+                        "Present research findings at conferences and workshops",
+                        "Contribute to the development of new algorithms and techniques for deep neural networks"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salaire : 1 600,00\u20ac \u00e0 1 700,00\u20ac par mois",
+                        "Aide au logement",
+                        "Formation linguistique offerte"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Universit%C3%A9+d%27Artois+/+LGI2A&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIjg0",
+                    "text": "See web results for Universit\u00e9 d'Artois / LGI2A"
+                }
+            ],
+            "extensions": [
+                "26 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQaEQgcG9zaXRpb24gaW4gRGVlcCBOZXVyYWwgTmV0d29ya3Mgd2l0aCBEZW1wc3RlciBTaGFmZXIgVGhlb3J5IiwiaHRpZG9jaWQiOiJlOHAxZW9QSUVDQUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dDQ293Q1FVVnpOMnBPVVc0elQyc3lWRzR0TFc4M1ZFaFdSWEl3Y25OUVgyUlVUVEkxVjNKUFNESm5ZMmQ1Ynkxc2VtNVJRMFJpUkVOeFEyMUNURFpoUkZGTlExUlZkazh4VmxJelMxWjNlbkpmZVd0NVpGSldZbDh5WVc0eFZHWklhbDlJWlhRelJFeGxSVEJUVkRKMWEwSjRTVzE0ZVhCa1IyVTBjRm96VjJsNExVbzRZazFYYmtoSFRsbEJRWFpxYW1kV1pUVkpkbWRtY0cxZlUwcERWRmhoZW5vMmNqQkJjakpXYkZGU2FGTTNORGd0WWpSWk9HRkhUVEUxUTB0NFJHRnZjSGs1YjI1d2F6UTBSR0ZpTlc5VlRVWmFZMWxLZVhkdlVHVm1UelpxU1dkblZIWlVUVTlWT0VsdFJXVk9UR2w2VEZoNlJsRnFWRmgxZFZBNVIwTjJVMWw2U2pGU1p6bFlOVGh4UWhJWFJVeHpPVnBPYlMxRlRGaDRhMUJKVURJdFpWTXRRWGNhSWtGUExUQnliRFZMY2toNlJtdE5PRkJJWlRWek5GOXpTRkl6UXpNMFdGTTVXV2MiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBHbGFzc2Rvb3IiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZ2xhc3Nkb29yLmNvbS9qb2ItbGlzdGluZy9waGQtcG9zaXRpb24taW4tZGVlcC1uZXVyYWwtbmV0d29ya3Mtd2l0aC1kZW1wc3Rlci1zaGFmZXItdGhlb3J5LXVuaXZlcnNpdCVDMyVBOS1kLWFydG9pcy1sZ2kyYS1KVl9JQzExNTUxMjRfS08wLDY0X0tFNjUsOTAuaHRtP2psPTEwMDg1NDUwMDMxMjBcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Python Engineer - Computer Vision / Neural Network",
+            "company_name": "Braintrust",
+            "location": "  San Francisco, CA   ",
+            "via": "via Salary.com",
+            "description": "ABOUT US:\n\nBraintrust is a user-owned talent network that connects you with great jobs with no fees or membership costs\u2014so you keep 100% of what you earn...\n\u2022 JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)\n\u2022 LOCATION: Remote - Work from anywhere (TimeZone: CST | Partial overlap)\n\u2022 HOURLY RANGE: Our client is looking to pay $80 \u2013 $100/hr\n\u2022 ESTIMATED DURATION: 40h/week - Long term\n\nABOUT THE HIRING PROCESS:\n\nWhen you join Braintrust, you will be invited to a screening process for Braintrust to learn more about your previous work experiences. Once completed, you will have access to the employer for this role and other top companies that seek high-quality talent. Apply to this job to kick off the process.\n\nTHE OPPORTUNITY\nRequirements\n\u2022 Python Experience\n\u2022 Computer Vision and Neural network experience\n\nWhat you\u2019ll be working on\n\nOur client is looking for a highly experienced Python Developer with Computer Vision and Neural network experience to join their team to help us continue to evolve the biometric capture systems that provide the foundation for biometric authentication within the Keyo network. Specifically, the candidate will be an important member in building computer vision software to match palm images on a massive scale for authentication in real-world environments. Candidates be expected to deliver value to Keyo in the following areas:\n\u2022 Continuously improve the design of the palm-based identity product in terms of usability, performance, accuracy, reliability, security, and development/operating cost. Key components include:\n\u2022 The hand image capture system (in collaboration with the hardware team)\n\u2022 The palm signature-generating neural network\n\u2022 The matching engine\n\u2022 Design product build, test, and deployment infrastructure\n\u2022 Design neural network data collection, training, and testing infrastructure\n\u2022 Communicate/collaborate with engineering teams and product stakeholders on product design. Create and maintain design documents.\n\u2022 Develop and maintain software components as needed to support/enhance the product.\n\u2022 Hire and/or train team members to assist with core product development\n\u2022 Perform code reviews for repos and code related to Computer Vision and Neural Network Development\n\u2022 Perform root-cause analysis for bugs and suggest/implement fixes\n\nApply Now!\n\nBraintrust Job ID: 6354\n\nC2C Candidates: This role is not available to C2C candidates working with an agency. If you are a professional contractor who has created an LLC/corp around their consulting practice, this is well aligned with Braintrust and we\u2019d welcome your application.\n\nBraintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Python Experience",
+                        "Computer Vision and Neural network experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Continuously improve the design of the palm-based identity product in terms of usability, performance, accuracy, reliability, security, and development/operating cost",
+                        "Design product build, test, and deployment infrastructure",
+                        "Design neural network data collection, training, and testing infrastructure",
+                        "Communicate/collaborate with engineering teams and product stakeholders on product design",
+                        "Create and maintain design documents",
+                        "Develop and maintain software components as needed to support/enhance the product",
+                        "Hire and/or train team members to assist with core product development",
+                        "Perform code reviews for repos and code related to Computer Vision and Neural Network Development",
+                        "Perform root-cause analysis for bugs and suggest/implement fixes"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "HOURLY RANGE: Our client is looking to pay $80 \u2013 $100/hr",
+                        "ESTIMATED DURATION: 40h/week - Long term"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Braintrust&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIyQ0",
+                    "text": "See web results for Braintrust"
+                }
+            ],
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "7 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRW5naW5lZXIgLSBDb21wdXRlciBWaXNpb24gLyBOZXVyYWwgTmV0d29yayIsImh0aWRvY2lkIjoiaGZpemZPYTBiZDhBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VuZFpiSGxGTjJKRFpWbFhMVzVCVFRSRVQxRldSMVpTY1RjM1RHUTNZa3RXVVRNMmNUVk5hMUkyT0ZJNVMwZFVlalE0WW1KQ01FUnFXa1kxVmpjM2JGcE9aa3hwU2sxS2NEa3dTVmhaVlhKUFVqWXpTMll0ZURWbVgyZGZYMU5xV0ZSeWQxbDFVblpMYjFwQ2EzWkxhbGxVVTBoZmFtTlRkRUkzWjA5TlZrRnRkbmR6ZURNelN6QjRaMVJNU1RKRFpsZElWa2x6U3pOMFpITTBNMWhsUzJnMlZsZHFOWFZ5UWpSa05razBOVVJPTlY5T1p6aFpZMVUzYW5kbE1ISnhlRGhDYjNoVFdGWllXa2xXU1ZCNFdVRlJXbTlGUVRKWVJTMWZVUklYUlV4ek9WcE9iUzFGVEZoNGExQkpVREl0WlZNdFFYY2FJa0ZQTFRCeWJEVkJZMFJqUW5WRVMzVm9ZbXhyYjNwWFZraHdkMXA2TUhRMFdVRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNhbGFyeS5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cuc2FsYXJ5LmNvbS9qb2IvYnJhaW50cnVzdC9weXRob24tZW5naW5lZXItY29tcHV0ZXItdmlzaW9uLW5ldXJhbC1uZXR3b3JrL2oyMDIzMDQwNDEwNDg1MDU2MzYwNzA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Adjunct - Neural Networks and Deep Learning - Cohort Traditional...",
+            "company_name": "Grand Canyon University",
+            "location": "  Phoenix, AZ   ",
+            "via": "via HigherEdJobs",
+            "description": "Make a Difference at Grand Canyon University\n\nShape the bright futures of Grand Canyon University students as a cohort adjunct faculty member for the College of Science, Engineering and Technology at [site location]. Through hands-on, inquiry-based learning, the college provides an outlet for innovation and cross-disciplinary exposure. It also features pre-professional degrees in biology... alongside our degrees in information systems, and a forensic science and exercise science program.\n\nAs an adjunct faculty member, you'll provide program instruction incorporating innovative teaching methodologies, cutting-edge technologies and other industry trends reflecting advancements in your discipline. If you are highly motivated and passionate about teaching exceptional quality instruction in modern facilities with smaller class sizes, we'd like to hear from you.\n\nResponsibilities:\n\nResponsibilities include equipping students with the required skill set, facilitating classroom discussions, assessing student performance and preparing students to be successful leaders in their chosen profession. Other main responsibilities include the following:\n\u2022 Provide a positive example to students by supporting the University's Doctrinal Statement, Ethical Position Statement and Mission of Grand Canyon University.\n\nQualifications:\n\u2022 Minimum: Doctorate in Computer Science, Data Science, Software Engineering, Bioinformatics, or related discipline. Exceptional Expertise: PhD in any field plus 12 graduate-level credits in machine learning or artificial intelligence with an emphasis in neural networks & Minimum 2 years' experience designing, researching, or engaged in developing algorithms and software applications for neural networks in R and Python; solid knowledge of neural networks and deep learning algorithms and applications.\n\nBefore submitting your application please attach the following to review:\n\u2022 Your unofficial transcripts for any applicable conferred graduate degrees.\n\u2022 Any applicable licenses/certifications\n\nInterested in GCU Faculty and Adjunct positions, but can't find a position that's right for you?\n\nSubmit your resume to our Faculty Jobs Talent Community to be considered for future opportunities. Visit the Faculty Jobs page on the GCU Career Site and scroll down to join the Talent Community",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Minimum: Doctorate in Computer Science, Data Science, Software Engineering, Bioinformatics, or related discipline",
+                        "Exceptional Expertise: PhD in any field plus 12 graduate-level credits in machine learning or artificial intelligence with an emphasis in neural networks & Minimum 2 years' experience designing, researching, or engaged in developing algorithms and software applications for neural networks in R and Python; solid knowledge of neural networks and deep learning algorithms and applications",
+                        "Your unofficial transcripts for any applicable conferred graduate degrees",
+                        "Any applicable licenses/certifications"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Responsibilities include equipping students with the required skill set, facilitating classroom discussions, assessing student performance and preparing students to be successful leaders in their chosen profession",
+                        "Provide a positive example to students by supporting the University's Doctrinal Statement, Ethical Position Statement and Mission of Grand Canyon University"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.gcu.edu/",
+                    "text": "gcu.edu"
+                },
+                {
+                    "link": "https://www.google.com/search?gl=us&hl=en&q=Grand+Canyon+University&sa=X&ved=0ahUKEwjZhvT87rH-AhW1OEQIHduzBM84ChCYkAIIhA4",
+                    "text": "See web results for Grand Canyon University"
+                }
+            ],
+            "extensions": [
+                "Part-time"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Part-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJBZGp1bmN0IC0gTmV1cmFsIE5ldHdvcmtzIGFuZCBEZWVwIExlYXJuaW5nIC0gQ29ob3J0IFRyYWRpdGlvbmFsIENhbXB1cyAtIENvbGxlZ2Ugb2YgU2NpZW5jZSwgRW5naW5lZXJpbmcgYW5kIFRlY2hub2xvZ3kiLCJodGlkb2NpZCI6IkJWNDBoOTh6Z2xRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSURDdUlDUVVWek4ycE9VbkJVZEVnd2RrUkxjVnBmVnpVNU1WWXRPREJsTUZGRVdXbE5Tek01U0ZjMU1rdG5XVkZYTm5SWlZ6SXhaRVJ1Y0hoclMxcHdkV1pYZUhsSGNrcDVTM0JmYm5wUlFsZExSMVV3T0cxdWRGZHdORWRzU0hoQkxXUlBZMmRyU3pkMVFrRkdiRXBET1cweWVUZE9SbGx3YlRkVWRXMU1SbHBRV0VVemEyZ3RXRVF6TjA5clptMXFObEZQZDFvdFQzaGpTVVZ5T0U1NmNrRXRaWGRvU3pONGJ6ZDRNSGhMZUdGSk0wRlNhRko1VXpGdlZUTm1ORGh1VEd0NE1TMUxjRXBUVUhSRmJtNVVNM0EzZWpkNU5uVkJWMTlZT1dReGJuaERWR3B3YkdWd1EzQTViaTB0Y21OYU1EUk9lRTVPT1ROdmJGWkdWMlo0U1cwNFNEQmxVWFJmTVRGYWFXdFJWVVZSWTFac2NHWXlVRkZrVlZSM2JtbG5OV1JqUldwVlJtOTVWMkZqWTFaeGFsbFRUbXcxY1cxT1VuRXhlVVpEVGtaMlFWSkRlWFJMU0RsclJGaDJia1J6TFdSbVltSk9WSFIzZVZSTFFrVXplalJ5Y25sM0VoZEZUSE01V2s1dExVVk1XSGhyVUVsUU1pMWxVeTFCZHhvaVFVOHRNSEpzTlUxNmNIVnlRbk5MV214dmFqQTFaWFUwVG1sVFNUUklVMkZNWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBIaWdoZXJFZEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaGlnaGVyZWRqb2JzLmNvbS9hZGp1bmN0L2RldGFpbHMuY2ZtP0pvYkNvZGU9MTc4Mjg5NzA4XHUwMDI2VGl0bGU9QWRqdW5jdCstK05ldXJhbCtOZXR3b3JrcythbmQrRGVlcCtMZWFybmluZystK0NvaG9ydCtUcmFkaXRpb25hbCtDYW1wdXMrLStDb2xsZWdlK29mK1NjaWVuY2UsK0VuZ2luZWVyaW5nK2FuZCtUZWNobm9sb2d5XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Learning engineer",
+                    "value": "learning engineer"
+                },
+                {
+                    "text": "Researcher",
+                    "value": "researcher"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Train",
+                    "value": "train"
+                },
+                {
+                    "text": "Academic",
+                    "value": "academic"
+                },
+                {
+                    "text": "Adjunct",
+                    "value": "adjunct"
+                },
+                {
+                    "text": "Learning specialist",
+                    "value": "learning specialist"
+                },
+                {
+                    "text": "Physical therapist",
+                    "value": "physical therapist"
+                },
+                {
+                    "text": "Product manager",
+                    "value": "product manager"
+                },
+                {
+                    "text": "Research engineer",
+                    "value": "research engineer"
+                },
+                {
+                    "text": "Systems engineer",
+                    "value": "systems engineer"
+                },
+                {
+                    "text": "Training",
+                    "value": "training"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Palo Alto, CA",
+                    "value": "ORy6nXuwj4DPdvU1UvUfDg=="
+                },
+                {
+                    "text": "San Francisco, CA",
+                    "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Los Angeles, CA",
+                    "value": "E9on3F3HwoD0CEYlb98v4g=="
+                },
+                {
+                    "text": "San Diego, CA",
+                    "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+                },
+                {
+                    "text": "Seattle, WA",
+                    "value": "VTPokywQkFSa1URpRmUlEA=="
+                },
+                {
+                    "text": "Somerville, MA",
+                    "value": "ZeH1eyl344kDe_nYmXeQeg=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Bethune, SC",
+                    "value": "G2Nv8ZWWVYgGooD_4S7F2w=="
+                },
+                {
+                    "text": "Champaign, IL",
+                    "value": "G2mX3o3QDIjPv3W0R3j1MA=="
+                },
+                {
+                    "text": "Covington, KY",
+                    "value": "myVs1KuwQYir4rDrV8nmLg=="
+                },
+                {
+                    "text": "Cupertino, CA",
+                    "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+                },
+                {
+                    "text": "Dallas, TX",
+                    "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+                },
+                {
+                    "text": "Menlo Park, CA",
+                    "value": "_4ByEbGmj4CrifJdjpm_6w=="
+                },
+                {
+                    "text": "Phoenix, AZ",
+                    "value": "y3mhUO0SK4esG0o1-MdpjA=="
+                },
+                {
+                    "text": "Remote, OR",
+                    "value": "Xd1PcUdfxFT6HfQNXR_RRw=="
+                },
+                {
+                    "text": "Ruston, LA",
+                    "value": "Z_Xpt5vPMYYtcrHXZA59Dg=="
+                },
+                {
+                    "text": "San Jose, CA",
+                    "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+                },
+                {
+                    "text": "Santa Clara, CA",
+                    "value": "k8EIXIG3j4DAv8CjfKR15A=="
+                },
+                {
+                    "text": "Silver Spring, MD",
+                    "value": "J-lqZk7Pt4nfmrJlqDOEAA=="
+                },
+                {
+                    "text": "West Columbia, SC",
+                    "value": "y828G6S8-Iga9n4VilaDlw=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Engineering Services",
+                    "value": "/business/naics2007/5413"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Upwork",
+                    "value": "/m/02pzh5d"
+                },
+                {
+                    "text": "Apple",
+                    "value": "/m/0k8z"
+                },
+                {
+                    "text": "Tesla",
+                    "value": "/m/0dr90d"
+                },
+                {
+                    "text": "Wolfram",
+                    "value": "/m/02h86l5"
+                },
+                {
+                    "text": "225 Qualcomm Technologies, Inc.",
+                    "value": "/g/11g9mr53d5"
+                },
+                {
+                    "text": "Bosch Group LLC",
+                    "value": "/m/01hnkf"
+                },
+                {
+                    "text": "Cadence Design Systems",
+                    "value": "/m/01zb9v"
+                },
+                {
+                    "text": "DATA FUSION & NEURAL NETWORKS",
+                    "value": "/g/11fy1z_3jx"
+                },
+                {
+                    "text": "Gen Nine, Inc.",
+                    "value": "/g/11rp1ytm63"
+                },
+                {
+                    "text": "Grand Canyon University",
+                    "value": "/m/07gp_k"
+                },
+                {
+                    "text": "Harsco Corporation",
+                    "value": "/m/026sh84"
+                },
+                {
+                    "text": "Matroid",
+                    "value": "/g/11g71_z45n"
+                },
+                {
+                    "text": "OriGen.AI",
+                    "value": "/g/11lkbv8fr6"
+                },
+                {
+                    "text": "Owl Autonomous Imaging",
+                    "value": "/g/11ftl6zhgp"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "Qualcomm",
+                    "value": "/m/01m1xf"
+                },
+                {
+                    "text": "Robinhood",
+                    "value": "/m/011q8ct1"
+                },
+                {
+                    "text": "UCLA Health Systems",
+                    "value": "/g/11b6cwc7g4"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1333 @@
+{
+    "search_metadata": {
+        "id": "643dbb02fe41d02ab8b392f4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ca14c387f9e14ba2/643dbb02fe41d02ab8b392f4.json",
+        "created_at": "2023-04-17 21:32:50 UTC",
+        "processed_at": "2023-04-17 21:32:50 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=data+scientist&ibp=htl;jobs&uule=w+CAIQICINV2FzaGluZ3RvbiBEQw&hl=en&gl=us&start=30",
+        "raw_html_file": "https://serpapi.com/searches/ca14c387f9e14ba2/643dbb02fe41d02ab8b392f4.html",
+        "total_time_taken": 1.31
+    },
+    "search_parameters": {
+        "q": "data scientist",
+        "engine": "google_jobs",
+        "uule": "w+CAIQICINV2FzaGluZ3RvbiBEQw",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "start": 30
+    },
+    "jobs_results": [
+        {
+            "title": "Research Data Scientist",
+            "company_name": "Booz Allen Hamilton",
+            "location": "  Washington, DC   ",
+            "via": "via CareerCircle.com",
+            "description": "Job Number: R0163240\n\nResearch Data Scientist...\nThe Challenge:\n\nAre you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artifi cia l intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open up new opportunities. As a data scientist, you can turn these complex data sets into us eful information to solve global challenges. Across private and public sectors - from fraud detection, to cancer research, to national intelligence - you know the answers are in the data.\n\nWe have an opportunity for you to us e your leadership and analytical skills to improve strategic innovation across sectors of the federal government. You'll work closely with your c us tomer to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle. You'll mentor teammates, develop algorithms, write scripts, build predictive analytics, apply machine learning, and us e the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help federal organizations make informed decisions. You'll provide your c us tomer with a deep understanding of their data, what it all means, and how they can us e it. Join us as we us e data science and machine learning for good in the federal government.\n\nEmpower change with us .\n\nYou Have:\n\u2022 2+ years of experience with machine learning, data science, data research, or analytics in a professional or academic environment\n\u2022 Experience with machine learning applications and tools\n\u2022 Experience with managing diverse data sources, including preprocessing, cleansing, and verifying the integrity of data to develop data marts for data science us e cases and machine learning applications\n\u2022 Experience with frequent scripting language us e, including Python and R, and packages us ed in machine learning applications or advanced data analytics\n\u2022 Ability to work independently and achieve successful results with minimal guidance\n\u2022 Ability to articulate workflows and explain te chn ical concepts to non-te chn ical audiences\n\u2022 Secret clearance\n\u2022 Master's degree\n\nNice If You Have:\n\u2022 Experience with research practices and methodologies\n\u2022 Experience with feature selection, Computer Vision or Natural Language Processing model building, and optimization us ing supervised and unsupervised machine learning te chn iques to support analytic objectives\n\u2022 Experience within a leadership role, including project management and project evaluation\n\u2022 Experience with performing data exploration and data analysis on multiple data types, including images, video, and text\n\u2022 Ability to exhibit flexibility and initiative when dealing with ambiguo us and fast-paced situations\n\nClearance:\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.\n\nBuild Your Career:\n\nAt Booz Allen, we know the power of analytics and we're dedicated to helping you grow as a data analysis professional. When you join Booz Allen, you'll have the chance to:\n\u2022 access online and onsite training in data analysis and presentation methodologies, and tools like Hortonworks, Docker, Tableau, and Splu nk\n\u2022 change the world with the Data Science Bowl-the world's premier data science for so cia l good competition\n\u2022 participate in partnerships with data science leaders, like our partnership with NVIDIA to deliver Deep Learning Institute ( DLI ) training to the federal government\n\nYou'll have access to a wealth of training resources through our Analytics University, an online learning portal specifically geared towards data science and analytics skills, where you can access more than 5000 functional and te chn ical courses, certifications, and books. Build your te chn ical skills through hands-on training on the latest tools and state-of-the-art tech from our in-ho us e experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We'll help you develop the career you want as you chart your own course for success.\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees.\n\nWork Model\nOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.\n\u2022 If this position is listed as remote or hybrid, you'll periodically work from a Booz Allen or client site facility.\n\u2022 If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role.\n\nEEO Commitment\n\nWe're an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change - no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "2+ years of experience with machine learning, data science, data research, or analytics in a professional or academic environment",
+                        "Experience with managing diverse data sources, including preprocessing, cleansing, and verifying the integrity of data to develop data marts for data science us e cases and machine learning applications",
+                        "Experience with frequent scripting language us e, including Python and R, and packages us ed in machine learning applications or advanced data analytics",
+                        "Ability to work independently and achieve successful results with minimal guidance",
+                        "Ability to articulate workflows and explain te chn ical concepts to non-te chn ical audiences",
+                        "Master's degree",
+                        "Experience with research practices and methodologies",
+                        "Experience with feature selection, Computer Vision or Natural Language Processing model building, and optimization us ing supervised and unsupervised machine learning te chn iques to support analytic objectives",
+                        "Experience within a leadership role, including project management and project evaluation",
+                        "Experience with performing data exploration and data analysis on multiple data types, including images, video, and text",
+                        "Ability to exhibit flexibility and initiative when dealing with ambiguo us and fast-paced situations"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You'll work closely with your c us tomer to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle",
+                        "You'll mentor teammates, develop algorithms, write scripts, build predictive analytics, apply machine learning, and us e the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help federal organizations make informed decisions",
+                        "You'll provide your c us tomer with a deep understanding of their data, what it all means, and how they can us e it",
+                        "If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips",
+                        "At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+                        "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+                        "The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.boozallen.com/",
+                    "text": "boozallen.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Booz+Allen+Hamilton&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAII0wk",
+                    "text": "See web results for Booz Allen Hamilton"
+                }
+            ],
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "5 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBEYXRhIFNjaWVudGlzdCIsImh0aWRvY2lkIjoiQm80aVF2aWJGOHdBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VWUTJkR05NYWxFMWFGUkhZbXRwY2t4Rk1rUnNOekp4WTJ0SllrbzRjblJGWWtoYVVEUlhZMWxtVGkwNVRsaERhbEJNVEhacE16Y3laMll4VXpab09FaFlTa2xuUkVaR2NrZFNNMGt4VFVGSFYzUnNSWEk0V1dSVldVOXhNWGRoWW0xSFMwaDNjSFExYTFwSE1HaHRUVWRNY1ZOaFFWSnBYMUJRTjJKQk16aEtNVWxMTkhsU1ptbFVia2x0YTNkQlNXUnJkRUpWVm1saFMwa3plV0V4T0ZoTk5tRmllbWxuUmxFMFJscFRSV1ZMTWpKcWFXZEpXRUpQTW5wM1praDVlRkZNTjFRekVoZEJjbk01V2sxWUxVNXljVTUxY2poUU5UWXlTbkZCVVJvaVFVOHRNSEpzTjBKSFVtcE9kRGxaUjJKRFpqZGhkbkZFWW1ScFJIcDZWbVZqWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIENhcmVlckNpcmNsZS5jb20iLCJsaW5rIjoiaHR0cHM6Ly93d3cuY2FyZWVyY2lyY2xlLmNvbS9qb2JzL2FsbC9hbGwvdXNhL0RDL1dhc2hpbmd0b24vNjA5NkZCMkQtNzA3OC00MzM0LUJBQzQtMUIzNUM5QTZFMjA4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Cleared Data Scientist",
+            "company_name": "ICF",
+            "location": "  Arlington, VA   ",
+            "via": "via LinkedIn",
+            "description": "We are looking for an experienced Data Scientist with exceptional skill to develop machine learning and deep learning models and algorithms that create useful and actionable insight for customers. The ideal candidate should be someone who is strong mathematically; can automate scoring using machine learning techniques, build recommendation systems, and select the correct data points for analysis... from the large data sets. The ideal candidate must have strong experience using a variety of mathematical/statistical/data mining/data analysis methods and tools. You are focused on results, a self-starter, and have demonstrated success for using analytics to drive the understanding, growth, and success of the analysis.\n\nKey Responsibilities\n\u2022 Ability to perform knowledge elicitation from customer subject matter experts and convert that to rigorously derived algorithms\n\u2022 Analyzing large data sets to identify actionable insights with mathematical and statistical rigor\n\u2022 Ability to rigorously critique and correct intermediate results to improve the algorithmic outcomes.\n\u2022 Designing and deploying deep learning algorithms and predictive models\n\u2022 Developing custom data models and algorithms to apply to data sets\n\u2022 Assessing the effectiveness and accuracy of new data sources and data gathering techniques\n\u2022 Developing processes and tools to monitor and analyze model performance and data accuracy\n\u2022 Ability to interpret and communicate results to non-technical customers.\n\nBasic Qualifications\n\u2022 10 years of hands on working experience in one or more of the following areas: Natural Language Processing, Machine Learning Models, Question Answering, Text Mining, Information Retrieval, Distributional Semantics, Data Science, Knowledge Engineering\n\u2022 US Citizenship Required as part of Federal Contract\n\u2022 Active High-level Clearance Required\n\nPreferred Skills/Experience\n\u2022 Bachelor's or Master's Degree in Computer Science, Statistics, Applied Mathematics, Computational Linguistics, Artificial Intelligence or related areas\n\u2022 Experience in productization of machine learning algorithms and the ability to deliver data science components that are part of successful deliverables\n\u2022 Working knowledge of general machine learning algorithms and also NLP, Graph Theory, and Network Analysis\n\u2022 Fluency in one or more programming languages (Python, Java, R, etc.)\n\u2022 Experience with statistical data analysis, experimental design, and hypotheses validation\n\u2022 Experience with database querying like using SQL. Readiness to collaborate with engineering teams, project teams and customers to develop prototypes and software products.\n\n#Indeed\n\nWorking at ICF\n\nWorking at ICF means applying a passion for meaningful work with intellectual rigor to help solve the leading issues of our day. Smart, compassionate, innovative, committed, ICF employees tackle unprecedented challenges to benefit people, businesses, and governments around the globe. We believe in collaboration, mutual respect, open communication, and opportunity for growth.\n\nWe can only solve the world's toughest challenges by building an inclusive workplace that allows everyone to thrive. We are an equal opportunity employer, committed to hiring regardless of any protected characteristic, such as race, ethnicity, national origin, color, sex, gender identity/expression, sexual orientation, religion, age, disability status, or military/veteran status. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO & AA policy.\n\nReasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation please email icfcareercenter@icf.com and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. Read more about non-discrimination: Know Your Rights and Pay Transparency Statement.\n\nPay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position. The pay range for this position is:\n\n$110,574.00 - $187,976.00\n\nVirginia Client Office (VA88",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate should be someone who is strong mathematically; can automate scoring using machine learning techniques, build recommendation systems, and select the correct data points for analysis from the large data sets",
+                        "The ideal candidate must have strong experience using a variety of mathematical/statistical/data mining/data analysis methods and tools",
+                        "10 years of hands on working experience in one or more of the following areas: Natural Language Processing, Machine Learning Models, Question Answering, Text Mining, Information Retrieval, Distributional Semantics, Data Science, Knowledge Engineering",
+                        "US Citizenship Required as part of Federal Contract",
+                        "Active High-level Clearance Required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Ability to perform knowledge elicitation from customer subject matter experts and convert that to rigorously derived algorithms",
+                        "Analyzing large data sets to identify actionable insights with mathematical and statistical rigor",
+                        "Ability to rigorously critique and correct intermediate results to improve the algorithmic outcomes",
+                        "Designing and deploying deep learning algorithms and predictive models",
+                        "Developing custom data models and algorithms to apply to data sets",
+                        "Assessing the effectiveness and accuracy of new data sources and data gathering techniques",
+                        "Developing processes and tools to monitor and analyze model performance and data accuracy",
+                        "Ability to interpret and communicate results to non-technical customers"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position",
+                        "$110,574.00 - $187,976.00"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.icf.com/",
+                    "text": "icf.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=ICF&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAIIlAo",
+                    "text": "See web results for ICF"
+                }
+            ],
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "3 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJDbGVhcmVkIERhdGEgU2NpZW50aXN0IiwiaHRpZG9jaWQiOiI2dllkTHFpZ01iRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVVZkamJtNDVVeTAyU1UxMGFHeFdRbEJwYldOSkxVeGtVMUozTTJOSlpVNHlTR3hxWlZZelEzaG1OSGgwT0V4WmNuaHBjREpuUjFsTVZWWnNWRVJwV1VKNldqUjVZMVppWTJ4cU5GaGZNR3c0VUhWdVp6bEdjWGhzWVdSbVJHWTVVamxXWjE5NGVsbHRjMUJaY205UGNsYzVaVlZvTmxKRU5uVTJRbEpmVkc5cllVeE1OamRyU2pZdGJYVnNhbUptY2t4cE5EQXllV2xrTTBWSFZHMXdTbmhCWlZKNVMyTmFlbmhSYzNOV2RuRnJFaGRCY25NNVdrMVlMVTV5Y1U1MWNqaFFOVFl5U25GQlVSb2lRVTh0TUhKc04xTlNTa2RTTVRkbE5UVnllamczUkhSSlRUUjFja1F6TUUxUFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L2NsZWFyZWQtZGF0YS1zY2llbnRpc3QtYXQtaWNmLTM1NjM2NDIwMjQ/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Jr. Data Scientist",
+            "company_name": "SRI International",
+            "location": "  Arlington, VA   ",
+            "via": "via Diversity Jobs",
+            "description": "Jr. Data Scientist\n\nJob Locations...\n\nUS-VA-Arlington\n\nID\n\n2023-5469\n\nCategory\n\nComputer Science\n\nPosition Type\n\nFull-Time\n\nWorker Type\n\nHybrid\n\nOverview\n\nThe Junior Data Scientist, as part of SRI International's Center for Innovation Strategy and Policy (CISP), having flexiblity to work a hybrid work schedule, will contribute to the design and execution of data analysis tasks to support of a diverse range of clients. Based out of our Arlington, VA office, CISP helps organizations, regions, and countries achieve economic and social impact through effective investments in science, technology, and innovation. Our team supports clients with innovation policy research, analysis, and evaluations on projects in the following areas:\n\nTech-based Economic and Workforce Development\n\u2022 Innovation Ecosystem Assessment\n\u2022 Innovation Strategy and Training\n\u2022 Complex Program Evaluation\n\u2022 Science and Technology Program Support\n\u2022 Advanced Analytics in R&D Analysis\n\nResponsibilities\n\nAs a Junior Data Scientist, you will:\n\u2022 Extract, clean, structure, and validate data for analysis.\n\u2022 Identify patterns, outliers, and areas of inconsistencies through relationships that exist in the data using statistical analysis.\n\u2022 Build models for automated data analysis and predictive insights\n\u2022 Produce written documentation for code and datasets.\n\u2022 Write analytic content for reports including methods, findings, and recommendations for technical & non-technical audiences.\n\u2022 Collaborate with other data scientists and CISP team members to propose solutions, reduce inefficiencies, and support ongoing activities.\n\nQualifications\n\u2022 1-2 years using R and/or Python for data science.\n\u2022 1-2 years working with data scientists to support data cleaning, modeling, and statistical analysis.\n\u2022 Experience with text data, including preprocessing, part-of-speech tagging, topic modeling, unsupervised clustering, and classification.\n\u2022 Bachelor's degree in Computer Science, Data Science, or another computationally-intensive discipline required.\n\u2022 U.S. Citizenship required due to government contract requirements.\n\nThe salary range is: $99,138-$127,377. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/.\n\nSRI International, an over 75-year strong pioneering research institute, has a rich history supporting government and industry. Our innovations have created new industries, billions of dollars in market value and lasting benefits to society. SRI is organized around broad disciplines and capabilities, with research and development divisions and labs to groups who excel at identifying new opportunities, developing products and creating custom solutions. Our organization is driven by impact - delivering unique solutions for the world's important challenges and transforming ideas into reality for clients and partners",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "1-2 years using R and/or Python for data science",
+                        "1-2 years working with data scientists to support data cleaning, modeling, and statistical analysis",
+                        "Experience with text data, including preprocessing, part-of-speech tagging, topic modeling, unsupervised clustering, and classification",
+                        "Bachelor's degree in Computer Science, Data Science, or another computationally-intensive discipline required",
+                        "U.S. Citizenship required due to government contract requirements"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Junior Data Scientist, as part of SRI International's Center for Innovation Strategy and Policy (CISP), having flexiblity to work a hybrid work schedule, will contribute to the design and execution of data analysis tasks to support of a diverse range of clients",
+                        "Science and Technology Program Support",
+                        "Advanced Analytics in R&D Analysis",
+                        "Extract, clean, structure, and validate data for analysis",
+                        "Identify patterns, outliers, and areas of inconsistencies through relationships that exist in the data using statistical analysis",
+                        "Build models for automated data analysis and predictive insights",
+                        "Produce written documentation for code and datasets",
+                        "Write analytic content for reports including methods, findings, and recommendations for technical & non-technical audiences",
+                        "Collaborate with other data scientists and CISP team members to propose solutions, reduce inefficiencies, and support ongoing activities"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range is: $99,138-$127,377",
+                        "Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles",
+                        "Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program",
+                        "SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.sri.com/",
+                    "text": "sri.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=SRI+International&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAII1go",
+                    "text": "See web results for SRI International"
+                }
+            ],
+            "extensions": [
+                "14 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "14 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJKci4gRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6ImFNTmN5ZXhNZllJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VM05VWVVsa1lrZEZRVGhLTWpRNVIyZDBZamxpTkc5c09WbFpTbVJUUzBoTVprSlhOMHAwUm1OYVZFaDFjMkZ0YkZaWFlUbEpjV2R5ZVhSSWNWTktTa1JMWjNwMk4xWnhWa2MxV2pGZmR5MDRRM0ExTFhSallYQnZUbE16VFhZd1owRlVUMWgxUW5aUk1VaHZORVpMVW1nMVFtaGlTa3hGU0ZrNGF6WmlabTlUY0hKclQwbHlNbVJ3ZW5GcmJ6QXdOR295TldkM1prY3daRGxhWVhsQ2RsZE9SVEZxUkRKbWJreGlTRXhTZVRZMk1qTmpjbXhsWVdwelpVNDJWR3h3ZEMxUldXSjNFaGRCY25NNVdrMVlMVTV5Y1U1MWNqaFFOVFl5U25GQlVSb2lRVTh0TUhKc05FUjBielJJY0dSMldVOVNlVGgxV1dGb1ZXbFNYM2Q1VERGUlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBEaXZlcnNpdHkgSm9icyIsImxpbmsiOiJodHRwczovL2RpdmVyc2l0eWpvYnMuY29tL2NhcmVlci80OTM2NjM3L0pyLURhdGEtU2NpZW50aXN0LVZpcmdpbmlhLUFybGluZ3Rvbj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senior Program Analyst (Data Scientist) Jobs",
+            "company_name": "Cogent Security Consulting",
+            "location": "  Alexandria, VA   ",
+            "via": "via Clearance Jobs",
+            "description": "Senior Program Analyst (Data Scientist)\n\nPosition Location: Washington, DC (Metro Area...\n\nSalary Range: $140k to $160k\n\nPosition Summary:\n\nThe Senior Program Analyst (Data Scientist) will provide the National Nuclear Security Administration (NNSA) analytical support in the execution of its financial and program management functions with specific focus on the following areas:\n\n\u2022 Formation and evaluation of complex financial and budget data to support programmatic decisions for a muti-billion-dollar activity associated with the safe disposal of nuclear materials.\n\n\u2022 Evaluate financial and programmatic data to formulate schedule or technical impacts and make recommendations to senior leaders that improve program execution.\n\n\u2022 Develop decision-support visualizations and other related reports/briefs for senior leaders.\n\n\u2022 Interface with government databases and tools used in budget formulation and execution management to include the Standard Accounting and Reporting System (STARS), Tableau, etc.\n\nRequired Qualifications:\n\n\u2022 Bachelor's degree\n\n\u2022 Adept utilizing Microsoft Excel and Tableau to manage large data sets and create related decision-support visuals\n\n\u2022 Secret or DOE equivalent (L). Capable of obtaining at Top Secret or DOE equivalent (Q)\n\n\u2022 Knowledge and experience in the use of Open-Source research\n\n\u2022 Basic understanding of developing and managing planning documents and risk assessments for complex government programs\n\n\u2022 Strong written and oral skills to assist in preparing management plans\n\nPreferred Qualifications:\n\n\u2022 Master\u2019s Degree\n\n\u2022 10+ years of experience\n\n\u2022 Experience with nuclear weapons programs in the National Nuclear Security Administration (NNSA) with specific emphasis on the safe disposal of nuclear material\n\n\u2022 Degree in Data Science or Finance or related experience",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree",
+                        "Adept utilizing Microsoft Excel and Tableau to manage large data sets and create related decision-support visuals",
+                        "Secret or DOE equivalent (L)",
+                        "Capable of obtaining at Top Secret or DOE equivalent (Q)",
+                        "Knowledge and experience in the use of Open-Source research",
+                        "Basic understanding of developing and managing planning documents and risk assessments for complex government programs",
+                        "Strong written and oral skills to assist in preparing management plans"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Senior Program Analyst (Data Scientist) will provide the National Nuclear Security Administration (NNSA) analytical support in the execution of its financial and program management functions with specific focus on the following areas:",
+                        "Formation and evaluation of complex financial and budget data to support programmatic decisions for a muti-billion-dollar activity associated with the safe disposal of nuclear materials",
+                        "Evaluate financial and programmatic data to formulate schedule or technical impacts and make recommendations to senior leaders that improve program execution",
+                        "Develop decision-support visualizations and other related reports/briefs for senior leaders",
+                        "Interface with government databases and tools used in budget formulation and execution management to include the Standard Accounting and Reporting System (STARS), Tableau, etc"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary Range: $140k to $160k"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Cogent+Security+Consulting&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAIIlQs",
+                    "text": "See web results for Cogent Security Consulting"
+                }
+            ],
+            "extensions": [
+                "4 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "4 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHJvZ3JhbSBBbmFseXN0IChEYXRhIFNjaWVudGlzdCkgSm9icyIsImh0aWRvY2lkIjoiNENWendFcW52aDRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1VtbFZORTlWTkZwcVpXeFNORVIzZW14cGVsYzNXRTV3VmtKUFoyZHdMVGRhTmxaa1lVWmplVTV2VkhveWVFOHhURW81UjFaU2NqRXRjRWRWTkhBM2VrOHdabWhtU21abWRXaGxjbGRyYVRGdFdsSTVRbEpCZUhkTlF6TmhYelZ2Um1zd1IzRmFlWGREUm5KTExVTnNSVzlCZEZoUFNYSkRka1I2YUZwTGNtNWZlRmxOTVdad1RucG1XRVpzV1Y4Mk9IaFRSWHBqZVZoRU1HRlZWRWRpZWpjdE5HTlZaRWRNY20xcU9ISm9SRVJWVTJ4ZlpYVk9YMGxPTFZOSk1YQlhWVkZPV0haWFIzaFFORXRtT1VWUVdEZFFaMVowTlVReExYVnhkeElYUVhKek9WcE5XQzFPY25GT2RYSTRVRFUyTWtweFFWRWFJa0ZQTFRCeWJEUmZjWG8yTW5aWFkyNTFVWGhOV0dOTVgyRXRZbmxDWWxFeFVGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQ2xlYXJhbmNlIEpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuY2xlYXJhbmNlam9icy5jb20vam9icy83MTU3MTM5L3Nlbmlvci1wcm9ncmFtLWFuYWx5c3QtZGF0YS1zY2llbnRpc3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+        },
+        {
+            "title": "Data Scientist for Aviation Analytics at SAIC in Washington, DC",
+            "company_name": "SAIC",
+            "location": "  Washington, DC   ",
+            "via": "via Washington, DC - Geebo",
+            "description": "Description SAIC's Civil Transportation Group is seeking a motivated Data Scientist with broad programming and Data Visualization experience for activities including prototyping and creating data analytics/visualization tools. This position will support the SAIC's Transportation Strategy and Solution Architect groups to advance the use of data analytics techniques and visualizations in solving... data problems in aviation. We are using modern design approaches including rapid prototyping and agile development methodologies, to build and customize solutions conveyed through visualizations. The position requires identifying approaches, defining and creating prototypes that use operational, maintenance, enterprise and mission data. Data analytics tools and Machine Learning maybe used to uncover data-relationships, data sequencing and generate creative insights, and approaches for assessing the data necessary for informed decision-making. The outcomes will support organizational approaches, to transform business, enable technical operations efficiencies, and provide informative content for various user groups. This position interfaces with SAIC's Transportation managers, Strategy members, technical and business development personnel and require strong verbal and written communications skills in presenting to different stakeholders. Creates, deploys, maintains and refines software used in data analytics, visualization and analytic models. Provides assessments regarding current, state-of-the-art industrial trends in the computer field. Designs and implements computer algorithms, software applications for data analytics and visualization of data including dashboards. Assists in the definition of data injection and processing, which may include machine learning and data mining strategies. Creates analysis procedures. Developing applications to retrieve, reduce and translate data from multiple sources and formats. Innovative in assessing and optimizing the use of software technologies for implementation in prototypes, data analysis and visualizations. Collaborate with Data scientists, engineers, users, and business development in identifying requirements and developing analytics and visualization software for demonstrations and analysis. Qualifications Master's Degree in relevant field (e.g., Computer Science, Computation Science, Data Science/Analytics, Computer Engineering, Software Engineering) plus 13 years of relevant experience or Bachelor's degree and 16 years of relevant experience Software skills include working multiple Operating systems (e.g., Unix, Linux, Windows, Mac OS is a plus) Skill sets may include modeling and simulation functions or operations such as, but not limited to exercises, plans, coordination, demonstrations, and instruction. Developing and designing software in range of languages (e.g, Python, JavaScript, C#, SQL) and graphic/visualization software (e.g., Tableau). Possess interpersonal, verbal and written communications skills to brief and work effectively with a range of stakeholders including technical, leadership and management teams, and customers. Must be able to successfully obtain a Public Trust security clearance Desired:\nFamiliarization with the Federal Aviation Administration (FAA) data, databases, systems, modeling or simulation.\nSalary Range:\n$200K -- $500K+\nMinimum Qualification\nData Science & Machine Learning, Business Intelligence & AnalyticsEstimated Salary: $20 to $28 per hour based on qualifications",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Developing and designing software in range of languages (e.g, Python, JavaScript, C#, SQL) and graphic/visualization software (e.g., Tableau)",
+                        "Possess interpersonal, verbal and written communications skills to brief and work effectively with a range of stakeholders including technical, leadership and management teams, and customers",
+                        "Familiarization with the Federal Aviation Administration (FAA) data, databases, systems, modeling or simulation"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This position will support the SAIC's Transportation Strategy and Solution Architect groups to advance the use of data analytics techniques and visualizations in solving data problems in aviation",
+                        "We are using modern design approaches including rapid prototyping and agile development methodologies, to build and customize solutions conveyed through visualizations",
+                        "The position requires identifying approaches, defining and creating prototypes that use operational, maintenance, enterprise and mission data",
+                        "Data analytics tools and Machine Learning maybe used to uncover data-relationships, data sequencing and generate creative insights, and approaches for assessing the data necessary for informed decision-making",
+                        "The outcomes will support organizational approaches, to transform business, enable technical operations efficiencies, and provide informative content for various user groups",
+                        "This position interfaces with SAIC's Transportation managers, Strategy members, technical and business development personnel and require strong verbal and written communications skills in presenting to different stakeholders",
+                        "Creates, deploys, maintains and refines software used in data analytics, visualization and analytic models",
+                        "Provides assessments regarding current, state-of-the-art industrial trends in the computer field",
+                        "Designs and implements computer algorithms, software applications for data analytics and visualization of data including dashboards",
+                        "Assists in the definition of data injection and processing, which may include machine learning and data mining strategies",
+                        "Creates analysis procedures",
+                        "Developing applications to retrieve, reduce and translate data from multiple sources and formats",
+                        "Innovative in assessing and optimizing the use of software technologies for implementation in prototypes, data analysis and visualizations"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$200K -- $500K+"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.saic.com/",
+                    "text": "saic.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=SAIC&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAII0ws",
+                    "text": "See web results for SAIC"
+                }
+            ],
+            "extensions": [
+                "22 hours ago",
+                "20\u201328 an hour",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "22 hours ago",
+                "schedule_type": "Full-time",
+                "salary": "20\u201328 an hour"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBmb3IgQXZpYXRpb24gQW5hbHl0aWNzIGF0IFNBSUMgaW4gV2FzaGluZ3RvbiwgREMiLCJodGlkb2NpZCI6IjVXSXU1WGNIOUZZQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVWek4ycE9VVGRQY0VNdFoyUXlaa1kwUlhKcVVWTXpaMnhWWkZoclpXOWFXRVV4T0VKNVdFVXlabGQ2UlZObk1HOVFja3RDWkc5NVdYTktOMngxWWpOVk1HRkhUMEV3YzJOWFJHeHJibU5tTVhNNU9VMU5UMnhtYm1sZlJUSnZNMmxpVm1oS1dHRjNUV0Z6V0hkVFZtdDVNWEo0YlZCbloxQkpXREJZWkVSNGRuVk5NMHRFVDFCeVJraEpZMEpOY0d4TVVHVkthemt0U25CTGNuVndTV0ZtV1RCeVl6ZzBlSFF3UVc1dFNqRk5kV2hMWlRSYWJqUkJjRzl5ZDBGSUxVaFNRMEZSWWtkSGJWVXRRUzFNZDNCS1NXVlVWM2RDUmtkeGNVaHlSSFExWW5sMk5tOVdNR0ZEYVZsbk0ySnFiRFJGWW5ST1FSSVhRWEp6T1ZwTldDMU9jbkZPZFhJNFVEVTJNa3B4UVZFYUlrRlBMVEJ5YkRaek1FcENXbmhtWTNWMlVWTjVaRzB0UmxGV2NFbEdXSFpwYTFFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBXYXNoaW5ndG9uLCBEQyAtIEdlZWJvIiwibGluayI6Imh0dHBzOi8vd2FzaGluZ3Rvbi1kYy5nZWViby5jb20vam9icy1vbmxpbmUvdmlldy9pZC8xMDEzNTE3MDU2LWRhdGEtc2NpZW50aXN0LWZvci1hdmlhdGlvbi0vP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist, Mid with Security Clearance",
+            "company_name": "ClearanceJobs",
+            "location": "  Vienna, VA   ",
+            "via": "via LinkedIn",
+            "description": "Job Number: R0168392 Data Scientist, Mid\n\nThe Challenge: Do you want to help build and deliver solutions that will modernize the Finan cia l Intelligence Crimes Enforcement Network ( FinCEN ) capabilities of the client? You know a good te chn ical solution is more than just a nice-looking interface and data, and you need the right combination of clean code, APIs, analytics, and infrastructure to... help your team build a user-focused solution. As a sof tware developer, you'll grow your skills and solve a problem with a complete end-to-end solution in a fast-paced, agile environment. We're looking for someone like you to assist in developing solutions for our customer from vision to a production-ready system. As a sof tware developer on our team, you'll work with systems administrators, data scientists, and communication spe cia lists to overcome your customer's most difficult challenges using the latest architectural approaches like microservices, cloud-native development, and database development alongside open-source frameworks and tools like Git, Python, MVC, and JavaScript. You'll use your passion to learn new tools and te chn iques, while helping to identify and implement system improvements. Using an Agile development lifecycle, you'll build, maintain, and improve te chn ical solutions that enhance the analytic capabilities of the FinCEN workforce. You'll code and deliver solutions that support the architecture and operating environment, as well as support future functionality and enhancements. Ready to help us build systems that will change FinCEN for the better? Join us. The world can't wait. You Have: * 2+ years of experience with sof tware development in JavaScript or Python and data structures and algorithms\n\u2022 2+ years of experience with application development, and testing, maintaining, or launching sof tware products\n\u2022 1+ years of experience with sof tware design and architecture * Ability to manage project priorities, deadlines, and deliverables, write and test product or system development code, and design, develop, test, deploy, maintain, and enhance sof tware solutions * Ability to review code developed by other engineers and provide feedback to ensure best practices, including style guidelines, and checking code, accuracy, testability, and efficiency\n\u2022 Ability to contribute to existing documentation or educational content and adapt content based on product and program updates and user feedback\n\u2022 Ability to triage product or system issues and debug, track, and resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality * Ability to participate in or lead design reviews with peers and stakeholders to decide amongst available te chn ologies\n\u2022 Secret clearance * Bachelor's degree Nice If You Have: * Experience with ElasticSearch\n\u2022 Experience with oAuth\n\u2022 Experience with data visualization tools, including Tableau, PowerBI, or Kibana\n\u2022 Experience working in an Agile development environment\n\u2022 Experience working in a cloud-native development environment such as AWS\n\u2022 Possession of versatile engineering skills with leadership qualities and enthusiasm to take on new problems across the full-stack as we continue to push te chn ology forward Clearance: Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information ; Secret clearance is required. Build Your Career: A challenging and dynamic work environment isn't all we have to offer. When you join Booz Allen, you'll have access to: * experts in virtually every field\n\u2022 a culture that focuses on supporting our employees\n\u2022 opportunities that provide stability while offering variety You'll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and te chn ical courses, certifications, and books. Build your te chn ical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, on-site boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We'll help you develop the career you want as you chart your own course for success. Compensation At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page. Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. Work Model\n\nOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely. * If this position is listed as remote or hybrid, you'll periodically work from a Booz Allen or client site facility.\n\u2022 If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role. EEO Commitment We're an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change - no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "2+ years of experience with sof tware development in JavaScript or Python and data structures and algorithms",
+                        "2+ years of experience with application development, and testing, maintaining, or launching sof tware products",
+                        "1+ years of experience with sof tware design and architecture",
+                        "Ability to manage project priorities, deadlines, and deliverables, write and test product or system development code, and design, develop, test, deploy, maintain, and enhance sof tware solutions",
+                        "Ability to review code developed by other engineers and provide feedback to ensure best practices, including style guidelines, and checking code, accuracy, testability, and efficiency",
+                        "Ability to contribute to existing documentation or educational content and adapt content based on product and program updates and user feedback",
+                        "Ability to triage product or system issues and debug, track, and resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality",
+                        "Ability to participate in or lead design reviews with peers and stakeholders to decide amongst available te chn ologies",
+                        "Bachelor's degree Nice If You Have:",
+                        "Experience with ElasticSearch",
+                        "Experience with oAuth",
+                        "Experience with data visualization tools, including Tableau, PowerBI, or Kibana",
+                        "Experience working in a cloud-native development environment such as AWS",
+                        "Possession of versatile engineering skills with leadership qualities and enthusiasm to take on new problems across the full-stack as we continue to push te chn ology forward Clearance: Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information ; Secret clearance is required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a sof tware developer, you'll grow your skills and solve a problem with a complete end-to-end solution in a fast-paced, agile environment",
+                        "We're looking for someone like you to assist in developing solutions for our customer from vision to a production-ready system",
+                        "As a sof tware developer on our team, you'll work with systems administrators, data scientists, and communication spe cia lists to overcome your customer's most difficult challenges using the latest architectural approaches like microservices, cloud-native development, and database development alongside open-source frameworks and tools like Git, Python, MVC, and JavaScript",
+                        "You'll use your passion to learn new tools and te chn iques, while helping to identify and implement system improvements",
+                        "Using an Agile development lifecycle, you'll build, maintain, and improve te chn ical solutions that enhance the analytic capabilities of the FinCEN workforce",
+                        "You'll code and deliver solutions that support the architecture and operating environment, as well as support future functionality and enhancements",
+                        "If this position is listed as onsite, you'll work with colleagues and clients in person, as needed for the specific role"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "experts in virtually every field",
+                        "a culture that focuses on supporting our employees",
+                        "opportunities that provide stability while offering variety You'll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and te chn ical courses, certifications, and books",
+                        "You may be able to take advantage of our tuition assistance, on-site boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips",
+                        "Compensation At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+                        "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+                        "The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=ClearanceJobs&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAIIlgw",
+                    "text": "See web results for ClearanceJobs"
+                }
+            ],
+            "extensions": [
+                "12 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "12 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgTWlkIHdpdGggU2VjdXJpdHkgQ2xlYXJhbmNlIiwiaHRpZG9jaWQiOiJlaHc1YkNzd1QxUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlYyRnphR2x1WjNSdmJpQkVRdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVVRBeE5Yb3RkMmh2ZGtWVFozTldZVWxoYkROVVpFdzNlSFZ3VVZrd1pUUXpibWg0VW1VMWVVRmZTSGt6YlZCcmJYYzRZVWhzVkRoWVdXNDNTa2xvTms0eVNVZ3ljM05xTkRGbGRYUmlUblZtVW1OVFVsTkNRMDFNVW1SNFRWTXpTRE55TUdVMk9YTldjalZsWW5NeVZVeFVVR1V6YTJvM1lVbEpVMmwxVm1KM1lXUnlhRmx1Y2tORWJVNTVRMWhmV25sMlYwVXpRbVpTU2pGM1FYRlJjVFJrU0d4d1lYUlBhbUU0TVRack9WRnNaMUJrWlRKdlJIcEJiMFZUZGxZek1XMWlhVEF5RWhkQmNuTTVXazFZTFU1eWNVNTFjamhRTlRZeVNuRkJVUm9pUVU4dE1ISnNOazFPWDFaRWVUSjJZWEZTTTFGdFdHeE5PVjh3Tm1wek5DMHRRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcvZGF0YS1zY2llbnRpc3QtbWlkLXdpdGgtc2VjdXJpdHktY2xlYXJhbmNlLWF0LWNsZWFyYW5jZWpvYnMtMzU2MDYyNTA3Mz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Sr. Data Scientist",
+            "company_name": "INDEX ANALYTICS LLC",
+            "location": "  Baltimore, MD   ",
+            "via": "via Paycomonline.net",
+            "description": "Job Details\n\nLevel: Experienced...\n\nJob Location: Remote - Baltimore, MD\n\nSalary Range: Undisclosed\n\nIndex Analytics, LLC, is a rapidly growing Baltimore-based small business providing health related consulting services to the federal government. At the center of our company culture is a commitment to instilling a dynamic and employee-friendly place to work. We place a priority on promoting a supportive and collegial team environment and enhancing staff\u2019s experience through career development and educational opportunities.\n\nIndex Analytics is seeking an experienced Data Scientist with prior Artificial Intelligence / Machine Learning experience to implement mission-focused solutions emphasizing data-driven decision making. The selected candidate should have experience in multiple related technologies and have the ability to architect custom solutions and provide technical direction to multiple Agile teams concurrently.\n\nResponsibilities\n\u2022 Advance a culture of AI/ML culture within the firm.\n\u2022 Mentor existing resources and new hires.\n\u2022 Consult with our clients on custom AI/ML development efforts.\n\u2022 Manage and direct processes and R&D (research and development) to meet the needs of our AI strategy.\n\u2022 Understand company and client challenges and how integrating AI capabilities can help lead to solutions.\n\nQualifications\n\nRequired skills and qualifications\n\u2022 US citizen or lived in the US for 3 of the last 5 years. Must be able to obtain a U.S. Federal government client badge and pass a government Public Trust background investigation.\n\u2022 Four plus years of experience designing and implementing solutions using advanced data science techniques.\n\u2022 Two plus years of experience implementing AI/ML solutions.\n\u2022 Text analytics, Sentiment Analysis, Aspect Based Sentiment Analysis, NLP.\n\u2022 Python and combination of PyCharm, PyTorch, scikit-learn, and NLTK.\n\u2022 Open AI ChatGPT or similar generative AI; Amazon Comprehend or similar.\n\u2022 Knowledge of basic algorithms, object-oriented and functional design principles, and best-practice patterns.\n\u2022 Experience in REST API development, NoSQL database design, and RDBMS design and optimizations.\n\nPreferred skills and qualifications\n\u2022 TensorFlow, Tableau, R.\n\u2022 Amazon Rekognition, Sagemaker.\n\u2022 Experience working in SAFe Agile environment, certifications a plus.\n\u2022 Experience with cloud environments.\n\nCOVID-19 Vaccine Protocol.\n\nAll new and current employees must be fully vaccinated against COVID-19 unless they are eligible and approved for a medical or religious accommodation. Employees will be considered fully vaccinated two (2) weeks after they have received the requisite number of doses of a COVID-19 vaccine that has been approved or authorized for emergency use by the U.S. Food and Drug Administration or that has been listed for emergency use by the World Health Organization.\n\nAs a condition of employment, you will be required to comply with the vaccination protocol; proof of full vaccination must be submitted to Human Resources\n\nIndex Analytics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nThis policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The selected candidate should have experience in multiple related technologies and have the ability to architect custom solutions and provide technical direction to multiple Agile teams concurrently",
+                        "US citizen or lived in the US for 3 of the last 5 years",
+                        "Must be able to obtain a U.S. Federal government client badge and pass a government Public Trust background investigation",
+                        "Four plus years of experience designing and implementing solutions using advanced data science techniques",
+                        "Two plus years of experience implementing AI/ML solutions",
+                        "Text analytics, Sentiment Analysis, Aspect Based Sentiment Analysis, NLP",
+                        "Python and combination of PyCharm, PyTorch, scikit-learn, and NLTK",
+                        "Open AI ChatGPT or similar generative AI; Amazon Comprehend or similar",
+                        "Knowledge of basic algorithms, object-oriented and functional design principles, and best-practice patterns",
+                        "Experience in REST API development, NoSQL database design, and RDBMS design and optimizations"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Advance a culture of AI/ML culture within the firm",
+                        "Mentor existing resources and new hires",
+                        "Consult with our clients on custom AI/ML development efforts",
+                        "Manage and direct processes and R&D (research and development) to meet the needs of our AI strategy",
+                        "Understand company and client challenges and how integrating AI capabilities can help lead to solutions"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://index-analytics.com/",
+                    "text": "index-analytics.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=INDEX+ANALYTICS+LLC&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAII2Qw",
+                    "text": "See web results for INDEX ANALYTICS LLC"
+                }
+            ],
+            "extensions": [
+                "20 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "20 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IlRRWmtqcnJPNFIwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VVjlSU0UxNFVUUm5UWGxYU1c5cmVUUlhSRUl3U0hsWGRIWkVkbGRIYkU5bGNuaEZkVWRuTkhWaGRsTmZabVIyYzBSR04yNDBSbUV5YzJjMlFVbG9TR1V0VVhOR00yTk9aVzVJWWtwbWVVbEZja1ZVZDFnMFZtaEhTWFJRV1d4NGRtcExVMFJ1ZDE5d1oySTVaVmRpT0VoR1NHWlZVRzFaV0dkUlFtTm1ZVE14WmtWNlltMHRabkZpZGtSR0xXbExNMmRZUm1kVGFVUnNSSE56V0hCek1razVPVzVOZG5aNFh6UmtURFI1YmtGemExODNNVzlPZFVscFdVNTJaVVJPTlcxYVVWVk9FaGRCY25NNVdrMVlMVTV5Y1U1MWNqaFFOVFl5U25GQlVSb2lRVTh0TUhKc05ISkZNR1JMUVRSemVrMWllV1JDTVdJNGQyRkNiR2sxV0RWQlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUGF5Y29tb25saW5lLm5ldCIsImxpbmsiOiJodHRwczovL3d3dy5wYXljb21vbmxpbmUubmV0L3Y0L2F0cy93ZWIucGhwL2pvYnMvVmlld0pvYkRldGFpbHM/am9iPTgxMDAzXHUwMDI2Y2xpZW50a2V5PUY2MzFENTk3MzM2OTM5QjQwNDFGQkY2Rjk5Qjk5ODA0XHUwMDI2cmVmPWxldmVscy5meWlcdTAwMjZ1dG1fc291cmNlPWxldmVscy5meWlcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senior Data Scientist",
+            "company_name": "Trident Systems Inc",
+            "location": "  Fairfax, VA   ",
+            "via": "via ZipRecruiter",
+            "description": "Senior Data Scientist (Fairfax, VA)\n\nDo you want to be part of a team that contributes to our nation\u2019s defense while implementing cutting-edge aerospace technology solutions? At Trident Systems, you could be a part of a team delivering world-class technology solutions that make a difference in the world we live in today. We have customers in both federal and commercial markets around the world... and provide leading-edge technology solutions in some of the most demanding environments. Trident offers a fast-paced, agile, team-oriented work environment with an exceptional compensation package. Trident offers both remote and hybrid, flexible work arrangements.\n\nROLE:\n\nThe Senior Data Scientist will work alongside existing Condition Based Maintenance (CBM) personnel to support data collection, review, and analysis, as well as working with to implement relevant algorithms and Machine Learning (ML)/Artificial Intelligence (AI) models to achieve project goals. This role will involve collecting data with existing tools, reviewing data collected and stored, identifying trends and algorithms for predictive and diagnostic health classification, and developing/recommending ML/AI approaches. Data Analytics work will be performed on streaming sensor data including accelerometers, voltage/current sensors, communications bus messages, and other relevant data points, including both synchronous and asynchronous data points. The Senior Data Scientist will be an integral part to Trident's established CBM team using a variety of tools to guide Trident's development of health monitoring solutions.\n\nESSENTIAL FUNCTIONS\n\n\u2022 Collect, review, and analyze data from sensors and platform interfaces in real-time and within aggregated data repositories.\n\n\u2022 Identify trends and methods to provide predictive analytics for target systems and platforms.\n\n\u2022 Create ML/AI models to support predictive analytics.\n\n\u2022 Collaborate with software team members to support the final implementation of the models.\n\n\u2022 Document algorithms and models for design reviews and future use cases.\n\n\u2022 Minimal travel to support meetings with customers for data collection and program review.\n\n\u2022 Work under the direction of the Engineering Group Director and Project Manager.\n\n\u2022 Work as part of a fast-paced team on multiple projects.\n\nKNOWLEDGE, SKILLS, & ABILITIES:\n\n\u2022 Bachelor's degree in Physics, Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Mathematics or related field from an accredited college or university\n\n\u2022 5-10 years progressive experience in data analysis, ML, and model creation\n\n\u2022 Experience using MATLAB and associated toolboxes for algorithm development and/or data review\n\n\u2022 Experience working with ML/AI frameworks and packages such as TensorFlow and/or PyTorch\n\n\u2022 Experience reviewing bulk data and performing trend analysis through standard tools\n\n\u2022 Experience using scripting languages such as Python or R to import, parse, analyze, and store data\n\n\u2022 Experience with relevant models for time-series health analysis including: LSTM, Deep Learning, Kalman Filtering, fault detection, anomaly detection, remaining useful life, and/or time-frequency analysis.\n\n\u2022 Keen interest in finding trends and making sense of complex data sets.\n\n\u2022 Organizational skills, both with physical workspace and electronic data.\n\n\u2022 Strong communication skills, both verbal and written\n\n\u2022 Strong team player\n\nMust be a U.S. Citizen\n\nPreferred Experience:\n\n\u2022 Master's degree in Machine Learning, Statistics, or related discipline\n\n\u2022 Experience with reliability centered maintenance (RCM)\n\n\u2022 Peer-reviewed publications in a relevant Prognostics and Health Management area\n\n\u2022 Proven expertise interacting with customers and other contractors\n\nTrident Systems, Inc. offers flexible, comprehensive, and competitive benefits such as:\n\u2022 PTO\n\u2022 Medical/Dental/Vision\n\u2022 Paid Life Insurance/STD/LTD\n\u2022 Educational Assistance\n\u2022 Incentive Performance Bonuses\n\u2022 Corporate Profit Sharing plus more!\n\nEEO Statement: All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of disability, race, national origin, color, religion, sex, gender identity, or sexual orientation. Trident Systems Incorporated is an Equal Opportunity Employer of protected Veterans and a VEVRAA Federal Contractor. Trident Systems has a desire for priority referrals of protected Veterans. http://www.tridsys.com/pdfs/eeo-post.pdf",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in Physics, Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Mathematics or related field from an accredited college or university",
+                        "5-10 years progressive experience in data analysis, ML, and model creation",
+                        "Experience using MATLAB and associated toolboxes for algorithm development and/or data review",
+                        "Experience working with ML/AI frameworks and packages such as TensorFlow and/or PyTorch",
+                        "Experience reviewing bulk data and performing trend analysis through standard tools",
+                        "Experience using scripting languages such as Python or R to import, parse, analyze, and store data",
+                        "Experience with relevant models for time-series health analysis including: LSTM, Deep Learning, Kalman Filtering, fault detection, anomaly detection, remaining useful life, and/or time-frequency analysis",
+                        "Keen interest in finding trends and making sense of complex data sets",
+                        "Organizational skills, both with physical workspace and electronic data",
+                        "Strong communication skills, both verbal and written",
+                        "Strong team player",
+                        "Must be a U.S. Citizen"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Senior Data Scientist will work alongside existing Condition Based Maintenance (CBM) personnel to support data collection, review, and analysis, as well as working with to implement relevant algorithms and Machine Learning (ML)/Artificial Intelligence (AI) models to achieve project goals",
+                        "This role will involve collecting data with existing tools, reviewing data collected and stored, identifying trends and algorithms for predictive and diagnostic health classification, and developing/recommending ML/AI approaches",
+                        "Data Analytics work will be performed on streaming sensor data including accelerometers, voltage/current sensors, communications bus messages, and other relevant data points, including both synchronous and asynchronous data points",
+                        "The Senior Data Scientist will be an integral part to Trident's established CBM team using a variety of tools to guide Trident's development of health monitoring solutions",
+                        "Collect, review, and analyze data from sensors and platform interfaces in real-time and within aggregated data repositories",
+                        "Identify trends and methods to provide predictive analytics for target systems and platforms",
+                        "Create ML/AI models to support predictive analytics",
+                        "Collaborate with software team members to support the final implementation of the models",
+                        "Document algorithms and models for design reviews and future use cases",
+                        "Minimal travel to support meetings with customers for data collection and program review",
+                        "Work under the direction of the Engineering Group Director and Project Manager",
+                        "Work as part of a fast-paced team on multiple projects"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Trident offers both remote and hybrid, flexible work arrangements",
+                        "PTO",
+                        "Medical/Dental/Vision",
+                        "Paid Life Insurance/STD/LTD",
+                        "Educational Assistance",
+                        "Incentive Performance Bonuses",
+                        "Corporate Profit Sharing plus more!"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.tridsys.com/",
+                    "text": "tridsys.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Trident+Systems+Inc&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAIIng0",
+                    "text": "See web results for Trident Systems Inc"
+                }
+            ],
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJodGlkb2NpZCI6IkJ4ZG1NY0pTY2cwQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVjJGemFHbHVaM1J2YmlCRVF3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9WR0pDVjI1NVRWVkpiVlpJYzNBdGFVWndTVGx6VEV4NGVYRnNhMkptT1dweVgyTkRUWGczU0c1aWMzSkVNa3hEV1VGcFl5MUhWalZMU0ZFNGRWRmxjRTlSTjNOMGQyWnlUelpmZGxGSFRXUmpUbUV3VEdoTFkwMVpiREp2VFZObVRWbENYM0JGUVdRellWbFRWVjlSV2xnMlNreHFZakJoTnpsclRrWTVla3gyWVhORFdVcHVlRlZ4WVZrNE5UUnRhMk5ZYlZodlpuaExTbGMzWkRReVR6aG9la2R2ZUZaeVR6TkhVbkpLV0VsNmJuRktaWFpoTFZwQ00yaGthVjlEU0UxclpXazNFaGRCY25NNVdrMVlMVTV5Y1U1MWNqaFFOVFl5U25GQlVSb2lRVTh0TUhKc05qbGFOVFo1UVY5cGQxZE5PV0ZOTldnMVZ6UldiM05UZUVWMFFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9UcmlkZW50LVN5c3RlbXMtSW5jL0pvYi9TZW5pb3ItRGF0YS1TY2llbnRpc3QvLWluLUZhaXJmYXgsVkE/amlkPThiYjBmZjI0YTdjZDZjZThcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        },
+        {
+            "title": "Senior Data Scientist Jobs",
+            "company_name": "ManTech International",
+            "location": "  Sterling, VA   ",
+            "via": "via Clearance Jobs",
+            "description": "Secure our Nation, Ignite your Future\n\nEach day U.S. Customs and Border Protection (CBP) oversees the massive flow of people, capital, and products that enter and depart the United States via air, land, sea, and cyberspace. The volume and complexity of both physical and virtual border crossings require the application of solutions to promote efficient trade and travel. Further, effective... solutions help CBP ensure the movement of people, capital, and products is legal, safe, and secure.\n\nIn response to this challenge, ManTech, as a trusted mission partner of CBP, seeks capable, qualified, and versatile data scientists to help lead the development and delivery of high-quality predictive modelling solutions. Successful applicants will serve as recognized subject matter experts in the application of quantitative methods, machine learning algorithms, and predictive models to address complex national and homeland security challenges. They will help our team to leverage large structured and unstructured datasets to develop and operationalize models, tools, and applications that drive optimized decision making. Project tasks include data collection, mining, data and text analytics, clustering analysis, pattern recognition and extraction, automated classification and categorization, and entity resolution to implement and enhance automated risk assessment. The products we develop provide actionable insight with real and immediate impact on the safety and security of the United States, its citizens, visitors, and economy.\n\nThe strongest applicants will offer multiple years of experience in highly dynamic, threat/risk driven operating environments. They will also have a proven track record of delivering production ready decision support tools and applications employed in the field and by mission-support entities. Further, highly competitive applicants will have a demonstrated capacity to: work closely and collaboratively with mission stakeholders; respond to emergent, mission-driven changes in priorities and expected outcomes; and, apply new and emerging tools and techniques. Within three - six months of joining the project, data scientists will be expected to:\n\u2022 Perform hands-on analysis and modeling involving the creation of intervention hypotheses and experiments, assessment of data needs and available sources, determination of optimal analytical approaches, performance of exploratory data analysis, and feature generation (e.g., identification, derivation, aggregation).\n\u2022 Collaborate with mission stakeholders to define, frame, and scope mission challenges where big data interventions may offer important mitigations and develop robust project plans with key milestones, detailed deliverables, robust work tracking protocols, and risk mitigation strategies.\n\u2022 Demonstrate proficiency in extracting, cleaning, and transforming CBP transactional and mission data associated within an identified problem space to build predictive models as well as develop appropriate supporting documentation.\n\u2022 Leverage knowledge of a variety of statistical and machine learning techniques and methods to define and develop programming algorithms; train, evaluate, and deploy predictive analytics models that directly inform mission decisions.\n\u2022 Execute projects including those intended to identify patterns and/or anomalies in large datasets; perform automated text/data classification and categorization as well as entity recognition, resolution and extraction; and named entity matching.\n\u2022 Brief project management, technical design, and outcomes to both technical and non-technical audiences including senior government stakeholders throughout the model development/ project lifecycle through written as well as in-person reporting.\n\nEducation:\n\u2022 Bachelor's Degree (required), Master's or Ph.D. degree (preferred) in operations research, industrial engineering, mathematics, statistics, computer science/engineering, or other related technical fields with equivalent practical experience.\n\u2022 Qualifications (Degree/years):\nHS Diploma/GED and 15+ years\nAS/AA and 13-18 years\nBS/BA and 7-12 years\nMS/MA/MBA and 5-9 years\nPhD/Doctorate and 3-7 years\n\nRequired Qualifications:\n\u2022 5+ years of related experience\n\u2022 Experience in developing machine learning models and applying advanced analytics solutions to solve complex business problems\n\u2022 Experience with programming languages including: R, Python, Scala, Java.\n\u2022 Proficiency with SQL programming\n\u2022 Experience constructing and executing queries to extract data in support of EDA and model development\n\u2022 Proficiency with statistical software packages including: SAS, SPSS Modeler, R, WEKA, or equivalent\n\u2022 Experience with pattern recognition and extraction, automated classification, and categorization\n\u2022 Experience with entity resolution (e.g., record linking, named-entity matching, deduplication/ disambiguation)\n\u2022 Experience with unsupervised and supervised machine learning techniques and methods\n\u2022 Experience performing data mining, analysis, and training set construction\n\nDesired Qualifications:\n\u2022 Proficiency with Unsupervised Machine Learning methods including Cluster Analysis (e.g., K-means, K-nearest Neighbor, Hierarchical, Deep Belief Networks, Principal Component Analysis), Segmentation, etc.\n\u2022 Proficiency with Supervised Machine Learning methods including Decision Trees, Support Vector Machines, Logistic Regression, Random/Rotation Forests, Categorization/Classification, Neural Nets, Bayesian Networks, etc.\n\u2022 Experience with pattern recognition and extraction, automated classification, and categorization\n\u2022 Experience with entity resolution (e.g., record linking, named-entity matching, deduplication/ disambiguation)\n\u2022 Experience with visualization tools and techniques (e.g., Periscope, Business Objects, D3, ggplot, Tableau, SAS Visual Analytics, PowerBI)\n\u2022 Experience with big data technologies (e.g., Hadoop, HIVE, HDFS, HBase, MapReduce, Spark, Kafka, Sqoop)\n\u2022 Master's Degree in mathematics, statistics, computer science/engineering, or other related technical fields with equivalent practical experience\n\nClearance:\n\nSelected applicants must be a US Citizen and able to obtain and maintain a U.S. Customs and Border Protection (CBP) suitability.\n\nPhysical Requirements:\n\n\u00b7 Office work, typically sedentary with some movement around the office.\n\nCertifications:\n\u2022 N/A\n\nThe projected compensation range for this position is $105,900-$145,000. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, ManTech invests in it's employees beyond just compensation. ManTech's benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, Short Term and Long Term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.\n\nFor all positions requiring access to technology/software source code that is subject to export control laws, employment with the company is contingent on either verifying U.S.-person status or obtaining any necessary license.The applicant will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. ManTech may choose not to apply for a license for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.\n\nManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.\n\nIf you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.\n\nIf you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "HS Diploma/GED and 15+ years",
+                        "AS/AA and 13-18 years",
+                        "BS/BA and 7-12 years",
+                        "MS/MA/MBA and 5-9 years",
+                        "5+ years of related experience",
+                        "Experience in developing machine learning models and applying advanced analytics solutions to solve complex business problems",
+                        "Experience with programming languages including: R, Python, Scala, Java",
+                        "Proficiency with SQL programming",
+                        "Experience constructing and executing queries to extract data in support of EDA and model development",
+                        "Proficiency with statistical software packages including: SAS, SPSS Modeler, R, WEKA, or equivalent",
+                        "Experience with pattern recognition and extraction, automated classification, and categorization",
+                        "Experience with entity resolution (e.g., record linking, named-entity matching, deduplication/ disambiguation)",
+                        "Experience with unsupervised and supervised machine learning techniques and methods",
+                        "Experience performing data mining, analysis, and training set construction",
+                        "Selected applicants must be a US Citizen and able to obtain and maintain a U.S. Customs and Border Protection (CBP) suitability",
+                        "Office work, typically sedentary with some movement around the office",
+                        "N/A"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Each day U.S. Customs and Border Protection (CBP) oversees the massive flow of people, capital, and products that enter and depart the United States via air, land, sea, and cyberspace",
+                        "Project tasks include data collection, mining, data and text analytics, clustering analysis, pattern recognition and extraction, automated classification and categorization, and entity resolution to implement and enhance automated risk assessment",
+                        "Perform hands-on analysis and modeling involving the creation of intervention hypotheses and experiments, assessment of data needs and available sources, determination of optimal analytical approaches, performance of exploratory data analysis, and feature generation (e.g., identification, derivation, aggregation)",
+                        "Collaborate with mission stakeholders to define, frame, and scope mission challenges where big data interventions may offer important mitigations and develop robust project plans with key milestones, detailed deliverables, robust work tracking protocols, and risk mitigation strategies",
+                        "Demonstrate proficiency in extracting, cleaning, and transforming CBP transactional and mission data associated within an identified problem space to build predictive models as well as develop appropriate supporting documentation",
+                        "Leverage knowledge of a variety of statistical and machine learning techniques and methods to define and develop programming algorithms; train, evaluate, and deploy predictive analytics models that directly inform mission decisions",
+                        "Execute projects including those intended to identify patterns and/or anomalies in large datasets; perform automated text/data classification and categorization as well as entity recognition, resolution and extraction; and named entity matching",
+                        "Brief project management, technical design, and outcomes to both technical and non-technical audiences including senior government stakeholders throughout the model development/ project lifecycle through written as well as in-person reporting"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The projected compensation range for this position is $105,900-$145,000",
+                        "There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories",
+                        "In addition, ManTech invests in it's employees beyond just compensation",
+                        "ManTech's benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, Short Term and Long Term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.mantech.com/",
+                    "text": "mantech.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=ManTech+International&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAII5g0",
+                    "text": "See web results for ManTech International"
+                }
+            ],
+            "extensions": [
+                "1 day ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 day ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QgSm9icyIsImh0aWRvY2lkIjoiTHpsbkpTMS1KSFlBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VYY3pSa2cwZEd0VFFsUlNZMFY0TVdGVWMyMTJTVEJ6VFdZdFJtUjNVVXAyTjNCRWFFaFZOMGx2TkRoU1pXdG1ZbmwxYTI5cE4ydHdWVjl4U2s5bGMzWjFXa2hsVWpKSldrMUpPVTUzYkhjeWVqQkZibmhYVDBKalYySmZjRGhQTkUxQldsaHVWMUptUTB0UFpuaGFWMlZ0VVVwM1IyNDVjVTF6U1RkUGQwTXlja3RXV2pacFpXOXNlVEJrTVZJdFltbE5SR0prWkRobVJuTXlYMnhEVVZGVVNESjJja3BHTmpWM0xXZFRRMmhmVDNReUxWazNOVEEzWDFGbE1VSkNSRlpGWlVwWUVoZEJjbk01V2sxWUxVNXljVTUxY2poUU5UWXlTbkZCVVJvaVFVOHRNSEpzTm1Sdk9EVk9VbEZsYjBGdWFVbG1PRVZmVTI5UVZYSmlWMWxoZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDbGVhcmFuY2UgSm9icyIsImxpbmsiOiJodHRwczovL3d3dy5jbGVhcmFuY2Vqb2JzLmNvbS9qb2JzLzcxMjkxOTgvc2VuaW9yLWRhdGEtc2NpZW50aXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+        },
+        {
+            "title": "Data Scientist, Mid - Now Hiring",
+            "company_name": "Booz Allen Hamilton",
+            "location": "  Fort Meade, MD   ",
+            "via": "via Snagajob",
+            "description": "Job Number: R0162810\n\nData Scientist, Mid...\n\nThe Opportunity:\n\nDo you want to work at the forefront of advanced technology and solve complex data challenges? You know that data yields pivotal insights when it's gathered from disparate sources and organized. As a data scientist, you'll have the chance to develop and deploy the pipelines and platforms that make this data meaningful. What's more, you'll have the chance to grow MlOps and DataOps capabilities while working with a multi-disciplinary team of analysts, data engineers, data scientists, developers, and data consumers in a fast-paced, agile environment. We're looking for someone like you to ensure our clients meet their mission by supporting national security.\n\nOn our team, you'll use your leadership skills and data science expertise to create real-world impact. You'll work closely with DoD and IC clients to understand their questions and needs, and then dig into their data-rich environments to find the pieces of their information puzzle. You'll guide teammates and lead the development of algorithms and systems. You'll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions. Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used.\n\nReady to drive innovation using cutting-edge data tools and techniques?\n\nJoin us. The world can't wait.\n\nYou Have:\n\u2022 3+ years of experience with data science, data analytics, machine learning engineering, or data engineering\n\u2022 2+ years of experience working in the DoD or IC\n\u2022 Experience developing predictive data models, quantitative analyses, and visualization of targeted data sources\n\u2022 Experience with programming languages, including Python, R, and SQL\n\u2022 Experience working with structured, unstructured, or semi-structured data, and conducting analysis\n\u2022 Experience with business intelligence tools, including Tableau and Microsoft Power BI\n\u2022 Experience leading the development of solutions to complex programs\n\u2022 Active TS/SCI clearance; willingness to take a polygraph exam\n\u2022 Bachelor's degree\n\nNice If You Have:\n\u2022 7+ years of experience with data science, data analytics, machine learning engineering, or data engineering\n\u2022 Experience as a Data Scientist supporting CCMD J2 or component organizations\n\u2022 Knowledge of intelligence disciplines, including SIGINT, HUMINT, GEOINT, and OSINT\n\u2022 Possession of excellent verbal and written communication skills, including confidently interfacing with leadership\n\u2022 Master's degree\n\nClearance:\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.\n\nCreate Your Career:\n\nGrow With Us\n\nYour growth matters to us-that's why we offer a variety of ways for you to develop your career. With professional and leadership development opportunities like , tuition reimbursement, mentoring, and firm-sponsored networking, you can chart a unique and fulfilling career path on your own terms.\n\nA Place Where You Belong\n\nDiverse perspectives cultivate collective ingenuity. means that, here, you are free to bring your whole self to work. With an array of business resource groups and other opportunities for connection, you'll build your community in no time.\n\nSupport Your Well-Being\n\nOur includes wellness programs with HSA contributions, paid holidays, paid parental leave, a generous 401(k) match, and more. With these benefits, plus the option for flexible schedules and remote and hybrid locations, we'll support you as you pursue a balanced, fulfilling life-at work and at home.\n\nYour Candidate Journey\n\nAt Booz Allen, we know our people are what propel us forward, and we value relationships most of all. so you'll know what to expect as we forge a connection with you during your journey as a candidate with us.\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees.\n\nEEO Commitment\n\nWe're an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change - no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3+ years of experience with data science, data analytics, machine learning engineering, or data engineering",
+                        "2+ years of experience working in the DoD or IC",
+                        "Experience developing predictive data models, quantitative analyses, and visualization of targeted data sources",
+                        "Experience with programming languages, including Python, R, and SQL",
+                        "Experience working with structured, unstructured, or semi-structured data, and conducting analysis",
+                        "Experience with business intelligence tools, including Tableau and Microsoft Power BI",
+                        "Experience leading the development of solutions to complex programs",
+                        "Active TS/SCI clearance; willingness to take a polygraph exam",
+                        "Bachelor's degree",
+                        "Experience as a Data Scientist supporting CCMD J2 or component organizations",
+                        "Knowledge of intelligence disciplines, including SIGINT, HUMINT, GEOINT, and OSINT",
+                        "Possession of excellent verbal and written communication skills, including confidently interfacing with leadership",
+                        "Master's degree"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a data scientist, you'll have the chance to develop and deploy the pipelines and platforms that make this data meaningful",
+                        "On our team, you'll use your leadership skills and data science expertise to create real-world impact",
+                        "You'll work closely with DoD and IC clients to understand their questions and needs, and then dig into their data-rich environments to find the pieces of their information puzzle",
+                        "You'll guide teammates and lead the development of algorithms and systems",
+                        "You'll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions",
+                        "Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "With professional and leadership development opportunities like , tuition reimbursement, mentoring, and firm-sponsored networking, you can chart a unique and fulfilling career path on your own terms",
+                        "Our includes wellness programs with HSA contributions, paid holidays, paid parental leave, a generous 401(k) match, and more",
+                        "With these benefits, plus the option for flexible schedules and remote and hybrid locations, we'll support you as you pursue a balanced, fulfilling life-at work and at home",
+                        "At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+                        "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+                        "The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD)"
+                    ]
+                }
+            ],
+            "related_links": [
+                {
+                    "link": "http://www.boozallen.com/",
+                    "text": "boozallen.com"
+                },
+                {
+                    "link": "https://www.google.com/search?hl=en&gl=us&q=Booz+Allen+Hamilton&sa=X&ved=0ahUKEwjFh8T27rH-AhW6hu4BHedWAkU4HhCYkAIIrQ4",
+                    "text": "See web results for Booz Allen Hamilton"
+                }
+            ],
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "posted_at": "11 days ago",
+                "schedule_type": "Full-time"
+            },
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgTWlkIC0gTm93IEhpcmluZyIsImh0aWRvY2lkIjoiQWVyZVJjeVRQekVBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WMkZ6YUdsdVozUnZiaUJFUXciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVVZ6TjJwT1ZHNUxOSGwxUTNFemFUSTNWVE10ZFZCTlNXeEtVVVoyVEMxM1JtRkhTMDR5VW5aM1EwRkRNa2RGVW1aVmRIZFFjWEk1Tm5FNVRWbG5ja2wyVW1vM1VVeFJabmN3U0VWU2IybFNWa3BQVUVKTldYZGpWRlJwVms1T1lrNW1jRjh0VEUxRmExRnhMVWRJYmtOWFVsaG1XRVZMY0c1SlQwaDBPVkF3YVd0T2FsRXlTbTFMVkhKUVJFSjFWR0ZGVUVaRlVGSmhaR3RTTkhobVEwbHBjVVpuUm10d01tRk1MVTlNT1Zsb2FsRnBWV2MzVEZGM0xXcGxhak5mYzNGT1ExUkpXRTA1Tm1wTFZrVmljMlpDUVRscGNYTkVjVkJDT1ZaMWRWTlBkeElYUVhKek9WcE5XQzFPY25GT2RYSTRVRFUyTWtweFFWRWFJa0ZQTFRCeWJEWlBMVk5ZU0Y5clVVOW9XVUZCUTNoNVpFdDNVQzB3UkZCTWRGRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE3IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFNuYWdham9iIiwibGluayI6Imh0dHBzOi8vd3d3LnNuYWdham9iLmNvbS9qb2JzLzgxNTk5OTg5OT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+        }
+    ],
+    "chips": [
+        {
+            "type": "Title",
+            "param": "job_family_1",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Data scientist",
+                    "value": "data scientist"
+                },
+                {
+                    "text": "Data science",
+                    "value": "data science"
+                },
+                {
+                    "text": "Manager",
+                    "value": "manager"
+                },
+                {
+                    "text": "Director",
+                    "value": "director"
+                },
+                {
+                    "text": "Engineer",
+                    "value": "engineer"
+                },
+                {
+                    "text": "Scientist",
+                    "value": "scientist"
+                },
+                {
+                    "text": "Associate director",
+                    "value": "associate director"
+                },
+                {
+                    "text": "Program analyst",
+                    "value": "program analyst"
+                },
+                {
+                    "text": "Biologist",
+                    "value": "biologist"
+                },
+                {
+                    "text": "Business",
+                    "value": "business"
+                },
+                {
+                    "text": "Exp",
+                    "value": "exp"
+                },
+                {
+                    "text": "Lead analyst",
+                    "value": "lead analyst"
+                },
+                {
+                    "text": "Modeling",
+                    "value": "modeling"
+                },
+                {
+                    "text": "Sales operations",
+                    "value": "sales operations"
+                },
+                {
+                    "text": "Senior associate",
+                    "value": "senior associate"
+                },
+                {
+                    "text": "Software engineer",
+                    "value": "software engineer"
+                },
+                {
+                    "text": "Specialist",
+                    "value": "specialist"
+                }
+            ]
+        },
+        {
+            "type": "Location",
+            "param": "city",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "New York, NY",
+                    "value": "Owg_06VPwoli_nfhBo8LyA=="
+                },
+                {
+                    "text": "Chicago, IL",
+                    "value": "7cv00DwsDogAwMAJrabgrw=="
+                },
+                {
+                    "text": "Washington, DC",
+                    "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+                },
+                {
+                    "text": "Arlington, VA",
+                    "value": "D6ene522t4mTsPZFyG_P-A=="
+                },
+                {
+                    "text": "Cambridge, MA",
+                    "value": "X8wwy6Vw44mHbGiJZI46xQ=="
+                },
+                {
+                    "text": "Atlanta, GA",
+                    "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+                },
+                {
+                    "text": "Herndon, VA",
+                    "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+                },
+                {
+                    "text": "Pittsburgh, PA",
+                    "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+                },
+                {
+                    "text": "Reston, VA",
+                    "value": "5WUWJkdAtomfrnGo6K_fYw=="
+                },
+                {
+                    "text": "Fort Meade, MD",
+                    "value": "jdor14Tmt4l3A9bF4c3sbg=="
+                },
+                {
+                    "text": "Alexandria, VA",
+                    "value": "8aukkz5NtoksAcHbhib11w=="
+                },
+                {
+                    "text": "Boston, MA",
+                    "value": "GzE9DS1l44mg6GIBJL98eA=="
+                },
+                {
+                    "text": "Chantilly, VA",
+                    "value": "GXJnGVZBtomDrRZD_PBBQA=="
+                },
+                {
+                    "text": "Charlotte, NC",
+                    "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+                },
+                {
+                    "text": "Fairfax, VA",
+                    "value": "zZFLOZZOtolAhkSF5yYjBw=="
+                },
+                {
+                    "text": "Philadelphia, PA",
+                    "value": "60u11Ni3xonBWD6M2BT1iQ=="
+                },
+                {
+                    "text": "Annapolis, MD",
+                    "value": "1S9ncGX2t4lLJ6jT_VT4Qw=="
+                },
+                {
+                    "text": "Columbus, OH",
+                    "value": "cd6QucGJOIgztbHP-GYy5A=="
+                },
+                {
+                    "text": "McLean, VA",
+                    "value": "O3mKsew1tonx6vqtXrpijg=="
+                },
+                {
+                    "text": "Annapolis Junction, MD",
+                    "value": "zW-xYyLnt4mqAms5YL-SKQ=="
+                },
+                {
+                    "text": "Cincinnati, OH",
+                    "value": "-SE43rFRQIgXk8Dki377aQ=="
+                },
+                {
+                    "text": "Hartford, CT",
+                    "value": "pVER8hFT5omZWX3pqEqOzA=="
+                },
+                {
+                    "text": "Norfolk, VA",
+                    "value": "RcoiUzqXuokKHnrOfxCZqw=="
+                },
+                {
+                    "text": "Springfield, VA",
+                    "value": "nTrlhehNtokEpfoWJG_nZw=="
+                },
+                {
+                    "text": "Sterling, VA",
+                    "value": "rWH7IE84tolMhlUKz9C_BQ=="
+                },
+                {
+                    "text": "Baltimore, MD",
+                    "value": "t4P01q4DyIlY5yNCqJZIBA=="
+                },
+                {
+                    "text": "Chapel Hill, NC",
+                    "value": "p35uIRzDrInL5EME4LoDfw=="
+                },
+                {
+                    "text": "Charlottesville, VA",
+                    "value": "j6RQ6i2Gs4n8dIvDlvCGkA=="
+                },
+                {
+                    "text": "Columbia, MD",
+                    "value": "UaBpY7Dft4ldY4e2Zb3W8A=="
+                },
+                {
+                    "text": "Deerfield, IL",
+                    "value": "4SbNkAm_D4gpTtHtiNMnPQ=="
+                },
+                {
+                    "text": "Dover, DE",
+                    "value": "rV5odTNjx4nwbAD7R-TiqQ=="
+                },
+                {
+                    "text": "Gaithersburg, MD",
+                    "value": "tRPKJDYttok1cq2AgVqP4w=="
+                },
+                {
+                    "text": "Groton, CT",
+                    "value": "5dn_Iz8J5onFHOHFMhf_RA=="
+                },
+                {
+                    "text": "Hoboken, NJ",
+                    "value": "0TMVjWBXwomHvzcRasq2RA=="
+                },
+                {
+                    "text": "Lexington, MA",
+                    "value": "y1hS39qd44nNEzYWyIU2hQ=="
+                },
+                {
+                    "text": "North Chicago, IL",
+                    "value": "0bSMFzSTD4gl6Jj6acIz-g=="
+                },
+                {
+                    "text": "Richmond, VA",
+                    "value": "7cmZVwkRsYnFPELibT7Yvw=="
+                },
+                {
+                    "text": "Ridgefield, CT",
+                    "value": "kf3H-Fuqwomw4kXqMRWO1w=="
+                },
+                {
+                    "text": "Stamford, CT",
+                    "value": "C7zHsmShwolutzSci4ZDhw=="
+                },
+                {
+                    "text": "Wilmington, DE",
+                    "value": "b69GXBgPx4kAjDB3UNoWhQ=="
+                },
+                {
+                    "text": "Aberdeen, MD",
+                    "value": "AeMIvYXBx4l0tI2oGB0WPg=="
+                },
+                {
+                    "text": "Addison, IL",
+                    "value": "PdxtHX6tD4hjjn7SBPWPvQ=="
+                },
+                {
+                    "text": "Asheville, NC",
+                    "value": "CW8PPKmMWYhdOjQGwTHvlA=="
+                },
+                {
+                    "text": "Beachwood, OH",
+                    "value": "DfjVw44DMYhrpa8UdEWiYA=="
+                },
+                {
+                    "text": "Beltsville, MD",
+                    "value": "kalNcnXDt4l7N8AW5ohfZw=="
+                },
+                {
+                    "text": "Bethesda, MD",
+                    "value": "LQIkarfLt4kNzStq93myJg=="
+                },
+                {
+                    "text": "Bloomingdale, GA",
+                    "value": "tQ1M6kSm-4ioaIXDWH6Y4Q=="
+                },
+                {
+                    "text": "Bloomington, IN",
+                    "value": "59iDtPZdbIjZM62LLZEa6Q=="
+                },
+                {
+                    "text": "Bowie, MD",
+                    "value": "SfEGwo3qt4lVbq5KSSK3yg=="
+                },
+                {
+                    "text": "Buffalo, NY",
+                    "value": "oeXfUmES04lxgR8YpQQjmA=="
+                },
+                {
+                    "text": "Burbank, IL",
+                    "value": "MYhHvq4wDogydTHmfvZNbQ=="
+                },
+                {
+                    "text": "Burlington, VT",
+                    "value": "5VWbtlV6ykyOSQ5yGeVfww=="
+                },
+                {
+                    "text": "Cary, NC",
+                    "value": "Q4tK_1S9rInhS0Ra249WRA=="
+                }
+            ]
+        },
+        {
+            "type": "Date posted",
+            "param": "date_posted",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Past day",
+                    "value": "today"
+                },
+                {
+                    "text": "Past 3 days",
+                    "value": "3days"
+                },
+                {
+                    "text": "Past week",
+                    "value": "week"
+                },
+                {
+                    "text": "Past month",
+                    "value": "month"
+                }
+            ]
+        },
+        {
+            "type": "Requirements",
+            "param": "requirements",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "No degree",
+                    "value": "no_degree"
+                },
+                {
+                    "text": "No experience",
+                    "value": "no_experience"
+                },
+                {
+                    "text": "Under 3 years of experience",
+                    "value": "years3under"
+                },
+                {
+                    "text": "3+ years of experience",
+                    "value": "years3plus"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "param": "employment_type",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Full-time",
+                    "value": "FULLTIME"
+                },
+                {
+                    "text": "Part-time",
+                    "value": "PARTTIME"
+                },
+                {
+                    "text": "Internship",
+                    "value": "INTERN"
+                },
+                {
+                    "text": "Contractor",
+                    "value": "CONTRACTOR"
+                }
+            ]
+        },
+        {
+            "type": "Company type",
+            "param": "industry.id",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": "Consulting",
+                    "value": "/business/naics2007/5416"
+                },
+                {
+                    "text": "Manufacturing",
+                    "value": "/business/naics2007/31"
+                },
+                {
+                    "text": "Finance",
+                    "value": "/business/naics2007/52"
+                },
+                {
+                    "text": "Retail",
+                    "value": "/business/naics2007/44"
+                },
+                {
+                    "text": "Information",
+                    "value": "/business/naics2007/51"
+                },
+                {
+                    "text": "Education",
+                    "value": "/business/naics2007/61"
+                },
+                {
+                    "text": "Health Care",
+                    "value": "/business/naics2007/62"
+                },
+                {
+                    "text": "Computer Services",
+                    "value": "/business/naics2007/5415"
+                },
+                {
+                    "text": "Toiletries",
+                    "value": "/business/naics2007/3256"
+                },
+                {
+                    "text": "Accommodation",
+                    "value": "/business/naics2007/721"
+                },
+                {
+                    "text": "Foods & Beverages",
+                    "value": "/business/naics2007/311"
+                },
+                {
+                    "text": "Research",
+                    "value": "/business/naics2007/5417"
+                },
+                {
+                    "text": "Staffing",
+                    "value": "/business/naics2007/5613"
+                },
+                {
+                    "text": "Wholesale",
+                    "value": "/business/naics2007/42"
+                },
+                {
+                    "text": "Logistics",
+                    "value": "/business/naics2007/48"
+                },
+                {
+                    "text": "Advertising",
+                    "value": "/business/naics2007/5418"
+                },
+                {
+                    "text": "Business Support",
+                    "value": "/business/naics2007/5614"
+                },
+                {
+                    "text": "Construction",
+                    "value": "/business/naics2007/23"
+                },
+                {
+                    "text": "Design Services",
+                    "value": "/business/naics2007/5414"
+                },
+                {
+                    "text": "Entertainment",
+                    "value": "/business/naics2007/71"
+                },
+                {
+                    "text": "Management",
+                    "value": "/business/naics2007/55"
+                },
+                {
+                    "text": "Professional Services",
+                    "value": "/business/naics2007/5419"
+                },
+                {
+                    "text": "Public Administration",
+                    "value": "/business/naics2007/92"
+                },
+                {
+                    "text": "Real Estate",
+                    "value": "/business/naics2007/53"
+                },
+                {
+                    "text": "Utilities",
+                    "value": "/business/naics2007/22"
+                }
+            ]
+        },
+        {
+            "type": "Employer",
+            "param": "organization_mid",
+            "options": [
+                {
+                    "text": "All"
+                },
+                {
+                    "text": ".S003Ke{flex:none}.ZoN4Lb{color:rgba(0,0,0,.54)}.nAXVG{color:#70757a}.IxQsL{color:rgba(0,0,0,.26)}.xFO1De{color:#fff}.ooFpK{color:rgba(255,255,255,.30)}.mtnwac{color:#4285f4}.WxeeKb{color:#34a853}.hIVRU{color:#f29900}.EXaTMc{color:#fbbc04}.sxn46d{color:#000}.gqMTF{color:#1a73e8}.zpn8Mb{color:#d93025}.dEUPmd{color:#1e8e3e}.HttSvd{color:#202124}.k9T6Hc{color:#1558d6}",
+                    "value": "e"
+                },
+                {
+                    "text": "Booz Allen Hamilton",
+                    "value": "/m/05jlg3"
+                },
+                {
+                    "text": "Deloitte",
+                    "value": "/m/02spfd"
+                },
+                {
+                    "text": "Walmart",
+                    "value": "/m/0841v"
+                },
+                {
+                    "text": "Guidehouse",
+                    "value": "/g/11g217_jbz"
+                },
+                {
+                    "text": "Pfizer",
+                    "value": "/m/0gvbw"
+                },
+                {
+                    "text": "Highmark Health",
+                    "value": "/g/11fy29c4js"
+                },
+                {
+                    "text": "Peraton",
+                    "value": "/g/11g9mq8fj6"
+                },
+                {
+                    "text": "CVS Health",
+                    "value": "/m/02q9wld"
+                },
+                {
+                    "text": "Chubb INA Holdings Inc.",
+                    "value": "/m/09l__z3"
+                },
+                {
+                    "text": "DEFTEC Corporation",
+                    "value": "/g/11c73p6tjn"
+                },
+                {
+                    "text": "Diverse Lynx",
+                    "value": "/g/11dxp_49r_"
+                },
+                {
+                    "text": "General Dynamics Information Technology",
+                    "value": "/m/09msylq"
+                },
+                {
+                    "text": "HCSC",
+                    "value": "/m/02864z7"
+                },
+                {
+                    "text": "Humana",
+                    "value": "/m/033th4"
+                },
+                {
+                    "text": "Novetta",
+                    "value": "/g/11g9m_jqt2"
+                },
+                {
+                    "text": "PayPal",
+                    "value": "/g/122s91_5"
+                },
+                {
+                    "text": "Procter & Gamble",
+                    "value": "/m/01qygl"
+                },
+                {
+                    "text": "Xylem",
+                    "value": "/m/0j42pwf"
+                },
+                {
+                    "text": "Allstate",
+                    "value": "/m/03ct7b"
+                },
+                {
+                    "text": "Boehringer Ingelheim",
+                    "value": "/m/08w3_z"
+                },
+                {
+                    "text": "CME Group",
+                    "value": "/m/03m3r_f"
+                },
+                {
+                    "text": "Citi",
+                    "value": "/m/01hlzm"
+                },
+                {
+                    "text": "Elder Research Inc",
+                    "value": "/g/11dym90_rc"
+                },
+                {
+                    "text": "Garner Health",
+                    "value": "/g/11j7h1b__g"
+                },
+                {
+                    "text": "Hilton",
+                    "value": "/m/0cmxrn"
+                },
+                {
+                    "text": "INNOPLEX",
+                    "value": "/g/11c73p2rvy"
+                },
+                {
+                    "text": "Jobspring",
+                    "value": "/g/11fy234p6j"
+                },
+                {
+                    "text": "LMI",
+                    "value": "/g/11b7cd2mzj"
+                },
+                {
+                    "text": "ManTech International",
+                    "value": "/m/03crmnd"
+                },
+                {
+                    "text": "Mars",
+                    "value": "/m/01kh5q"
+                },
+                {
+                    "text": "Novo Nordisk",
+                    "value": "/m/0427fl"
+                },
+                {
+                    "text": "Sedgwick",
+                    "value": "/g/11byczcfwk"
+                },
+                {
+                    "text": "The Kraft Heinz Company",
+                    "value": "/m/01311njn"
+                },
+                {
+                    "text": "Travelers",
+                    "value": "/m/065d4n"
+                },
+                {
+                    "text": "Vanguard",
+                    "value": "/m/033778"
+                },
+                {
+                    "text": "Walgreens",
+                    "value": "/m/02rx2k"
+                },
+                {
+                    "text": "ADP",
+                    "value": "/m/04hshv"
+                },
+                {
+                    "text": "AURA TECHNOLOGIES LLC.",
+                    "value": "/g/11g21mn4c9"
+                },
+                {
+                    "text": "Acxiom LLC",
+                    "value": "/g/11h3kzwkqb"
+                },
+                {
+                    "text": "Agricultural Research Service",
+                    "value": "/m/01lcw_"
+                },
+                {
+                    "text": "Amazon",
+                    "value": "/m/0mgkg"
+                },
+                {
+                    "text": "Amica Mutual Insurance Company",
+                    "value": "/m/02vtpdm"
+                },
+                {
+                    "text": "Analog Devices",
+                    "value": "/m/02_01g"
+                },
+                {
+                    "text": "Arvinas",
+                    "value": "/g/11hzcq9wx3"
+                }
+            ]
+        }
+    ]
+}
