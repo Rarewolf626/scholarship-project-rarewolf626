@@ -1,0 +1,451 @@
+---
+title: "Data Cleaning"
+format:
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+---
+
+
+```{python}
+import os
+import pandas as pd
+import json
+from pandas.io.json import json_normalize
+import re
+import numpy as np
+```
+
+## Import and Merge JSON files
+
+```{python}
+def merge_jobs_results(directory): # merge all jsons from a folder
+    # initialize an empty list to hold the dfs
+    dfs = []
+
+    # iterate over all files in the directory
+    for filename in os.listdir(directory):
+        if filename.endswith('.json'):
+            # read in the json data from the file
+            filepath = os.path.join(directory, filename)
+            with open(filepath, 'r') as f:
+                json_data = json.load(f)
+
+            # extract 'jobs_results' and convert to a df
+            jobs_data = json_data.get('jobs_results', [])
+            df = pd.json_normalize(jobs_data)
+            df['key'] = filename[:-7] # add column for search key, taken from file name
+
+            # add the df to the list
+            dfs.append(df)
+
+    # concatenate into a single df
+    merged_df = pd.concat(dfs, ignore_index=True)
+
+    return merged_df    
+```
+
+
+```{python}
+merged = merge_jobs_results('../../data/2023-04-14-job-search/2023-04-14-job-search-location-DC/') # DC jobs
+```
+
+
+```{python}
+merged = merged.drop('detected_extensions.commute_time', axis=1).copy() # drop last column so that both folders' files' dimensions match
+
+merged.head(3)
+```
+
+
+```{python}
+merged1 = merge_jobs_results('../../data/2023-04-14-job-search/2023-04-14-job-search-location-USA/') # USA jobs
+```
+
+
+```{python}
+merged_df = pd.concat([merged, merged1], ignore_index=True) # concatenate DC and USA jobs
+merged_df.head(3)
+```
+
+## Clean Data
+
+```{python}
+df_highlights = pd.json_normalize(merged_df['job_highlights']) # break up job highlights
+df_highlights.head(5)
+```
+
+
+```{python}
+def get_items_value(dictionary): # get item value
+    if pd.isnull(dictionary): # deal with na values
+        return None
+    return dictionary['items']
+
+df_highlights = df_highlights.applymap(get_items_value) # only get the description of the item
+```
+
+
+```{python}
+df_highlights = df_highlights.rename(columns={0: 'qualifications', 1: 'responsibilities', 2: 'benefits'}) # rename columns
+print(df_highlights.isna().sum())
+```
+
+
+```{python}
+master_df = pd.concat([merged_df, df_highlights], axis = 1) # merge both dataframes by column
+master_df = master_df.drop(['job_highlights', 'related_links', 'job_id', 'detected_extensions.work_from_home', 'detected_extensions.posted_at'], axis = 1) # drop unneeded columns
+
+for i in master_df: # check for nas
+    print(i, master_df[i].isna().sum())
+```
+
+
+```{python}
+#rename columns
+master_df = master_df.rename(columns={'detected_extensions.schedule_type': 'schedule_type', 'detected_extensions.salary': 'salary', 'key': 'query'})
+
+master_df = master_df.reset_index(drop=True)
+
+master_df.head(5)
+```
+
+```{python}
+master_df['query'] = master_df['query'].str.replace('-', ' ') # replace hyphens with spaces
+master_df.loc[master_df['query'] == 'block chain', 'query'] = 'blockchain' # remove space from blockchain
+```
+
+
+```{python}
+master_df['via'] = master_df['via'].str.slice(4) # remove 'via' from the start of the string
+
+master_df = master_df.join(master_df['extensions'].apply(lambda x: pd.Series(x)).add_prefix('ext_'))
+master_df = master_df.drop('extensions', axis=1)
+```
+
+
+```{python}
+master_df.head(5)
+```
+
+
+```{python}
+master_df['schedule_type'].unique()
+```
+
+
+```{python}
+# loop through each row in the dataframe to delete 'days ago' 'hours ago'
+for i, row in master_df.iterrows():
+    # check if 'ago' is present in ext_0
+    if 'ago' in str(row['ext_0']):
+        # if it is, replace the 'ago' value with the corresponding value from ext_1
+        master_df.at[i, 'ext_0'] = row['ext_1']
+        master_df.at[i, 'ext_1'] = np.nan
+    else:
+        # if it isn't, keep the row as it is
+        pass
+```
+
+
+```{python}
+master_df.isna().sum()
+```
+
+
+```{python}
+master_df = master_df.drop(['ext_0', 'ext_1', 'ext_2', 'ext_3', 'ext_4', 'ext_5', 'ext_6', 'ext_7'], axis = 1)
+```
+
+
+```{python}
+for i, row in master_df.iterrows(): # go through responsibilities and benefits column to extract salary
+    if pd.isna(row['salary']):
+        if '$' in str(row['responsibilities']):
+            master_df.at[i, 'salary'] = row['responsibilities']
+        elif 'hour' in str(row['responsibilities']):
+            master_df.at[i, 'salary'] = row['responsibilities']
+        elif 'year' in str(row['responsibilities']):
+            master_df.at[i, 'salary'] = row['responsibilities']
+        elif '$' in str(row['benefits']):
+            master_df.at[i, 'salary'] = row['benefits']
+        elif 'hour' in str(row['benefits']):
+            master_df.at[i, 'salary'] = row['benefits']
+        elif 'year' in str(row['benefits']):
+            master_df.at[i, 'salary'] = row['benefits']
+```
+
+
+```{python}
+master_df['degree'] = np.nan
+```
+
+
+```{python}
+for i, row in master_df.iterrows(): # go through responsibilities and benefits column to extract salary
+    if pd.isna(row['degree']):
+        if "PhD" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "PhD"
+        elif "Ph.D." in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "PhD"
+        elif "Doctorate" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "PhD"
+        elif "Master" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "Master's" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "Masters" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "Msc" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "M.A." in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "MA" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "MS" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "Advanced" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "M.S." in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Master's"
+        elif "Bachelor's" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "BS" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "B.S." in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "BA" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "B.A." in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "Bachelors" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "Bachelor" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+        elif "Undergraduate" in str(row['qualifications']):
+            master_df.at[i, 'degree'] = "Bachelor's"
+```
+
+
+```{python}
+master_df['salary'] = master_df['salary'].apply(lambda x: str(x) if isinstance(x, list) else x) # convert salary to string 
+```
+
+
+```{python}
+
+def clean_salary(salary):
+    # if salary is a list, extract the salary range from the appropriate string
+    if isinstance(salary, list):
+        for s in salary:
+            if "salary range" in s.lower():
+                salary = re.findall(r"\$\d+(?:,\d+)*(?:\.\d+)?", s)
+                salary = " - ".join(salary)
+                break
+    # if salary is a string, extract the salary range
+    elif isinstance(salary, str):
+        salary = re.findall(r"\$\d+(?:,\d+)*(?:\.\d+)?", salary)
+        salary = " - ".join(salary)
+    else:
+        salary = np.nan
+    return salary
+
+def extract_time_period(salary):
+    if isinstance(salary, str):
+        if "hour" in salary:
+            time_period = "an hour"
+        elif "month" in salary:
+            time_period = "a month"
+        elif "year" in salary:
+            time_period = "a year"
+        else:
+            time_period = np.nan
+    else:
+        time_period = np.nan
+    return time_period
+
+master_df["salary_cleaned"] = master_df["salary"].apply(clean_salary)
+master_df["time_period"] = master_df["salary_cleaned"].apply(extract_time_period)
+```
+
+
+```{python}
+# iterate over every row in the dataframe
+for index, row in master_df.iterrows():
+    # check if the 'salary_cleaned' value contains '$'
+    if '$' in str(row['salary_cleaned']):
+        # assign the entire value to the 'salary' column
+        master_df.at[index, 'salary'] = row['salary_cleaned'] #####
+```
+
+
+```{python}
+# remove list values from salary
+# create a boolean mask to filter out missing values 
+not_null_mask = pd.notnull(master_df['salary']) 
+
+# find the rows where 'salary' contains '['
+rows_with_brackets = master_df[not_null_mask & master_df['salary'].str.contains('\\[')]
+
+# set the 'salary' column to NaN for the rows with brackets
+master_df.loc[rows_with_brackets.index, 'salary'] = np.nan
+```
+
+
+```{python}
+master_df['salary'] = master_df['salary'].str.replace('–', '-')
+```
+
+
+```{python}
+# create a boolean mask to filter for rows containing 'hour'
+mask = master_df['salary'].str.contains('hour', na=False)
+
+# select the rows where 'salary' contains 'hour'
+rows_with_hourly_wage = master_df[mask]
+
+# convert hourly wage to annual salary
+for idx, row in rows_with_hourly_wage.iterrows():
+    salary_str = row['salary']
+    if salary_str.count('-') == 1:
+        # handle case where salary range is given
+        salary_range = salary_str.split(' ')[0]
+        salary_range = salary_range.replace('\u2011', '-')
+        start, end = map(float, salary_range.split('-'))
+        avg_salary = (start + end) / 2.0
+        annual_salary = avg_salary * 2080
+        master_df.loc[idx, 'salary'] = '${:,.2f}'.format(annual_salary)
+    elif salary_str.count('-') == 0:
+        # handle case where single hourly wage is given
+        hourly_wage_str = salary_str.split(' ')[0]
+        hourly_wage = float(hourly_wage_str)
+        annual_salary = hourly_wage * 2080
+        master_df.loc[idx, 'salary'] = '${:,.2f}'.format(annual_salary)
+
+```
+
+
+```{python}
+master_df['salary'] = master_df['salary'].str.replace(' a year', '').str.strip()
+master_df['salary'] = master_df['salary'].str.replace('$', '').str.strip()
+master_df.loc[636, 'salary'] = 136284
+master_df.loc[761, 'salary'] = 22070
+master_df.loc[681, 'salary'] = 121000
+master_df.loc[746, 'salary'] = 206000
+```
+
+
+```{python}
+num_nas = master_df['salary'].isna().sum()
+
+print(f"Number of NaN values in 'salary' column: {num_nas}")
+```
+
+
+```{python}
+# Define a function to convert salary ranges to their average values
+master_df['salary'] = master_df['salary'].astype(str)
+
+def parse_salary_range(s):
+    if '-' in s:
+        s = s.replace('$', '').replace(',', '').replace('K', '000').replace('k', '000')
+        parts = s.split('-')
+        parts = [float(p) for p in parts if not pd.isnull(p)]
+        avg = sum(parts) / len(parts)
+        return avg
+    else:
+        return s
+
+# Apply the function to the 'salary' column of master_df
+master_df['salary'] = master_df['salary'].apply(parse_salary_range)
+```
+
+
+```{python}
+master_df['salary'] = master_df['salary'].astype(str)  # convert all data points to string type
+master_df['salary'] = master_df['salary'].str.replace(',', '')  # remove commas
+master_df['salary'] = master_df['salary'].str.replace('\.\d+', '')  # remove decimals and everything after them
+master_df['salary'] = pd.to_numeric(master_df['salary'], errors='coerce')
+master_df['salary'].describe()
+```
+
+
+```{python}
+master_df['qualifications'] = master_df['qualifications'].astype(str)
+
+def extract_experience(text):
+    match = re.search(r'(\d[\d+-]*\s*(?:year|yr|yrs|years))', text, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    else:
+        return None
+
+master_df['experience'] = master_df['qualifications'].apply(extract_experience)
+```
+
+
+```{python}
+master_df['experience'] = master_df['experience'].apply(lambda x: str(x))
+
+def clean_experience(exp):
+    if isinstance(exp, str):
+        # Extract digits from the experience string
+        digits = re.findall('\d+', exp)
+        if len(digits) == 2:
+            # Calculate the average of two numbers if there are two digits
+            avg_exp = (int(digits[0]) + int(digits[1])) / 2
+        elif len(digits) == 1:
+            # Take the single digit if there is only one digit
+            avg_exp = int(digits[0])
+        else:
+            # Return None if there are no digits
+            return None
+        return avg_exp
+    else:
+        # Return None if the input is not a string
+        return None
+
+master_df['experience'] = master_df['experience'].apply(clean_experience)
+```
+
+```{python}
+master_df = master_df.drop(['salary_cleaned', 'time_period'], axis = 1)
+```
+
+```{python}
+master_df.isna().sum()
+```
+
+```{python}
+min_count = master_df.count().min()
+print("Number of rows with entries for every column:", min_count)
+```
+
+```{python}
+master_df['degree'] = master_df['degree'].astype('category')
+```
+
+```{python}
+master_df.dtypes
+```
+
+```{python}
+master_df['location'] = master_df['location'].str.strip() # delete extra spaces
+master_df['remote'] = master_df['location'].apply(lambda x: True if x in ['Anywhere', 'United States'] else False) # make 'remote' dummy variable
+```
+
+```{python}
+master_df.loc[[26, 58, 73, 77, 127, 230, 271, 322, 463, 472, 651, 731, 763, 768, 781], 'salary'] = np.nan # delete bonuses that were detected as salaries
+
+master_df.loc[[48, 110, 193, 264, 614, 654], 'salary'] *= 2080 # convert unconverted hourly salaries
+
+master_df.loc[[108, 143, 151, 231, 249, 340, 350, 357, 396, 426, 525, 542, 557, 627, 737, 758, 808], 'salary'] *= 1000 # salaries read as 240 instead of 240000
+
+master_df.loc[[251, 696], 'salary'] *= 12 # convert unconverted monthly salaries
+```
+
+
+```{python}
+master_df.to_csv('job_data.csv')
+```
