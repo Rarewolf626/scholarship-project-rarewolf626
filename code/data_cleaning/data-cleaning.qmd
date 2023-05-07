@@ -19,6 +19,8 @@ import numpy as np
 
 ## Import and Merge JSON files
 
+The first step is to import all the JSON files from the 2 folders relating to DC jobs and all other jobs. We will have to import all the JSON files in each folder, merge them together, and merge the output of both folders, before converting it to a `pandas` DataFrame
+
 ```{python}
 def merge_jobs_results(directory): # merge all jsons from a folder
     # initialize an empty list to hold the dfs
@@ -69,13 +71,14 @@ merged_df = pd.concat([merged, merged1], ignore_index=True) # concatenate DC and
 merged_df.head(3)
 ```
 
-## Clean Data
 
 ```{python}
 df_highlights = pd.json_normalize(merged_df['job_highlights']) # break up job highlights
 df_highlights.head(5)
 ```
 
+## Clean Data
+Now, we will clean all the necessary columns of our data, and extract relevant data
 
 ```{python}
 def get_items_value(dictionary): # get item value

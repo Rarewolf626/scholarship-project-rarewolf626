@@ -88,3 +88,54 @@ ap <- ap %>% layout(legend=list(title=list(text='Years of Experience')))
 ap
 ```
 
+```{r}
+
+# Select the top 15 companies by job count
+top_companies <- jobs_df %>%
+  filter(company_name != "Unknown") %>%
+  group_by(company_name) %>%
+  summarise(n_jobs = n()) %>%
+  ungroup() %>%
+  top_n(15, n_jobs) %>%
+  arrange(desc(n_jobs))
+
+# Select the jobs that belong to the top companies
+jobs_top_companies <- jobs_df %>%
+  filter(company_name %in% top_companies$company_name) %>%
+  select(query, company_name)
+
+# Create a matrix of the number of jobs for each combination of query and company_name
+jobs_matrix <- table(jobs_top_companies)
+
+# Create the chord diagram
+chord <- plot_ly(type = "choropleth",
+                 locations = top_companies$company_name,
+                 locationmode = "USA-states",
+                 z = top_companies$n_jobs,
+                 text = top_companies$company_name,
+                 colorscale = "Viridis",
+                 zmin = 0, zmax = max(top_companies$n_jobs)) %>%
+  add_trace(type = "sankey",
+            source = rep(0:nrow(top_companies)-1, nrow(top_companies)),
+            target = as.vector(outer(0:nrow(top_companies)-1, 0:nrow(top_companies)-1, FUN = "+")),
+            value = as.vector(jobs_matrix),
+            node = list(label = c("All queries", top_companies$company_name),
+                        pad = 10,
+                        thickness = 10,
+                        line = list(color = "black", width = 0.5),
+                        x = c(rep(0, nrow(top_companies)), rep(1, nrow(top_companies)))),
+            link = list(source = as.vector(col(jobs_matrix)),
+                        target = as.vector(row(jobs_matrix)),
+                        value = as.vector(jobs_matrix))) %>%
+  layout(title = "Chord Diagram of Job Queries and Top 15 Companies",
+         font = list(family = "Arial, sans-serif"),
+         width = 800, height = 800,
+         margin = list(l = 100, r = 100, b = 100, t = 100),
+         paper_bgcolor = "white",
+         plot_bgcolor = "white",
+         xaxis = list(title = ""),
+         yaxis = list(title = ""))
+chord
+
+```
+
