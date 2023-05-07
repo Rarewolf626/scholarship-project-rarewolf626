@@ -190,6 +190,17 @@ IFrame(src='../website/plots/plot-10.html', width=width_percentage, height=600)
 
 ```
 
+### Word Cloud for Job Benefits {#cloud-3 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-cloud-3
+#| fig-cap: "shows a word cloud for the most common words found in 'benefits'."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-14.png', width=width_percentage, height=600)
+
+```
+
 ### Average Salaries for 5 Most Common Job Titles  {#sec-pop .unnumbered}
 ```{python}
 #| echo: false
@@ -228,14 +239,3 @@ IFrame(src='../website/plots/plot-13.png', width=width_percentage, height=600)
 
 ```
 
-### Word Cloud for Job Benefits {#cloud-3 .unnumbered}
-```{python}
-#| echo: false
-#| label: fig-cloud-3
-#| fig-cap: "shows a word cloud for the most common words found in 'benefits'."
-
-width_percentage = "100%"
-IFrame(src='../website/plots/plot-14.png', width=width_percentage, height=600)
-
-
-```
