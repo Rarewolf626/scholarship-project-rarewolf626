@@ -1,0 +1,49 @@
+---
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# The Data Job Market in the DMV and the US {#home}
+
+
+
+```{python}
+#| echo: false
+
+# libraries
+from IPython.display import display, HTML, IFrame
+
+```
+
+## Abstract {#abstract .unnumbered}
+
+Inspired to learn more about the U.S. banking system following Silicon Valley Bank's failure in March 2023, we used 30 years of FDIC data to visualize the components of the U.S. banking system we found most interesting. We visualized U.S. bank assets' locations using historical financial data obtained through the FDIC API, finding some surprising results. Next, we dive deeper into why bank geographical locations resulted in the configuration. From there, we sought further to explore the changes within the concentration of assets and demonstrate how big banks have grown to hold a far more significant proportion of assets than they did 30 years ago. Finally, we used the equity capital ratio to understand the differing needs of various banks and how they can improve their financial position to respond to potential problems.
+
+
+## Introduction {#introduction}
+
+On Friday, March 10th, 2023, U.S. regulators seized Silicon Valley Bank (SVB) in the largest U.S. bank failure since the 2008 financial crisis [@vanian_heres_2023]. The 40-year-long bank operation suddenly stopped after depositors panicked when learning that the bank was short on capital. The public quickly turned its attention to the Federal Deposit Insurance Corporation (FDIC), which provides a standard insurance amount of $250,000 per depositor, per insured bank. The insurance fund has accomplished the goal of no depositor losing a penny of insured funds due to a failure since 1934 [@federal_deposit_insurance_corporation_what_2020]. The case of the FDIC showcased just one of the fascinating aspects of the U.S. banking system that was largely unknown to the general public. It also inspired us to carry out this project. 
+
+We aim to inform our audience of several distinguishing facts about the U.S. banking system and to do so in a visually captivating manner. First, we seek to provide insight into the complexity of where money is in the U.S. and what it means to have a location in this context. Then, we delve into the distribution of assets in the banking system and explore their concentration. Next, we switch our discussion to deposits and visualize their behavior over time. Lastly, we navigate bank health metrics and analyze the state of the U.S. banking sector. 
+
+First, we explore the average assets, equity, or liabilities segmented of each as of the end of the fourth quarter of 2022 @fig-interactive-table:
+
+#### **Table of US Bank Assets, Equity And Liabilities Per State as of 2022Q4** {#sec-interactive-table .unnumbered}
+
+```{python}
+#| echo: false
+#| label: fig-interactive-table
+#| fig-cap: "shows an interactive table with a dropdown allowing the selection of assets, equity, or liabilities. Given the static nature of this website, the table is sorted only by Equity."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/table.html', width=width_percentage, height=600)
+
+
+```
+
+::: {.callout-note}
+Using this **interactive data table**, we can obtain a broad view of the US banking system size by several metrics, setting the stage for the following sections.
+:::
+

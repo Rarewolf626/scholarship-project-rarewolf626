@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+/*-- Navbar --*/
+
+.navbar {
+    background-color: #DC143C;
+}
+a {
+color: #DC143C; 
+
+&:hover {
+    color: #FFFFFF; 
+}
+}
+
+.navbar-title {
+    color: white; 
+}
+
+/*-- sidebar --*/
+.toc-active {
+    color: #DC143C; 
+  }
+
+#TOC .nav-link {
+    color: #DC143C; 
+    
+    &:hover {
+      color: #FFFFFF !important; 
+    }
+    &:active {
+        color: #FFFFFF !important;
+      }
+  }
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    color: #FFFFFF !important; 
+
+  }

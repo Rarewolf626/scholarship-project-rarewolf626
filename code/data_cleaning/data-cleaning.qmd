@@ -448,6 +448,114 @@ master_df.loc[[108, 143, 151, 231, 249, 340, 350, 357, 396, 426, 525, 542, 557, 
 master_df.loc[[251, 696], 'salary'] *= 12 # convert unconverted monthly salaries
 ```
 
+```{python}
+master_df['query'] = master_df['query'].apply(lambda x: ' '.join(word if word == 'and' else word.title() for word in x.split()))
+```
+
+```{python}
+def clean_location(location):
+    # Find the index of the '(' character
+    index = location.find('(')
+    if index != -1:
+        # If '(' is found, remove it and everything that comes after it
+        location = location[:index].strip()
+    # Remove extra spaces at the start and end of the string
+    return location.strip()
+
+master_df['location'] = master_df['location'].apply(clean_location)
+```
+
+
+```{python}
+# Define a function to extract city and state information from the location string
+def get_city_state(location):
+    # Split the location string by ','
+    parts = location.split(',')
+    if len(parts) == 2:
+        # If the location has two parts, assume the first is the city and the second is the state
+        city = parts[0].strip()
+        state = parts[1].strip()
+        return city, state
+    elif len(parts) == 1:
+        # If the location has only one part, assume it is the state
+        state = parts[0].strip()
+        if location == 'Anywhere' or location == 'United States':
+            return '', ''
+        else:
+            return '', state
+    else:
+        # If the location has more than two parts, assume it is not a valid city, state format
+        return '', ''
+
+# Apply the function to the location column
+master_df[['city', 'state']] = master_df['location'].apply(lambda x: pd.Series(get_city_state(x)))
+
+# Handle special case for state abbreviations
+master_df['state'] = master_df['state'].apply(lambda x: 'TX' if x == 'Texas' else x)
+```
+
+```{python}
+
+# Define a dictionary mapping state abbreviations to their full form
+state_abbreviations = {
+    'AL': 'Alabama', 
+    'AK': 'Alaska', 
+    'AZ': 'Arizona', 
+    'AR': 'Arkansas', 
+    'CA': 'California', 
+    'CO': 'Colorado', 
+    'CT': 'Connecticut', 
+    'DE': 'Delaware', 
+    'DC': 'District of Columbia', 
+    'FL': 'Florida', 
+    'GA': 'Georgia', 
+    'HI': 'Hawaii', 
+    'ID': 'Idaho', 
+    'IL': 'Illinois', 
+    'IN': 'Indiana', 
+    'IA': 'Iowa', 
+    'KS': 'Kansas', 
+    'KY': 'Kentucky', 
+    'LA': 'Louisiana', 
+    'ME': 'Maine', 
+    'MD': 'Maryland', 
+    'MA': 'Massachusetts', 
+    'MI': 'Michigan', 
+    'MN': 'Minnesota', 
+    'MS': 'Mississippi', 
+    'MO': 'Missouri', 
+    'MT': 'Montana', 
+    'NE': 'Nebraska', 
+    'NV': 'Nevada', 
+    'NH': 'New Hampshire', 
+    'NJ': 'New Jersey', 
+    'NM': 'New Mexico', 
+    'NY': 'New York', 
+    'NC': 'North Carolina', 
+    'ND': 'North Dakota', 
+    'OH': 'Ohio', 
+    'OK': 'Oklahoma', 
+    'OR': 'Oregon', 
+    'PA': 'Pennsylvania', 
+    'RI': 'Rhode Island', 
+    'SC': 'South Carolina', 
+    'SD': 'South Dakota', 
+    'TN': 'Tennessee', 
+    'TX': 'Texas', 
+    'UT': 'Utah', 
+    'VT': 'Vermont', 
+    'VA': 'Virginia', 
+    'WA': 'Washington', 
+    'WV': 'West Virginia', 
+    'WI': 'Wisconsin', 
+    'WY': 'Wyoming'
+}
+
+# Apply the mapping to the 'state' column
+master_df['state'] = master_df['state'].apply(lambda x: state_abbreviations.get(x, x))
+
+```
+## Output Cleaned CSV
 
 ```{python}
 master_df.to_csv('job_data.csv')

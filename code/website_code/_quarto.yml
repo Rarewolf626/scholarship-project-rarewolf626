@@ -1,0 +1,30 @@
+# to render `cd` to the code directoy and run `quarto render` (just those 2 commands)
+
+project:
+  type: website
+  output-dir: ../../website
+
+website:
+  title: The Data Job Market in the US
+  search: false
+  favicon: ../img/icon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home       
+      - href: data-cleaning.qmd
+        text: Data Cleaning              
+      - href: ../website/data-exploration.html
+        text: EDA    
+  page-footer:
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
+
+
+format:
+  html:
+    theme:
+      - darkly
+      - custom.scss
+
+csl: nature.csl
