@@ -52,40 +52,45 @@ jobs_df_pivot <- jobs_df_pivot[1:(nrow(jobs_df_pivot)-1), 1:(ncol(jobs_df_pivot)
 
 
 ```{r}
+
+# Create the plotly plot
 ap <- jobs_df_pivot %>% plot_ly(
     hovertext = "Degree, Salary"
-) #text = list('15.7%'))
+)  
+
 ap <- ap %>%
   add_trace(x = jobs_df_pivot$degree, y = ~`0-5`, type = 'bar', name = '0-5', marker = list(color = '#118C4F'))
 
 ap <- ap %>%
   add_trace(x = jobs_df_pivot$degree, y = ~`5-10`, type = 'bar', name = '5-10', marker = list(color = '#FFB90D'))
+
 ap <- ap %>%
   add_trace(x = jobs_df_pivot$degree, y = ~`10+`, type = 'bar', name = '10+' , marker = list(color = 'red'))
-#hovertemplate = paste('<i>Price</i>: $%{top5:.2f}',
-#                        '<br><b>X</b>: %year<br>',
-#                        '<b>%{text}</b>'))
+
+# Set the plot layout and theme
+ap <- ap %>% 
+  layout(
+    title = list(text = "", y = 0.98, font = list(family = "Arial", size = 18, color = "white")),
+    xaxis = list(title = list(text = "Degree", font = list(family = "Arial", color = "white")), 
+                 tickfont = list(color = "white")),
+    yaxis = list(title = list(text = "Salary (USD)", font = list(family = "Arial", color = "white")),
+                 tickprefix = "$", tickformat = ",",
+                 tickfont = list(color = "white")),
+    legend = list(title = list(text = "Years of Experience", font = list(color = "white")), 
+                  font = list(color = "white")),
+    template = "plotly_dark",
+    paper_bgcolor = "black",
+    plot_bgcolor = "black"
+  )
 
 
-f <- list(
-  family = "Arial",
-  size = 18,
-  color = "black")
-f1 <- list(
-  title = "Degree",
-  titlefont = "Arial")
-f2 <- list(
-  title = "Salary (USD)",
-  titlefont = "Arial")
-f3 <- list(
-  family = "Arial",
-  size = 18,
-  color = "black")
-
-ap <- ap %>% layout(xaxis = f1, yaxis = f2)
-ap <- ap %>% layout(title= list(text = "", y = 0.98, font = f3))
-ap <- ap %>% layout(legend=list(title=list(text='Years of Experience')))
+# Show the plot
 ap
+
+saveWidget(ap, file = "../../website/plots/plot-10.html")
+
+#how do i make the background color black and all the text white (including axes, legend, etc)
+
 ```
 
 ```{r}

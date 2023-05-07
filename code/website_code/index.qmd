@@ -24,14 +24,50 @@ The job market in the US has been quite unstable recently, with companies, espec
 
 ## What Jobs? Where do they come from?
 
-### Bar Plot of the top 5 Cities with their Counts {#sec-bar-plot-1 .unnumbered}
+### Top 5 Cities with their Counts {#sec-bar-plot-1 .unnumbered}
 ```{python}
 #| echo: false
 #| label: fig-bar-plot-1
-#| fig-cap: "shows an interactive table with a dropdown allowing the selection of assets, equity, or liabilities. Given the static nature of this website, the table is sorted only by Equity."
+#| fig-cap: "shows a bar plot which plots the 5 most frequent locations, and the number of times they appear in the search."
 
 width_percentage = "100%"
 IFrame(src='../website/plots/plot-1.html', width=width_percentage, height=600)
+
+
+```
+
+### Top 5 Search Engines with their Counts {#sec-bar-plot-2 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-bar-plot-2
+#| fig-cap: "shows a bar plot which plots the 5 most frequent job posters, and the number of times they appear in the search."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-2.html', width=width_percentage, height=600)
+
+
+```
+
+### Top 5 Job Titles with their Counts {#sec-bar-plot-3 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-bar-plot-3
+#| fig-cap: "shows a bar plot which plots the 5 most frequent job titles, and the number of times they appear in the search."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-3.html', width=width_percentage, height=600)
+
+
+```
+
+### Count of the Search Query, by Degree Required {#sec-grouped-bar-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-grouped-bar-plot
+#| fig-cap: "shows a bar plot which plots the search queries, and the number of times they appear based on the degree required."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-4.html', width=width_percentage, height=600)
 
 
 ```
@@ -41,12 +77,12 @@ IFrame(src='../website/plots/plot-1.html', width=width_percentage, height=600)
 
 Now, we will explore the average salaries and experience required for data-related jobs, for each state. @fig-interactive-table:
 
-#### **Table of US Bank Assets, Equity And Liabilities Per State as of 2022Q4** {#sec-interactive-table .unnumbered}
+### Table of Average Yearly Pay and Experience Required, by state  {#sec-table .unnumbered}
 
 ```{python}
 #| echo: false
 #| label: fig-interactive-table
-#| fig-cap: "shows an interactive table with a dropdown allowing the selection of assets, equity, or liabilities. Given the static nature of this website, the table is sorted only by Equity."
+#| fig-cap: "shows an interactive table with a an option to select between average yearly salary and experience required by state."
 
 width_percentage = "100%"
 IFrame(src='../website/plots/table.html', width=width_percentage, height=600)
@@ -55,6 +91,89 @@ IFrame(src='../website/plots/table.html', width=width_percentage, height=600)
 ```
 
 ::: {.callout-note}
-Using this **interactive data table**, we can obtain a broad view of the US banking system size by several metrics, setting the stage for the following sections.
+From the above **interactive data table**, we can gain a better understanding into whether different states look for different levels of experience or pay differing amounts in salaries to employees.
 :::
 
+### Geospatial Map of Average Salary in the US  {#sec-geo-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-geo
+#| fig-cap: "shows average pay in different states in the US, for which job data is available."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-11.html', width=width_percentage, height=600)
+
+
+```
+
+### Salaries for Years of Experience Required  {#sec-scatt-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-scat-plot
+#| fig-cap: "shows the relationship between experience required and salary, by degree required."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-8.html', width=width_percentage, height=600)
+
+
+```
+
+### Distribution Job Salaries {#sec-hist-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-hist
+#| fig-cap: "shows a histogram of the salaries mentioned in job results from the search."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-5.html', width=width_percentage, height=600)
+
+
+```
+
+### Distribution of Required Job Experience {#sec-hist-plot-2 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-hist-2
+#| fig-cap: "shows a histogram of the years of experience mentioned in job results from the search."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-6.html', width=width_percentage, height=600)
+
+
+```
+
+### Salaries for whether Remote Work is Permitted, facetted by Degree Required  {#sec-box-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-box-plot
+#| fig-cap: "shows the salaries for both in person and work from home jobs, by degree required."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-9.html', width=width_percentage, height=600)
+
+
+```
+
+### Average Salaries for 5 Most Common Job Titles  {#sec-hist-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-bar-plot-4
+#| fig-cap: "shows the average salaries for the 5 most popular job titles."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
+
+
+```
+
+### Salaries for Years of Experience Required, grouped by Degree Required {#sec-grouped-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-grouped-plot
+#| fig-cap: "shows a grouped bar plot the salaries for varying years of experience, by degree required."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-10.html', width=width_percentage, height=600)
+
+
+```
