@@ -98,10 +98,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#home" id="toc-home" class="nav-link active" data-scroll-target="#home"><span class="toc-section-number">1</span>  The Data Job Market in the DMV and the US</a>
+  <li><a href="#home" id="toc-home" class="nav-link active" data-scroll-target="#home"><span class="toc-section-number">1</span>  The Data Job Market in the US</a>
   <ul class="collapse">
-  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
   <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction"><span class="toc-section-number">1.1</span>  Introduction</a></li>
+  <li><a href="#what-jobs-where-do-they-come-from" id="toc-what-jobs-where-do-they-come-from" class="nav-link" data-scroll-target="#what-jobs-where-do-they-come-from"><span class="toc-section-number">1.2</span>  What Jobs? Where do they come from?</a>
+  <ul class="collapse">
+  <li><a href="#sec-bar-plot-1" id="toc-sec-bar-plot-1" class="nav-link" data-scroll-target="#sec-bar-plot-1">Bar Plot of the top 5 Cities with their Counts</a></li>
+  </ul></li>
+  <li><a href="#how-much" id="toc-how-much" class="nav-link" data-scroll-target="#how-much"><span class="toc-section-number">1.3</span>  How much?</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -112,26 +116,40 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="home" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> The Data Job Market in the DMV and the US</h1>
-<section id="abstract" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Inspired to learn more about the U.S. banking system following Silicon Valley Bank’s failure in March 2023, we used 30 years of FDIC data to visualize the components of the U.S. banking system we found most interesting. We visualized U.S. bank assets’ locations using historical financial data obtained through the FDIC API, finding some surprising results. Next, we dive deeper into why bank geographical locations resulted in the configuration. From there, we sought further to explore the changes within the concentration of assets and demonstrate how big banks have grown to hold a far more significant proportion of assets than they did 30 years ago. Finally, we used the equity capital ratio to understand the differing needs of various banks and how they can improve their financial position to respond to potential problems.</p>
-</section>
+<h1 data-number="1"><span class="header-section-number">1</span> The Data Job Market in the US</h1>
 <section id="introduction" class="level2" data-number="1.1">
 <h2 data-number="1.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">1.1</span> Introduction</h2>
-<p>On Friday, March 10th, 2023, U.S. regulators seized Silicon Valley Bank (SVB) in the largest U.S. bank failure since the 2008 financial crisis <span class="citation" data-cites="vanian_heres_2023">[@vanian_heres_2023]</span>. The 40-year-long bank operation suddenly stopped after depositors panicked when learning that the bank was short on capital. The public quickly turned its attention to the Federal Deposit Insurance Corporation (FDIC), which provides a standard insurance amount of $250,000 per depositor, per insured bank. The insurance fund has accomplished the goal of no depositor losing a penny of insured funds due to a failure since 1934 <span class="citation" data-cites="federal_deposit_insurance_corporation_what_2020">[@federal_deposit_insurance_corporation_what_2020]</span>. The case of the FDIC showcased just one of the fascinating aspects of the U.S. banking system that was largely unknown to the general public. It also inspired us to carry out this project.</p>
-<p>We aim to inform our audience of several distinguishing facts about the U.S. banking system and to do so in a visually captivating manner. First, we seek to provide insight into the complexity of where money is in the U.S. and what it means to have a location in this context. Then, we delve into the distribution of assets in the banking system and explore their concentration. Next, we switch our discussion to deposits and visualize their behavior over time. Lastly, we navigate bank health metrics and analyze the state of the U.S. banking sector.</p>
-<p>First, we explore the average assets, equity, or liabilities segmented of each as of the end of the fourth quarter of 2022 <a href="#fig-interactive-table">Figure&nbsp;1</a>:</p>
+<p>The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and reduce human power. Furthermore, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the job market in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. For this project, I have chosen a dark and red theme to elucidate the unease and stress experienced around entering the work force. I hope you enjoy my project.</p>
+</section>
+<section id="what-jobs-where-do-they-come-from" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="what-jobs-where-do-they-come-from"><span class="header-section-number">1.2</span> What Jobs? Where do they come from?</h2>
+<section id="sec-bar-plot-1" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="sec-bar-plot-1">Bar Plot of the top 5 Cities with their Counts</h3>
+<div class="cell" data-execution_count="2">
+<div id="fig-bar-plot-1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-1.html" frameborder="0" allowfullscreen=""></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: shows an interactive table with a dropdown allowing the selection of assets, equity, or liabilities. Given the static nature of this website, the table is sorted only by Equity.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="how-much" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="how-much"><span class="header-section-number">1.3</span> How much?</h2>
+<p>Now, we will explore the average salaries and experience required for data-related jobs, for each state. <a href="#fig-interactive-table">Figure&nbsp;2</a>:</p>
 <section id="sec-interactive-table" class="level4 unnumbered">
 <h4 class="unnumbered anchored" data-anchor-id="sec-interactive-table"><strong>Table of US Bank Assets, Equity And Liabilities Per State as of 2022Q4</strong></h4>
-<div class="cell" data-execution_count="2">
+<div class="cell" data-execution_count="3">
 <div id="fig-interactive-table" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
 
         <iframe width="100%" height="600" src="../website/plots/table.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;1: shows an interactive table with a dropdown allowing the selection of assets, equity, or liabilities. Given the static nature of this website, the table is sorted only by Equity.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: shows an interactive table with a dropdown allowing the selection of assets, equity, or liabilities. Given the static nature of this website, the table is sorted only by Equity.</figcaption><p></p>
 </figure>
 </div>
 </div>
