@@ -15,11 +15,16 @@ website:
       - href: data-cleaning.qmd
         text: Data Cleaning              
       - href: ../website/data-exploration.html
-        text: EDA    
+        text: EDA
+      - text: "Methods"
+        menu:
+          - data-cleaning.qmd
+          - index.qmd
+  
+    sidebar: false
   page-footer:
     right: |
       Made with [Quarto](https://quarto.org/)<br>
-
 
 format:
   html:

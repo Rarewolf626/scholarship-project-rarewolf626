@@ -2877,6 +2877,21 @@ vertical-align: -.125em;
     <a class="nav-link" href="./../website/data-exploration.html">
  <span class="menu-text">EDA</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-methods" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Methods</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-methods">    
+        <li>
+    <a class="dropdown-item" href="./data-cleaning.html">
+ <span class="dropdown-text">Data Cleaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html">
+ <span class="dropdown-text">The Data Job Market in the US</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -2919,7 +2934,7 @@ vertical-align: -.125em;
 
 <section id="import-packages" class="level2" data-number="1">
 <h2 data-number="1" class="anchored" data-anchor-id="import-packages"><span class="header-section-number">1</span> Import Packages</h2>
-<div class="cell" data-execution_count="11">
+<div class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
@@ -2929,22 +2944,22 @@ vertical-align: -.125em;
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> warnings</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>warnings.filterwarnings(<span class="st">&#39;ignore&#39;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="4">
+<div class="cell" data-execution_count="14">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">&#39;../../data/job_data.csv&#39;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="summary-statistics" class="level2" data-number="2">
 <h2 data-number="2" class="anchored" data-anchor-id="summary-statistics"><span class="header-section-number">2</span> Summary Statistics</h2>
 <p>The first step of EDA is to alway look at the structure of our dataframe, and key statistics of both numerical and categorical variables. Our dataset on jobs is one which has several types of data, which is why there is a breadth of exploratory data analysis that can be conducted on this particular dataset. Summary statistics are an important aspect of exploratory data analysis because they provide a concise and comprehensive summary of the key features and characteristics of our data set. By calculating summary statistics, we can quickly gain insights into the central tendency, variability, and distribution of the data.</p>
-<div class="cell" data-execution_count="13">
+<div class="cell" data-execution_count="15">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>df.shape</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="13">
-<pre><code>(823, 15)</code></pre>
+<div class="cell-output cell-output-display" data-execution_count="15">
+<pre><code>(823, 17)</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="5">
+<div class="cell" data-execution_count="16">
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>df.head()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="5">
+<div class="cell-output cell-output-display" data-execution_count="16">
 
 <div>
 
@@ -2967,6 +2982,8 @@ vertical-align: -.125em;
       <th>degree</th>
       <th>experience</th>
       <th>remote</th>
+      <th>city</th>
+      <th>state</th>
     </tr>
   </thead>
   <tbody>
@@ -2980,13 +2997,15 @@ vertical-align: -.125em;
       <td>Company Overview:\nEx Populus is a cutting-edg...</td>
       <td>Full-time</td>
       <td>NaN</td>
-      <td>blockchain</td>
+      <td>Blockchain</td>
       <td>[&#39;2-3 years of Software Development experience...</td>
       <td>[&#39;Design, maintain and deploy smart contracts ...</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>2.5</td>
       <td>True</td>
+      <td>NaN</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>1</th>
@@ -2998,13 +3017,15 @@ vertical-align: -.125em;
       <td>We are seeking a highly motivated and skilled ...</td>
       <td>Full-time</td>
       <td>180000.0</td>
-      <td>blockchain</td>
+      <td>Blockchain</td>
       <td>[&quot;Bachelor&#39;s or Master&#39;s degree in Computer Sc...</td>
       <td>[&#39;As a Blockchain Engineer, you will be respon...</td>
       <td>[&#39;(NYC only) Pursuant to Section 8-102 of titl...</td>
       <td>Master&#39;s</td>
       <td>NaN</td>
       <td>False</td>
+      <td>New York</td>
+      <td>New York</td>
     </tr>
     <tr>
       <th>2</th>
@@ -3016,13 +3037,15 @@ vertical-align: -.125em;
       <td>Are you a blockchain, cryptocurrency, NFT, Met...</td>
       <td>Contractor</td>
       <td>NaN</td>
-      <td>blockchain</td>
+      <td>Blockchain</td>
       <td>[&#39;3+ years of experience in blockchain, crypto...</td>
       <td>[&#39;Our expert technical team will provide the s...</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>3.0</td>
       <td>True</td>
+      <td>NaN</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>3</th>
@@ -3034,13 +3057,15 @@ vertical-align: -.125em;
       <td>Need someone to join our existing team to spee...</td>
       <td>Contractor</td>
       <td>41600.0</td>
-      <td>blockchain</td>
+      <td>Blockchain</td>
       <td>[&#39;Candidates must be willing to sign, non-disc...</td>
       <td>[&#39;Will discuss details with the selected candi...</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>True</td>
+      <td>NaN</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>4</th>
@@ -3052,22 +3077,24 @@ vertical-align: -.125em;
       <td>About Telnyx\n\nAt Telnyx, we’re architecting ...</td>
       <td>Full-time</td>
       <td>NaN</td>
-      <td>blockchain</td>
+      <td>Blockchain</td>
       <td>[&#39;You are a highly motivated and experienced B...</td>
       <td>[&#39;To build a best-in-class Filecoin (FIL) Mini...</td>
       <td>NaN</td>
       <td>Bachelor&#39;s</td>
       <td>NaN</td>
       <td>True</td>
+      <td>NaN</td>
+      <td>NaN</td>
     </tr>
   </tbody>
 </table>
 </div>
 </div>
 </div>
-<div class="cell" data-execution_count="6">
+<div class="cell" data-execution_count="17">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>df.dtypes</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="6">
+<div class="cell-output cell-output-display" data-execution_count="17">
 <pre><code>Unnamed: 0            int64
 title                object
 company_name         object
@@ -3083,12 +3110,14 @@ benefits             object
 degree               object
 experience          float64
 remote                 bool
+city                 object
+state                object
 dtype: object</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="9">
+<div class="cell" data-execution_count="18">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&#39;experience&#39;</span>].describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="9">
+<div class="cell-output cell-output-display" data-execution_count="18">
 <pre><code>count    387.000000
 mean       4.680879
 std        2.908509
@@ -3100,9 +3129,9 @@ max       20.000000
 Name: experience, dtype: float64</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="10">
+<div class="cell" data-execution_count="19">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&#39;salary&#39;</span>].describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="10">
+<div class="cell-output cell-output-display" data-execution_count="19">
 <pre><code>count       332.000000
 mean     143013.671687
 std       61496.830081

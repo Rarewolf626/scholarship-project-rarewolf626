@@ -143,4 +143,21 @@ chord <- plot_ly(type = "choropleth",
 chord
 
 ```
+```{r}
+
+# Calculate the count of remote and non-remote jobs
+remote_count <- c(sum(jobs_df$remote == TRUE), sum(jobs_df$remote == FALSE))
+
+# Create a pie chart with Plotly
+pc <- plot_ly(labels = c("Remote", "Non-Remote"), values = remote_count, type = "pie",
+        textinfo = "value+percent", hole = 0.6,
+        marker = list(colors = c("#00CC96", "#EF553B"))) %>%
+  layout(font = list(family = "Arial", color = "white"),
+         textfont = list(color = "white"),
+         paper_bgcolor = "black",
+        plot_bgcolor = "black")
+
+pc 
+saveWidget(pc, file = "../../website/plots/plot-15.html")
+```
 

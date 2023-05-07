@@ -24,6 +24,18 @@ The job market in the US has been quite unstable recently, with companies, espec
 
 ## What Jobs? Where do they come from?
 
+### Number of Job Results by US State  {#sec-geo-plot-2 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-geo-2
+#| fig-cap: "shows a geospatial map depicting the number of job searches per US state, for which job data is available."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-16.html', width=width_percentage, height=600)
+
+
+```
+
 ### Top 5 Cities with their Counts {#sec-bar-plot-1 .unnumbered}
 ```{python}
 #| echo: false
@@ -118,7 +130,7 @@ IFrame(src='../website/plots/plot-8.html', width=width_percentage, height=600)
 
 ```
 
-### Distribution Job Salaries {#sec-hist-plot .unnumbered}
+### Distribution of Job Salaries {#sec-hist-plot .unnumbered}
 ```{python}
 #| echo: false
 #| label: fig-hist
@@ -142,6 +154,18 @@ IFrame(src='../website/plots/plot-6.html', width=width_percentage, height=600)
 
 ```
 
+### Remote vs. In-person Jobs {#sec-pie-chart .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-pie-chart
+#| fig-cap: "shows a pie chart with the distribution of the jobs results for whether they were in-person or remote."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-15.html', width=width_percentage, height=600)
+
+
+```
+
 ### Salaries for whether Remote Work is Permitted, facetted by Degree Required  {#sec-box-plot .unnumbered}
 ```{python}
 #| echo: false
@@ -154,18 +178,6 @@ IFrame(src='../website/plots/plot-9.html', width=width_percentage, height=600)
 
 ```
 
-### Average Salaries for 5 Most Common Job Titles  {#sec-pop .unnumbered}
-```{python}
-#| echo: false
-#| label: fig-bar-plot-4
-#| fig-cap: "shows the average salaries for the 5 most popular job titles."
-
-width_percentage = "100%"
-IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
-
-
-```
-
 ### Salaries for Years of Experience Required, grouped by Degree Required {#sec-grouped-plot .unnumbered}
 ```{python}
 #| echo: false
@@ -174,6 +186,18 @@ IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
 
 width_percentage = "100%"
 IFrame(src='../website/plots/plot-10.html', width=width_percentage, height=600)
+
+
+```
+
+### Average Salaries for 5 Most Common Job Titles  {#sec-pop .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-bar-plot-4
+#| fig-cap: "shows the average salaries for the 5 most popular job titles."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
 
 
 ```

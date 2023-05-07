@@ -2877,6 +2877,21 @@ vertical-align: -.125em;
     <a class="nav-link" href="./../website/data-exploration.html">
  <span class="menu-text">EDA</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-methods" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Methods</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-methods">    
+        <li>
+    <a class="dropdown-item" href="./data-cleaning.html">
+ <span class="dropdown-text">Data Cleaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./index.html">
+ <span class="dropdown-text">The Data Job Market in the US</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -2961,7 +2976,7 @@ vertical-align: -.125em;
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>merged <span class="op">=</span> merged.drop(<span class="st">&#39;detected_extensions.commute_time&#39;</span>, axis<span class="op">=</span><span class="dv">1</span>).copy() <span class="co"># drop last column so that both folders&#39; files&#39; dimensions match</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>merged.head(<span class="dv">3</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="45">
+<div class="cell-output cell-output-display" data-execution_count="4">
 
 <div>
 
@@ -3048,7 +3063,7 @@ vertical-align: -.125em;
 <div class="cell" data-execution_count="6">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>merged_df <span class="op">=</span> pd.concat([merged, merged1], ignore_index<span class="op">=</span><span class="va">True</span>) <span class="co"># concatenate DC and USA jobs</span></span>
 <span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>merged_df.head(<span class="dv">3</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="47">
+<div class="cell-output cell-output-display" data-execution_count="6">
 
 <div>
 
@@ -3132,7 +3147,7 @@ vertical-align: -.125em;
 <div class="cell" data-execution_count="7">
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>df_highlights <span class="op">=</span> pd.json_normalize(merged_df[<span class="st">&#39;job_highlights&#39;</span>]) <span class="co"># break up job highlights</span></span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>df_highlights.head(<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="48">
+<div class="cell-output cell-output-display" data-execution_count="7">
 
 <div>
 
@@ -3231,7 +3246,7 @@ benefits 400</code></pre>
 <span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>master_df <span class="op">=</span> master_df.reset_index(drop<span class="op">=</span><span class="va">True</span>)</span>
 <span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>master_df.head(<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="52">
+<div class="cell-output cell-output-display" data-execution_count="11">
 
 <div>
 
@@ -3346,7 +3361,7 @@ benefits 400</code></pre>
 </div>
 <div class="cell" data-execution_count="14">
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>master_df.head(<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="55">
+<div class="cell-output cell-output-display" data-execution_count="14">
 
 <div>
 
@@ -3493,7 +3508,7 @@ benefits 400</code></pre>
 </div>
 <div class="cell" data-execution_count="15">
 <div class="sourceCode cell-code" id="cb17"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;schedule_type&#39;</span>].unique()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="56">
+<div class="cell-output cell-output-display" data-execution_count="15">
 <pre><code>array([&#39;Full-time&#39;, &#39;Contractor&#39;, &#39;Internship&#39;, &#39;Part-time&#39;, nan],
       dtype=object)</code></pre>
 </div>
@@ -3512,7 +3527,7 @@ benefits 400</code></pre>
 </div>
 <div class="cell" data-execution_count="17">
 <div class="sourceCode cell-code" id="cb20"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>master_df.isna().<span class="bu">sum</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="58">
+<div class="cell-output cell-output-display" data-execution_count="17">
 <pre><code>title                 0
 company_name          0
 location              0
@@ -3693,7 +3708,7 @@ dtype: int64</code></pre>
 <span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>master_df.loc[<span class="dv">681</span>, <span class="st">&#39;salary&#39;</span>] <span class="op">=</span> <span class="dv">121000</span></span>
 <span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a>master_df.loc[<span class="dv">746</span>, <span class="st">&#39;salary&#39;</span>] <span class="op">=</span> <span class="dv">206000</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_82749/4119749001.py:2: FutureWarning:
+<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_8119/4119749001.py:2: FutureWarning:
 
 The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
 </code></pre>
@@ -3731,12 +3746,12 @@ The default value of regex will change from True to False in a future version. I
 <span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>] <span class="op">=</span> pd.to_numeric(master_df[<span class="st">&#39;salary&#39;</span>], errors<span class="op">=</span><span class="st">&#39;coerce&#39;</span>)</span>
 <span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>].describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_82749/1948180007.py:3: FutureWarning:
+<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_8119/1948180007.py:3: FutureWarning:
 
 The default value of regex will change from True to False in a future version.
 </code></pre>
 </div>
-<div class="cell-output cell-output-display" data-execution_count="72">
+<div class="cell-output cell-output-display" data-execution_count="31">
 <pre><code>count       347.000000
 mean     125612.092219
 std       73116.788777
@@ -3788,7 +3803,7 @@ Name: salary, dtype: float64</code></pre>
 </div>
 <div class="cell" data-execution_count="35">
 <div class="sourceCode cell-code" id="cb43"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a>master_df.isna().<span class="bu">sum</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="76">
+<div class="cell-output cell-output-display" data-execution_count="35">
 <pre><code>title                 0
 company_name          0
 location              0
@@ -3817,7 +3832,7 @@ dtype: int64</code></pre>
 </div>
 <div class="cell" data-execution_count="38">
 <div class="sourceCode cell-code" id="cb48"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb48-1"><a href="#cb48-1" aria-hidden="true" tabindex="-1"></a>master_df.dtypes</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="79">
+<div class="cell-output cell-output-display" data-execution_count="38">
 <pre><code>title                 object
 company_name          object
 location              object
