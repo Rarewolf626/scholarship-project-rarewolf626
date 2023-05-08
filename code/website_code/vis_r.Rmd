@@ -1,0 +1,114 @@
+---
+title: "R"
+editor: visual
+format:
+  html:
+    toc: true
+    embed-resources: true
+execute:
+  echo: true
+---
+
+```{r}
+library(plotly)
+library(tidyverse)
+library(ggplot2)
+library(tidyr)
+library(htmlwidgets)
+library(dplyr)
+options(warn = - 1)
+library(withr)
+library(scales)
+# lubridate, zoo, xts
+options(scipen=999)
+library(reshape2)
+```
+
+```{r}
+jobs_df <- read_csv('../../data/job_data.csv')
+```
+
+```{r}
+head(jobs_df)
+```
+```{r}
+# create a new column 'experience_group' based on 'experience'
+jobs_df$experience_group <- cut(jobs_df$experience, c(0, 5, 10, Inf),
+                                 labels = c('0-5', '5-10', '10+'))
+
+```
+
+```{r}
+jobs_df_pivot <- jobs_df %>%
+  group_by(degree, experience_group) %>%
+  summarise(mean_salary = mean(salary, na.rm = TRUE)) %>%
+  pivot_wider(names_from = experience_group, values_from = mean_salary)
+```
+```{r}
+jobs_df_pivot <- jobs_df_pivot[1:(nrow(jobs_df_pivot)-1), 1:(ncol(jobs_df_pivot)-1)]
+
+```
+
+
+
+```{r}
+
+# Create the plotly plot
+ap <- jobs_df_pivot %>% plot_ly(
+    hovertext = "Degree, Salary"
+)  
+
+ap <- ap %>%
+  add_trace(x = jobs_df_pivot$degree, y = ~`0-5`, type = 'bar', name = '0-5', marker = list(color = '#118C4F'))
+
+ap <- ap %>%
+  add_trace(x = jobs_df_pivot$degree, y = ~`5-10`, type = 'bar', name = '5-10', marker = list(color = '#FFB90D'))
+
+ap <- ap %>%
+  add_trace(x = jobs_df_pivot$degree, y = ~`10+`, type = 'bar', name = '10+' , marker = list(color = 'red'))
+
+# Set the plot layout and theme
+ap <- ap %>% 
+  layout(
+    title = list(text = "", y = 0.98, font = list(family = "Arial", size = 18, color = "white")),
+    xaxis = list(title = list(text = "Degree", font = list(family = "Arial", color = "white")), 
+                 tickfont = list(color = "white")),
+    yaxis = list(title = list(text = "Salary (USD)", font = list(family = "Arial", color = "white")),
+                 tickprefix = "$", tickformat = ",",
+                 tickfont = list(color = "white")),
+    legend = list(title = list(text = "Years of Experience", font = list(color = "white")), 
+                  font = list(color = "white")),
+    template = "plotly_dark",
+    paper_bgcolor = "black",
+    plot_bgcolor = "black"
+  )
+
+
+# Show the plot
+ap
+
+saveWidget(ap, file = "../../website/plots/plot-10.html")
+
+#how do i make the background color black and all the text white (including axes, legend, etc)
+
+```
+
+
+```{r}
+
+# Calculate the count of remote and non-remote jobs
+remote_count <- c(sum(jobs_df$remote == TRUE), sum(jobs_df$remote == FALSE))
+
+# Create a pie chart with Plotly
+pc <- plot_ly(labels = c("Remote", "Non-Remote"), values = remote_count, type = "pie",
+        textinfo = "value+percent", hole = 0.6,
+        marker = list(colors = c("#00CC96", "#EF553B"))) %>%
+  layout(font = list(family = "Arial", color = "white"),
+         textfont = list(color = "white"),
+         paper_bgcolor = "black",
+        plot_bgcolor = "black")
+
+pc 
+saveWidget(pc, file = "../../website/plots/plot-15.html")
+```
+

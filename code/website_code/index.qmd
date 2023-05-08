@@ -78,6 +78,8 @@ We notice from the above plots that first off, the distribution of jobs among di
 
 ## What skills are they looking for?
 
+For this section, we'll look into other features of jobs, including the most popular titles, and the qualifications and responsibilities that are looked for. Since job sections like qualifications and responsibilities are normally sections that are filled with dense text, they are often overlooked by job-seekers. In fact, they contain the crucial elements of what the job-seeker should look to exhibit to their potential employer to maximize their chances of getting hired.
+
 ### Top 5 Job Titles with their Counts {#sec-bar-plot-3 .unnumbered}
 ```{python}
 #| echo: false
@@ -126,10 +128,13 @@ IFrame(src='../website/plots/plot-17.png', width=width_percentage, height=600)
 
 ```
 
+There are several takeaways from the above plots. First, we see that 'Data Scientist' and 'Data Analyst' are the most common job titles from our entire search. This might indicate that more generalist positions are more readily available in the job market in comparison to other positions. From our word clouds on qualifications and responsibilities, we were exposed to some of the most common skills and expectations required for job applicants. Most of these are skills that we'd expect to see: machine learning, big data, computer science, and deep learning. The word cloud on responsibilities gives an overview of what a day to day on the job might look like: project, team, research, analysis, and development are words that can throw light on the daily job responsibilities. Lastly, our network allows us to visualize the most common job titles and queries, elucidating the domains that are in high demand.
 
 ## What do you need? What do you get?
 
-Now, we will explore the average salaries and experience required for data-related jobs, for each state. @fig-interactive-table:
+The data domain is indubitably a lucrative domain to be in, which is why jobs are hard to find and secure. While the pay and lifestyle is lavish, breaking into the industry and securing a job takes a lot more than simply a degree related to a data-related subject. Therefore, in this section, we will explore jobs requirements, such as minimum degrees and years of experience, and also explore the perks that come with jobs, including high salaries and opporunities to work from home.
+
+Let's explore the average salaries and experience required for data-related jobs, for each state. @fig-interactive-table:
 
 ### Table of Average Yearly Pay and Experience Required, by state  {#sec-table .unnumbered}
 
@@ -176,7 +181,7 @@ IFrame(src='../website/plots/plot-8.html', width=width_percentage, height=600)
 ```{python}
 #| echo: false
 #| label: fig-hist
-#| fig-cap: "shows a histogram of the salaries mentioned in job results from the search."
+#| fig-cap: "shows a histogram of the salaries of job results from the search."
 
 width_percentage = "100%"
 IFrame(src='../website/plots/plot-5.html', width=width_percentage, height=600)
@@ -188,10 +193,22 @@ IFrame(src='../website/plots/plot-5.html', width=width_percentage, height=600)
 ```{python}
 #| echo: false
 #| label: fig-hist-2
-#| fig-cap: "shows a histogram of the years of experience mentioned in job results from the search."
+#| fig-cap: "shows a histogram of the years of experience required in job results from the search."
 
 width_percentage = "100%"
 IFrame(src='../website/plots/plot-6.html', width=width_percentage, height=600)
+
+
+```
+
+### Average Salaries for Popular Locations {#sec-bp .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-bar-plot-5
+#| fig-cap: "shows a bar plot depicting the average salaries for the most popular locations in the search."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-18.html', width=width_percentage, height=600)
 
 
 ```
@@ -254,5 +271,13 @@ IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
 
 
 ```
+
+Examining the geospatial plot, we see a few things. Firstly, we see that the highest salaries are in states like New York and California, which is an expected result. This is likely due to the high tax rates and living costs in those states. We also notice a lot of states with no job results, which can raise questions as to how representative the industry really is, in terms of opportunities to work across the country. Our word cloud yields several benefits that job seekers can potentially enjoy: parental leave, paid time off, and several different types of insurance including dental and vision. Looking at the correlation plot between experience required and salary, we notice a medium strength positive correlation between experience and salary. However, upon manipulation of the plot, we notice that PhDs have a steeper rise in salary for an increase in experience, on average, than Bachelor's holders. Furthermore, we see that while jobs boast high salaries, averaging $150,000 to $200,000, they also expect, on average, 4-6 years of experience. Exploring the remote work environment, we see that the majority of jobs in our dataset do not include work from home options. We also see how in-person jobs, on average, have lower salaries than remote jobs, which is a surprising statistic. 
+
+## Conclusion
+
+Through this visual project, we explored several facets of the current state of the market for data jobs in the US. We explored the data spatially, looking at which states had the most number of jobs available, and which states had the highest average salary. We also explored the most common cities and their average salaries. We saw that of the most common job titles, those like ‘Blockchain Engineer’ and ‘Machine Learning Engineer’ reigned supreme with the highest salaries. On the other hand, titles like ‘Data Scientist’ and ‘Data Analyst’ had considerably lower salaries, which might indicate that taking up a job which requires specialization would lead to a higher pay. However, most of these specialized jobs require at least a Master's and most often a PhD, degree. The benefits of having a PhD are also noticed with the steep increase in job salary for an increase in experience, in comparison to other degree holders. Exploring remote and in-person options, we saw that while in-person jobs were a lot more available, remote jobs paid more, on average. We also explored experience required for jobs, and also the responsibilities and qualifications for these jobs. Lastly, it is worth mentioning that the conclusions of this project are only limited to the data used for analysis, so it is difficult to establish causality or relationships in all job postings solely based off this particular dataset.
+
+Thank you for taking the time to view my project. I hope you enjoyed going through it as much as I enjoyed creating it!
 
 

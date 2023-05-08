@@ -18,8 +18,8 @@ website:
         text: EDA
       - text: "Methods"
         menu:
-          - data-cleaning.qmd
-          - index.qmd
+          - vis_py.ipynb
+          - vis_r.Rmd
   
     sidebar: false
   page-footer:
