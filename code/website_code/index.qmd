@@ -24,6 +24,8 @@ The job market in the US has been quite unstable recently, with companies, espec
 
 ## What Jobs? Where do they come from?
 
+In this section, we will first look at some of the higher-level information of the jobs available to us, before diving deeper into the nitty-gritty details. We will look at the cities and states with the most jobs, and also explore common job titles and search engines.
+
 ### Number of Job Results by US State  {#sec-geo-plot-2 .unnumbered}
 ```{python}
 #| echo: false
@@ -71,6 +73,8 @@ IFrame(src='../website/plots/plot-4.html', width=width_percentage, height=600)
 
 
 ```
+
+We notice from the above plots that first off, the distribution of jobs among different states is not uniform. We notice that states such as New York, California and the District of Columbia have the most jobs, which is a pattern that we would expect to see, given that half of our job searches come from the DMV, and given that California and New York are both hubs for technology and business alike. In terms of cities, New York and Washington reign supreme, and surprisingly enough, San Francisco comes in with the third most jobs of our dataset. We also see that the majority of our jobs come from LinkedIn, which is a very popular job search engine. 
 
 ## What skills are they looking for?
 
