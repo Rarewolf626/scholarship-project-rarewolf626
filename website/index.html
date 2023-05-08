@@ -121,13 +121,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#sec-geo-plot-2" id="toc-sec-geo-plot-2" class="nav-link" data-scroll-target="#sec-geo-plot-2">Number of Job Results by US State</a></li>
   <li><a href="#sec-bar-plot-1" id="toc-sec-bar-plot-1" class="nav-link" data-scroll-target="#sec-bar-plot-1">Top 5 Cities with their Counts</a></li>
   <li><a href="#sec-bar-plot-2" id="toc-sec-bar-plot-2" class="nav-link" data-scroll-target="#sec-bar-plot-2">Top 5 Search Engines with their Counts</a></li>
-  <li><a href="#sec-bar-plot-3" id="toc-sec-bar-plot-3" class="nav-link" data-scroll-target="#sec-bar-plot-3">Top 5 Job Titles with their Counts</a></li>
   <li><a href="#sec-grouped-bar-plot" id="toc-sec-grouped-bar-plot" class="nav-link" data-scroll-target="#sec-grouped-bar-plot">Count of the Search Query, by Degree Required</a></li>
   </ul></li>
-  <li><a href="#what-do-you-need-what-do-you-get" id="toc-what-do-you-need-what-do-you-get" class="nav-link" data-scroll-target="#what-do-you-need-what-do-you-get"><span class="toc-section-number">1.3</span>  What do you need? What do you get?</a>
+  <li><a href="#what-skills-are-they-looking-for" id="toc-what-skills-are-they-looking-for" class="nav-link" data-scroll-target="#what-skills-are-they-looking-for"><span class="toc-section-number">1.3</span>  What skills are they looking for?</a>
+  <ul class="collapse">
+  <li><a href="#sec-bar-plot-3" id="toc-sec-bar-plot-3" class="nav-link" data-scroll-target="#sec-bar-plot-3">Top 5 Job Titles with their Counts</a></li>
+  <li><a href="#cloud-1" id="toc-cloud-1" class="nav-link" data-scroll-target="#cloud-1">Word Cloud for Job Qualifications</a></li>
+  <li><a href="#cloud-2" id="toc-cloud-2" class="nav-link" data-scroll-target="#cloud-2">Word Cloud for Job Reponsibilities</a></li>
+  <li><a href="#network-1" id="toc-network-1" class="nav-link" data-scroll-target="#network-1">Network between Job Titles and Queries</a></li>
+  </ul></li>
+  <li><a href="#what-do-you-need-what-do-you-get" id="toc-what-do-you-need-what-do-you-get" class="nav-link" data-scroll-target="#what-do-you-need-what-do-you-get"><span class="toc-section-number">1.4</span>  What do you need? What do you get?</a>
   <ul class="collapse">
   <li><a href="#sec-table" id="toc-sec-table" class="nav-link" data-scroll-target="#sec-table">Table of Average Yearly Pay and Experience Required, by state</a></li>
-  <li><a href="#sec-geo-plot" id="toc-sec-geo-plot" class="nav-link" data-scroll-target="#sec-geo-plot">Geospatial Map of Average Salary in the US</a></li>
+  <li><a href="#sec-geo-plot" id="toc-sec-geo-plot" class="nav-link" data-scroll-target="#sec-geo-plot">Average Salary in the US, by state</a></li>
   <li><a href="#sec-scatt-plot" id="toc-sec-scatt-plot" class="nav-link" data-scroll-target="#sec-scatt-plot">Salaries for Years of Experience Required</a></li>
   <li><a href="#sec-hist-plot" id="toc-sec-hist-plot" class="nav-link" data-scroll-target="#sec-hist-plot">Distribution of Job Salaries</a></li>
   <li><a href="#sec-hist-plot-2" id="toc-sec-hist-plot-2" class="nav-link" data-scroll-target="#sec-hist-plot-2">Distribution of Required Job Experience</a></li>
@@ -136,11 +142,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#sec-grouped-plot" id="toc-sec-grouped-plot" class="nav-link" data-scroll-target="#sec-grouped-plot">Salaries for Years of Experience Required, grouped by Degree Required</a></li>
   <li><a href="#cloud-3" id="toc-cloud-3" class="nav-link" data-scroll-target="#cloud-3">Word Cloud for Job Benefits</a></li>
   <li><a href="#sec-pop" id="toc-sec-pop" class="nav-link" data-scroll-target="#sec-pop">Average Salaries for 5 Most Common Job Titles</a></li>
-  </ul></li>
-  <li><a href="#what-are-they-looking-for" id="toc-what-are-they-looking-for" class="nav-link" data-scroll-target="#what-are-they-looking-for"><span class="toc-section-number">1.4</span>  What are they looking for?</a>
-  <ul class="collapse">
-  <li><a href="#cloud-1" id="toc-cloud-1" class="nav-link" data-scroll-target="#cloud-1">Word Cloud for Job Qualifications</a></li>
-  <li><a href="#cloud-2" id="toc-cloud-2" class="nav-link" data-scroll-target="#cloud-2">Word Cloud for Job Reponsibilities</a></li>
   </ul></li>
   </ul></li>
   </ul>
@@ -155,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <h1 data-number="1"><span class="header-section-number">1</span> The Data Job Market in the US</h1>
 <section id="introduction" class="level2" data-number="1.1">
 <h2 data-number="1.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">1.1</span> Introduction</h2>
-<p>The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and reduce human power. Furthermore, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the job market in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. For this project, I have chosen a dark and red theme to elucidate the unease and stress experienced around entering the work force. I hope you enjoy my project.</p>
+<p>The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and human power. To add on to that, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the market for data-related jobs in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. For this project, I have chosen a dark and red theme to elucidate the unease and stress experienced around entering the work force. I hope you enjoy my project.</p>
 </section>
 <section id="what-jobs-where-do-they-come-from" class="level2" data-number="1.2">
 <h2 data-number="1.2" class="anchored" data-anchor-id="what-jobs-where-do-they-come-from"><span class="header-section-number">1.2</span> What Jobs? Where do they come from?</h2>
@@ -198,46 +199,88 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="sec-bar-plot-3" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="sec-bar-plot-3">Top 5 Job Titles with their Counts</h3>
-<div class="cell" data-execution_count="5">
-<div id="fig-bar-plot-3" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-3.html" frameborder="0" allowfullscreen=""></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure&nbsp;4: shows a bar plot which plots the 5 most frequent job titles, and the number of times they appear in the search.</figcaption><p></p>
-</figure>
-</div>
-</div>
-</section>
 <section id="sec-grouped-bar-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-grouped-bar-plot">Count of the Search Query, by Degree Required</h3>
-<div class="cell" data-execution_count="6">
+<div class="cell" data-execution_count="5">
 <div id="fig-grouped-bar-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-4.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;5: shows a bar plot which plots the search queries, and the number of times they appear based on the degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: shows a bar plot which plots the search queries, and the number of times they appear based on the degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 </section>
-<section id="what-do-you-need-what-do-you-get" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="what-do-you-need-what-do-you-get"><span class="header-section-number">1.3</span> What do you need? What do you get?</h2>
-<p>Now, we will explore the average salaries and experience required for data-related jobs, for each state. <a href="#fig-interactive-table">Figure&nbsp;6</a>:</p>
+<section id="what-skills-are-they-looking-for" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="what-skills-are-they-looking-for"><span class="header-section-number">1.3</span> What skills are they looking for?</h2>
+<section id="sec-bar-plot-3" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="sec-bar-plot-3">Top 5 Job Titles with their Counts</h3>
+<div class="cell" data-execution_count="6">
+<div id="fig-bar-plot-3" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-3.html" frameborder="0" allowfullscreen=""></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: shows a bar plot which plots the 5 most frequent job titles, and the number of times they appear in the search.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="cloud-1" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="cloud-1">Word Cloud for Job Qualifications</h3>
+<div class="cell" data-execution_count="7">
+<div id="fig-cloud-1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-12.png" frameborder="0" allowfullscreen=""></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: shows a word cloud for the most common words found in ‘qualifications’.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="cloud-2" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="cloud-2">Word Cloud for Job Reponsibilities</h3>
+<div class="cell" data-execution_count="8">
+<div id="fig-cloud-2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-13.png" frameborder="0" allowfullscreen=""></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: shows a word cloud for the most common words found in ‘responsibilities’.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="network-1" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="network-1">Network between Job Titles and Queries</h3>
+<div class="cell" data-execution_count="9">
+<div id="fig-network-1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-17.png" frameborder="0" allowfullscreen=""></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure&nbsp;8: shows a NetworkX network connecting job queries and titles, depicting the extent of data-related jobs.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+</section>
+<section id="what-do-you-need-what-do-you-get" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="what-do-you-need-what-do-you-get"><span class="header-section-number">1.4</span> What do you need? What do you get?</h2>
+<p>Now, we will explore the average salaries and experience required for data-related jobs, for each state. <a href="#fig-interactive-table">Figure&nbsp;9</a>:</p>
 <section id="sec-table" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-table">Table of Average Yearly Pay and Experience Required, by state</h3>
-<div class="cell" data-execution_count="7">
+<div class="cell" data-execution_count="10">
 <div id="fig-interactive-table" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
 
         <iframe width="100%" height="600" src="../website/plots/table.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;6: shows an interactive table with a an option to select between average yearly salary and experience required by state.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;9: shows an interactive table with a an option to select between average yearly salary and experience required by state.</figcaption><p></p>
 </figure>
 </div>
 </div>
@@ -256,147 +299,118 @@ Note
 </div>
 </section>
 <section id="sec-geo-plot" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="sec-geo-plot">Geospatial Map of Average Salary in the US</h3>
-<div class="cell" data-execution_count="8">
+<h3 class="unnumbered anchored" data-anchor-id="sec-geo-plot">Average Salary in the US, by state</h3>
+<div class="cell" data-execution_count="11">
 <div id="fig-geo" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-11.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;7: shows average pay in different states in the US, for which job data is available.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;10: shows average pay in different states in the US, for which job data is available.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-scatt-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-scatt-plot">Salaries for Years of Experience Required</h3>
-<div class="cell" data-execution_count="9">
+<div class="cell" data-execution_count="12">
 <div id="fig-scat-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-8.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;8: shows the relationship between experience required and salary, by degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;11: shows the relationship between experience required and salary, by degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-hist-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-hist-plot">Distribution of Job Salaries</h3>
-<div class="cell" data-execution_count="10">
+<div class="cell" data-execution_count="13">
 <div id="fig-hist" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-5.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;9: shows a histogram of the salaries mentioned in job results from the search.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;12: shows a histogram of the salaries mentioned in job results from the search.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-hist-plot-2" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-hist-plot-2">Distribution of Required Job Experience</h3>
-<div class="cell" data-execution_count="11">
+<div class="cell" data-execution_count="14">
 <div id="fig-hist-2" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-6.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;10: shows a histogram of the years of experience mentioned in job results from the search.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;13: shows a histogram of the years of experience mentioned in job results from the search.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-pie-chart" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-pie-chart">Remote vs.&nbsp;In-person Jobs</h3>
-<div class="cell" data-execution_count="12">
+<div class="cell" data-execution_count="15">
 <div id="fig-pie-chart" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-15.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;11: shows a pie chart with the distribution of the jobs results for whether they were in-person or remote.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;14: shows a pie chart with the distribution of the jobs results for whether they were in-person or remote.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-box-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-box-plot">Salaries for whether Remote Work is Permitted, facetted by Degree Required</h3>
-<div class="cell" data-execution_count="13">
+<div class="cell" data-execution_count="16">
 <div id="fig-box-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-9.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;12: shows the salaries for both in person and work from home jobs, by degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;15: shows the salaries for both in person and work from home jobs, by degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-grouped-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-grouped-plot">Salaries for Years of Experience Required, grouped by Degree Required</h3>
-<div class="cell" data-execution_count="14">
+<div class="cell" data-execution_count="17">
 <div id="fig-grouped-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-10.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;13: shows a grouped bar plot the salaries for varying years of experience, by degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;16: shows a grouped bar plot the salaries for varying years of experience, by degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="cloud-3" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="cloud-3">Word Cloud for Job Benefits</h3>
-<div class="cell" data-execution_count="15">
+<div class="cell" data-execution_count="18">
 <div id="fig-cloud-3" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-14.png" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;14: shows a word cloud for the most common words found in ‘benefits’.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;17: shows a word cloud for the most common words found in ‘benefits’.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-pop" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-pop">Average Salaries for 5 Most Common Job Titles</h3>
-<div class="cell" data-execution_count="16">
+<div class="cell" data-execution_count="19">
 <div id="fig-bar-plot-4" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-7.html" frameborder="0" allowfullscreen=""></iframe>
         
-<p></p><figcaption class="figure-caption">Figure&nbsp;15: shows the average salaries for the 5 most popular job titles.</figcaption><p></p>
-</figure>
-</div>
-</div>
-</section>
-</section>
-<section id="what-are-they-looking-for" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="what-are-they-looking-for"><span class="header-section-number">1.4</span> What are they looking for?</h2>
-<section id="cloud-1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="cloud-1">Word Cloud for Job Qualifications</h3>
-<div class="cell" data-execution_count="17">
-<div id="fig-cloud-1" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-12.png" frameborder="0" allowfullscreen=""></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure&nbsp;16: shows a word cloud for the most common words found in ‘qualifications’.</figcaption><p></p>
-</figure>
-</div>
-</div>
-</section>
-<section id="cloud-2" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="cloud-2">Word Cloud for Job Reponsibilities</h3>
-<div class="cell" data-execution_count="18">
-<div id="fig-cloud-2" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-13.png" frameborder="0" allowfullscreen=""></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure&nbsp;17: shows a word cloud for the most common words found in ‘responsibilities’.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;18: shows the average salaries for the 5 most popular job titles.</figcaption><p></p>
 </figure>
 </div>
 </div>

@@ -19,7 +19,7 @@ from IPython.display import display, HTML, IFrame
 
 ## Introduction {#introduction}
 
-The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and reduce human power. Furthermore, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the job market in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. For this project, I have chosen a dark and red theme to elucidate the unease and stress experienced around entering the work force. I hope you enjoy my project. 
+The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and human power. To add on to that, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the market for data-related jobs in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. For this project, I have chosen a dark and red theme to elucidate the unease and stress experienced around entering the work force. I hope you enjoy my project. 
 
 
 ## What Jobs? Where do they come from?
@@ -60,6 +60,20 @@ IFrame(src='../website/plots/plot-2.html', width=width_percentage, height=600)
 
 ```
 
+### Count of the Search Query, by Degree Required {#sec-grouped-bar-plot .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-grouped-bar-plot
+#| fig-cap: "shows a bar plot which plots the search queries, and the number of times they appear based on the degree required."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-4.html', width=width_percentage, height=600)
+
+
+```
+
+## What skills are they looking for?
+
 ### Top 5 Job Titles with their Counts {#sec-bar-plot-3 .unnumbered}
 ```{python}
 #| echo: false
@@ -72,14 +86,38 @@ IFrame(src='../website/plots/plot-3.html', width=width_percentage, height=600)
 
 ```
 
-### Count of the Search Query, by Degree Required {#sec-grouped-bar-plot .unnumbered}
+### Word Cloud for Job Qualifications {#cloud-1 .unnumbered}
 ```{python}
 #| echo: false
-#| label: fig-grouped-bar-plot
-#| fig-cap: "shows a bar plot which plots the search queries, and the number of times they appear based on the degree required."
+#| label: fig-cloud-1
+#| fig-cap: "shows a word cloud for the most common words found in 'qualifications'."
 
 width_percentage = "100%"
-IFrame(src='../website/plots/plot-4.html', width=width_percentage, height=600)
+IFrame(src='../website/plots/plot-12.png', width=width_percentage, height=600)
+
+
+```
+
+### Word Cloud for Job Reponsibilities {#cloud-2 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-cloud-2
+#| fig-cap: "shows a word cloud for the most common words found in 'responsibilities'."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-13.png', width=width_percentage, height=600)
+
+
+```
+
+### Network between Job Titles and Queries {#network-1 .unnumbered}
+```{python}
+#| echo: false
+#| label: fig-network-1
+#| fig-cap: "shows a NetworkX network connecting job queries and titles, depicting the extent of data-related jobs."
+
+width_percentage = "100%"
+IFrame(src='../website/plots/plot-17.png', width=width_percentage, height=600)
 
 
 ```
@@ -106,7 +144,7 @@ IFrame(src='../website/plots/table.html', width=width_percentage, height=600)
 From the above **interactive data table**, we can gain a better understanding into whether different states look for different levels of experience or pay differing amounts in salaries to employees.
 :::
 
-### Geospatial Map of Average Salary in the US  {#sec-geo-plot .unnumbered}
+### Average Salary in the US, by state  {#sec-geo-plot .unnumbered}
 ```{python}
 #| echo: false
 #| label: fig-geo
@@ -213,29 +251,4 @@ IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
 
 ```
 
-## What are they looking for?
-
-### Word Cloud for Job Qualifications {#cloud-1 .unnumbered}
-```{python}
-#| echo: false
-#| label: fig-cloud-1
-#| fig-cap: "shows a word cloud for the most common words found in 'qualifications'."
-
-width_percentage = "100%"
-IFrame(src='../website/plots/plot-12.png', width=width_percentage, height=600)
-
-
-```
-
-### Word Cloud for Job Reponsibilities {#cloud-2 .unnumbered}
-```{python}
-#| echo: false
-#| label: fig-cloud-2
-#| fig-cap: "shows a word cloud for the most common words found in 'responsibilities'."
-
-width_percentage = "100%"
-IFrame(src='../website/plots/plot-13.png', width=width_percentage, height=600)
-
-
-```
 
