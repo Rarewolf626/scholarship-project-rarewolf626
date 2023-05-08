@@ -53,7 +53,7 @@ jobs_df_pivot <- jobs_df_pivot[1:(nrow(jobs_df_pivot)-1), 1:(ncol(jobs_df_pivot)
 
 ```{r}
 
-# Create the plotly plot
+# create the plotly plot
 ap <- jobs_df_pivot %>% plot_ly(
     hovertext = "Degree, Salary"
 )  
@@ -67,7 +67,7 @@ ap <- ap %>%
 ap <- ap %>%
   add_trace(x = jobs_df_pivot$degree, y = ~`10+`, type = 'bar', name = '10+' , marker = list(color = 'red'))
 
-# Set the plot layout and theme
+# set the plot layout and theme
 ap <- ap %>% 
   layout(
     title = list(text = "", y = 0.98, font = list(family = "Arial", size = 18, color = "white")),
@@ -83,23 +83,19 @@ ap <- ap %>%
     plot_bgcolor = "black"
   )
 
-
-# Show the plot
 ap
 
 saveWidget(ap, file = "../../website/plots/plot-10.html")
-
-#how do i make the background color black and all the text white (including axes, legend, etc)
 
 ```
 
 
 ```{r}
 
-# Calculate the count of remote and non-remote jobs
+# calculate the count of remote and non-remote jobs
 remote_count <- c(sum(jobs_df$remote == TRUE), sum(jobs_df$remote == FALSE))
 
-# Create a pie chart with Plotly
+# create a pie chart with Plotly
 pc <- plot_ly(labels = c("Remote", "Non-Remote"), values = remote_count, type = "pie",
         textinfo = "value+percent", hole = 0.6,
         marker = list(colors = c("#00CC96", "#EF553B"))) %>%

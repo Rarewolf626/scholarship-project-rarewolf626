@@ -3708,7 +3708,7 @@ dtype: int64</code></pre>
 <span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>master_df.loc[<span class="dv">681</span>, <span class="st">&#39;salary&#39;</span>] <span class="op">=</span> <span class="dv">121000</span></span>
 <span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a>master_df.loc[<span class="dv">746</span>, <span class="st">&#39;salary&#39;</span>] <span class="op">=</span> <span class="dv">206000</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_88233/4119749001.py:2: FutureWarning:
+<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_13596/4119749001.py:2: FutureWarning:
 
 The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
 </code></pre>
@@ -3723,7 +3723,7 @@ The default value of regex will change from True to False in a future version. I
 </div>
 </div>
 <div class="cell" data-execution_count="30">
-<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a function to convert salary ranges to their average values</span></span>
+<div class="sourceCode cell-code" id="cb36"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="co"># define a function to convert salary ranges to their average values</span></span>
 <span id="cb36-2"><a href="#cb36-2" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>] <span class="op">=</span> master_df[<span class="st">&#39;salary&#39;</span>].astype(<span class="bu">str</span>)</span>
 <span id="cb36-3"><a href="#cb36-3" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb36-4"><a href="#cb36-4" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> parse_salary_range(s):</span>
@@ -3736,7 +3736,7 @@ The default value of regex will change from True to False in a future version. I
 <span id="cb36-11"><a href="#cb36-11" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
 <span id="cb36-12"><a href="#cb36-12" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> s</span>
 <span id="cb36-13"><a href="#cb36-13" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb36-14"><a href="#cb36-14" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply the function to the &#39;salary&#39; column of master_df</span></span>
+<span id="cb36-14"><a href="#cb36-14" aria-hidden="true" tabindex="-1"></a><span class="co"># apply the function to the &#39;salary&#39; column of master_df</span></span>
 <span id="cb36-15"><a href="#cb36-15" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>] <span class="op">=</span> master_df[<span class="st">&#39;salary&#39;</span>].<span class="bu">apply</span>(parse_salary_range)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell" data-execution_count="31">
@@ -3746,7 +3746,7 @@ The default value of regex will change from True to False in a future version. I
 <span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>] <span class="op">=</span> pd.to_numeric(master_df[<span class="st">&#39;salary&#39;</span>], errors<span class="op">=</span><span class="st">&#39;coerce&#39;</span>)</span>
 <span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>].describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_88233/1948180007.py:3: FutureWarning:
+<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_13596/1948180007.py:3: FutureWarning:
 
 The default value of regex will change from True to False in a future version.
 </code></pre>
@@ -3780,20 +3780,20 @@ Name: salary, dtype: float64</code></pre>
 <span id="cb41-2"><a href="#cb41-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb41-3"><a href="#cb41-3" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> clean_experience(exp):</span>
 <span id="cb41-4"><a href="#cb41-4" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="bu">isinstance</span>(exp, <span class="bu">str</span>):</span>
-<span id="cb41-5"><a href="#cb41-5" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Extract digits from the experience string</span></span>
+<span id="cb41-5"><a href="#cb41-5" aria-hidden="true" tabindex="-1"></a>        <span class="co"># extract digits from the experience string</span></span>
 <span id="cb41-6"><a href="#cb41-6" aria-hidden="true" tabindex="-1"></a>        digits <span class="op">=</span> re.findall(<span class="st">&#39;\d+&#39;</span>, exp)</span>
 <span id="cb41-7"><a href="#cb41-7" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> <span class="bu">len</span>(digits) <span class="op">==</span> <span class="dv">2</span>:</span>
-<span id="cb41-8"><a href="#cb41-8" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Calculate the average of two numbers if there are two digits</span></span>
+<span id="cb41-8"><a href="#cb41-8" aria-hidden="true" tabindex="-1"></a>            <span class="co"># calculate the average of two numbers if there are two digits</span></span>
 <span id="cb41-9"><a href="#cb41-9" aria-hidden="true" tabindex="-1"></a>            avg_exp <span class="op">=</span> (<span class="bu">int</span>(digits[<span class="dv">0</span>]) <span class="op">+</span> <span class="bu">int</span>(digits[<span class="dv">1</span>])) <span class="op">/</span> <span class="dv">2</span></span>
 <span id="cb41-10"><a href="#cb41-10" aria-hidden="true" tabindex="-1"></a>        <span class="cf">elif</span> <span class="bu">len</span>(digits) <span class="op">==</span> <span class="dv">1</span>:</span>
-<span id="cb41-11"><a href="#cb41-11" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Take the single digit if there is only one digit</span></span>
+<span id="cb41-11"><a href="#cb41-11" aria-hidden="true" tabindex="-1"></a>            <span class="co"># take the single digit if there is only one digit</span></span>
 <span id="cb41-12"><a href="#cb41-12" aria-hidden="true" tabindex="-1"></a>            avg_exp <span class="op">=</span> <span class="bu">int</span>(digits[<span class="dv">0</span>])</span>
 <span id="cb41-13"><a href="#cb41-13" aria-hidden="true" tabindex="-1"></a>        <span class="cf">else</span>:</span>
-<span id="cb41-14"><a href="#cb41-14" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Return None if there are no digits</span></span>
+<span id="cb41-14"><a href="#cb41-14" aria-hidden="true" tabindex="-1"></a>            <span class="co"># return None if there are no digits</span></span>
 <span id="cb41-15"><a href="#cb41-15" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="va">None</span></span>
 <span id="cb41-16"><a href="#cb41-16" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> avg_exp</span>
 <span id="cb41-17"><a href="#cb41-17" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
-<span id="cb41-18"><a href="#cb41-18" aria-hidden="true" tabindex="-1"></a>        <span class="co"># Return None if the input is not a string</span></span>
+<span id="cb41-18"><a href="#cb41-18" aria-hidden="true" tabindex="-1"></a>        <span class="co"># return None if the input is not a string</span></span>
 <span id="cb41-19"><a href="#cb41-19" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="va">None</span></span>
 <span id="cb41-20"><a href="#cb41-20" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb41-21"><a href="#cb41-21" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;experience&#39;</span>] <span class="op">=</span> master_df[<span class="st">&#39;experience&#39;</span>].<span class="bu">apply</span>(clean_experience)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -3867,45 +3867,45 @@ dtype: object</code></pre>
 </div>
 <div class="cell" data-execution_count="42">
 <div class="sourceCode cell-code" id="cb53"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb53-1"><a href="#cb53-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> clean_location(location):</span>
-<span id="cb53-2"><a href="#cb53-2" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Find the index of the &#39;(&#39; character</span></span>
+<span id="cb53-2"><a href="#cb53-2" aria-hidden="true" tabindex="-1"></a>    <span class="co"># find the index of the &#39;(&#39; character</span></span>
 <span id="cb53-3"><a href="#cb53-3" aria-hidden="true" tabindex="-1"></a>    index <span class="op">=</span> location.find(<span class="st">&#39;(&#39;</span>)</span>
 <span id="cb53-4"><a href="#cb53-4" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> index <span class="op">!=</span> <span class="op">-</span><span class="dv">1</span>:</span>
-<span id="cb53-5"><a href="#cb53-5" aria-hidden="true" tabindex="-1"></a>        <span class="co"># If &#39;(&#39; is found, remove it and everything that comes after it</span></span>
+<span id="cb53-5"><a href="#cb53-5" aria-hidden="true" tabindex="-1"></a>        <span class="co"># if &#39;(&#39; is found, remove it and everything that comes after it</span></span>
 <span id="cb53-6"><a href="#cb53-6" aria-hidden="true" tabindex="-1"></a>        location <span class="op">=</span> location[:index].strip()</span>
-<span id="cb53-7"><a href="#cb53-7" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Remove extra spaces at the start and end of the string</span></span>
+<span id="cb53-7"><a href="#cb53-7" aria-hidden="true" tabindex="-1"></a>    <span class="co"># remove extra spaces at the start and end of the string</span></span>
 <span id="cb53-8"><a href="#cb53-8" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> location.strip()</span>
 <span id="cb53-9"><a href="#cb53-9" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb53-10"><a href="#cb53-10" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;location&#39;</span>] <span class="op">=</span> master_df[<span class="st">&#39;location&#39;</span>].<span class="bu">apply</span>(clean_location)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell" data-execution_count="43">
-<div class="sourceCode cell-code" id="cb54"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb54-1"><a href="#cb54-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a function to extract city and state information from the location string</span></span>
+<div class="sourceCode cell-code" id="cb54"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb54-1"><a href="#cb54-1" aria-hidden="true" tabindex="-1"></a><span class="co"># define a function to extract city and state information from the location string</span></span>
 <span id="cb54-2"><a href="#cb54-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> get_city_state(location):</span>
-<span id="cb54-3"><a href="#cb54-3" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Split the location string by &#39;,&#39;</span></span>
+<span id="cb54-3"><a href="#cb54-3" aria-hidden="true" tabindex="-1"></a>    <span class="co"># split the location string by &#39;,&#39;</span></span>
 <span id="cb54-4"><a href="#cb54-4" aria-hidden="true" tabindex="-1"></a>    parts <span class="op">=</span> location.split(<span class="st">&#39;,&#39;</span>)</span>
 <span id="cb54-5"><a href="#cb54-5" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="bu">len</span>(parts) <span class="op">==</span> <span class="dv">2</span>:</span>
-<span id="cb54-6"><a href="#cb54-6" aria-hidden="true" tabindex="-1"></a>        <span class="co"># If the location has two parts, assume the first is the city and the second is the state</span></span>
+<span id="cb54-6"><a href="#cb54-6" aria-hidden="true" tabindex="-1"></a>        <span class="co"># if the location has two parts, assume the first is the city and the second is the state</span></span>
 <span id="cb54-7"><a href="#cb54-7" aria-hidden="true" tabindex="-1"></a>        city <span class="op">=</span> parts[<span class="dv">0</span>].strip()</span>
 <span id="cb54-8"><a href="#cb54-8" aria-hidden="true" tabindex="-1"></a>        state <span class="op">=</span> parts[<span class="dv">1</span>].strip()</span>
 <span id="cb54-9"><a href="#cb54-9" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> city, state</span>
 <span id="cb54-10"><a href="#cb54-10" aria-hidden="true" tabindex="-1"></a>    <span class="cf">elif</span> <span class="bu">len</span>(parts) <span class="op">==</span> <span class="dv">1</span>:</span>
-<span id="cb54-11"><a href="#cb54-11" aria-hidden="true" tabindex="-1"></a>        <span class="co"># If the location has only one part, assume it is the state</span></span>
+<span id="cb54-11"><a href="#cb54-11" aria-hidden="true" tabindex="-1"></a>        <span class="co"># if the location has only one part, assume it is the state</span></span>
 <span id="cb54-12"><a href="#cb54-12" aria-hidden="true" tabindex="-1"></a>        state <span class="op">=</span> parts[<span class="dv">0</span>].strip()</span>
 <span id="cb54-13"><a href="#cb54-13" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> location <span class="op">==</span> <span class="st">&#39;Anywhere&#39;</span> <span class="kw">or</span> location <span class="op">==</span> <span class="st">&#39;United States&#39;</span>:</span>
 <span id="cb54-14"><a href="#cb54-14" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="st">&#39;&#39;</span>, <span class="st">&#39;&#39;</span></span>
 <span id="cb54-15"><a href="#cb54-15" aria-hidden="true" tabindex="-1"></a>        <span class="cf">else</span>:</span>
 <span id="cb54-16"><a href="#cb54-16" aria-hidden="true" tabindex="-1"></a>            <span class="cf">return</span> <span class="st">&#39;&#39;</span>, state</span>
 <span id="cb54-17"><a href="#cb54-17" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
-<span id="cb54-18"><a href="#cb54-18" aria-hidden="true" tabindex="-1"></a>        <span class="co"># If the location has more than two parts, assume it is not a valid city, state format</span></span>
+<span id="cb54-18"><a href="#cb54-18" aria-hidden="true" tabindex="-1"></a>        <span class="co"># if the location has more than two parts, assume it is not a valid city, state format</span></span>
 <span id="cb54-19"><a href="#cb54-19" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> <span class="st">&#39;&#39;</span>, <span class="st">&#39;&#39;</span></span>
 <span id="cb54-20"><a href="#cb54-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb54-21"><a href="#cb54-21" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply the function to the location column</span></span>
+<span id="cb54-21"><a href="#cb54-21" aria-hidden="true" tabindex="-1"></a><span class="co"># apply the function to the location column</span></span>
 <span id="cb54-22"><a href="#cb54-22" aria-hidden="true" tabindex="-1"></a>master_df[[<span class="st">&#39;city&#39;</span>, <span class="st">&#39;state&#39;</span>]] <span class="op">=</span> master_df[<span class="st">&#39;location&#39;</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: pd.Series(get_city_state(x)))</span>
 <span id="cb54-23"><a href="#cb54-23" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb54-24"><a href="#cb54-24" aria-hidden="true" tabindex="-1"></a><span class="co"># Handle special case for state abbreviations</span></span>
+<span id="cb54-24"><a href="#cb54-24" aria-hidden="true" tabindex="-1"></a><span class="co"># handle special case for state abbreviations</span></span>
 <span id="cb54-25"><a href="#cb54-25" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;state&#39;</span>] <span class="op">=</span> master_df[<span class="st">&#39;state&#39;</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: <span class="st">&#39;TX&#39;</span> <span class="cf">if</span> x <span class="op">==</span> <span class="st">&#39;Texas&#39;</span> <span class="cf">else</span> x)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell" data-execution_count="44">
-<div class="sourceCode cell-code" id="cb55"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb55-1"><a href="#cb55-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a dictionary mapping state abbreviations to their full form</span></span>
+<div class="sourceCode cell-code" id="cb55"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb55-1"><a href="#cb55-1" aria-hidden="true" tabindex="-1"></a><span class="co"># define a dictionary mapping state abbreviations to their full form</span></span>
 <span id="cb55-2"><a href="#cb55-2" aria-hidden="true" tabindex="-1"></a>state_abbreviations <span class="op">=</span> {</span>
 <span id="cb55-3"><a href="#cb55-3" aria-hidden="true" tabindex="-1"></a>    <span class="st">&#39;AL&#39;</span>: <span class="st">&#39;Alabama&#39;</span>, </span>
 <span id="cb55-4"><a href="#cb55-4" aria-hidden="true" tabindex="-1"></a>    <span class="st">&#39;AK&#39;</span>: <span class="st">&#39;Alaska&#39;</span>, </span>
@@ -3960,7 +3960,7 @@ dtype: object</code></pre>
 <span id="cb55-53"><a href="#cb55-53" aria-hidden="true" tabindex="-1"></a>    <span class="st">&#39;WY&#39;</span>: <span class="st">&#39;Wyoming&#39;</span></span>
 <span id="cb55-54"><a href="#cb55-54" aria-hidden="true" tabindex="-1"></a>}</span>
 <span id="cb55-55"><a href="#cb55-55" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb55-56"><a href="#cb55-56" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply the mapping to the &#39;state&#39; column</span></span>
+<span id="cb55-56"><a href="#cb55-56" aria-hidden="true" tabindex="-1"></a><span class="co"># apply the mapping to the &#39;state&#39; column</span></span>
 <span id="cb55-57"><a href="#cb55-57" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;state&#39;</span>] <span class="op">=</span> master_df[<span class="st">&#39;state&#39;</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: state_abbreviations.get(x, x))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>

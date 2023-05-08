@@ -347,7 +347,7 @@ print(f"Number of NaN values in 'salary' column: {num_nas}")
 
 
 ```{python}
-# Define a function to convert salary ranges to their average values
+# define a function to convert salary ranges to their average values
 master_df['salary'] = master_df['salary'].astype(str)
 
 def parse_salary_range(s):
@@ -360,7 +360,7 @@ def parse_salary_range(s):
     else:
         return s
 
-# Apply the function to the 'salary' column of master_df
+# apply the function to the 'salary' column of master_df
 master_df['salary'] = master_df['salary'].apply(parse_salary_range)
 ```
 
@@ -393,20 +393,20 @@ master_df['experience'] = master_df['experience'].apply(lambda x: str(x))
 
 def clean_experience(exp):
     if isinstance(exp, str):
-        # Extract digits from the experience string
+        # extract digits from the experience string
         digits = re.findall('\d+', exp)
         if len(digits) == 2:
-            # Calculate the average of two numbers if there are two digits
+            # calculate the average of two numbers if there are two digits
             avg_exp = (int(digits[0]) + int(digits[1])) / 2
         elif len(digits) == 1:
-            # Take the single digit if there is only one digit
+            # take the single digit if there is only one digit
             avg_exp = int(digits[0])
         else:
-            # Return None if there are no digits
+            # return None if there are no digits
             return None
         return avg_exp
     else:
-        # Return None if the input is not a string
+        # return None if the input is not a string
         return None
 
 master_df['experience'] = master_df['experience'].apply(clean_experience)
@@ -454,12 +454,12 @@ master_df['query'] = master_df['query'].apply(lambda x: ' '.join(word if word ==
 
 ```{python}
 def clean_location(location):
-    # Find the index of the '(' character
+    # find the index of the '(' character
     index = location.find('(')
     if index != -1:
-        # If '(' is found, remove it and everything that comes after it
+        # if '(' is found, remove it and everything that comes after it
         location = location[:index].strip()
-    # Remove extra spaces at the start and end of the string
+    # remove extra spaces at the start and end of the string
     return location.strip()
 
 master_df['location'] = master_df['location'].apply(clean_location)
@@ -467,36 +467,36 @@ master_df['location'] = master_df['location'].apply(clean_location)
 
 
 ```{python}
-# Define a function to extract city and state information from the location string
+# define a function to extract city and state information from the location string
 def get_city_state(location):
-    # Split the location string by ','
+    # split the location string by ','
     parts = location.split(',')
     if len(parts) == 2:
-        # If the location has two parts, assume the first is the city and the second is the state
+        # if the location has two parts, assume the first is the city and the second is the state
         city = parts[0].strip()
         state = parts[1].strip()
         return city, state
     elif len(parts) == 1:
-        # If the location has only one part, assume it is the state
+        # if the location has only one part, assume it is the state
         state = parts[0].strip()
         if location == 'Anywhere' or location == 'United States':
             return '', ''
         else:
             return '', state
     else:
-        # If the location has more than two parts, assume it is not a valid city, state format
+        # if the location has more than two parts, assume it is not a valid city, state format
         return '', ''
 
-# Apply the function to the location column
+# apply the function to the location column
 master_df[['city', 'state']] = master_df['location'].apply(lambda x: pd.Series(get_city_state(x)))
 
-# Handle special case for state abbreviations
+# handle special case for state abbreviations
 master_df['state'] = master_df['state'].apply(lambda x: 'TX' if x == 'Texas' else x)
 ```
 
 ```{python}
 
-# Define a dictionary mapping state abbreviations to their full form
+# define a dictionary mapping state abbreviations to their full form
 state_abbreviations = {
     'AL': 'Alabama', 
     'AK': 'Alaska', 
@@ -551,7 +551,7 @@ state_abbreviations = {
     'WY': 'Wyoming'
 }
 
-# Apply the mapping to the 'state' column
+# apply the mapping to the 'state' column
 master_df['state'] = master_df['state'].apply(lambda x: state_abbreviations.get(x, x))
 
 ```
