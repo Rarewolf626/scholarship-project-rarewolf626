@@ -2853,14 +2853,7 @@ vertical-align: -.125em;
   <li><a href="#sec-bar-plot-2" id="toc-sec-bar-plot-2" class="nav-link" data-scroll-target="#sec-bar-plot-2">Top 5 Search Engines with their Counts</a></li>
   <li><a href="#sec-grouped-bar-plot" id="toc-sec-grouped-bar-plot" class="nav-link" data-scroll-target="#sec-grouped-bar-plot">Count of the Search Query, by Degree Required</a></li>
   </ul></li>
-  <li><a href="#what-skills-are-they-looking-for" id="toc-what-skills-are-they-looking-for" class="nav-link" data-scroll-target="#what-skills-are-they-looking-for"><span class="toc-section-number">1.3</span>  What skills are they looking for?</a>
-  <ul class="collapse">
-  <li><a href="#sec-bar-plot-3" id="toc-sec-bar-plot-3" class="nav-link" data-scroll-target="#sec-bar-plot-3">Top 5 Job Titles with their Counts</a></li>
-  <li><a href="#cloud-1" id="toc-cloud-1" class="nav-link" data-scroll-target="#cloud-1">Word Cloud for Job Qualifications</a></li>
-  <li><a href="#cloud-2" id="toc-cloud-2" class="nav-link" data-scroll-target="#cloud-2">Word Cloud for Job Reponsibilities</a></li>
-  <li><a href="#network-1" id="toc-network-1" class="nav-link" data-scroll-target="#network-1">Network between Job Titles and Queries</a></li>
-  </ul></li>
-  <li><a href="#what-do-you-need-what-do-you-get" id="toc-what-do-you-need-what-do-you-get" class="nav-link" data-scroll-target="#what-do-you-need-what-do-you-get"><span class="toc-section-number">1.4</span>  What do you need? What do you get?</a>
+  <li><a href="#what-do-you-need-what-do-you-get" id="toc-what-do-you-need-what-do-you-get" class="nav-link" data-scroll-target="#what-do-you-need-what-do-you-get"><span class="toc-section-number">1.3</span>  What do you need? What do you get?</a>
   <ul class="collapse">
   <li><a href="#sec-table" id="toc-sec-table" class="nav-link" data-scroll-target="#sec-table">Table of Average Yearly Pay and Experience Required, by state</a></li>
   <li><a href="#sec-geo-plot" id="toc-sec-geo-plot" class="nav-link" data-scroll-target="#sec-geo-plot">Average Salary in the US, by state</a></li>
@@ -2869,10 +2862,17 @@ vertical-align: -.125em;
   <li><a href="#sec-hist-plot-2" id="toc-sec-hist-plot-2" class="nav-link" data-scroll-target="#sec-hist-plot-2">Distribution of Required Job Experience</a></li>
   <li><a href="#sec-bp" id="toc-sec-bp" class="nav-link" data-scroll-target="#sec-bp">Average Salaries for Popular Locations</a></li>
   <li><a href="#sec-pie-chart" id="toc-sec-pie-chart" class="nav-link" data-scroll-target="#sec-pie-chart">Remote vs. In-person Jobs</a></li>
-  <li><a href="#sec-box-plot" id="toc-sec-box-plot" class="nav-link" data-scroll-target="#sec-box-plot">Salaries for whether Remote Work is Permitted, facetted by Degree Required</a></li>
+  <li><a href="#sec-box-plot" id="toc-sec-box-plot" class="nav-link" data-scroll-target="#sec-box-plot">Salaries for whether Remote Work is Permitted, segmented by Degree Required</a></li>
   <li><a href="#sec-grouped-plot" id="toc-sec-grouped-plot" class="nav-link" data-scroll-target="#sec-grouped-plot">Salaries for Years of Experience Required, grouped by Degree Required</a></li>
   <li><a href="#cloud-3" id="toc-cloud-3" class="nav-link" data-scroll-target="#cloud-3">Word Cloud for Job Benefits</a></li>
   <li><a href="#sec-pop" id="toc-sec-pop" class="nav-link" data-scroll-target="#sec-pop">Average Salaries for 5 Most Common Job Titles</a></li>
+  </ul></li>
+  <li><a href="#what-skills-are-they-looking-for" id="toc-what-skills-are-they-looking-for" class="nav-link" data-scroll-target="#what-skills-are-they-looking-for"><span class="toc-section-number">1.4</span>  What skills are they looking for?</a>
+  <ul class="collapse">
+  <li><a href="#sec-bar-plot-3" id="toc-sec-bar-plot-3" class="nav-link" data-scroll-target="#sec-bar-plot-3">Top 5 Job Titles with their Counts</a></li>
+  <li><a href="#cloud-1" id="toc-cloud-1" class="nav-link" data-scroll-target="#cloud-1">Word Cloud for Job Qualifications</a></li>
+  <li><a href="#cloud-2" id="toc-cloud-2" class="nav-link" data-scroll-target="#cloud-2">Word Cloud for Job Reponsibilities</a></li>
+  <li><a href="#network-1" id="toc-network-1" class="nav-link" data-scroll-target="#network-1">Network between Job Titles and Queries</a></li>
   </ul></li>
   <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion"><span class="toc-section-number">1.5</span>  Conclusion</a></li>
   </ul></li>
@@ -2888,7 +2888,7 @@ vertical-align: -.125em;
 <h1 data-number="1"><span class="header-section-number">1</span> The Data Job Market in the US</h1>
 <section id="introduction" class="level2" data-number="1.1">
 <h2 data-number="1.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">1.1</span> Introduction</h2>
-<p>The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and human power. To add on to that, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the market for data-related jobs in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. For this project, I have chosen a dark and red theme to elucidate the unease and stress experienced around entering the work force. I hope you enjoy my project.</p>
+<p>The job market in the US has been quite unstable recently, with companies, especially technology ones, firing employees left, right and center in order to reduce costs and human power. To add on to that, widespread inflation in the US has led to jobs overpaying several employees, which is another contributing factor to mass layoffs in the technology sector. This project is an attempt to portray a deep dive into the market for data-related jobs in the US, by means of effective data visualizations. We will explore several features of jobs, including their salary, experience, qualifications, and locations, and we will do this in a visually informative manner. I hope you enjoy my project.</p>
 </section>
 <section id="what-jobs-where-do-they-come-from" class="level2" data-number="1.2">
 <h2 data-number="1.2" class="anchored" data-anchor-id="what-jobs-where-do-they-come-from"><span class="header-section-number">1.2</span> What Jobs? Where do they come from?</h2>
@@ -2944,80 +2944,34 @@ vertical-align: -.125em;
 </figure>
 </div>
 </div>
-<p>We notice from the above plots that first off, the distribution of jobs among different states is not uniform. We notice that states such as New York, California and the District of Columbia have the most jobs, which is a pattern that we would expect to see, given that half of our job searches come from the DMV, and given that California and New York are both hubs for technology and business alike. In terms of cities, New York and Washington reign supreme, and surprisingly enough, San Francisco comes in with the third most jobs of our dataset. We also see that the majority of our jobs come from LinkedIn, which is a very popular job search engine.</p>
+From the above plots, we see that:
+<ul>
+<li>
+The distribution of jobs among different states is not uniform. We notice that states such as New York, California and the District of Columbia have the most jobs, which is a pattern that we would expect to see, given that half of our job searches come from the DMV, and given that California and New York are both hubs for technology and business alike.
+</li>
+<li>
+In terms of cities, New York and Washington reign supreme, and surprisingly enough, San Francisco comes in with the third most jobs of our dataset.
+</li>
+<li>
+The majority of our jobs come from LinkedIn, which is a very popular job search engine.
+</li>
+</ul>
 </section>
 </section>
-<section id="what-skills-are-they-looking-for" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="what-skills-are-they-looking-for"><span class="header-section-number">1.3</span> What skills are they looking for?</h2>
-<p>For this section, we’ll look into other features of jobs, including the most popular titles, and the qualifications and responsibilities that are looked for. Since job sections like qualifications and responsibilities are normally sections that are filled with dense text, they are often overlooked by job-seekers. In fact, they contain the crucial elements of what the job-seeker should look to exhibit to their potential employer to maximize their chances of getting hired.</p>
-<section id="sec-bar-plot-3" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="sec-bar-plot-3">Top 5 Job Titles with their Counts</h3>
-<div class="cell" data-execution_count="6">
-<div id="fig-bar-plot-3" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-3.html" frameborder="0" allowfullscreen></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure 5: shows a bar plot which plots the 5 most frequent job titles, and the number of times they appear in the search.</figcaption><p></p>
-</figure>
-</div>
-</div>
-</section>
-<section id="cloud-1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="cloud-1">Word Cloud for Job Qualifications</h3>
-<div class="cell" data-execution_count="7">
-<div id="fig-cloud-1" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-12.png" frameborder="0" allowfullscreen></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure 6: shows a word cloud for the most common words found in ‘qualifications’.</figcaption><p></p>
-</figure>
-</div>
-</div>
-</section>
-<section id="cloud-2" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="cloud-2">Word Cloud for Job Reponsibilities</h3>
-<div class="cell" data-execution_count="8">
-<div id="fig-cloud-2" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-13.png" frameborder="0" allowfullscreen></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure 7: shows a word cloud for the most common words found in ‘responsibilities’.</figcaption><p></p>
-</figure>
-</div>
-</div>
-</section>
-<section id="network-1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="network-1">Network between Job Titles and Queries</h3>
-<div class="cell" data-execution_count="9">
-<div id="fig-network-1" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-
-        <iframe width="100%" height="600" src="../website/plots/plot-17.png" frameborder="0" allowfullscreen></iframe>
-        
-<p></p><figcaption class="figure-caption">Figure 8: shows a NetworkX network connecting job queries and titles, depicting the extent of data-related jobs.</figcaption><p></p>
-</figure>
-</div>
-</div>
-<p>There are several takeaways from the above plots. First, we see that ‘Data Scientist’ and ‘Data Analyst’ are the most common job titles from our entire search. This might indicate that more generalist positions are more readily available in the job market in comparison to other positions. From our word clouds on qualifications and responsibilities, we were exposed to some of the most common skills and expectations required for job applicants. Most of these are skills that we’d expect to see: machine learning, big data, computer science, and deep learning. The word cloud on responsibilities gives an overview of what a day to day on the job might look like: project, team, research, analysis, and development are words that can throw light on the daily job responsibilities. Lastly, our network allows us to visualize the most common job titles and queries, elucidating the domains that are in high demand.</p>
-</section>
-</section>
-<section id="what-do-you-need-what-do-you-get" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="what-do-you-need-what-do-you-get"><span class="header-section-number">1.4</span> What do you need? What do you get?</h2>
-<p>The data domain is indubitably a lucrative domain to be in, which is why jobs are hard to find and secure. While the pay and lifestyle is lavish, breaking into the industry and securing a job takes a lot more than simply a degree related to a data-related subject. Therefore, in this section, we will explore jobs requirements, such as minimum degrees and years of experience, and also explore the perks that come with jobs, including high salaries and opporunities to work from home.</p>
-<p>Let’s explore the average salaries and experience required for data-related jobs, for each state. <a href="#fig-interactive-table">Figure 9</a>:</p>
+<section id="what-do-you-need-what-do-you-get" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="what-do-you-need-what-do-you-get"><span class="header-section-number">1.3</span> What do you need? What do you get?</h2>
+<p>The data domain is indubitably a lucrative domain to be in, which is why jobs are hard to find and secure. While the pay and lifestyle is lavish, breaking into the industry and securing a job takes a lot more than simply a degree related to a data-related subject. Therefore, in this section, we will explore jobs requirements, such as minimum degrees and years of experience, and also explore the perks that come with jobs, including high salaries and opportunities to work from home.</p>
+<p>Let’s explore the average salaries and experience required for data-related jobs, for each state. <a href="#fig-interactive-table">Figure 5</a>:</p>
 <section id="sec-table" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-table">Table of Average Yearly Pay and Experience Required, by state</h3>
-<div class="cell" data-execution_count="10">
+<div class="cell" data-execution_count="6">
 <div id="fig-interactive-table" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
 
         <iframe width="100%" height="600" src="../website/plots/table.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 9: shows an interactive table with a an option to select between average yearly salary and experience required by state.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 5: shows an interactive table with a an option to select between average yearly salary and experience required by state.</figcaption><p></p>
 </figure>
 </div>
 </div>
@@ -3037,139 +2991,241 @@ Note
 </section>
 <section id="sec-geo-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-geo-plot">Average Salary in the US, by state</h3>
-<div class="cell" data-execution_count="11">
+<div class="cell" data-execution_count="7">
 <div id="fig-geo" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-11.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 10: shows average pay in different states in the US, for which job data is available.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 6: shows average pay in different states in the US, for which job data is available.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-scatt-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-scatt-plot">Salaries for Years of Experience Required</h3>
-<div class="cell" data-execution_count="12">
+<div class="cell" data-execution_count="8">
 <div id="fig-scat-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-8.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 11: shows the relationship between experience required and salary, by degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 7: shows the relationship between experience required and salary, by degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-hist-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-hist-plot">Distribution of Job Salaries</h3>
-<div class="cell" data-execution_count="13">
+<div class="cell" data-execution_count="9">
 <div id="fig-hist" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-5.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 12: shows a histogram of the salaries of job results from the search.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 8: shows a histogram of the salaries of job results from the search.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-hist-plot-2" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-hist-plot-2">Distribution of Required Job Experience</h3>
-<div class="cell" data-execution_count="14">
+<div class="cell" data-execution_count="10">
 <div id="fig-hist-2" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-6.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 13: shows a histogram of the years of experience required in job results from the search.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 9: shows a histogram of the years of experience required in job results from the search.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-bp" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-bp">Average Salaries for Popular Locations</h3>
-<div class="cell" data-execution_count="15">
+<div class="cell" data-execution_count="11">
 <div id="fig-bar-plot-5" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-18.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 14: shows a bar plot depicting the average salaries for the most popular locations in the search.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 10: shows a bar plot depicting the average salaries for the most popular locations in the search.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-pie-chart" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-pie-chart">Remote vs. In-person Jobs</h3>
-<div class="cell" data-execution_count="16">
+<div class="cell" data-execution_count="12">
 <div id="fig-pie-chart" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-15.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 15: shows a pie chart with the distribution of the jobs results for whether they were in-person or remote.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 11: shows a pie chart with the distribution of the jobs results for whether they were in-person or remote.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-box-plot" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="sec-box-plot">Salaries for whether Remote Work is Permitted, facetted by Degree Required</h3>
-<div class="cell" data-execution_count="17">
+<h3 class="unnumbered anchored" data-anchor-id="sec-box-plot">Salaries for whether Remote Work is Permitted, segmented by Degree Required</h3>
+<div class="cell" data-execution_count="13">
 <div id="fig-box-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-9.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 16: shows the salaries for both in person and work from home jobs, by degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 12: shows the salaries for both in person and work from home jobs, by degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-grouped-plot" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-grouped-plot">Salaries for Years of Experience Required, grouped by Degree Required</h3>
-<div class="cell" data-execution_count="18">
+<div class="cell" data-execution_count="14">
 <div id="fig-grouped-plot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-10.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 17: shows a grouped bar plot the salaries for varying years of experience, by degree required.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 13: shows a grouped bar plot the salaries for varying years of experience, by degree required.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="cloud-3" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="cloud-3">Word Cloud for Job Benefits</h3>
-<div class="cell" data-execution_count="19">
+<div class="cell" data-execution_count="15">
 <div id="fig-cloud-3" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-14.png" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 18: shows a word cloud for the most common words found in ‘benefits’.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 14: shows a word cloud for the most common words found in ‘benefits’.</figcaption><p></p>
 </figure>
 </div>
 </div>
 </section>
 <section id="sec-pop" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="sec-pop">Average Salaries for 5 Most Common Job Titles</h3>
-<div class="cell" data-execution_count="20">
+<div class="cell" data-execution_count="16">
 <div id="fig-bar-plot-4" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 
         <iframe width="100%" height="600" src="../website/plots/plot-7.html" frameborder="0" allowfullscreen></iframe>
         
-<p></p><figcaption class="figure-caption">Figure 19: shows the average salaries for the 5 most popular job titles.</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Figure 15: shows the average salaries for the 5 most popular job titles.</figcaption><p></p>
 </figure>
 </div>
 </div>
-<p>Examining the geospatial plot, we see a few things. Firstly, we see that the highest salaries are in states like New York and California, which is an expected result. This is likely due to the high tax rates and living costs in those states. We also notice a lot of states with no job results, which can raise questions as to how representative the industry really is, in terms of opportunities to work across the country. Our word cloud yields several benefits that job seekers can potentially enjoy: parental leave, paid time off, and several different types of insurance including dental and vision. Looking at the correlation plot between experience required and salary, we notice a medium strength positive correlation between experience and salary. However, upon manipulation of the plot, we notice that PhDs have a steeper rise in salary for an increase in experience, on average, than Bachelor’s holders. Furthermore, we see that while jobs boast high salaries, averaging $150,000 to $200,000, they also expect, on average, 4-6 years of experience. Exploring the remote work environment, we see that the majority of jobs in our dataset do not include work from home options. We also see how in-person jobs, on average, have lower salaries than remote jobs, which is a surprising statistic.</p>
+So, what can we make from examining all the above plots? We see that:
+<ul>
+<li>
+In the geospatial plot, the highest salaries are in states like New York and California, which is an expected result. This is likely due to the high tax rates and living costs in those states. We also notice a lot of states with no job results, which can raise questions as to how representative the industry really is in terms of opportunities to work across the country.
+</li>
+<li>
+Our word cloud yields several benefits that job seekers can potentially enjoy: parental leave, paid time off, and several different types of insurance including dental and vision.
+</li>
+<li>
+The correlation plot between experience required and salary exhibits a medium strength positive correlation between experience and salary. However, upon manipulation of the plot, we notice that PhDs have a steeper rise in salary for an increase in experience, on average, than Bachelor’s holders. Furthermore, we see that while jobs boast high salaries, averaging $150,000 to $200,000, they also expect, on average, 4-6 years of experience.
+</li>
+<li>
+Exploring the remote work environment, the majority of jobs in our dataset do not include work from home options. We also see how in-person jobs, on average, have lower salaries than remote jobs, which is a surprising statistic.
+</li>
+</ul>
 </section>
+</section>
+<section id="what-skills-are-they-looking-for" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="what-skills-are-they-looking-for"><span class="header-section-number">1.4</span> What skills are they looking for?</h2>
+<p>For this section, we’ll look into other features of jobs, including the most popular titles, and the qualifications and responsibilities that are looked for. Since job sections like qualifications and responsibilities are normally sections that are filled with dense text, they are often overlooked by job-seekers. In fact, they contain the crucial elements of what the job-seeker should look to exhibit to their potential employer to maximize their chances of getting hired.</p>
+<section id="sec-bar-plot-3" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="sec-bar-plot-3">Top 5 Job Titles with their Counts</h3>
+<div class="cell" data-execution_count="17">
+<div id="fig-bar-plot-3" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-3.html" frameborder="0" allowfullscreen></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure 16: shows a bar plot which plots the 5 most frequent job titles, and the number of times they appear in the search.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="cloud-1" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="cloud-1">Word Cloud for Job Qualifications</h3>
+<div class="cell" data-execution_count="18">
+<div id="fig-cloud-1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-12.png" frameborder="0" allowfullscreen></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure 17: shows a word cloud for the most common words found in ‘qualifications’.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="cloud-2" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="cloud-2">Word Cloud for Job Reponsibilities</h3>
+<div class="cell" data-execution_count="19">
+<div id="fig-cloud-2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-13.png" frameborder="0" allowfullscreen></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure 18: shows a word cloud for the most common words found in ‘responsibilities’.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</section>
+<section id="network-1" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="network-1">Network between Job Titles and Queries</h3>
+<div class="cell" data-execution_count="20">
+<div id="fig-network-1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+
+        <iframe width="100%" height="600" src="../website/plots/plot-17.png" frameborder="0" allowfullscreen></iframe>
+        
+<p></p><figcaption class="figure-caption">Figure 19: shows a NetworkX network connecting job queries and titles, depicting the extent of data-related jobs.</figcaption><p></p>
+</figure>
+</div>
+</div>
+Key takeaways from the above section:
+<ul>
+<li>
+<code>Data Scientist</code> and <code>Data Analyst</code> are the most common job titles from our entire search. This might indicate that more generalist positions are more readily available in the job market in comparison to other, more specialised positions.
+</li>
+<li>
+Most of these are skills in the word cloud on qualifications are those that we’d expect to see: machine learning, big data, computer science, and deep learning.
+</li>
+<li>
+The word cloud on responsibilities gives an overview of what a day to day on the job might look like: project, team, research, analysis, and development are words that can throw light on the daily job responsibilities.
+</li>
+<li>
+Our network allows us to visualize the most common job titles and queries, elucidating the domains that are in high demand.
+</li>
+</ul></section>
 </section>
 <section id="conclusion" class="level2" data-number="1.5">
 <h2 data-number="1.5" class="anchored" data-anchor-id="conclusion"><span class="header-section-number">1.5</span> Conclusion</h2>
-<p>Through this visual project, we explored several facets of the current state of the market for data jobs in the US. We explored the data spatially, looking at which states had the most number of jobs available, and which states had the highest average salary. We also explored the most common cities and their average salaries. We saw that of the most common job titles, those like ‘Blockchain Engineer’ and ‘Machine Learning Engineer’ reigned supreme with the highest salaries. On the other hand, titles like ‘Data Scientist’ and ‘Data Analyst’ had considerably lower salaries, which might indicate that taking up a job which requires specialization would lead to a higher pay. However, most of these specialized jobs require at least a Master’s and most often a PhD, degree. The benefits of having a PhD are also noticed with the steep increase in job salary for an increase in experience, in comparison to other degree holders. Exploring remote and in-person options, we saw that while in-person jobs were a lot more available, remote jobs paid more, on average. We also explored experience required for jobs, and also the responsibilities and qualifications for these jobs. Finally, it is worth mentioning that the conclusions of this project are only limited to the data used for analysis, so it is difficult to establish causality or relationships for all job postings solely based off this particular dataset.</p>
+<p>Through this visual project, we explored several facets of the current state of the market for data jobs in the US. We explored the data spatially, looking at which states had the most number of jobs available, and which states had the highest average salary. We also explored the most common cities and their average salaries. Some of the more insightful takeaways from a holistic view of the visualizations include:</p>
+<ul>
+<li>
+Of the most common job titles, <code>Blockchain Engineer</code> and <code>Deep Learning Engineer</code> reigned supreme with the highest salaries, averaging <code>$166,000</code>.
+</li>
+<li>
+Although they were the 2 most common job titles from the entire dataset, the job titles <code>Data Scientist</code> and <code>Data Analyst</code> had considerably lower salaries, averaging <code>$110,000</code>, which might indicate that taking up a job which requires specialization would lead to a higher pay.
+</li>
+<li>
+However, most of these specialized jobs require at least a Master’s and most often a PhD, degree, which tend to be an extreme expense in terms of time, tuition money, and foregone salary.
+</li>
+<li>
+On the other hand, the benefits of having a PhD are also noticed with the steep increase in job salary for an increase in experience, in comparison to other degree holders.
+</li>
+<li>
+Exploring remote and in-person options, we saw that while in-person jobs were a lot more available, remote jobs paid more, on average.
+</li>
+</ul>
+<p>Finally, it is worth mentioning that the conclusions of this project are only limited to the data used for analysis, so it is difficult to establish causality or relationships for all job postings solely based off this particular dataset.</p>
 <p>Thank you for taking the time to view my project. I hope you enjoyed going through it as much as I enjoyed creating it!</p>
 
 
