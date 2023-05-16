@@ -2946,7 +2946,7 @@ vertical-align: -.125em;
 <span id="cb1-19"><a href="#cb1-19"></a><span class="im">import</span> random</span>
 <span id="cb1-20"><a href="#cb1-20"></a><span class="im">import</span> folium</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="248">
+<div class="cell" data-execution_count="4">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">&#39;../../data/job_data.csv&#39;</span>)</span>
 <span id="cb2-2"><a href="#cb2-2"></a>df[<span class="st">&#39;query&#39;</span>] <span class="op">=</span> df[<span class="st">&#39;query&#39;</span>].<span class="bu">apply</span>(<span class="kw">lambda</span> x: <span class="st">&#39; &#39;</span>.join(word <span class="cf">if</span> word <span class="op">==</span> <span class="st">&#39;and&#39;</span> <span class="cf">else</span> word.title() <span class="cf">for</span> word <span class="kw">in</span> x.split()))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
@@ -3163,7 +3163,7 @@ vertical-align: -.125em;
 </div>
 </div>
 </div>
-<div class="cell" data-execution_count="264">
+<div class="cell" data-execution_count="51">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1"></a></span>
 <span id="cb4-2"><a href="#cb4-2"></a></span>
 <span id="cb4-3"><a href="#cb4-3"></a><span class="co"># filter out &#39;Anywhere&#39; and &#39;United States&#39; locations</span></span>
@@ -3176,29 +3176,31 @@ vertical-align: -.125em;
 <span id="cb4-10"><a href="#cb4-10"></a>df_top_locations <span class="op">=</span> df_filtered[<span class="st">&#39;location&#39;</span>].value_counts().head(<span class="dv">5</span>).reset_index()</span>
 <span id="cb4-11"><a href="#cb4-11"></a>df_top_locations <span class="op">=</span> df_avg_salary.loc[df_avg_salary[<span class="st">&#39;location&#39;</span>].isin(df_top_locations[<span class="st">&#39;index&#39;</span>])]</span>
 <span id="cb4-12"><a href="#cb4-12"></a></span>
-<span id="cb4-13"><a href="#cb4-13"></a><span class="co"># create the bar plot</span></span>
-<span id="cb4-14"><a href="#cb4-14"></a>bar <span class="op">=</span> go.Bar(x<span class="op">=</span>df_top_locations[<span class="st">&#39;location&#39;</span>], y<span class="op">=</span>df_top_locations[<span class="st">&#39;salary&#39;</span>], name <span class="op">=</span> <span class="st">&#39;&#39;</span>, marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>),</span>
-<span id="cb4-15"><a href="#cb4-15"></a>             hovertemplate<span class="op">=</span><span class="st">&#39;City: %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;Average Salary: $%{y:,.2f}&#39;</span>)</span>
-<span id="cb4-16"><a href="#cb4-16"></a></span>
-<span id="cb4-17"><a href="#cb4-17"></a><span class="co"># set the plot layout</span></span>
-<span id="cb4-18"><a href="#cb4-18"></a>layout <span class="op">=</span> go.Layout(</span>
-<span id="cb4-19"><a href="#cb4-19"></a>                   xaxis_title<span class="op">=</span><span class="st">&#39;Location&#39;</span>,</span>
-<span id="cb4-20"><a href="#cb4-20"></a>                   yaxis_title<span class="op">=</span><span class="st">&#39;Average Salary (USD)&#39;</span>,</span>
-<span id="cb4-21"><a href="#cb4-21"></a>                   yaxis<span class="op">=</span><span class="bu">dict</span>(tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>),</span>
-<span id="cb4-22"><a href="#cb4-22"></a>                   template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
-<span id="cb4-23"><a href="#cb4-23"></a></span>
-<span id="cb4-24"><a href="#cb4-24"></a><span class="co"># create the figure and show the plot</span></span>
-<span id="cb4-25"><a href="#cb4-25"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[bar], layout<span class="op">=</span>layout)</span>
-<span id="cb4-26"><a href="#cb4-26"></a>fig.show()</span>
-<span id="cb4-27"><a href="#cb4-27"></a></span>
-<span id="cb4-28"><a href="#cb4-28"></a></span>
-<span id="cb4-29"><a href="#cb4-29"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-18.html&quot;</span>)</span>
-<span id="cb4-30"><a href="#cb4-30"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb4-13"><a href="#cb4-13"></a>df_top_locations <span class="op">=</span> df_top_locations.sort_values(<span class="st">&#39;salary&#39;</span>, ascending<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb4-14"><a href="#cb4-14"></a></span>
+<span id="cb4-15"><a href="#cb4-15"></a><span class="co"># create the bar plot</span></span>
+<span id="cb4-16"><a href="#cb4-16"></a>bar <span class="op">=</span> go.Bar(x<span class="op">=</span>df_top_locations[<span class="st">&#39;location&#39;</span>], y<span class="op">=</span>df_top_locations[<span class="st">&#39;salary&#39;</span>], name <span class="op">=</span> <span class="st">&#39;&#39;</span>, marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>),</span>
+<span id="cb4-17"><a href="#cb4-17"></a>             hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;City: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st">&lt;br&gt;&lt;b&gt;Average Salary: &lt;/b&gt;$%{y:,.2f}&#39;</span>)</span>
+<span id="cb4-18"><a href="#cb4-18"></a></span>
+<span id="cb4-19"><a href="#cb4-19"></a><span class="co"># set the plot layout</span></span>
+<span id="cb4-20"><a href="#cb4-20"></a>layout <span class="op">=</span> go.Layout(</span>
+<span id="cb4-21"><a href="#cb4-21"></a>                   xaxis_title<span class="op">=</span><span class="st">&#39;Location&#39;</span>,</span>
+<span id="cb4-22"><a href="#cb4-22"></a>                   yaxis_title<span class="op">=</span><span class="st">&#39;Average Annual Salary (USD)&#39;</span>,</span>
+<span id="cb4-23"><a href="#cb4-23"></a>                   yaxis<span class="op">=</span><span class="bu">dict</span>(tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>),</span>
+<span id="cb4-24"><a href="#cb4-24"></a>                   template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
+<span id="cb4-25"><a href="#cb4-25"></a></span>
+<span id="cb4-26"><a href="#cb4-26"></a><span class="co"># create the figure and show the plot</span></span>
+<span id="cb4-27"><a href="#cb4-27"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[bar], layout<span class="op">=</span>layout)</span>
+<span id="cb4-28"><a href="#cb4-28"></a>fig.show()</span>
+<span id="cb4-29"><a href="#cb4-29"></a></span>
+<span id="cb4-30"><a href="#cb4-30"></a></span>
+<span id="cb4-31"><a href="#cb4-31"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-18.html&quot;</span>)</span>
+<span id="cb4-32"><a href="#cb4-32"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="290">
+<div class="cell" data-execution_count="50">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1"></a><span class="co"># Filter out rows with location &quot;Anywhere&quot; or &quot;United States&quot;</span></span>
 <span id="cb6-2"><a href="#cb6-2"></a>df_filtered <span class="op">=</span> df[<span class="op">~</span>df[<span class="st">&#39;location&#39;</span>].isin([<span class="st">&#39;Anywhere&#39;</span>, <span class="st">&#39;United States&#39;</span>])]</span>
 <span id="cb6-3"><a href="#cb6-3"></a></span>
@@ -3210,11 +3212,11 @@ vertical-align: -.125em;
 <span id="cb6-9"><a href="#cb6-9"></a></span>
 <span id="cb6-10"><a href="#cb6-10"></a><span class="co"># Create a bar plot using Plotly</span></span>
 <span id="cb6-11"><a href="#cb6-11"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[go.Bar(x<span class="op">=</span>top_5[<span class="st">&#39;location&#39;</span>], y<span class="op">=</span>top_5[<span class="st">&#39;title&#39;</span>],</span>
-<span id="cb6-12"><a href="#cb6-12"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;City: %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;Number of Jobs: %</span><span class="sc">{y}</span><span class="st">&#39;</span>,</span>
+<span id="cb6-12"><a href="#cb6-12"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;City: &lt;/b&gt; %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;&lt;b&gt;Number of Jobs: &lt;/b&gt;%</span><span class="sc">{y}</span><span class="st">&#39;</span>,</span>
 <span id="cb6-13"><a href="#cb6-13"></a>                             name<span class="op">=</span><span class="st">&#39;&#39;</span>,</span>
 <span id="cb6-14"><a href="#cb6-14"></a>                             marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>))])</span>
 <span id="cb6-15"><a href="#cb6-15"></a>fig.update_layout(</span>
-<span id="cb6-16"><a href="#cb6-16"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Location&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count&#39;</span>,</span>
+<span id="cb6-16"><a href="#cb6-16"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Location&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count of Jobs&#39;</span>,</span>
 <span id="cb6-17"><a href="#cb6-17"></a>                  template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
 <span id="cb6-18"><a href="#cb6-18"></a>fig.show()</span>
 <span id="cb6-19"><a href="#cb6-19"></a></span>
@@ -3223,20 +3225,20 @@ vertical-align: -.125em;
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="274">
+<div class="cell" data-execution_count="49">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># Group by via and count the number of jobs</span></span>
-<span id="cb8-2"><a href="#cb8-2"></a>grouped_df <span class="op">=</span> df_filtered.groupby(<span class="st">&#39;via&#39;</span>)[<span class="st">&#39;title&#39;</span>].count().reset_index()</span>
+<span id="cb8-2"><a href="#cb8-2"></a>grouped_df <span class="op">=</span> df.groupby(<span class="st">&#39;via&#39;</span>)[<span class="st">&#39;title&#39;</span>].count().reset_index()</span>
 <span id="cb8-3"><a href="#cb8-3"></a></span>
 <span id="cb8-4"><a href="#cb8-4"></a><span class="co"># Get the top 5 via values by job count</span></span>
 <span id="cb8-5"><a href="#cb8-5"></a>top_5 <span class="op">=</span> grouped_df.nlargest(<span class="dv">5</span>, <span class="st">&#39;title&#39;</span>)</span>
 <span id="cb8-6"><a href="#cb8-6"></a></span>
 <span id="cb8-7"><a href="#cb8-7"></a><span class="co"># Create a bar plot using Plotly</span></span>
 <span id="cb8-8"><a href="#cb8-8"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[go.Bar(x<span class="op">=</span>top_5[<span class="st">&#39;via&#39;</span>], y<span class="op">=</span>top_5[<span class="st">&#39;title&#39;</span>],</span>
-<span id="cb8-9"><a href="#cb8-9"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;Posting Site: %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;Number of Jobs: %</span><span class="sc">{y}</span><span class="st">&#39;</span>,</span>
+<span id="cb8-9"><a href="#cb8-9"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Posting Site: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st">&lt;br&gt;&lt;b&gt;Number of Jobs: &lt;/b&gt;%</span><span class="sc">{y}</span><span class="st">&#39;</span>,</span>
 <span id="cb8-10"><a href="#cb8-10"></a>                             name <span class="op">=</span> <span class="st">&#39;&#39;</span>,</span>
 <span id="cb8-11"><a href="#cb8-11"></a>                             marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>))])</span>
 <span id="cb8-12"><a href="#cb8-12"></a>fig.update_layout(title<span class="op">=</span><span class="st">&#39;&#39;</span>,</span>
-<span id="cb8-13"><a href="#cb8-13"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Job Domain&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count&#39;</span>,</span>
+<span id="cb8-13"><a href="#cb8-13"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Job Domain&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count of Jobs&#39;</span>,</span>
 <span id="cb8-14"><a href="#cb8-14"></a>                  template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
 <span id="cb8-15"><a href="#cb8-15"></a>fig.show()</span>
 <span id="cb8-16"><a href="#cb8-16"></a></span>
@@ -3245,7 +3247,7 @@ vertical-align: -.125em;
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="273">
+<div class="cell" data-execution_count="48">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1"></a><span class="co"># group by title and count the number of jobs</span></span>
 <span id="cb10-2"><a href="#cb10-2"></a>grouped_df <span class="op">=</span> df_filtered.groupby(<span class="st">&#39;title&#39;</span>)[<span class="st">&#39;location&#39;</span>].count().reset_index()</span>
 <span id="cb10-3"><a href="#cb10-3"></a></span>
@@ -3254,11 +3256,11 @@ vertical-align: -.125em;
 <span id="cb10-6"><a href="#cb10-6"></a></span>
 <span id="cb10-7"><a href="#cb10-7"></a><span class="co"># create a bar plot using Plotly</span></span>
 <span id="cb10-8"><a href="#cb10-8"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[go.Bar(x<span class="op">=</span>top_5[<span class="st">&#39;title&#39;</span>], y<span class="op">=</span>top_5[<span class="st">&#39;location&#39;</span>],</span>
-<span id="cb10-9"><a href="#cb10-9"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;Title: %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;Number of Jobs: %</span><span class="sc">{y}</span><span class="st">&#39;</span>,</span>
+<span id="cb10-9"><a href="#cb10-9"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Title: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st">&lt;b&gt;&lt;br&gt;Number of Jobs: &lt;/b&gt;%</span><span class="sc">{y}</span><span class="st">&#39;</span>,</span>
 <span id="cb10-10"><a href="#cb10-10"></a>                             name <span class="op">=</span> <span class="st">&#39;&#39;</span>,</span>
 <span id="cb10-11"><a href="#cb10-11"></a>                             marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>))])</span>
 <span id="cb10-12"><a href="#cb10-12"></a>fig.update_layout(</span>
-<span id="cb10-13"><a href="#cb10-13"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Job Title&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count&#39;</span>,</span>
+<span id="cb10-13"><a href="#cb10-13"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Job Title&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count of Jobs&#39;</span>,</span>
 <span id="cb10-14"><a href="#cb10-14"></a>                  template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
 <span id="cb10-15"><a href="#cb10-15"></a>fig.show()</span>
 <span id="cb10-16"><a href="#cb10-16"></a></span>
@@ -3267,7 +3269,7 @@ vertical-align: -.125em;
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="291">
+<div class="cell" data-execution_count="52">
 <div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1"></a><span class="co"># get the top 5 most occurring job titles</span></span>
 <span id="cb12-2"><a href="#cb12-2"></a>top_5_titles <span class="op">=</span> df[<span class="st">&#39;title&#39;</span>].value_counts().nlargest(<span class="dv">5</span>).index.tolist()</span>
 <span id="cb12-3"><a href="#cb12-3"></a></span>
@@ -3276,14 +3278,14 @@ vertical-align: -.125em;
 <span id="cb12-6"><a href="#cb12-6"></a></span>
 <span id="cb12-7"><a href="#cb12-7"></a><span class="co"># get the average salary for each title</span></span>
 <span id="cb12-8"><a href="#cb12-8"></a>grouped_df <span class="op">=</span> df_filtered.groupby(<span class="st">&#39;title&#39;</span>)[<span class="st">&#39;salary&#39;</span>].mean().reset_index()</span>
-<span id="cb12-9"><a href="#cb12-9"></a></span>
+<span id="cb12-9"><a href="#cb12-9"></a>grouped_df <span class="op">=</span> grouped_df.sort_values(<span class="st">&#39;salary&#39;</span>, ascending<span class="op">=</span><span class="va">False</span>)</span>
 <span id="cb12-10"><a href="#cb12-10"></a><span class="co"># create a bar plot using Plotly</span></span>
 <span id="cb12-11"><a href="#cb12-11"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[go.Bar(x<span class="op">=</span>grouped_df[<span class="st">&#39;title&#39;</span>], y<span class="op">=</span>grouped_df[<span class="st">&#39;salary&#39;</span>],</span>
-<span id="cb12-12"><a href="#cb12-12"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;Title: %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;Average Salary: %{y:$,.2f}&#39;</span>,</span>
+<span id="cb12-12"><a href="#cb12-12"></a>                             hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Title: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st">&lt;b&gt;&lt;br&gt;Average Salary: &lt;/b&gt;%{y:$,.2f}&#39;</span>,</span>
 <span id="cb12-13"><a href="#cb12-13"></a>                             name<span class="op">=</span><span class="st">&#39;&#39;</span>,</span>
 <span id="cb12-14"><a href="#cb12-14"></a>                             marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>))])</span>
 <span id="cb12-15"><a href="#cb12-15"></a>fig.update_layout(</span>
-<span id="cb12-16"><a href="#cb12-16"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Job Title&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Average Salary (USD)&#39;</span>,</span>
+<span id="cb12-16"><a href="#cb12-16"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Job Title&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Average Annual Salary (USD)&#39;</span>,</span>
 <span id="cb12-17"><a href="#cb12-17"></a>                  template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
 <span id="cb12-18"><a href="#cb12-18"></a>fig.update_layout(</span>
 <span id="cb12-19"><a href="#cb12-19"></a>                  yaxis<span class="op">=</span><span class="bu">dict</span>(tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>),)</span>
@@ -3350,7 +3352,7 @@ vertical-align: -.125em;
 <div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1"></a><span class="im">import</span> mpld3</span>
 <span id="cb15-2"><a href="#cb15-2"></a><span class="im">from</span> mpld3 <span class="im">import</span> plugins</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="162">
+<div class="cell" data-execution_count="77">
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1"></a><span class="co"># group the data by query and degree, and count the number of jobs</span></span>
 <span id="cb16-2"><a href="#cb16-2"></a>df_grouped <span class="op">=</span> df.groupby([<span class="st">&#39;query&#39;</span>, <span class="st">&#39;degree&#39;</span>]).size().reset_index(name<span class="op">=</span><span class="st">&#39;count&#39;</span>)</span>
 <span id="cb16-3"><a href="#cb16-3"></a></span>
@@ -3365,7 +3367,7 @@ vertical-align: -.125em;
 <span id="cb16-12"><a href="#cb16-12"></a>        y<span class="op">=</span>df_grouped[df_grouped[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> degree][<span class="st">&#39;count&#39;</span>],</span>
 <span id="cb16-13"><a href="#cb16-13"></a>        name<span class="op">=</span>degree,</span>
 <span id="cb16-14"><a href="#cb16-14"></a>        marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span>colors[degree]),</span>
-<span id="cb16-15"><a href="#cb16-15"></a>        hovertemplate<span class="op">=</span><span class="st">&#39;Query: %</span><span class="sc">{x}</span><span class="st"> &#39;</span><span class="op">+</span> <span class="st">&#39;&lt;br&gt;Count: %</span><span class="sc">{y}</span><span class="st">&#39;</span></span>
+<span id="cb16-15"><a href="#cb16-15"></a>        hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Query: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st"> &#39;</span><span class="op">+</span> <span class="st">&#39;&lt;b&gt;&lt;br&gt;Number of Jobs: &lt;/b&gt;%</span><span class="sc">{y}</span><span class="st">&#39;</span></span>
 <span id="cb16-16"><a href="#cb16-16"></a>    )</span>
 <span id="cb16-17"><a href="#cb16-17"></a>    traces.append(trace)</span>
 <span id="cb16-18"><a href="#cb16-18"></a></span>
@@ -3374,7 +3376,7 @@ vertical-align: -.125em;
 <span id="cb16-21"><a href="#cb16-21"></a>    barmode<span class="op">=</span><span class="st">&#39;group&#39;</span>,</span>
 <span id="cb16-22"><a href="#cb16-22"></a>    template<span class="op">=</span><span class="st">&quot;plotly_dark&quot;</span>,</span>
 <span id="cb16-23"><a href="#cb16-23"></a>    xaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Query&#39;</span>),</span>
-<span id="cb16-24"><a href="#cb16-24"></a>    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Count&#39;</span>)</span>
+<span id="cb16-24"><a href="#cb16-24"></a>    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Count of Jobs&#39;</span>)</span>
 <span id="cb16-25"><a href="#cb16-25"></a>)</span>
 <span id="cb16-26"><a href="#cb16-26"></a></span>
 <span id="cb16-27"><a href="#cb16-27"></a><span class="co"># create the figure object and plot it</span></span>
@@ -3387,15 +3389,15 @@ vertical-align: -.125em;
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="281">
+<div class="cell" data-execution_count="79">
 <div class="sourceCode cell-code" id="cb18"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb18-1"><a href="#cb18-1"></a></span>
 <span id="cb18-2"><a href="#cb18-2"></a><span class="co"># create a histogram using Plotly</span></span>
 <span id="cb18-3"><a href="#cb18-3"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[go.Histogram(x<span class="op">=</span>df[<span class="st">&#39;salary&#39;</span>], nbinsx<span class="op">=</span><span class="dv">15</span>, marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>),</span>
-<span id="cb18-4"><a href="#cb18-4"></a>                                   hovertemplate<span class="op">=</span><span class="st">&#39;Salary Range: %</span><span class="sc">{x}</span><span class="st">&lt;br&gt;Count: %</span><span class="sc">{y}</span><span class="st">&#39;</span>, name <span class="op">=</span> <span class="st">&#39;&#39;</span>)])</span>
+<span id="cb18-4"><a href="#cb18-4"></a>                                   hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Annual Salary Range:&lt;/b&gt; %</span><span class="sc">{x}</span><span class="st">&lt;b&gt;&lt;br&gt;Number of Jobs: &lt;/b&gt;%</span><span class="sc">{y}</span><span class="st">&#39;</span>, name <span class="op">=</span> <span class="st">&#39;&#39;</span>)])</span>
 <span id="cb18-5"><a href="#cb18-5"></a></span>
 <span id="cb18-6"><a href="#cb18-6"></a><span class="co"># cpdate the layout of the figure</span></span>
 <span id="cb18-7"><a href="#cb18-7"></a>fig.update_layout(</span>
-<span id="cb18-8"><a href="#cb18-8"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Salary (USD)&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count&#39;</span>,</span>
+<span id="cb18-8"><a href="#cb18-8"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Annual Salary (USD)&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count of Jobs&#39;</span>,</span>
 <span id="cb18-9"><a href="#cb18-9"></a>                  template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>,</span>
 <span id="cb18-10"><a href="#cb18-10"></a>                  xaxis<span class="op">=</span><span class="bu">dict</span>(tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>)</span>
 <span id="cb18-11"><a href="#cb18-11"></a>                  )</span>
@@ -3408,15 +3410,15 @@ vertical-align: -.125em;
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="283">
+<div class="cell" data-execution_count="81">
 <div class="sourceCode cell-code" id="cb20"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1"></a></span>
 <span id="cb20-2"><a href="#cb20-2"></a><span class="co"># create a histogram using Plotly</span></span>
 <span id="cb20-3"><a href="#cb20-3"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>[go.Histogram(x<span class="op">=</span>df[<span class="st">&#39;experience&#39;</span>], nbinsx<span class="op">=</span><span class="dv">14</span>, marker<span class="op">=</span><span class="bu">dict</span>(color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>),</span>
-<span id="cb20-4"><a href="#cb20-4"></a>                                   hovertemplate<span class="op">=</span><span class="st">&#39;Experience Range: %</span><span class="sc">{x}</span><span class="st"> years&lt;br&gt;Count: %</span><span class="sc">{y}</span><span class="st">&#39;</span>, name <span class="op">=</span> <span class="st">&#39;&#39;</span>)])</span>
+<span id="cb20-4"><a href="#cb20-4"></a>                                   hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Experience Range: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st"> years&lt;br&gt;&lt;b&gt;Number of Jobs: &lt;/b&gt;%</span><span class="sc">{y}</span><span class="st">&#39;</span>, name <span class="op">=</span> <span class="st">&#39;&#39;</span>)])</span>
 <span id="cb20-5"><a href="#cb20-5"></a></span>
 <span id="cb20-6"><a href="#cb20-6"></a><span class="co"># update the layout of the figure</span></span>
 <span id="cb20-7"><a href="#cb20-7"></a>fig.update_layout(</span>
-<span id="cb20-8"><a href="#cb20-8"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Experience (Years)&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count&#39;</span>,</span>
+<span id="cb20-8"><a href="#cb20-8"></a>                  xaxis_title<span class="op">=</span><span class="st">&#39;Experience Required (Years)&#39;</span>, yaxis_title<span class="op">=</span><span class="st">&#39;Count of Jobs&#39;</span>,</span>
 <span id="cb20-9"><a href="#cb20-9"></a>                  template<span class="op">=</span><span class="st">&#39;plotly_dark&#39;</span>)</span>
 <span id="cb20-10"><a href="#cb20-10"></a></span>
 <span id="cb20-11"><a href="#cb20-11"></a><span class="co"># show the figure</span></span>
@@ -3427,47 +3429,64 @@ vertical-align: -.125em;
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
+<div class="cell" data-execution_count="9">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1"></a>df[<span class="st">&#39;via&#39;</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="9">
+<pre><code>LinkedIn                    66
+ZipRecruiter                60
+Upwork                      56
+AngelList                   36
+Lever                       23
+                            ..
+Teradyne Companies           1
+Staples Jobs                 1
+Alexandria, VA - Geebo       1
+Parsons Corporation Jobs     1
+WDHN Jobs                    1
+Name: via, Length: 219, dtype: int64</code></pre>
+</div>
+</div>
 <div class="cell" data-execution_count="279">
-<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1"></a></span>
-<span id="cb22-2"><a href="#cb22-2"></a></span>
-<span id="cb22-3"><a href="#cb22-3"></a><span class="co"># group by state and calculate average salary</span></span>
-<span id="cb22-4"><a href="#cb22-4"></a>state_salaries <span class="op">=</span> df.groupby(<span class="st">&#39;state&#39;</span>).mean().reset_index()</span>
-<span id="cb22-5"><a href="#cb22-5"></a></span>
-<span id="cb22-6"><a href="#cb22-6"></a><span class="co"># load US states geojson data</span></span>
-<span id="cb22-7"><a href="#cb22-7"></a>geo_data <span class="op">=</span> <span class="st">&#39;https://raw.githubusercontent.com/python-visualization/folium/master/examples/data&#39;</span></span>
-<span id="cb22-8"><a href="#cb22-8"></a></span>
-<span id="cb22-9"><a href="#cb22-9"></a><span class="co"># create map centered on the US</span></span>
-<span id="cb22-10"><a href="#cb22-10"></a><span class="bu">map</span> <span class="op">=</span> folium.Map(location<span class="op">=</span>[<span class="dv">37</span>, <span class="op">-</span><span class="dv">102</span>], zoom_start<span class="op">=</span><span class="dv">4</span>)</span>
-<span id="cb22-11"><a href="#cb22-11"></a></span>
-<span id="cb22-12"><a href="#cb22-12"></a><span class="co"># add heatmap layer</span></span>
-<span id="cb22-13"><a href="#cb22-13"></a>folium.Choropleth(</span>
-<span id="cb22-14"><a href="#cb22-14"></a>    geo_data<span class="op">=</span>geo_data <span class="op">+</span> <span class="st">&#39;/us-states.json&#39;</span>,</span>
-<span id="cb22-15"><a href="#cb22-15"></a>    name<span class="op">=</span><span class="st">&#39;choropleth&#39;</span>,</span>
-<span id="cb22-16"><a href="#cb22-16"></a>    data<span class="op">=</span>state_salaries,</span>
-<span id="cb22-17"><a href="#cb22-17"></a>    columns<span class="op">=</span>[<span class="st">&#39;state&#39;</span>, <span class="st">&#39;salary&#39;</span>],</span>
-<span id="cb22-18"><a href="#cb22-18"></a>    key_on<span class="op">=</span><span class="st">&#39;feature.properties.name&#39;</span>,</span>
-<span id="cb22-19"><a href="#cb22-19"></a>    fill_color<span class="op">=</span><span class="st">&#39;YlOrRd&#39;</span>,</span>
-<span id="cb22-20"><a href="#cb22-20"></a>    fill_opacity<span class="op">=</span><span class="fl">0.7</span>,</span>
-<span id="cb22-21"><a href="#cb22-21"></a>    line_opacity<span class="op">=</span><span class="fl">0.2</span>,</span>
-<span id="cb22-22"><a href="#cb22-22"></a>    legend_name<span class="op">=</span><span class="st">&#39;Average Salary by State (USD)&#39;</span>,</span>
-<span id="cb22-23"><a href="#cb22-23"></a>    tooltip<span class="op">=</span>folium.features.GeoJsonTooltip(</span>
-<span id="cb22-24"><a href="#cb22-24"></a>        fields<span class="op">=</span>[<span class="st">&#39;name&#39;</span>, <span class="st">&#39;salary&#39;</span>],</span>
-<span id="cb22-25"><a href="#cb22-25"></a>        aliases<span class="op">=</span>[<span class="st">&#39;State&#39;</span>, <span class="st">&#39;Average Salary&#39;</span>],</span>
-<span id="cb22-26"><a href="#cb22-26"></a>        style<span class="op">=</span><span class="st">&quot;background-color: white; color: #333333; font-family: Arial; font-size: 12px; padding: 10px;&quot;</span></span>
-<span id="cb22-27"><a href="#cb22-27"></a>    )</span>
-<span id="cb22-28"><a href="#cb22-28"></a>).add_to(<span class="bu">map</span>)</span>
-<span id="cb22-29"><a href="#cb22-29"></a></span>
-<span id="cb22-30"><a href="#cb22-30"></a><span class="co"># add layer control</span></span>
-<span id="cb22-31"><a href="#cb22-31"></a>folium.LayerControl().add_to(<span class="bu">map</span>)</span>
-<span id="cb22-32"><a href="#cb22-32"></a></span>
-<span id="cb22-33"><a href="#cb22-33"></a><span class="co"># show map</span></span>
-<span id="cb22-34"><a href="#cb22-34"></a><span class="bu">map</span></span>
-<span id="cb22-35"><a href="#cb22-35"></a></span>
-<span id="cb22-36"><a href="#cb22-36"></a><span class="bu">map</span>.save(<span class="st">&quot;../../website/plots/plot-11.html&quot;</span>)</span>
-<span id="cb22-37"><a href="#cb22-37"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb24-1"><a href="#cb24-1"></a></span>
+<span id="cb24-2"><a href="#cb24-2"></a></span>
+<span id="cb24-3"><a href="#cb24-3"></a><span class="co"># group by state and calculate average salary</span></span>
+<span id="cb24-4"><a href="#cb24-4"></a>state_salaries <span class="op">=</span> df.groupby(<span class="st">&#39;state&#39;</span>).mean().reset_index()</span>
+<span id="cb24-5"><a href="#cb24-5"></a></span>
+<span id="cb24-6"><a href="#cb24-6"></a><span class="co"># load US states geojson data</span></span>
+<span id="cb24-7"><a href="#cb24-7"></a>geo_data <span class="op">=</span> <span class="st">&#39;https://raw.githubusercontent.com/python-visualization/folium/master/examples/data&#39;</span></span>
+<span id="cb24-8"><a href="#cb24-8"></a></span>
+<span id="cb24-9"><a href="#cb24-9"></a><span class="co"># create map centered on the US</span></span>
+<span id="cb24-10"><a href="#cb24-10"></a><span class="bu">map</span> <span class="op">=</span> folium.Map(location<span class="op">=</span>[<span class="dv">37</span>, <span class="op">-</span><span class="dv">102</span>], zoom_start<span class="op">=</span><span class="dv">4</span>)</span>
+<span id="cb24-11"><a href="#cb24-11"></a></span>
+<span id="cb24-12"><a href="#cb24-12"></a><span class="co"># add heatmap layer</span></span>
+<span id="cb24-13"><a href="#cb24-13"></a>folium.Choropleth(</span>
+<span id="cb24-14"><a href="#cb24-14"></a>    geo_data<span class="op">=</span>geo_data <span class="op">+</span> <span class="st">&#39;/us-states.json&#39;</span>,</span>
+<span id="cb24-15"><a href="#cb24-15"></a>    name<span class="op">=</span><span class="st">&#39;choropleth&#39;</span>,</span>
+<span id="cb24-16"><a href="#cb24-16"></a>    data<span class="op">=</span>state_salaries,</span>
+<span id="cb24-17"><a href="#cb24-17"></a>    columns<span class="op">=</span>[<span class="st">&#39;state&#39;</span>, <span class="st">&#39;salary&#39;</span>],</span>
+<span id="cb24-18"><a href="#cb24-18"></a>    key_on<span class="op">=</span><span class="st">&#39;feature.properties.name&#39;</span>,</span>
+<span id="cb24-19"><a href="#cb24-19"></a>    fill_color<span class="op">=</span><span class="st">&#39;YlOrRd&#39;</span>,</span>
+<span id="cb24-20"><a href="#cb24-20"></a>    fill_opacity<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb24-21"><a href="#cb24-21"></a>    line_opacity<span class="op">=</span><span class="fl">0.2</span>,</span>
+<span id="cb24-22"><a href="#cb24-22"></a>    legend_name<span class="op">=</span><span class="st">&#39;Average Salary by State (USD)&#39;</span>,</span>
+<span id="cb24-23"><a href="#cb24-23"></a>    tooltip<span class="op">=</span>folium.features.GeoJsonTooltip(</span>
+<span id="cb24-24"><a href="#cb24-24"></a>        fields<span class="op">=</span>[<span class="st">&#39;name&#39;</span>, <span class="st">&#39;salary&#39;</span>],</span>
+<span id="cb24-25"><a href="#cb24-25"></a>        aliases<span class="op">=</span>[<span class="st">&#39;State&#39;</span>, <span class="st">&#39;Average Salary&#39;</span>],</span>
+<span id="cb24-26"><a href="#cb24-26"></a>        style<span class="op">=</span><span class="st">&quot;background-color: white; color: #333333; font-family: Arial; font-size: 12px; padding: 10px;&quot;</span></span>
+<span id="cb24-27"><a href="#cb24-27"></a>    )</span>
+<span id="cb24-28"><a href="#cb24-28"></a>).add_to(<span class="bu">map</span>)</span>
+<span id="cb24-29"><a href="#cb24-29"></a></span>
+<span id="cb24-30"><a href="#cb24-30"></a><span class="co"># add layer control</span></span>
+<span id="cb24-31"><a href="#cb24-31"></a>folium.LayerControl().add_to(<span class="bu">map</span>)</span>
+<span id="cb24-32"><a href="#cb24-32"></a></span>
+<span id="cb24-33"><a href="#cb24-33"></a><span class="co"># show map</span></span>
+<span id="cb24-34"><a href="#cb24-34"></a><span class="bu">map</span></span>
+<span id="cb24-35"><a href="#cb24-35"></a></span>
+<span id="cb24-36"><a href="#cb24-36"></a><span class="bu">map</span>.save(<span class="st">&quot;../../website/plots/plot-11.html&quot;</span>)</span>
+<span id="cb24-37"><a href="#cb24-37"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell" data-execution_count="189">
-<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb23-1"><a href="#cb23-1"></a>df[<span class="st">&#39;company_name&#39;</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb25-1"><a href="#cb25-1"></a>df[<span class="st">&#39;company_name&#39;</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display" data-execution_count="189">
 <pre><code>Booz Allen Hamilton                       17
 Apple                                     10
@@ -3484,13 +3503,13 @@ Name: company_name, Length: 221, dtype: int64</code></pre>
 </div>
 </div>
 <div class="cell" data-execution_count="193">
-<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb25-1"><a href="#cb25-1"></a><span class="co"># Get the top 5 most occurring company names</span></span>
-<span id="cb25-2"><a href="#cb25-2"></a>top_5 <span class="op">=</span> df[<span class="st">&#39;company_name&#39;</span>].value_counts().head(<span class="dv">5</span>).index.tolist()</span>
-<span id="cb25-3"><a href="#cb25-3"></a></span>
-<span id="cb25-4"><a href="#cb25-4"></a><span class="co"># Get the average salary for each of the top 5 companies</span></span>
-<span id="cb25-5"><a href="#cb25-5"></a><span class="cf">for</span> company <span class="kw">in</span> top_5:</span>
-<span id="cb25-6"><a href="#cb25-6"></a>    avg_salary <span class="op">=</span> df[df[<span class="st">&#39;company_name&#39;</span>] <span class="op">==</span> company][<span class="st">&#39;salary&#39;</span>].mean()</span>
-<span id="cb25-7"><a href="#cb25-7"></a>    <span class="bu">print</span>(<span class="ss">f&quot;</span><span class="sc">{</span>company<span class="sc">}</span><span class="ss">: $</span><span class="sc">{</span>avg_salary<span class="sc">:.2f}</span><span class="ss">&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb27-1"><a href="#cb27-1"></a><span class="co"># Get the top 5 most occurring company names</span></span>
+<span id="cb27-2"><a href="#cb27-2"></a>top_5 <span class="op">=</span> df[<span class="st">&#39;company_name&#39;</span>].value_counts().head(<span class="dv">5</span>).index.tolist()</span>
+<span id="cb27-3"><a href="#cb27-3"></a></span>
+<span id="cb27-4"><a href="#cb27-4"></a><span class="co"># Get the average salary for each of the top 5 companies</span></span>
+<span id="cb27-5"><a href="#cb27-5"></a><span class="cf">for</span> company <span class="kw">in</span> top_5:</span>
+<span id="cb27-6"><a href="#cb27-6"></a>    avg_salary <span class="op">=</span> df[df[<span class="st">&#39;company_name&#39;</span>] <span class="op">==</span> company][<span class="st">&#39;salary&#39;</span>].mean()</span>
+<span id="cb27-7"><a href="#cb27-7"></a>    <span class="bu">print</span>(<span class="ss">f&quot;</span><span class="sc">{</span>company<span class="sc">}</span><span class="ss">: $</span><span class="sc">{</span>avg_salary<span class="sc">:.2f}</span><span class="ss">&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Booz Allen Hamilton: $136403.12
 Apple: $173942.00
@@ -3500,154 +3519,158 @@ Leidos: $176218.00</code></pre>
 </div>
 </div>
 <div class="cell" data-execution_count="184">
-<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb27-1"><a href="#cb27-1"></a><span class="co"># group by state and calculate the number of jobs</span></span>
-<span id="cb27-2"><a href="#cb27-2"></a>state_jobs <span class="op">=</span> df.groupby(<span class="st">&#39;state&#39;</span>)[<span class="st">&#39;title&#39;</span>].count().reset_index()</span>
-<span id="cb27-3"><a href="#cb27-3"></a>state_jobs.columns <span class="op">=</span> [<span class="st">&#39;state&#39;</span>, <span class="st">&#39;jobs&#39;</span>]</span>
-<span id="cb27-4"><a href="#cb27-4"></a></span>
-<span id="cb27-5"><a href="#cb27-5"></a><span class="co"># load US states geojson data</span></span>
-<span id="cb27-6"><a href="#cb27-6"></a>geo_data <span class="op">=</span> <span class="st">&#39;https://raw.githubusercontent.com/python-visualization/folium/master/examples/data&#39;</span></span>
-<span id="cb27-7"><a href="#cb27-7"></a></span>
-<span id="cb27-8"><a href="#cb27-8"></a><span class="co"># create map centered on the US</span></span>
-<span id="cb27-9"><a href="#cb27-9"></a><span class="bu">map</span> <span class="op">=</span> folium.Map(location<span class="op">=</span>[<span class="dv">37</span>, <span class="op">-</span><span class="dv">102</span>], zoom_start<span class="op">=</span><span class="dv">4</span>)</span>
-<span id="cb27-10"><a href="#cb27-10"></a></span>
-<span id="cb27-11"><a href="#cb27-11"></a><span class="co"># Add heatmap layer</span></span>
-<span id="cb27-12"><a href="#cb27-12"></a>folium.Choropleth(</span>
-<span id="cb27-13"><a href="#cb27-13"></a>    geo_data<span class="op">=</span>geo_data <span class="op">+</span> <span class="st">&#39;/us-states.json&#39;</span>,</span>
-<span id="cb27-14"><a href="#cb27-14"></a>    name<span class="op">=</span><span class="st">&#39;choropleth&#39;</span>,</span>
-<span id="cb27-15"><a href="#cb27-15"></a>    data<span class="op">=</span>state_jobs,</span>
-<span id="cb27-16"><a href="#cb27-16"></a>    columns<span class="op">=</span>[<span class="st">&#39;state&#39;</span>, <span class="st">&#39;jobs&#39;</span>],</span>
-<span id="cb27-17"><a href="#cb27-17"></a>    key_on<span class="op">=</span><span class="st">&#39;feature.properties.name&#39;</span>,</span>
-<span id="cb27-18"><a href="#cb27-18"></a>    fill_color<span class="op">=</span><span class="st">&#39;YlOrRd&#39;</span>,</span>
-<span id="cb27-19"><a href="#cb27-19"></a>    fill_opacity<span class="op">=</span><span class="fl">0.7</span>,</span>
-<span id="cb27-20"><a href="#cb27-20"></a>    line_opacity<span class="op">=</span><span class="fl">0.2</span>,</span>
-<span id="cb27-21"><a href="#cb27-21"></a>    legend_name<span class="op">=</span><span class="st">&#39;Number of Jobs by State&#39;</span>,</span>
-<span id="cb27-22"><a href="#cb27-22"></a>    tooltip<span class="op">=</span>folium.features.GeoJsonTooltip(</span>
-<span id="cb27-23"><a href="#cb27-23"></a>        fields<span class="op">=</span>[<span class="st">&#39;name&#39;</span>, <span class="st">&#39;jobs&#39;</span>],</span>
-<span id="cb27-24"><a href="#cb27-24"></a>        aliases<span class="op">=</span>[<span class="st">&#39;State&#39;</span>, <span class="st">&#39;Number of Jobs&#39;</span>],</span>
-<span id="cb27-25"><a href="#cb27-25"></a>        style<span class="op">=</span><span class="st">&quot;background-color: white; color: #333333; font-family: Arial; font-size: 12px; padding: 10px;&quot;</span></span>
-<span id="cb27-26"><a href="#cb27-26"></a>    )</span>
-<span id="cb27-27"><a href="#cb27-27"></a>).add_to(<span class="bu">map</span>)</span>
-<span id="cb27-28"><a href="#cb27-28"></a></span>
-<span id="cb27-29"><a href="#cb27-29"></a><span class="co"># add layer control</span></span>
-<span id="cb27-30"><a href="#cb27-30"></a>folium.LayerControl().add_to(<span class="bu">map</span>)</span>
-<span id="cb27-31"><a href="#cb27-31"></a></span>
-<span id="cb27-32"><a href="#cb27-32"></a><span class="co"># show map</span></span>
-<span id="cb27-33"><a href="#cb27-33"></a><span class="bu">map</span></span>
-<span id="cb27-34"><a href="#cb27-34"></a></span>
-<span id="cb27-35"><a href="#cb27-35"></a><span class="bu">map</span>.save(<span class="st">&quot;../../website/plots/plot-16.html&quot;</span>)</span>
-<span id="cb27-36"><a href="#cb27-36"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb29-1"><a href="#cb29-1"></a><span class="co"># group by state and calculate the number of jobs</span></span>
+<span id="cb29-2"><a href="#cb29-2"></a>state_jobs <span class="op">=</span> df.groupby(<span class="st">&#39;state&#39;</span>)[<span class="st">&#39;title&#39;</span>].count().reset_index()</span>
+<span id="cb29-3"><a href="#cb29-3"></a>state_jobs.columns <span class="op">=</span> [<span class="st">&#39;state&#39;</span>, <span class="st">&#39;jobs&#39;</span>]</span>
+<span id="cb29-4"><a href="#cb29-4"></a></span>
+<span id="cb29-5"><a href="#cb29-5"></a><span class="co"># load US states geojson data</span></span>
+<span id="cb29-6"><a href="#cb29-6"></a>geo_data <span class="op">=</span> <span class="st">&#39;https://raw.githubusercontent.com/python-visualization/folium/master/examples/data&#39;</span></span>
+<span id="cb29-7"><a href="#cb29-7"></a></span>
+<span id="cb29-8"><a href="#cb29-8"></a><span class="co"># create map centered on the US</span></span>
+<span id="cb29-9"><a href="#cb29-9"></a><span class="bu">map</span> <span class="op">=</span> folium.Map(location<span class="op">=</span>[<span class="dv">37</span>, <span class="op">-</span><span class="dv">102</span>], zoom_start<span class="op">=</span><span class="dv">4</span>)</span>
+<span id="cb29-10"><a href="#cb29-10"></a></span>
+<span id="cb29-11"><a href="#cb29-11"></a><span class="co"># Add heatmap layer</span></span>
+<span id="cb29-12"><a href="#cb29-12"></a>folium.Choropleth(</span>
+<span id="cb29-13"><a href="#cb29-13"></a>    geo_data<span class="op">=</span>geo_data <span class="op">+</span> <span class="st">&#39;/us-states.json&#39;</span>,</span>
+<span id="cb29-14"><a href="#cb29-14"></a>    name<span class="op">=</span><span class="st">&#39;choropleth&#39;</span>,</span>
+<span id="cb29-15"><a href="#cb29-15"></a>    data<span class="op">=</span>state_jobs,</span>
+<span id="cb29-16"><a href="#cb29-16"></a>    columns<span class="op">=</span>[<span class="st">&#39;state&#39;</span>, <span class="st">&#39;jobs&#39;</span>],</span>
+<span id="cb29-17"><a href="#cb29-17"></a>    key_on<span class="op">=</span><span class="st">&#39;feature.properties.name&#39;</span>,</span>
+<span id="cb29-18"><a href="#cb29-18"></a>    fill_color<span class="op">=</span><span class="st">&#39;YlOrRd&#39;</span>,</span>
+<span id="cb29-19"><a href="#cb29-19"></a>    fill_opacity<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb29-20"><a href="#cb29-20"></a>    line_opacity<span class="op">=</span><span class="fl">0.2</span>,</span>
+<span id="cb29-21"><a href="#cb29-21"></a>    legend_name<span class="op">=</span><span class="st">&#39;Number of Jobs by State&#39;</span>,</span>
+<span id="cb29-22"><a href="#cb29-22"></a>    tooltip<span class="op">=</span>folium.features.GeoJsonTooltip(</span>
+<span id="cb29-23"><a href="#cb29-23"></a>        fields<span class="op">=</span>[<span class="st">&#39;name&#39;</span>, <span class="st">&#39;jobs&#39;</span>],</span>
+<span id="cb29-24"><a href="#cb29-24"></a>        aliases<span class="op">=</span>[<span class="st">&#39;State&#39;</span>, <span class="st">&#39;Number of Jobs&#39;</span>],</span>
+<span id="cb29-25"><a href="#cb29-25"></a>        style<span class="op">=</span><span class="st">&quot;background-color: white; color: #333333; font-family: Arial; font-size: 12px; padding: 10px;&quot;</span></span>
+<span id="cb29-26"><a href="#cb29-26"></a>    )</span>
+<span id="cb29-27"><a href="#cb29-27"></a>).add_to(<span class="bu">map</span>)</span>
+<span id="cb29-28"><a href="#cb29-28"></a></span>
+<span id="cb29-29"><a href="#cb29-29"></a><span class="co"># add layer control</span></span>
+<span id="cb29-30"><a href="#cb29-30"></a>folium.LayerControl().add_to(<span class="bu">map</span>)</span>
+<span id="cb29-31"><a href="#cb29-31"></a></span>
+<span id="cb29-32"><a href="#cb29-32"></a><span class="co"># show map</span></span>
+<span id="cb29-33"><a href="#cb29-33"></a><span class="bu">map</span></span>
+<span id="cb29-34"><a href="#cb29-34"></a></span>
+<span id="cb29-35"><a href="#cb29-35"></a><span class="co">#map.save(&quot;../../website/plots/plot-16.html&quot;)</span></span>
+<span id="cb29-36"><a href="#cb29-36"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="289">
-<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb28-1"><a href="#cb28-1"></a><span class="co"># define the trace for each degree</span></span>
-<span id="cb28-2"><a href="#cb28-2"></a>traces <span class="op">=</span> []</span>
-<span id="cb28-3"><a href="#cb28-3"></a><span class="cf">for</span> degree <span class="kw">in</span> df[<span class="st">&#39;degree&#39;</span>].unique():</span>
-<span id="cb28-4"><a href="#cb28-4"></a>    trace <span class="op">=</span> go.Scatter(</span>
-<span id="cb28-5"><a href="#cb28-5"></a>        x<span class="op">=</span>df[df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> degree][<span class="st">&#39;experience&#39;</span>],</span>
-<span id="cb28-6"><a href="#cb28-6"></a>        y<span class="op">=</span>df[df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> degree][<span class="st">&#39;salary&#39;</span>],</span>
-<span id="cb28-7"><a href="#cb28-7"></a>        mode<span class="op">=</span><span class="st">&#39;markers&#39;</span>,</span>
-<span id="cb28-8"><a href="#cb28-8"></a>        name<span class="op">=</span>degree,</span>
-<span id="cb28-9"><a href="#cb28-9"></a>        marker<span class="op">=</span><span class="bu">dict</span>(size<span class="op">=</span><span class="dv">8</span>),</span>
-<span id="cb28-10"><a href="#cb28-10"></a>        hovertemplate<span class="op">=</span><span class="st">&#39;Experience Required: %</span><span class="sc">{x}</span><span class="st"> years&lt;br&gt;Salary: $%{y:,.0f}&#39;</span></span>
-<span id="cb28-11"><a href="#cb28-11"></a>    )</span>
-<span id="cb28-12"><a href="#cb28-12"></a>    traces.append(trace)</span>
-<span id="cb28-13"><a href="#cb28-13"></a></span>
-<span id="cb28-14"><a href="#cb28-14"></a>layout <span class="op">=</span> go.Layout(</span>
-<span id="cb28-15"><a href="#cb28-15"></a>    xaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Experience (Years)&#39;</span>),</span>
-<span id="cb28-16"><a href="#cb28-16"></a>    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Salary (USD)&#39;</span>, tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>),</span>
-<span id="cb28-17"><a href="#cb28-17"></a>    template <span class="op">=</span> <span class="st">&#39;plotly_dark&#39;</span></span>
-<span id="cb28-18"><a href="#cb28-18"></a>)</span>
-<span id="cb28-19"><a href="#cb28-19"></a><span class="co"># create the figure object and plot it</span></span>
-<span id="cb28-20"><a href="#cb28-20"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>traces, layout<span class="op">=</span>layout)</span>
-<span id="cb28-21"><a href="#cb28-21"></a>fig.show()</span>
-<span id="cb28-22"><a href="#cb28-22"></a></span>
-<span id="cb28-23"><a href="#cb28-23"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-8.html&quot;</span>)</span>
-<span id="cb28-24"><a href="#cb28-24"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell" data-execution_count="78">
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb30-1"><a href="#cb30-1"></a><span class="co"># define the trace for each degree</span></span>
+<span id="cb30-2"><a href="#cb30-2"></a>traces <span class="op">=</span> []</span>
+<span id="cb30-3"><a href="#cb30-3"></a><span class="cf">for</span> degree <span class="kw">in</span> df[<span class="st">&#39;degree&#39;</span>].unique():</span>
+<span id="cb30-4"><a href="#cb30-4"></a>    trace <span class="op">=</span> go.Scatter(</span>
+<span id="cb30-5"><a href="#cb30-5"></a>        x<span class="op">=</span>df[df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> degree][<span class="st">&#39;experience&#39;</span>],</span>
+<span id="cb30-6"><a href="#cb30-6"></a>        y<span class="op">=</span>df[df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> degree][<span class="st">&#39;salary&#39;</span>],</span>
+<span id="cb30-7"><a href="#cb30-7"></a>        mode<span class="op">=</span><span class="st">&#39;markers&#39;</span>,</span>
+<span id="cb30-8"><a href="#cb30-8"></a>        name<span class="op">=</span>degree,</span>
+<span id="cb30-9"><a href="#cb30-9"></a>        marker<span class="op">=</span><span class="bu">dict</span>(size<span class="op">=</span><span class="dv">8</span>),</span>
+<span id="cb30-10"><a href="#cb30-10"></a>        hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;Experience Required: &lt;/b&gt;%</span><span class="sc">{x}</span><span class="st"> years&lt;br&gt;&lt;b&gt;Salary: &lt;/b&gt;$%{y:,.0f}&#39;</span></span>
+<span id="cb30-11"><a href="#cb30-11"></a>    )</span>
+<span id="cb30-12"><a href="#cb30-12"></a>    traces.append(trace)</span>
+<span id="cb30-13"><a href="#cb30-13"></a></span>
+<span id="cb30-14"><a href="#cb30-14"></a>layout <span class="op">=</span> go.Layout(</span>
+<span id="cb30-15"><a href="#cb30-15"></a>    xaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Experience Required (Years)&#39;</span>, <span class="bu">range</span> <span class="op">=</span> [<span class="dv">0</span>,<span class="dv">10</span>]),</span>
+<span id="cb30-16"><a href="#cb30-16"></a>    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Annual Salary (USD)&#39;</span>, tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>),</span>
+<span id="cb30-17"><a href="#cb30-17"></a>    template <span class="op">=</span> <span class="st">&#39;plotly_dark&#39;</span>,</span>
+<span id="cb30-18"><a href="#cb30-18"></a>    annotations<span class="op">=</span>[</span>
+<span id="cb30-19"><a href="#cb30-19"></a>        <span class="bu">dict</span>(</span>
+<span id="cb30-20"><a href="#cb30-20"></a>            xref<span class="op">=</span><span class="st">&#39;paper&#39;</span>,</span>
+<span id="cb30-21"><a href="#cb30-21"></a>            yref<span class="op">=</span><span class="st">&#39;paper&#39;</span>,</span>
+<span id="cb30-22"><a href="#cb30-22"></a>            x<span class="op">=</span><span class="fl">1.1</span>,</span>
+<span id="cb30-23"><a href="#cb30-23"></a>            y<span class="op">=</span><span class="fl">1.2</span>,</span>
+<span id="cb30-24"><a href="#cb30-24"></a>            text<span class="op">=</span><span class="st">&#39;Explore experience and salary correlations for different degrees!&#39;</span>,</span>
+<span id="cb30-25"><a href="#cb30-25"></a>            showarrow<span class="op">=</span><span class="va">False</span>,</span>
+<span id="cb30-26"><a href="#cb30-26"></a>            font<span class="op">=</span><span class="bu">dict</span>(family<span class="op">=</span><span class="st">&#39;Arial&#39;</span>, size<span class="op">=</span><span class="dv">14</span>, color<span class="op">=</span><span class="st">&#39;white&#39;</span>),</span>
+<span id="cb30-27"><a href="#cb30-27"></a>            bgcolor<span class="op">=</span><span class="st">&#39;crimson&#39;</span>,</span>
+<span id="cb30-28"><a href="#cb30-28"></a>            bordercolor<span class="op">=</span><span class="st">&#39;crimson&#39;</span>,</span>
+<span id="cb30-29"><a href="#cb30-29"></a>            borderwidth<span class="op">=</span><span class="dv">2</span>,</span>
+<span id="cb30-30"><a href="#cb30-30"></a>            borderpad<span class="op">=</span><span class="dv">4</span>,</span>
+<span id="cb30-31"><a href="#cb30-31"></a>            xanchor<span class="op">=</span><span class="st">&#39;right&#39;</span>,</span>
+<span id="cb30-32"><a href="#cb30-32"></a>            yanchor<span class="op">=</span><span class="st">&#39;top&#39;</span></span>
+<span id="cb30-33"><a href="#cb30-33"></a>        )</span>
+<span id="cb30-34"><a href="#cb30-34"></a>    ]</span>
+<span id="cb30-35"><a href="#cb30-35"></a>)</span>
+<span id="cb30-36"><a href="#cb30-36"></a><span class="co"># create the figure object and plot it</span></span>
+<span id="cb30-37"><a href="#cb30-37"></a>fig <span class="op">=</span> go.Figure(data<span class="op">=</span>traces, layout<span class="op">=</span>layout)</span>
+<span id="cb30-38"><a href="#cb30-38"></a>fig.show()</span>
+<span id="cb30-39"><a href="#cb30-39"></a></span>
+<span id="cb30-40"><a href="#cb30-40"></a><span class="co">#How do i add an annotation to the top right which says &quot;Play with the graph!&quot;</span></span>
+<span id="cb30-41"><a href="#cb30-41"></a></span>
+<span id="cb30-42"><a href="#cb30-42"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-8.html&quot;</span>)</span>
+<span id="cb30-43"><a href="#cb30-43"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="287">
-<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb30-1"><a href="#cb30-1"></a></span>
-<span id="cb30-2"><a href="#cb30-2"></a><span class="co"># group the data by &#39;remote&#39;</span></span>
-<span id="cb30-3"><a href="#cb30-3"></a>grouped_df <span class="op">=</span> df.groupby(<span class="st">&#39;remote&#39;</span>)</span>
-<span id="cb30-4"><a href="#cb30-4"></a></span>
-<span id="cb30-5"><a href="#cb30-5"></a><span class="co"># create the figure object</span></span>
-<span id="cb30-6"><a href="#cb30-6"></a>fig <span class="op">=</span> go.Figure()</span>
-<span id="cb30-7"><a href="#cb30-7"></a></span>
-<span id="cb30-8"><a href="#cb30-8"></a><span class="co"># add the box traces for the remote groups</span></span>
-<span id="cb30-9"><a href="#cb30-9"></a><span class="cf">for</span> remote, group_df <span class="kw">in</span> grouped_df:</span>
-<span id="cb30-10"><a href="#cb30-10"></a>    fig.add_trace(go.Box(</span>
-<span id="cb30-11"><a href="#cb30-11"></a>        y<span class="op">=</span>group_df.loc[group_df[<span class="st">&#39;remote&#39;</span>] <span class="op">==</span> remote, <span class="st">&#39;salary&#39;</span>],</span>
-<span id="cb30-12"><a href="#cb30-12"></a>        name<span class="op">=</span><span class="bu">str</span>(remote),</span>
-<span id="cb30-13"><a href="#cb30-13"></a>        hovertemplate <span class="op">=</span> (<span class="st">&#39;Max: $%</span><span class="sc">{y:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-14"><a href="#cb30-14"></a>                 <span class="st">&#39;Upper Fence: $%</span><span class="sc">{upperfence:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-15"><a href="#cb30-15"></a>                 <span class="st">&#39;75th Percentile: $%</span><span class="sc">{q3:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-16"><a href="#cb30-16"></a>                 <span class="st">&#39;Median: $%</span><span class="sc">{median:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-17"><a href="#cb30-17"></a>                 <span class="st">&#39;25th Percentile: $%</span><span class="sc">{q1:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-18"><a href="#cb30-18"></a>                 <span class="st">&#39;Lower Fence: $%</span><span class="sc">{lowerfence:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-19"><a href="#cb30-19"></a>                 <span class="st">&#39;Min: $%</span><span class="sc">{min}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
-<span id="cb30-20"><a href="#cb30-20"></a>                 <span class="st">&#39;&lt;extra&gt;&lt;/extra&gt;&#39;</span>),</span>
-<span id="cb30-21"><a href="#cb30-21"></a>        marker_color<span class="op">=</span><span class="st">&#39;crimson&#39;</span> <span class="cf">if</span> remote <span class="cf">else</span> <span class="st">&#39;lightseagreen&#39;</span>))</span>
-<span id="cb30-22"><a href="#cb30-22"></a></span>
-<span id="cb30-23"><a href="#cb30-23"></a><span class="co"># create the dropdown menu options</span></span>
-<span id="cb30-24"><a href="#cb30-24"></a>dropdown_options <span class="op">=</span> [</span>
-<span id="cb30-25"><a href="#cb30-25"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&#39;Remote&#39;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&#39;remote&#39;</span>},</span>
-<span id="cb30-26"><a href="#cb30-26"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&quot;Bachelor&#39;s&quot;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&quot;Bachelor&#39;s&quot;</span>},</span>
-<span id="cb30-27"><a href="#cb30-27"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&quot;Master&#39;s&quot;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&quot;Master&#39;s&quot;</span>},</span>
-<span id="cb30-28"><a href="#cb30-28"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&#39;PhD&#39;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&#39;PhD&#39;</span>}</span>
-<span id="cb30-29"><a href="#cb30-29"></a>]</span>
-<span id="cb30-30"><a href="#cb30-30"></a></span>
-<span id="cb30-31"><a href="#cb30-31"></a><span class="co"># define the update menu</span></span>
-<span id="cb30-32"><a href="#cb30-32"></a>updatemenu <span class="op">=</span> go.layout.Updatemenu(</span>
-<span id="cb30-33"><a href="#cb30-33"></a>    buttons<span class="op">=</span>[</span>
-<span id="cb30-34"><a href="#cb30-34"></a>        <span class="bu">dict</span>(label<span class="op">=</span>option[<span class="st">&#39;label&#39;</span>],</span>
-<span id="cb30-35"><a href="#cb30-35"></a>             method<span class="op">=</span><span class="st">&#39;update&#39;</span>,</span>
-<span id="cb30-36"><a href="#cb30-36"></a>             args<span class="op">=</span>[{<span class="st">&#39;y&#39;</span>: [df.loc[(df[<span class="st">&#39;remote&#39;</span>] <span class="op">==</span> <span class="va">True</span>) <span class="op">&amp;</span> (df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> option[<span class="st">&#39;value&#39;</span>]), <span class="st">&#39;salary&#39;</span>],</span>
-<span id="cb30-37"><a href="#cb30-37"></a>                           df.loc[(df[<span class="st">&#39;remote&#39;</span>] <span class="op">==</span> <span class="va">False</span>) <span class="op">&amp;</span> (df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> option[<span class="st">&#39;value&#39;</span>]), <span class="st">&#39;salary&#39;</span>]]},</span>
-<span id="cb30-38"><a href="#cb30-38"></a>                   {<span class="st">&#39;yaxis&#39;</span>: {<span class="st">&#39;title&#39;</span>: <span class="st">&#39;Salaries for </span><span class="sc">{}</span><span class="st"> Holders (USD)&#39;</span>.<span class="bu">format</span>(option[<span class="st">&#39;value&#39;</span>])}},</span>
-<span id="cb30-39"><a href="#cb30-39"></a>                   {<span class="st">&#39;hovertemplate&#39;</span>: <span class="st">&#39;Max: $%</span><span class="sc">{y:.0f}</span><span class="st">&lt;br&gt;Upper Fence: $%</span><span class="sc">{upperfence:.0f}</span><span class="st">&lt;br&gt;Third Quartile: $%</span><span class="sc">{q3:.0f}</span><span class="st">&lt;br&gt;Median: $%</span><span class="sc">{median:.0f}</span><span class="st">&lt;br&gt;First Quartile: $%</span><span class="sc">{q1:.0f}</span><span class="st">&lt;br&gt;Lower Fence: $%</span><span class="sc">{lowerfence:.0f}</span><span class="st">&lt;br&gt;Min: $%</span><span class="sc">{min:.0f}</span><span class="st">&lt;br&gt;Count: %</span><span class="sc">{ydata:.0f}</span><span class="st">&#39;</span>}])</span>
-<span id="cb30-40"><a href="#cb30-40"></a>        <span class="cf">for</span> option <span class="kw">in</span> dropdown_options[<span class="dv">1</span>:]</span>
-<span id="cb30-41"><a href="#cb30-41"></a>    ],</span>
-<span id="cb30-42"><a href="#cb30-42"></a>    direction<span class="op">=</span><span class="st">&#39;down&#39;</span>,</span>
-<span id="cb30-43"><a href="#cb30-43"></a>    showactive<span class="op">=</span><span class="va">True</span>,</span>
-<span id="cb30-44"><a href="#cb30-44"></a>    x<span class="op">=</span><span class="fl">1.2</span>,</span>
-<span id="cb30-45"><a href="#cb30-45"></a>    y<span class="op">=</span><span class="fl">1.2</span></span>
-<span id="cb30-46"><a href="#cb30-46"></a>)</span>
-<span id="cb30-47"><a href="#cb30-47"></a></span>
-<span id="cb30-48"><a href="#cb30-48"></a><span class="co"># add the updatemenu to the layout</span></span>
-<span id="cb30-49"><a href="#cb30-49"></a>fig.update_layout(updatemenus<span class="op">=</span>[updatemenu])</span>
-<span id="cb30-50"><a href="#cb30-50"></a></span>
-<span id="cb30-51"><a href="#cb30-51"></a><span class="co"># define the layout</span></span>
-<span id="cb30-52"><a href="#cb30-52"></a>fig.update_layout(</span>
-<span id="cb30-53"><a href="#cb30-53"></a>    xaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Work Remotely?&#39;</span>),</span>
-<span id="cb30-54"><a href="#cb30-54"></a>    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Salaries for Bachelor</span><span class="ch">\&#39;</span><span class="st">s Holders (USD)&#39;</span>, tickformat<span class="op">=</span><span class="st">&#39;$,.0f&#39;</span>),</span>
-<span id="cb30-55"><a href="#cb30-55"></a>    template<span class="op">=</span><span class="st">&quot;plotly_dark&quot;</span></span>
-<span id="cb30-56"><a href="#cb30-56"></a>)</span>
-<span id="cb30-57"><a href="#cb30-57"></a></span>
-<span id="cb30-58"><a href="#cb30-58"></a></span>
-<span id="cb30-59"><a href="#cb30-59"></a><span class="co"># show the figure</span></span>
-<span id="cb30-60"><a href="#cb30-60"></a>fig.show()</span>
-<span id="cb30-61"><a href="#cb30-61"></a></span>
-<span id="cb30-62"><a href="#cb30-62"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-9.html&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell" data-execution_count="83">
+<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb32-1"><a href="#cb32-1"></a></span>
+<span id="cb32-2"><a href="#cb32-2"></a><span class="co"># group the data by &#39;remote&#39;</span></span>
+<span id="cb32-3"><a href="#cb32-3"></a>grouped_df <span class="op">=</span> df.groupby(<span class="st">&#39;remote&#39;</span>)</span>
+<span id="cb32-4"><a href="#cb32-4"></a></span>
+<span id="cb32-5"><a href="#cb32-5"></a><span class="co"># create the figure object</span></span>
+<span id="cb32-6"><a href="#cb32-6"></a>fig <span class="op">=</span> go.Figure()</span>
+<span id="cb32-7"><a href="#cb32-7"></a></span>
+<span id="cb32-8"><a href="#cb32-8"></a><span class="co"># add the box traces for the remote groups</span></span>
+<span id="cb32-9"><a href="#cb32-9"></a><span class="cf">for</span> remote, group_df <span class="kw">in</span> grouped_df:</span>
+<span id="cb32-10"><a href="#cb32-10"></a>    fig.add_trace(go.Box(</span>
+<span id="cb32-11"><a href="#cb32-11"></a>        y<span class="op">=</span>group_df.loc[group_df[<span class="st">&#39;remote&#39;</span>] <span class="op">==</span> remote, <span class="st">&#39;salary&#39;</span>],</span>
+<span id="cb32-12"><a href="#cb32-12"></a>        name<span class="op">=</span><span class="bu">str</span>(remote),</span>
+<span id="cb32-13"><a href="#cb32-13"></a>        hovertemplate <span class="op">=</span> (<span class="st">&#39;Max: $%</span><span class="sc">{y:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-14"><a href="#cb32-14"></a>                 <span class="st">&#39;Upper Fence: $%</span><span class="sc">{upperfence:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-15"><a href="#cb32-15"></a>                 <span class="st">&#39;75th Percentile: $%</span><span class="sc">{q3:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-16"><a href="#cb32-16"></a>                 <span class="st">&#39;Median: $%</span><span class="sc">{median:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-17"><a href="#cb32-17"></a>                 <span class="st">&#39;25th Percentile: $%</span><span class="sc">{q1:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-18"><a href="#cb32-18"></a>                 <span class="st">&#39;Lower Fence: $%</span><span class="sc">{lowerfence:.2f}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-19"><a href="#cb32-19"></a>                 <span class="st">&#39;Min: $%</span><span class="sc">{min}</span><span class="st">&lt;br&gt;&#39;</span> <span class="op">+</span></span>
+<span id="cb32-20"><a href="#cb32-20"></a>                 <span class="st">&#39;&lt;extra&gt;&lt;/extra&gt;&#39;</span>),</span>
+<span id="cb32-21"><a href="#cb32-21"></a>        marker_color<span class="op">=</span><span class="st">&#39;crimson&#39;</span> <span class="cf">if</span> remote <span class="cf">else</span> <span class="st">&#39;lightseagreen&#39;</span>))</span>
+<span id="cb32-22"><a href="#cb32-22"></a></span>
+<span id="cb32-23"><a href="#cb32-23"></a><span class="co"># create the dropdown menu options</span></span>
+<span id="cb32-24"><a href="#cb32-24"></a>dropdown_options <span class="op">=</span> [</span>
+<span id="cb32-25"><a href="#cb32-25"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&#39;Remote&#39;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&#39;remote&#39;</span>},</span>
+<span id="cb32-26"><a href="#cb32-26"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&quot;Bachelor&#39;s&quot;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&quot;Bachelor&#39;s&quot;</span>},</span>
+<span id="cb32-27"><a href="#cb32-27"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&quot;Master&#39;s&quot;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&quot;Master&#39;s&quot;</span>},</span>
+<span id="cb32-28"><a href="#cb32-28"></a>    {<span class="st">&#39;label&#39;</span>: <span class="st">&#39;PhD&#39;</span>, <span class="st">&#39;value&#39;</span>: <span class="st">&#39;PhD&#39;</span>}</span>
+<span id="cb32-29"><a href="#cb32-29"></a>]</span>
+<span id="cb32-30"><a href="#cb32-30"></a></span>
+<span id="cb32-31"><a href="#cb32-31"></a><span class="co"># define the update menu</span></span>
+<span id="cb32-32"><a href="#cb32-32"></a>updatemenu <span class="op">=</span> go.layout.Updatemenu(</span>
+<span id="cb32-33"><a href="#cb32-33"></a>    buttons<span class="op">=</span>[</span>
+<span id="cb32-34"><a href="#cb32-34"></a>        <span class="bu">dict</span>(label<span class="op">=</span>option[<span class="st">&#39;label&#39;</span>],</span>
+<span id="cb32-35"><a href="#cb32-35"></a>             method<span class="op">=</span><span class="st">&#39;update&#39;</span>,</span>
+<span id="cb32-36"><a href="#cb32-36"></a>             args<span class="op">=</span>[{<span class="st">&#39;y&#39;</span>: [df.loc[(df[<span class="st">&#39;remote&#39;</span>] <span class="op">==</span> <span class="va">True</span>) <span class="op">&amp;</span> (df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> option[<span class="st">&#39;value&#39;</span>]), <span class="st">&#39;salary&#39;</span>],</span>
+<span id="cb32-37"><a href="#cb32-37"></a>                           df.loc[(df[<span class="st">&#39;remote&#39;</span>] <span class="op">==</span> <span class="va">False</span>) <span class="op">&amp;</span> (df[<span class="st">&#39;degree&#39;</span>] <span class="op">==</span> option[<span class="st">&#39;value&#39;</span>]), <span class="st">&#39;salary&#39;</span>]]},</span>
+<span id="cb32-38"><a href="#cb32-38"></a>                   {<span class="st">&#39;yaxis&#39;</span>: {<span class="st">&#39;title&#39;</span>: <span class="st">&#39;Annual Salaries for </span><span class="sc">{}</span><span class="st"> Holders (USD)&#39;</span>.<span class="bu">format</span>(option[<span class="st">&#39;value&#39;</span>], tickprefix <span class="op">=</span> <span class="st">&#39;$&#39;</span>, tickformat<span class="op">=</span><span class="st">&#39;,.0f&#39;</span>)}},</span>
+<span id="cb32-39"><a href="#cb32-39"></a>                   {<span class="st">&#39;hovertemplate&#39;</span>: <span class="st">&#39;Max: $%</span><span class="sc">{y:.0f}</span><span class="st">&lt;br&gt;Upper Fence: $%</span><span class="sc">{upperfence:.0f}</span><span class="st">&lt;br&gt;Third Quartile: $%</span><span class="sc">{q3:.0f}</span><span class="st">&lt;br&gt;Median: $%</span><span class="sc">{median:.0f}</span><span class="st">&lt;br&gt;First Quartile: $%</span><span class="sc">{q1:.0f}</span><span class="st">&lt;br&gt;Lower Fence: $%</span><span class="sc">{lowerfence:.0f}</span><span class="st">&lt;br&gt;Min: $%</span><span class="sc">{min:.0f}</span><span class="st">&lt;br&gt;Count: %</span><span class="sc">{ydata:.0f}</span><span class="st">&#39;</span>}])</span>
+<span id="cb32-40"><a href="#cb32-40"></a>        <span class="cf">for</span> option <span class="kw">in</span> dropdown_options[<span class="dv">1</span>:]</span>
+<span id="cb32-41"><a href="#cb32-41"></a>    ],</span>
+<span id="cb32-42"><a href="#cb32-42"></a>    direction<span class="op">=</span><span class="st">&#39;down&#39;</span>,</span>
+<span id="cb32-43"><a href="#cb32-43"></a>    showactive<span class="op">=</span><span class="va">True</span>,</span>
+<span id="cb32-44"><a href="#cb32-44"></a>    x<span class="op">=</span><span class="fl">1.2</span>,</span>
+<span id="cb32-45"><a href="#cb32-45"></a>    y<span class="op">=</span><span class="fl">1.2</span></span>
+<span id="cb32-46"><a href="#cb32-46"></a>)</span>
+<span id="cb32-47"><a href="#cb32-47"></a></span>
+<span id="cb32-48"><a href="#cb32-48"></a><span class="co"># add the updatemenu to the layout</span></span>
+<span id="cb32-49"><a href="#cb32-49"></a></span>
+<span id="cb32-50"><a href="#cb32-50"></a><span class="co"># define the layout</span></span>
+<span id="cb32-51"><a href="#cb32-51"></a>fig.update_layout(</span>
+<span id="cb32-52"><a href="#cb32-52"></a>    xaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Work Remotely?&#39;</span>),</span>
+<span id="cb32-53"><a href="#cb32-53"></a>    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Annual Salaries for Bachelor</span><span class="ch">\&#39;</span><span class="st">s Holders (USD)&#39;</span>, tickprefix <span class="op">=</span> <span class="st">&#39;$&#39;</span>, tickformat<span class="op">=</span><span class="st">&#39;,.0f&#39;</span>),</span>
+<span id="cb32-54"><a href="#cb32-54"></a>    template<span class="op">=</span><span class="st">&quot;plotly_dark&quot;</span></span>
+<span id="cb32-55"><a href="#cb32-55"></a>)</span>
+<span id="cb32-56"><a href="#cb32-56"></a></span>
+<span id="cb32-57"><a href="#cb32-57"></a>fig.update_layout(yaxis_tickprefix<span class="op">=</span><span class="st">&#39;$&#39;</span>, yaxis_tickformat<span class="op">=</span><span class="st">&#39;,.0f&#39;</span>)</span>
+<span id="cb32-58"><a href="#cb32-58"></a></span>
+<span id="cb32-59"><a href="#cb32-59"></a>fig.update_layout(updatemenus<span class="op">=</span>[updatemenu],    yaxis<span class="op">=</span><span class="bu">dict</span>(title<span class="op">=</span><span class="st">&#39;Annual Salaries for Bachelor</span><span class="ch">\&#39;</span><span class="st">s Holders (USD)&#39;</span>, tickprefix <span class="op">=</span> <span class="st">&#39;$&#39;</span>, tickformat<span class="op">=</span><span class="st">&#39;,.0f&#39;</span>))</span>
+<span id="cb32-60"><a href="#cb32-60"></a></span>
+<span id="cb32-61"><a href="#cb32-61"></a><span class="co"># show the figure</span></span>
+<span id="cb32-62"><a href="#cb32-62"></a>fig.show()</span>
+<span id="cb32-63"><a href="#cb32-63"></a></span>
+<span id="cb32-64"><a href="#cb32-64"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-9.html&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
-</div>
-</div>
-<div class="cell" data-execution_count="43">
-<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb32-1"><a href="#cb32-1"></a>df[<span class="st">&#39;query&#39;</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="43">
-<pre><code>blockchain                      90
-natural language processing     90
-big data and cloud computing    90
-data analyst                    90
-machine learning                90
-reinforcement learning          90
-neural networks                 90
-deep learning                   90
-data scientist                  90
-time series analysis             7
-time series                      6
-Name: query, dtype: int64</code></pre>
 </div>
 </div>
 <div class="cell" data-execution_count="234">
@@ -3764,6 +3787,86 @@ Name: title, Length: 454, dtype: int64</code></pre>
 </div>
 <div class="cell-output cell-output-display" data-execution_count="240">
 <pre><code>&lt;wordcloud.wordcloud.WordCloud at 0x1a2137d90&gt;</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="190">
+<div class="sourceCode cell-code" id="cb45"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb45-1"><a href="#cb45-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">&#39;../../data/job_data.csv&#39;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="191">
+<div class="sourceCode cell-code" id="cb46"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb46-1"><a href="#cb46-1"></a>state_locations <span class="op">=</span> {</span>
+<span id="cb46-2"><a href="#cb46-2"></a>    <span class="st">&#39;state&#39;</span>: [<span class="st">&#39;Alabama&#39;</span>, <span class="st">&#39;Alaska&#39;</span>, <span class="st">&#39;Arizona&#39;</span>, <span class="st">&#39;Arkansas&#39;</span>, <span class="st">&#39;California&#39;</span>, <span class="st">&#39;Colorado&#39;</span>, <span class="st">&#39;Connecticut&#39;</span>, <span class="st">&#39;Delaware&#39;</span>, <span class="st">&#39;District of Columbia&#39;</span>, <span class="st">&#39;Florida&#39;</span>,</span>
+<span id="cb46-3"><a href="#cb46-3"></a>              <span class="st">&#39;Georgia&#39;</span>, <span class="st">&#39;Hawaii&#39;</span>, <span class="st">&#39;Idaho&#39;</span>, <span class="st">&#39;Illinois&#39;</span>, <span class="st">&#39;Indiana&#39;</span>, <span class="st">&#39;Iowa&#39;</span>, <span class="st">&#39;Kansas&#39;</span>, <span class="st">&#39;Kentucky&#39;</span>, <span class="st">&#39;Louisiana&#39;</span>, <span class="st">&#39;Maine&#39;</span>,</span>
+<span id="cb46-4"><a href="#cb46-4"></a>              <span class="st">&#39;Maryland&#39;</span>, <span class="st">&#39;Massachusetts&#39;</span>, <span class="st">&#39;Michigan&#39;</span>, <span class="st">&#39;Minnesota&#39;</span>, <span class="st">&#39;Mississippi&#39;</span>, <span class="st">&#39;Missouri&#39;</span>, <span class="st">&#39;Montana&#39;</span>, <span class="st">&#39;Nebraska&#39;</span>,</span>
+<span id="cb46-5"><a href="#cb46-5"></a>              <span class="st">&#39;Nevada&#39;</span>, <span class="st">&#39;New Hampshire&#39;</span>, <span class="st">&#39;New Jersey&#39;</span>, <span class="st">&#39;New Mexico&#39;</span>, <span class="st">&#39;New York&#39;</span>, <span class="st">&#39;North Carolina&#39;</span>, <span class="st">&#39;North Dakota&#39;</span>,</span>
+<span id="cb46-6"><a href="#cb46-6"></a>              <span class="st">&#39;Ohio&#39;</span>, <span class="st">&#39;Oklahoma&#39;</span>, <span class="st">&#39;Oregon&#39;</span>, <span class="st">&#39;Pennsylvania&#39;</span>, <span class="st">&#39;Rhode Island&#39;</span>, <span class="st">&#39;South Carolina&#39;</span>, <span class="st">&#39;South Dakota&#39;</span>, <span class="st">&#39;Tennessee&#39;</span>,</span>
+<span id="cb46-7"><a href="#cb46-7"></a>              <span class="st">&#39;Texas&#39;</span>, <span class="st">&#39;Utah&#39;</span>, <span class="st">&#39;Vermont&#39;</span>, <span class="st">&#39;Virginia&#39;</span>, <span class="st">&#39;Washington&#39;</span>, <span class="st">&#39;West Virginia&#39;</span>, <span class="st">&#39;Wisconsin&#39;</span>, <span class="st">&#39;Wyoming&#39;</span>],</span>
+<span id="cb46-8"><a href="#cb46-8"></a>    <span class="st">&#39;latitude&#39;</span>: [<span class="fl">32.806671</span>, <span class="fl">61.370716</span>, <span class="fl">33.729759</span>, <span class="fl">34.969704</span>, <span class="fl">36.116203</span>, <span class="fl">39.059811</span>, <span class="fl">41.597782</span>, <span class="fl">39.318523</span>, <span class="fl">38.897438</span>, <span class="fl">27.766279</span>,</span>
+<span id="cb46-9"><a href="#cb46-9"></a>                 <span class="fl">33.040619</span>, <span class="fl">21.094318</span>, <span class="fl">44.240459</span>, <span class="fl">40.349457</span>, <span class="fl">39.849426</span>, <span class="fl">42.011539</span>, <span class="fl">38.526600</span>, <span class="fl">37.668140</span>, <span class="fl">31.169546</span>,</span>
+<span id="cb46-10"><a href="#cb46-10"></a>                 <span class="fl">44.693947</span>, <span class="fl">39.063946</span>, <span class="fl">42.230171</span>, <span class="fl">43.326618</span>, <span class="fl">45.694454</span>, <span class="fl">32.741646</span>, <span class="fl">38.456085</span>, <span class="fl">46.921925</span>, <span class="fl">41.125370</span>,</span>
+<span id="cb46-11"><a href="#cb46-11"></a>                 <span class="fl">38.313515</span>, <span class="fl">43.452492</span>, <span class="fl">40.298904</span>, <span class="fl">34.840515</span>, <span class="fl">42.165726</span>, <span class="fl">35.630066</span>, <span class="fl">47.528912</span>, <span class="fl">40.388783</span>, <span class="fl">35.565342</span>,</span>
+<span id="cb46-12"><a href="#cb46-12"></a>                 <span class="fl">44.572021</span>, <span class="fl">40.590752</span>, <span class="fl">41.680893</span>, <span class="fl">33.856892</span>, <span class="fl">44.299782</span>  , <span class="fl">35.747845</span>, <span class="fl">31.054487</span>  , <span class="fl">40.150032</span> , <span class="fl">44.045876</span>, <span class="fl">37.769337</span>, </span>
+<span id="cb46-13"><a href="#cb46-13"></a>                 <span class="fl">47.400902</span>, <span class="fl">38.491226</span>, <span class="fl">44.268543</span>, <span class="fl">42.755966</span>],</span>
+<span id="cb46-14"><a href="#cb46-14"></a>    <span class="st">&#39;longitude&#39;</span>: [<span class="op">-</span><span class="fl">86.791130</span>, <span class="op">-</span><span class="fl">152.404419</span>, <span class="op">-</span><span class="fl">111.431221</span>, <span class="op">-</span><span class="fl">92.373123</span>, <span class="op">-</span><span class="fl">119.681564</span>, <span class="op">-</span><span class="fl">105.311104</span>, <span class="op">-</span><span class="fl">72.755371</span>, <span class="op">-</span><span class="fl">75.507141</span>, <span class="op">-</span><span class="fl">77.026817</span>, </span>
+<span id="cb46-15"><a href="#cb46-15"></a>                  <span class="op">-</span><span class="fl">81.686783</span>, <span class="op">-</span><span class="fl">83.643074</span>, <span class="op">-</span><span class="fl">157.498337</span>, <span class="op">-</span><span class="fl">114.478828</span>, <span class="op">-</span><span class="fl">88.986137</span>, <span class="op">-</span><span class="fl">86.258278</span>, <span class="op">-</span><span class="fl">93.210526</span>, <span class="op">-</span><span class="fl">96.726486</span>,</span>
+<span id="cb46-16"><a href="#cb46-16"></a>                  <span class="op">-</span><span class="fl">84.670067</span>, <span class="op">-</span><span class="fl">91.867805</span>, <span class="op">-</span><span class="fl">69.381927</span>, <span class="op">-</span><span class="fl">76.802101</span>, <span class="op">-</span><span class="fl">71.537994</span>, <span class="op">-</span><span class="fl">84.536095</span>, <span class="op">-</span><span class="fl">93.900192</span>, <span class="op">-</span><span class="fl">89.398528</span>,</span>
+<span id="cb46-17"><a href="#cb46-17"></a>                  <span class="op">-</span><span class="fl">92.288981</span>, <span class="op">-</span><span class="fl">110.454353</span>, <span class="op">-</span><span class="fl">99.901813</span>, <span class="op">-</span><span class="fl">117.055374</span>, <span class="op">-</span><span class="fl">71.572395</span>, <span class="op">-</span><span class="fl">74.405661</span>, <span class="op">-</span><span class="fl">106.018066</span>, <span class="op">-</span><span class="fl">74.948051</span>,</span>
+<span id="cb46-18"><a href="#cb46-18"></a>                  <span class="op">-</span><span class="fl">79.806419</span>, <span class="op">-</span><span class="fl">99.784012</span>, <span class="op">-</span><span class="fl">82.764915</span>, <span class="op">-</span><span class="fl">96.928917</span>, <span class="op">-</span><span class="fl">122.070938</span>, <span class="op">-</span><span class="fl">77.209755</span>, <span class="op">-</span><span class="fl">77.209755</span>, <span class="op">-</span><span class="fl">80.945007</span>, <span class="op">-</span><span class="fl">99.438828</span>, <span class="op">-</span><span class="fl">86.692345</span>, <span class="op">-</span><span class="fl">97.563461</span>, <span class="op">-</span><span class="fl">111.862434</span>, </span>
+<span id="cb46-19"><a href="#cb46-19"></a>                  <span class="op">-</span><span class="fl">72.710686</span>, <span class="op">-</span><span class="fl">78.169968</span>, <span class="op">-</span><span class="fl">121.490494</span>, <span class="op">-</span><span class="fl">80.954453</span>, <span class="op">-</span><span class="fl">89.616508</span>,</span>
+<span id="cb46-20"><a href="#cb46-20"></a>                  <span class="op">-</span><span class="fl">107.302490</span>]</span>
+<span id="cb46-21"><a href="#cb46-21"></a>}</span>
+<span id="cb46-22"><a href="#cb46-22"></a></span>
+<span id="cb46-23"><a href="#cb46-23"></a>state_locations <span class="op">=</span> pd.DataFrame(state_locations)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="192">
+<div class="sourceCode cell-code" id="cb47"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb47-1"><a href="#cb47-1"></a>df_cleaned <span class="op">=</span> df.dropna(subset<span class="op">=</span>[<span class="st">&#39;state&#39;</span>])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="193">
+<div class="sourceCode cell-code" id="cb48"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb48-1"><a href="#cb48-1"></a><span class="co"># merge the cleaned dataframe with the &#39;state_locations&#39; dictionary</span></span>
+<span id="cb48-2"><a href="#cb48-2"></a>merged_df <span class="op">=</span> df_cleaned.merge(pd.DataFrame(state_locations), on<span class="op">=</span><span class="st">&#39;state&#39;</span>, how<span class="op">=</span><span class="st">&#39;left&#39;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="194">
+<div class="sourceCode cell-code" id="cb49"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb49-1"><a href="#cb49-1"></a><span class="co"># calculate the count of jobs for each state</span></span>
+<span id="cb49-2"><a href="#cb49-2"></a>job_counts <span class="op">=</span> df[<span class="st">&#39;state&#39;</span>].value_counts().reset_index()</span>
+<span id="cb49-3"><a href="#cb49-3"></a>job_counts.columns <span class="op">=</span> [<span class="st">&#39;state&#39;</span>, <span class="st">&#39;job_count&#39;</span>]</span>
+<span id="cb49-4"><a href="#cb49-4"></a></span>
+<span id="cb49-5"><a href="#cb49-5"></a><span class="co"># merge the job_counts dataframe with the state_locations dictionary</span></span>
+<span id="cb49-6"><a href="#cb49-6"></a>merged_df <span class="op">=</span> job_counts.merge(pd.DataFrame(state_locations), on<span class="op">=</span><span class="st">&#39;state&#39;</span>, how<span class="op">=</span><span class="st">&#39;left&#39;</span>)</span>
+<span id="cb49-7"><a href="#cb49-7"></a></span>
+<span id="cb49-8"><a href="#cb49-8"></a><span class="co"># create a map</span></span>
+<span id="cb49-9"><a href="#cb49-9"></a>fig <span class="op">=</span> go.Figure()</span>
+<span id="cb49-10"><a href="#cb49-10"></a></span>
+<span id="cb49-11"><a href="#cb49-11"></a>fig.add_trace(</span>
+<span id="cb49-12"><a href="#cb49-12"></a>    go.Scattermapbox(</span>
+<span id="cb49-13"><a href="#cb49-13"></a>        lat<span class="op">=</span>merged_df[<span class="st">&#39;latitude&#39;</span>],</span>
+<span id="cb49-14"><a href="#cb49-14"></a>        lon<span class="op">=</span>merged_df[<span class="st">&#39;longitude&#39;</span>],</span>
+<span id="cb49-15"><a href="#cb49-15"></a>        mode<span class="op">=</span><span class="st">&#39;markers&#39;</span>,</span>
+<span id="cb49-16"><a href="#cb49-16"></a>        marker<span class="op">=</span>go.scattermapbox.Marker(</span>
+<span id="cb49-17"><a href="#cb49-17"></a>            size<span class="op">=</span>merged_df[<span class="st">&#39;job_count&#39;</span>],</span>
+<span id="cb49-18"><a href="#cb49-18"></a>            sizemode<span class="op">=</span><span class="st">&#39;area&#39;</span>,</span>
+<span id="cb49-19"><a href="#cb49-19"></a>            sizeref<span class="op">=</span><span class="fl">0.1</span>,</span>
+<span id="cb49-20"><a href="#cb49-20"></a>            color<span class="op">=</span><span class="st">&#39;crimson&#39;</span>,</span>
+<span id="cb49-21"><a href="#cb49-21"></a>            opacity<span class="op">=</span><span class="fl">0.7</span></span>
+<span id="cb49-22"><a href="#cb49-22"></a>        ),</span>
+<span id="cb49-23"><a href="#cb49-23"></a>        text<span class="op">=</span>merged_df[<span class="st">&#39;state&#39;</span>],</span>
+<span id="cb49-24"><a href="#cb49-24"></a>        hovertemplate<span class="op">=</span><span class="st">&#39;&lt;b&gt;%</span><span class="sc">{text}</span><span class="st">&lt;/b&gt;&lt;br&gt;Job Count: %</span><span class="sc">{marker.size}</span><span class="st">&lt;extra&gt;&lt;/extra&gt;&#39;</span></span>
+<span id="cb49-25"><a href="#cb49-25"></a>    )</span>
+<span id="cb49-26"><a href="#cb49-26"></a>)</span>
+<span id="cb49-27"><a href="#cb49-27"></a></span>
+<span id="cb49-28"><a href="#cb49-28"></a>fig.update_layout(</span>
+<span id="cb49-29"><a href="#cb49-29"></a>    mapbox_style<span class="op">=</span><span class="st">&quot;carto-positron&quot;</span>,</span>
+<span id="cb49-30"><a href="#cb49-30"></a>    mapbox_zoom<span class="op">=</span><span class="dv">3</span>,</span>
+<span id="cb49-31"><a href="#cb49-31"></a>    mapbox_center<span class="op">=</span><span class="bu">dict</span>(lat<span class="op">=</span><span class="fl">37.0902</span>, lon<span class="op">=-</span><span class="fl">95.7129</span>),</span>
+<span id="cb49-32"><a href="#cb49-32"></a>    hovermode<span class="op">=</span><span class="st">&#39;closest&#39;</span>,</span>
+<span id="cb49-33"><a href="#cb49-33"></a>    margin<span class="op">=</span><span class="bu">dict</span>(l<span class="op">=</span><span class="dv">0</span>, r<span class="op">=</span><span class="dv">0</span>, t<span class="op">=</span><span class="dv">40</span>, b<span class="op">=</span><span class="dv">0</span>),</span>
+<span id="cb49-34"><a href="#cb49-34"></a>    autosize<span class="op">=</span><span class="va">True</span>,</span>
+<span id="cb49-35"><a href="#cb49-35"></a>    showlegend<span class="op">=</span><span class="va">False</span></span>
+<span id="cb49-36"><a href="#cb49-36"></a>)</span>
+<span id="cb49-37"><a href="#cb49-37"></a></span>
+<span id="cb49-38"><a href="#cb49-38"></a>fig.show()</span>
+<span id="cb49-39"><a href="#cb49-39"></a></span>
+<span id="cb49-40"><a href="#cb49-40"></a>fig.write_html(<span class="st">&quot;../../website/plots/plot-16.html&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
 

@@ -3708,10 +3708,8 @@ dtype: int64</code></pre>
 <span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>master_df.loc[<span class="dv">681</span>, <span class="st">&#39;salary&#39;</span>] <span class="op">=</span> <span class="dv">121000</span></span>
 <span id="cb32-6"><a href="#cb32-6" aria-hidden="true" tabindex="-1"></a>master_df.loc[<span class="dv">746</span>, <span class="st">&#39;salary&#39;</span>] <span class="op">=</span> <span class="dv">206000</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_13596/4119749001.py:2: FutureWarning:
-
-The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
-</code></pre>
+<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_40120/4119749001.py:2: FutureWarning: The default value of regex will change from True to False in a future version. In addition, single character regular expressions will *not* be treated as literal strings when regex=True.
+  master_df[&#39;salary&#39;] = master_df[&#39;salary&#39;].str.replace(&#39;$&#39;, &#39;&#39;).str.strip()</code></pre>
 </div>
 </div>
 <div class="cell" data-execution_count="29">
@@ -3746,10 +3744,8 @@ The default value of regex will change from True to False in a future version. I
 <span id="cb37-4"><a href="#cb37-4" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>] <span class="op">=</span> pd.to_numeric(master_df[<span class="st">&#39;salary&#39;</span>], errors<span class="op">=</span><span class="st">&#39;coerce&#39;</span>)</span>
 <span id="cb37-5"><a href="#cb37-5" aria-hidden="true" tabindex="-1"></a>master_df[<span class="st">&#39;salary&#39;</span>].describe()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_13596/1948180007.py:3: FutureWarning:
-
-The default value of regex will change from True to False in a future version.
-</code></pre>
+<pre><code>/var/folders/37/fsk42jds3255qblrs5r1v99c0000gn/T/ipykernel_40120/1948180007.py:3: FutureWarning: The default value of regex will change from True to False in a future version.
+  master_df[&#39;salary&#39;] = master_df[&#39;salary&#39;].str.replace(&#39;\.\d+&#39;, &#39;&#39;)  # remove decimals and everything after them</code></pre>
 </div>
 <div class="cell-output cell-output-display" data-execution_count="31">
 <pre><code>count       347.000000

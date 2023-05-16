@@ -94,7 +94,7 @@ Let's explore the average salaries and experience required for data-related jobs
 ```{python}
 #| echo: false
 #| label: fig-interactive-table
-#| fig-cap: "shows an interactive table with a an option to select between average yearly salary and experience required by state."
+#| fig-cap: "shows an interactive table with an option to select between average yearly salary and experience required by state."
 
 width_percentage = "100%"
 IFrame(src='../website/plots/table.html', width=width_percentage, height=600)
@@ -103,20 +103,9 @@ IFrame(src='../website/plots/table.html', width=width_percentage, height=600)
 ```
 
 ::: {.callout-note}
-From the above **interactive data table**, we can gain a better understanding into whether different states look for different levels of experience or pay differing amounts in salaries to employees.
+From the above **interactive data table**, we can gain a better understanding into whether different states look for different levels of experience or pay differing amounts in salaries to employees. Note that some values in the table may be skewed due to limited job postings for some states.
 :::
 
-### Average Salary in the US, by state  {#sec-geo-plot .unnumbered}
-```{python}
-#| echo: false
-#| label: fig-geo
-#| fig-cap: "shows average pay in different states in the US, for which job data is available."
-
-width_percentage = "100%"
-IFrame(src='../website/plots/plot-11.html', width=width_percentage, height=600)
-
-
-```
 
 ### Salaries for Years of Experience Required  {#sec-scatt-plot .unnumbered}
 ```{python}
@@ -227,7 +216,7 @@ IFrame(src='../website/plots/plot-7.html', width=width_percentage, height=600)
 
 So, what can we make from examining all the above plots? We see that:
 <ul>
-<li>In the geospatial plot, the highest salaries are in states like New York and California, which is an expected result. This is likely due to the high tax rates and living costs in those states. We also notice a lot of states with no job results, which can raise questions as to how representative the industry really is in terms of opportunities to work across the country.</li>
+<li>In the datatable, the highest salaries are in states like New York and California, which is an expected result. This is likely due to the high tax rates and living costs in those states. We also notice a lot of states with no results, which can raise questions as to how representative the industry really is in terms of opportunities to work across the country.</li>
 <li>Our word cloud yields several benefits that job seekers can potentially enjoy: parental leave, paid time off, and several different types of insurance including dental and vision.</li>
 <li>The correlation plot between experience required and salary exhibits a medium strength positive correlation between experience and salary. However, upon manipulation of the plot, we notice that PhDs have a steeper rise in salary for an increase in experience, on average, than Bachelor's holders. Furthermore, we see that while jobs boast high salaries, averaging $150,000 to $200,000, they also expect, on average, 4-6 years of experience.</li>
 <li>Exploring the remote work environment, the majority of jobs in our dataset do not include work from home options. We also see how in-person jobs, on average, have lower salaries than remote jobs, which is a surprising statistic. </li>
@@ -300,8 +289,8 @@ Key takeaways from the above section:
 Through this visual project, we explored several facets of the current state of the market for data jobs in the US. We explored the data spatially, looking at which states had the most number of jobs available, and which states had the highest average salary. We also explored the most common cities and their average salaries. Some of the more insightful takeaways from a holistic view of the visualizations include:
 
 <ul>
-<li>Of the most common job titles, `Blockchain Engineer` and `Deep Learning Engineer` reigned supreme with the highest salaries, averaging `$166,000`.</li>
-<li>Although they were the 2 most common job titles from the entire dataset, the job titles `Data Scientist` and `Data Analyst` had considerably lower salaries, averaging `$110,000`, which might indicate that taking up a job which requires specialization would lead to a higher pay. </li>
+<li>Of the most common job titles, `Blockchain Engineer` and `Deep Learning Engineer` reigned supreme with the highest salaries, averaging `$166,000`per year.</li>
+<li>Although they were the 2 most common job titles from the entire dataset, the job titles `Data Scientist` and `Data Analyst` had considerably lower salaries, averaging `$110,000` per year, which might indicate that taking up a job which requires specialization would lead to a higher pay. </li>
 <li>However, most of these specialized jobs require at least a Master's and most often a PhD, degree, which tend to be an extreme expense in terms of time, tuition money, and foregone salary.</li>
 <li> On the other hand, the benefits of having a PhD are also noticed with the steep increase in job salary for an increase in experience, in comparison to other degree holders. </li>
 <li>Exploring remote and in-person options, we saw that while in-person jobs were a lot more available, remote jobs paid more, on average.</li>
