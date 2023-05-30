@@ -31,6 +31,7 @@ jobs_df <- read_csv('../../data/job_data.csv')
 ```{r}
 head(jobs_df)
 ```
+
 ```{r}
 # create a new column 'experience_group' based on 'experience'
 jobs_df$experience_group <- cut(jobs_df$experience, c(0, 5, 10, Inf),
@@ -44,12 +45,11 @@ jobs_df_pivot <- jobs_df %>%
   summarise(mean_salary = mean(salary, na.rm = TRUE)) %>%
   pivot_wider(names_from = experience_group, values_from = mean_salary)
 ```
+
 ```{r}
 jobs_df_pivot <- jobs_df_pivot[1:(nrow(jobs_df_pivot)-1), 1:(ncol(jobs_df_pivot)-1)]
 
 ```
-
-
 
 ```{r}
 
@@ -89,7 +89,6 @@ saveWidget(ap, file = "../../website/plots/plot-10.html")
 
 ```
 
-
 ```{r}
 
 # calculate the count of remote and non-remote jobs
@@ -107,4 +106,3 @@ pc <- plot_ly(labels = c("Remote", "Non-Remote"), values = remote_count, type = 
 pc 
 saveWidget(pc, file = "../../website/plots/plot-15.html")
 ```
-
